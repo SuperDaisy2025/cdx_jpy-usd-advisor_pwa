@@ -1,0 +1,160 @@
+{
+  "generatedAtJst": "2026-06-28 23:00",
+  "startingCapitalJpy": 1000000,
+  "policy": {
+    "basePair": "USD/JPY",
+    "secondaryPair": "JPY/USD",
+    "instrument": "JPY cash and USD cash conversion only",
+    "leverage": 1,
+    "maxAllocationRatio": 0.5,
+    "valuationCadence": "hourly"
+  },
+  "forecast": {
+    "direction": "weaker_jpy",
+    "directionLabel": "円安寄り",
+    "confidence": 0.53,
+    "summary": "円安寄りを基本シナリオにします。短期モメンタム、IMM円ポジション、ニュース要因を合成したスコアは0.094で、最大50%の制約内で5%を円からドルへ動かす判断です。",
+    "score": 0.094,
+    "reasons": [
+      "直近レート変化のスコアは0.14で、短期モメンタムを45%の重みで反映しました。",
+      "IMM円ポジション変化のスコアは0.09で、投機筋の円買い/円売り傾向を35%の重みで反映しました。",
+      "ニュース要因は初期版では0点の中立入力です。API接続後は米金利、日銀、地政学、重要指標の見出しを要約して20%の重みで反映します。",
+      "レバレッジなし、最大移動比率50%のルールにより、今回の推奨比率は5%に制限されています。"
+    ]
+  },
+  "recommendation": {
+    "action": "JPY_TO_USD",
+    "allocationRatio": 0.05,
+    "moveAmountJpy": 50000,
+    "cashJpyAfterTrade": 700000,
+    "usdAfterTrade": 1908.4
+  },
+  "performance": {
+    "hitRate": 0.583,
+    "sampleSize": 24
+  },
+  "rates": [
+    {
+      "timeJst": "2026-06-28 08:00",
+      "close": 157.2
+    },
+    {
+      "timeJst": "2026-06-28 09:00",
+      "close": 157.31
+    },
+    {
+      "timeJst": "2026-06-28 10:00",
+      "close": 157.26
+    },
+    {
+      "timeJst": "2026-06-28 11:00",
+      "close": 157.44
+    },
+    {
+      "timeJst": "2026-06-28 12:00",
+      "close": 157.51
+    },
+    {
+      "timeJst": "2026-06-28 13:00",
+      "close": 157.47
+    },
+    {
+      "timeJst": "2026-06-28 14:00",
+      "close": 157.62
+    },
+    {
+      "timeJst": "2026-06-28 15:00",
+      "close": 157.69
+    }
+  ],
+  "assets": [
+    {
+      "timeJst": "2026-06-28 08:00",
+      "cashJpy": 700000,
+      "usd": 1908.4,
+      "totalJpy": 1000000
+    },
+    {
+      "timeJst": "2026-06-28 09:00",
+      "cashJpy": 700000,
+      "usd": 1908.4,
+      "totalJpy": 1000210
+    },
+    {
+      "timeJst": "2026-06-28 10:00",
+      "cashJpy": 700000,
+      "usd": 1908.4,
+      "totalJpy": 1000115
+    },
+    {
+      "timeJst": "2026-06-28 11:00",
+      "cashJpy": 700000,
+      "usd": 1908.4,
+      "totalJpy": 1000458
+    },
+    {
+      "timeJst": "2026-06-28 12:00",
+      "cashJpy": 700000,
+      "usd": 1908.4,
+      "totalJpy": 1000592
+    },
+    {
+      "timeJst": "2026-06-28 13:00",
+      "cashJpy": 700000,
+      "usd": 1908.4,
+      "totalJpy": 1000515
+    },
+    {
+      "timeJst": "2026-06-28 14:00",
+      "cashJpy": 700000,
+      "usd": 1908.4,
+      "totalJpy": 1000802
+    },
+    {
+      "timeJst": "2026-06-28 15:00",
+      "cashJpy": 700000,
+      "usd": 1908.4,
+      "totalJpy": 1000935
+    }
+  ],
+  "imm": [
+    {
+      "week": "2026-05-12",
+      "netJpyContracts": -62400
+    },
+    {
+      "week": "2026-05-19",
+      "netJpyContracts": -68900
+    },
+    {
+      "week": "2026-05-26",
+      "netJpyContracts": -72100
+    },
+    {
+      "week": "2026-06-02",
+      "netJpyContracts": -70200
+    },
+    {
+      "week": "2026-06-09",
+      "netJpyContracts": -76800
+    },
+    {
+      "week": "2026-06-16",
+      "netJpyContracts": -81500
+    },
+    {
+      "week": "2026-06-23",
+      "netJpyContracts": -84200
+    }
+  ],
+  "trades": [
+    {
+      "timeJst": "2026-06-28 08:00",
+      "action": "円からドルへ",
+      "ratio": 0.3,
+      "amountJpy": 300000,
+      "usdJpy": 157.2,
+      "totalJpy": 1000000
+    }
+  ]
+}
