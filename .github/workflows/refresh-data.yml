@@ -1,0 +1,31 @@
+name: Refresh advisor data
+
+on:
+  schedule:
+    - cron: "10 23 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-advisor-data
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: Build live advisor state
+        env:
+          NEWS_RSS_URL: ${{ secrets.NEWS_RSS_URL }}
+        run: node scripts/build-state.mjs
+      - name: Commit refreshed state
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Refresh advisor data"
+          file_pattern: data/advisor-state.json
