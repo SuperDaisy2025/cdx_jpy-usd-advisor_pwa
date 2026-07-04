@@ -1,5 +1,5 @@
 {
-  "generatedAtJst": "2026-06-28 23:00",
+  "generatedAtJst": "2026-07-04 09:16",
   "startingCapitalJpy": 1000000,
   "policy": {
     "basePair": "USD/JPY",
@@ -7,154 +7,159 @@
     "instrument": "JPY cash and USD cash conversion only",
     "leverage": 1,
     "maxAllocationRatio": 0.5,
-    "valuationCadence": "hourly"
+    "valuationCadence": "daily"
   },
   "forecast": {
-    "direction": "weaker_jpy",
-    "directionLabel": "円安寄り",
-    "confidence": 0.53,
-    "summary": "円安寄りを基本シナリオにします。短期モメンタム、IMM円ポジション、ニュース要因を合成したスコアは0.094で、最大50%の制約内で5%を円からドルへ動かす判断です。",
-    "score": 0.094,
+    "direction": "neutral",
+    "directionLabel": "中立",
+    "confidence": 0.51,
+    "summary": "中立を基本シナリオにします。トレンド、IMM、ニュースが拮抗しているため、最大50%の制約内でも動かす量は抑えています。",
+    "score": 0.024,
     "reasons": [
-      "直近レート変化のスコアは0.14で、短期モメンタムを45%の重みで反映しました。",
-      "IMM円ポジション変化のスコアは0.09で、投機筋の円買い/円売り傾向を35%の重みで反映しました。",
-      "ニュース要因は初期版では0点の中立入力です。API接続後は米金利、日銀、地政学、重要指標の見出しを要約して20%の重みで反映します。",
-      "レバレッジなし、最大移動比率50%のルールにより、今回の推奨比率は5%に制限されています。"
+      "直近のUSD/JPYは157.690で、1つ前の観測値からの勢いを0.00として評価しました。",
+      "IMMの円ポジションは-84,200で、前週比の変化を0.09として売買比率に反映しました。",
+      "ニュースは中立寄りです。",
+      "レバレッジなし、最大移動比率50%のルールにより、今回の推奨比率は1%です。"
     ]
   },
   "recommendation": {
-    "action": "JPY_TO_USD",
-    "allocationRatio": 0.05,
-    "moveAmountJpy": 50000,
-    "cashJpyAfterTrade": 700000,
-    "usdAfterTrade": 1908.4
+    "action": "HOLD",
+    "allocationRatio": 0.01,
+    "moveAmountJpy": 10000,
+    "cashJpyAfterTrade": 1000000,
+    "usdAfterTrade": 0
   },
   "performance": {
-    "hitRate": 0.583,
+    "hitRate": 0.5,
     "sampleSize": 24
   },
   "rates": [
     {
       "timeJst": "2026-06-28 08:00",
-      "close": 157.2
-    },
-    {
-      "timeJst": "2026-06-28 09:00",
-      "close": 157.31
-    },
-    {
-      "timeJst": "2026-06-28 10:00",
-      "close": 157.26
-    },
-    {
-      "timeJst": "2026-06-28 11:00",
-      "close": 157.44
-    },
-    {
-      "timeJst": "2026-06-28 12:00",
-      "close": 157.51
-    },
-    {
-      "timeJst": "2026-06-28 13:00",
-      "close": 157.47
-    },
-    {
-      "timeJst": "2026-06-28 14:00",
-      "close": 157.62
-    },
-    {
-      "timeJst": "2026-06-28 15:00",
       "close": 157.69
     }
   ],
   "assets": [
     {
       "timeJst": "2026-06-28 08:00",
-      "cashJpy": 700000,
-      "usd": 1908.4,
+      "cashJpy": 1000000,
+      "usd": 0,
       "totalJpy": 1000000
-    },
-    {
-      "timeJst": "2026-06-28 09:00",
-      "cashJpy": 700000,
-      "usd": 1908.4,
-      "totalJpy": 1000210
-    },
-    {
-      "timeJst": "2026-06-28 10:00",
-      "cashJpy": 700000,
-      "usd": 1908.4,
-      "totalJpy": 1000115
-    },
-    {
-      "timeJst": "2026-06-28 11:00",
-      "cashJpy": 700000,
-      "usd": 1908.4,
-      "totalJpy": 1000458
-    },
-    {
-      "timeJst": "2026-06-28 12:00",
-      "cashJpy": 700000,
-      "usd": 1908.4,
-      "totalJpy": 1000592
-    },
-    {
-      "timeJst": "2026-06-28 13:00",
-      "cashJpy": 700000,
-      "usd": 1908.4,
-      "totalJpy": 1000515
-    },
-    {
-      "timeJst": "2026-06-28 14:00",
-      "cashJpy": 700000,
-      "usd": 1908.4,
-      "totalJpy": 1000802
-    },
-    {
-      "timeJst": "2026-06-28 15:00",
-      "cashJpy": 700000,
-      "usd": 1908.4,
-      "totalJpy": 1000935
     }
   ],
   "imm": [
     {
       "week": "2026-05-12",
-      "netJpyContracts": -62400
+      "netJpyContracts": -62400,
+      "openInterest": null
     },
     {
       "week": "2026-05-19",
-      "netJpyContracts": -68900
+      "netJpyContracts": -68900,
+      "openInterest": null
     },
     {
       "week": "2026-05-26",
-      "netJpyContracts": -72100
+      "netJpyContracts": -72100,
+      "openInterest": null
     },
     {
       "week": "2026-06-02",
-      "netJpyContracts": -70200
+      "netJpyContracts": -70200,
+      "openInterest": null
     },
     {
       "week": "2026-06-09",
-      "netJpyContracts": -76800
+      "netJpyContracts": -76800,
+      "openInterest": null
     },
     {
       "week": "2026-06-16",
-      "netJpyContracts": -81500
+      "netJpyContracts": -81500,
+      "openInterest": null
     },
     {
       "week": "2026-06-23",
-      "netJpyContracts": -84200
+      "netJpyContracts": -84200,
+      "openInterest": null
     }
   ],
   "trades": [
     {
       "timeJst": "2026-06-28 08:00",
-      "action": "円からドルへ",
-      "ratio": 0.3,
-      "amountJpy": 300000,
-      "usdJpy": 157.2,
+      "action": "様子見",
+      "ratio": 0.01,
+      "amountJpy": 10000,
+      "usdJpy": 157.69,
       "totalJpy": 1000000
     }
-  ]
+  ],
+  "sources": {
+    "fx": {
+      "provider": "Frankfurter",
+      "sourceUrl": "https://api.frankfurter.dev/v2/rates",
+      "latestDate": "2026-06-28"
+    },
+    "imm": {
+      "provider": "CFTC legacy COT",
+      "sourceUrl": "https://www.cftc.gov/dea/newcot/deacom.txt",
+      "reportDate": "2026-06-23"
+    },
+    "news": {
+      "provider": "Google News RSS",
+      "sourceUrl": "https://news.google.com/rss/search?q=USDJPY%20OR%20yen%20OR%20Bank%20of%20Japan%20OR%20Federal%20Reserve&hl=en-US&gl=US&ceid=US:en",
+      "items": 5
+    }
+  },
+  "news": {
+    "provider": "Google News RSS",
+    "summary": "ニュースは中立寄りです。",
+    "score": -0.036,
+    "items": [
+      {
+        "title": "Burned out on hemp - Federal Reserve Bank of Minneapolis",
+        "summary": "Burned out on hemp &nbsp;&nbsp; Federal Reserve Bank of Minneapolis",
+        "publishedAt": "Tue, 30 Jun 2026 08:10:56 GMT",
+        "source": "Federal Reserve Bank of Minneapolis",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9VSWc1aVpUcm5PRi1sbkpTOVdkdE9aY1BqOW1ESF94MTU2UDQzYTZvZ2t0WHFya2FTTlNxZXZpUWZTWFc3bFExdjZheldEbGlkOHJaTFk5WGpldzhzVkF6SEZhdkVaMmtIYTFpNzNJWQ?oc=5",
+        "score": 0
+      },
+      {
+        "title": "The 2026 Federal Reserve Stress Test Results: A Framework in Transition - Bank Policy Institute",
+        "summary": "The 2026 Federal Reserve Stress Test Results: A Framework in Transition &nbsp;&nbsp; Bank Policy Institute",
+        "publishedAt": "Wed, 01 Jul 2026 15:08:17 GMT",
+        "source": "Bank Policy Institute",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPR044TWM0T0tOSnJKYWRBbUtKbDAtSkpDaTdkbG1tb0ZIaFlKUFBnNHI0TXUzRVNDcmp6YmdBRjA3UTdNaERiOWxxWnJ6NXQ0REFLQldtUGtxa3JZVEZrV2hhNmFCMEtxRFdqNWxETWdRYWdiMmFQSzJIXzVSdWxuamEwRHNONXU3c0hfRGFfdms?oc=5",
+        "score": 0
+      },
+      {
+        "title": "Federal Reserve Chair Warsh Speaks at European Central Bank Forum - C-SPAN",
+        "summary": "Federal Reserve Chair Warsh Speaks at European Central Bank Forum &nbsp;&nbsp; C-SPAN",
+        "publishedAt": "Wed, 01 Jul 2026 18:31:27 GMT",
+        "source": "C-SPAN",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOb3l4dlFEWUUybXh0a1FWRFdsSHg2bG0yN0pRVkJwY1RFcHVKY2RkLTlhaDJEZlVZTEpST0ZGRUdqVHJGTlVvYjRGQVV5a1BTQUUwblp3dW5xZnBfYUZZR1FEUmhrY0tpZEFMamtGV050S3I5d1JWZU12MExkRGZmV1kyX2pEeUJiSXJGT0JKUjFnRUJMbm96VGZwM1BUSGhGbXVtZ2RuOVozWW9XVURzUUZJbUNrdVZmVm1ESGw1bTNXam8?oc=5",
+        "score": 0
+      },
+      {
+        "title": "Japan spent $74 billion propping up the yen. Investors say the real battle is with the Fed - CNBC",
+        "summary": "Japan spent $74 billion propping up the yen. Investors say the real battle is with the Fed &nbsp;&nbsp; CNBC",
+        "publishedAt": "Wed, 01 Jul 2026 05:33:43 GMT",
+        "source": "CNBC",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUmgyQVpTWlRWekJnNk1NeVV0SlRPZmtSeGhUR1JQSy1reUd5V3dpcmdmTUkzZ1VPdXRzd2l2VlRSZnBkY0YzNDYxNk9SUEFuNWNQS0VreGFpTFVITFlqX1cxSEg1Y2Z6cDJ4UjZ3bWxILWdnUzNpQnZIR3Zka2dfQlpIUWx5ODRTcjRGMXhjYlk3Zk9zV1HSAZsBQVVfeXFMTkVLTXdnVDM4SV9TYmlwYmJfdGFGaEhNV1IzdjlVVDdGY00zLXpadXVCQ0hrdnhrSHVFTWJCUzZpQy1NOElMMmZxaDYwMC1nUnUyRGRJX3NXZ3JENG9pWkMxRWctcDZrSGd1RkpwM3hKczNWTlZlcXhXU0t4RTZ0RW1rN18xejI3SG84a2NiYlRYN2xqTy16VV91emc?oc=5",
+        "score": 0
+      },
+      {
+        "title": "Japan keeps yen intervention threat alive, says in close touch with US - Reuters",
+        "summary": "Japan keeps yen intervention threat alive, says in close touch with US &nbsp;&nbsp; Reuters",
+        "publishedAt": "Fri, 03 Jul 2026 02:08:00 GMT",
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcVhiUUQyaGhjb0puS3R1UEJ6Unk3bzlCaFF3YnRwdkVFSHJtR1hCU2VvdjNRVDdCOXRYTXQ1VFctT1FwRU5FWF84SUFhTW52bTBuWnR5WUc4MnVZSDNmQVRpV1BHcjhzTUtINHNUcjd0LVZWVi1TUWJ4T3FZV2R2eEFQc3FTZFJtZ081OEJ6VDBNTVkzLUtUOXhJQ1lET2tRMkZmYm9OX2RCSS1HR2lobUhYQVczSkQzU09WakszTmpfcUtpMXFr?oc=5",
+        "score": -0.18
+      }
+    ]
+  },
+  "portfolio": {
+    "cashJpy": 1000000,
+    "usd": 0
+  }
 }
