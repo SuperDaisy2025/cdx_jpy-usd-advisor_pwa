@@ -1,5 +1,5 @@
 {
-  "generatedAtJst": "2026-07-07 09:19",
+  "generatedAtJst": "2026-07-08 09:10",
   "startingCapitalJpy": 1000000,
   "policy": {
     "basePair": "USD/JPY",
@@ -14,18 +14,18 @@
     "directionLabel": "中立",
     "confidence": 0.51,
     "summary": "中立を基本シナリオにします。トレンド、IMM、ニュースが拮抗しているため、最大50%の制約内でも動かす量は抑えています。",
-    "score": 0.024,
+    "score": 0.032,
     "reasons": [
       "直近のUSD/JPYは157.690で、1つ前の観測値からの勢いを0.00として評価しました。",
       "IMMの円ポジションは-84,200で、前週比の変化を0.09として売買比率に反映しました。",
       "ニュースは中立寄りです。",
-      "レバレッジなし、最大移動比率50%のルールにより、今回の推奨比率は1%です。"
+      "レバレッジなし、最大移動比率50%のルールにより、今回の推奨比率は2%です。"
     ]
   },
   "recommendation": {
     "action": "HOLD",
-    "allocationRatio": 0.01,
-    "moveAmountJpy": 10000,
+    "allocationRatio": 0.02,
+    "moveAmountJpy": 20000,
     "cashJpyAfterTrade": 1000000,
     "usdAfterTrade": 0
   },
@@ -88,8 +88,8 @@
     {
       "timeJst": "2026-06-28 08:00",
       "action": "様子見",
-      "ratio": 0.01,
-      "amountJpy": 10000,
+      "ratio": 0.02,
+      "amountJpy": 20000,
       "usdJpy": 157.69,
       "totalJpy": 1000000
     }
@@ -114,30 +114,22 @@
   "news": {
     "provider": "Google News RSS",
     "summary": "ニュースは中立寄りです。",
-    "score": -0.036,
+    "score": 0,
     "items": [
       {
-        "title": "Yen crashes as Japan’s debt crisis hits currency markets, and interventions are 'doomed to fail' - Fortune",
-        "summary": "Yen crashes as Japan’s debt crisis hits currency markets, and interventions are 'doomed to fail' &nbsp;&nbsp; Fortune",
-        "publishedAt": "Mon, 06 Jul 2026 16:36:00 GMT",
-        "source": "Fortune",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObndxVDZURGxVN3JUX3JBaEppNmtqYTU5bXp2Zm81aHNTbmdOODdRSEx0REsxRXVBOF90blRKdzBUdi1YNl9uMy1aSDNEUXJtZHNJeUFlVXBfcTNPc2ZXQUhHYzlTcG8tUDk0bmtyREtYU3pfQjhIODFDTlViUTM0UWljbUk2ZXBLQmQ0OG1iRkZ1bzI4QjRlVUNTdjcwYURHc2ZF?oc=5",
-        "score": -0.18
-      },
-      {
-        "title": "The Federal Reserve Building Tax Dispute, 1939-1944 - Federal Reserve History",
-        "summary": "The Federal Reserve Building Tax Dispute, 1939-1944 &nbsp;&nbsp; Federal Reserve History",
-        "publishedAt": "Mon, 06 Jul 2026 16:27:18 GMT",
-        "source": "Federal Reserve History",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYXg1SWRtOHhHOENoekFHMmlDOWNOQVcyNDljTnRTNlFHMUYtendabkF6SXFMSXJWZ2ZDZE5MQy1LeXEyQ2ptSzBnVkZiY0wwTjdQQ3JEM0djZ2RPa1hveTF4Nmp3bmZWbDFGVzhya3dIQWZ1Mlpsdm9aUjZ2eWUxWURFQnpoZVAy?oc=5",
+        "title": "The Federal Reserve Exception to the Slaughter Rule - Just Security",
+        "summary": "The Federal Reserve Exception to the Slaughter Rule &nbsp;&nbsp; Just Security",
+        "publishedAt": "Tue, 07 Jul 2026 12:52:47 GMT",
+        "source": "Just Security",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNEZuVmlDTmR4eFY4ckJNa3V6ek9fR2ROZVB4NG05bUJaQzJYbmZWaU92VnlDRGRHY0Jmb0FlRy12bFZSeDBjeENmUWV6cXRZU3RPODV1c0Y4OUhQMWs5NjZXa1ZiYjZDeTV0eFhrdFBYa2Q1d2RTNlc4WUF4bHBhLWZ5bm8?oc=5",
         "score": 0
       },
       {
-        "title": "Report: Modernization of central bank intertwined with regulations, security - The Center Square",
-        "summary": "Report: Modernization of central bank intertwined with regulations, security &nbsp;&nbsp; The Center Square",
-        "publishedAt": "Mon, 06 Jul 2026 18:22:00 GMT",
-        "source": "The Center Square",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORHlMRnVpTGN3Q3pxV21qSUM3RDB0SFNMcUJzczBnWUxjcUJOMjlqXzdWeEF4RS1XVFB3ZGNCUnEwcHZqbjc5WTNTZk9kVzl0eWVjV1F1c3liNllhZjJZWGlXRUZkakVINGdPSGVKVHFDdUg0OWdNUzZoQVl3REV6LXUwXy1qR1ZNUWxMUTAtRTY1cFNG0gGaAUFVX3lxTE9LQTMyMVZwUy1QMzdYS1ozaEVoemdIZEJRNUVGZURYTjBWVnpKQTE5NGFPejZ3WFBEVmphNHEzSlBYUHpiQkhzdnVEOHZfMGZoUjd2LUhUWm1BUFdhTWc1cnRwVU5hcC1tWG1FczJ5ZmJha2lfSmttUVBNcFk1RG44dzdONlVSdUhNaUZfNVNoR0NGVW8xZzJ4OXc?oc=5",
+        "title": "Financial institutions' health is key factor in bank runs, New York Fed research shows - Reuters",
+        "summary": "Financial institutions' health is key factor in bank runs, New York Fed research shows &nbsp;&nbsp; Reuters",
+        "publishedAt": "Tue, 07 Jul 2026 18:53:17 GMT",
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQVQ0S0FROExmQUlyQ1hYTy03ZDNtRTFuY0ZfMUVtSjd4cWN1Si1JekwzTzg1bE5VcUIyS1F5cnJaSzdXS2xzSXRVTlAyYVE5WHpVcDd1VFVXTEdTMWtoYmZzRFJHUFFGd0NjREUwaVQwMzYyVFF1aXFCX0RRV3VDcHJNdVJEY3QweXAtdnBCVTVkbnFnazl1dFJWb1YtMEZFc0YzaWlxMHRWenE0V05md25VRWlrMVNCT0N1ZU5uSUNoREFqV1BJ?oc=5",
         "score": 0
       },
       {
@@ -149,11 +141,19 @@
         "score": 0
       },
       {
-        "title": "Fed dings small Kansas lender for third time since 2023 - Banking Dive",
-        "summary": "Fed dings small Kansas lender for third time since 2023 &nbsp;&nbsp; Banking Dive",
-        "publishedAt": "Mon, 06 Jul 2026 16:43:42 GMT",
-        "source": "Banking Dive",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOXFjVWF6cHZGZko3OTYwUXY3Umx3eEpSTkw0MUJXemFqTVpDLUxEcDVVM3F0R3Q2MVEzbjNUVi0yVXk0VEtGQ01vakxVQUtRZ1JGcEZEMk1aRTBRYV9LMkFreHQ5ZHJmVjNRTXZDMEtMT3ViQjYyU1VVdVY2S2JSRmdRbzZTRFp3T3ZWa0RUU0otNTRfZDY4?oc=5",
+        "title": "The Fed Explained: What It Does and Why It Matters - Knowledge at Wharton",
+        "summary": "The Fed Explained: What It Does and Why It Matters &nbsp;&nbsp; Knowledge at Wharton",
+        "publishedAt": "Tue, 07 Jul 2026 13:00:23 GMT",
+        "source": "Knowledge at Wharton",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRE1GamgydUMwTUlQQVAxcFZnTHpKNGJTUDVta3FtbmFBcEZQUDJiS2FsOHdnMW1xQVdtY3JYT3pCMWZaMG1mTHREaWcxUG1fZUtnS0RiOU1kX1BFcVhkRWJxc1NnaWM2TlUwQzNxUEYwY05Qd3otVUxmdHU0YjdUNVVmUm5kMHpHeWdvQnZkVHROSUVTUDV0U01R?oc=5",
+        "score": 0
+      },
+      {
+        "title": "Small Business Bank faces potential receivership after regulators flag mounting loan risks - The Business Journals",
+        "summary": "Small Business Bank faces potential receivership after regulators flag mounting loan risks &nbsp;&nbsp; The Business Journals",
+        "publishedAt": "Tue, 07 Jul 2026 12:27:00 GMT",
+        "source": "The Business Journals",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVWl1T3lHaFlLeFZkMzVNa2lBSlJldVdNbnBVV3BNczhqYzhFaVFLbEdUUjV6U1dmVFF3QU9tX0RGbXdmVFFBYUdYU2VBTTZ6RjE0OXF3SW9pQ01hc2xFOFRzSE9ITnFDSnFsWXo3X3BGYnNEUWJVQzI2aHpFaFA5OUJVaXJIYlBkdWs4dVNGZFhWdGZtMHdEMXpvX1JqcEZaV0ViQndfSHNrQQ?oc=5",
         "score": 0
       }
     ]
