@@ -1,5 +1,5 @@
 {
-  "generatedAtJst": "2026-07-14 09:05",
+  "generatedAtJst": "2026-07-15 09:03",
   "startingCapitalJpy": 1000000,
   "policy": {
     "basePair": "USD/JPY",
@@ -14,7 +14,7 @@
     "directionLabel": "中立",
     "confidence": 0.51,
     "summary": "中立を基本シナリオにします。トレンド、IMM、ニュースが拮抗しているため、最大50%の制約内でも動かす量は抑えています。",
-    "score": 0.039,
+    "score": 0.032,
     "reasons": [
       "直近のUSD/JPYは157.690で、1つ前の観測値からの勢いを0.00として評価しました。",
       "IMMの円ポジションは-84,200で、前週比の変化を0.09として売買比率に反映しました。",
@@ -114,46 +114,46 @@
   "news": {
     "provider": "Google News RSS",
     "summary": "ニュースは中立寄りです。",
-    "score": 0.036,
+    "score": 0,
     "items": [
+      {
+        "title": "Speech by Vice Chair for Supervision Bowman on responsible innovation and financial inclusion - Federal Reserve (.gov)",
+        "summary": "Speech by Vice Chair for Supervision Bowman on responsible innovation and financial inclusion &nbsp;&nbsp; Federal Reserve (.gov)",
+        "publishedAt": "Tue, 14 Jul 2026 18:56:18 GMT",
+        "source": "Federal Reserve (.gov)",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBDTjBsTnJJVTdXS0tIYkNfVExCZm5lQmZ6UVE5cFJpRFltdHF5NUQ2c3NVM2RwZ3BSQjJ2RXNYd3FHMGZYc0ZGQXEtbjlkN2dJOHVHTy1HUmVlTVZyZk81bk96U0tsRDFtWHM0MGVCclhfeHJSZU9N?oc=5",
+        "score": 0
+      },
+      {
+        "title": "Federal Reserve Follows (to a Degree) FinCEN and Other Banking Agencies in Proposing Sweeping AML/CFT Program Reforms - WilmerHale",
+        "summary": "Federal Reserve Follows (to a Degree) FinCEN and Other Banking Agencies in Proposing Sweeping AML/CFT Program Reforms &nbsp;&nbsp; WilmerHale",
+        "publishedAt": "Tue, 14 Jul 2026 14:59:38 GMT",
+        "source": "WilmerHale",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNcTJpQThmRVl1UWxtM0dYZXlZWHdGeWtJUk52cVpJaFpZU0cyaU5JV2xaWU5SNHo2YVlQb3IwVkdyNVYxTzVYT196ckoyS0k2VHZfNmQtRVdzYXBGdDZZSVAza0szYi11RzRvWU42ZHl6UTc2Vnh5VDlsOVhWbFhHYkoxSVFzVHVWWGJZaHhBUnZ4TnB5TVNXc2dQcExGb1phZmVYVHhGN1o1dG1qR19JVVM5VjVYRU9rSmtCQ2h1enduaEw3T1JEVnpmeXZsOHdQUlZJN3gzLVJjejlmUFpyWGRyVVhqTDRGQ2U0UHp6MlJKTnJOSmZXbw?oc=5",
+        "score": 0
+      },
+      {
+        "title": "Federal Reserve Bank of Atlanta shares mid-year economic outlook at Savannah State - WTOC",
+        "summary": "Federal Reserve Bank of Atlanta shares mid-year economic outlook at Savannah State &nbsp;&nbsp; WTOC",
+        "publishedAt": "Tue, 14 Jul 2026 21:44:00 GMT",
+        "source": "WTOC",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZGlzLU1PaW1MTFA5NC1UZW9Ed3RZWWdxYl9LTVhCSE1tQWV3TkcwM25YY3o2YjFia09ISHRYXy1GRngtZy1kVlVCN0NFVjJoNTFYeG45Q0JpT2ZLemp1QWJfR2gwdDA4Rl9ETXZKYkYzZF83Y0t5TEJBMVVDWXhRWW8wN25kYlJDNm9HME5WUW1NVWtqZHQxTUVXdDFUek1UQTkzZTRmVzNEZ3Bmc3c?oc=5",
+        "score": 0
+      },
       {
         "title": "Federal Reserve Bank of Dallas white paper shows illegal immigration had an impact on employment, housing prices - CBS News",
         "summary": "Federal Reserve Bank of Dallas white paper shows illegal immigration had an impact on employment, housing prices &nbsp;&nbsp; CBS News",
-        "publishedAt": "Mon, 13 Jul 2026 17:52:22 GMT",
+        "publishedAt": "Tue, 14 Jul 2026 17:12:42 GMT",
         "source": "CBS News",
         "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQckFrbHN3RlpLeXprOWVaLURiQm1fUWlOZThPMWJ2T3JJQ0VzYWtUV2xfM3lFZDZfVXBVM1h2Q0VyTUx6b0tnYmFXR1FiY2VJcUkxQ1FXSlJ2OW8wYVg5R3B2Zl9WQlVwUUZuOHo2YWQwZXFOZ1lJUWpJUldQcWNrcDBYbm01VVRybzBzc3NHdzg3c0pIV0lZdl9ZTUdMRkJjaXN1NDNJX3lUMkstOE9ydlNEWHBoOXVnODZWSkcweHZVaUlFOHg3UXdrNHBjbG9EbHJVemdrLVNicVU5WF90NW5KM2hWZlU?oc=5",
         "score": 0
       },
       {
-        "title": "Federal Reserve Split Keeps Pressure on Japanese Yen - StoneX",
-        "summary": "Federal Reserve Split Keeps Pressure on Japanese Yen &nbsp;&nbsp; StoneX",
-        "publishedAt": "Fri, 10 Jul 2026 12:30:00 GMT",
-        "source": "StoneX",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWTlvYXB6R3JINkhtM2NIT2lZWUxvOHpvSHZGNEl3WHJNNXBfS2NTdHhYbDhJTWJ4NkVqaTQ5cXZhbEEyZ0FNdERIY1R3LS1NdTdXZnUySjB6VDN0RlU5d2VGUjFQYlNDaUpjbHFtSFlmTHBOTVl2X2dURHUwZWZiRlYtSHNUbmYwUEN2ekFpQkFhQQ?oc=5",
-        "score": 0
-      },
-      {
-        "title": "Chairman's Task Forces for Advancing Monetary Policy - Federal Reserve (.gov)",
-        "summary": "Chairman's Task Forces for Advancing Monetary Policy &nbsp;&nbsp; Federal Reserve (.gov)",
-        "publishedAt": "Thu, 09 Jul 2026 19:01:21 GMT",
-        "source": "Federal Reserve (.gov)",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1CbXdaa3ZjRjJjRTNUSEExSm4wTV96WlEtQVUzZ2lVWnZWVjlnWG5VdkRHX3ZqTnZEMGtVal9JSWdXSktiNFdQbXBocGdOYU01OERtNlVyaGljcENYNjR0TzFJa1VOUnZJVUk5QWVR?oc=5",
-        "score": 0
-      },
-      {
-        "title": "A July rate hike from the Fed? The odds are rising - CNBC",
-        "summary": "A July rate hike from the Fed? The odds are rising &nbsp;&nbsp; CNBC",
-        "publishedAt": "Mon, 13 Jul 2026 17:07:51 GMT",
-        "source": "CNBC",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONUdmS2Z4R0JWQjJVblhOSnRtcWJXUEVxVFBqcG9JdWhBcjZ1RXVya2ZZNjNqTDVQY2RiSm5xbEUyVlRDSjg5MExzXzdwNW83d2tTaFE3SVBwS1E5VVVRbkpZSmpCekNvZi1iTnJaMUcyb1c3WTk0R1RFQjZUczNOQ2NKQ0lpZW5Ha2hVR19Ld1nSAZYBQVVfeXFMTk1kR0FPT1VVTUdoSDRRZnN5dUtfWkUxdF91emZuMHFxU3p0ZGdkTkxncGpLQ0RaVDFsNjROSDdtRk51dkcySng5cUNVcERaOERSVWhUQzYzcUZhNnEycFYwc1BxN25qSGR4N0NqUEVSTFVwNENjMEpmbUFGTE1mQnk4NEt3bERFUHp1YzI4OWZ1bnVmdFFn?oc=5",
-        "score": 0.18
-      },
-      {
-        "title": "Federal Reserve System Conference on Investing in Rural America - Federal Reserve Bank of New York",
-        "summary": "Federal Reserve System Conference on Investing in Rural America &nbsp;&nbsp; Federal Reserve Bank of New York",
-        "publishedAt": "Wed, 08 Jul 2026 20:22:49 GMT",
-        "source": "Federal Reserve Bank of New York",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQS0gwR29wMzFJb3ozRlQ0MElzMFVmUkFjcnA4cTgwUkx0bW9zcW9OUFVYTGVUakRId29XZUdRQUJoU29vYWJTOHhrcV9kVGtocl9CazUzcjlLNGVEWmF3clpkQjhESTBpcXBJYUtfWWJwT0FVNmZ2YTVPcFREc0JwelNWTQ?oc=5",
+        "title": "Federal Reserve Chair Kevin Warsh Testifies on State of U.S. Economy - C-SPAN",
+        "summary": "Federal Reserve Chair Kevin Warsh Testifies on State of U.S. Economy &nbsp;&nbsp; C-SPAN",
+        "publishedAt": "Tue, 14 Jul 2026 20:27:34 GMT",
+        "source": "C-SPAN",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRnptQkxqTFNKUHZjN21QVlRBY3UtUE1CUnRaaWZETEZKUFVvWmtrN2JwVDhjRUdMVFo1MHpQZlV5bkVEN3MxWnRwaXlRbHZyWnRpelRMZGpYRFdBMDZCMTFqZ3ZQX3hIcF9NZlNUakMtbFNjb3NYSXRVY3NhY3FCYnZMaG1YTXVhNV9idTdXU0E2OWVHSGRTZTJwNUFabUNibFg1VEdNWEk5R2FwZTVueUZZM1dyM0NtRHY4?oc=5",
         "score": 0
       }
     ]
