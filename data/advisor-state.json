@@ -1,5 +1,5 @@
 {
-  "generatedAtJst": "2026-07-17 09:10",
+  "generatedAtJst": "2026-07-18 09:07",
   "startingCapitalJpy": 1000000,
   "policy": {
     "basePair": "USD/JPY",
@@ -14,18 +14,18 @@
     "directionLabel": "中立",
     "confidence": 0.51,
     "summary": "中立を基本シナリオにします。トレンド、IMM、ニュースが拮抗しているため、最大50%の制約内でも動かす量は抑えています。",
-    "score": 0.032,
+    "score": 0.024,
     "reasons": [
       "直近のUSD/JPYは157.690で、1つ前の観測値からの勢いを0.00として評価しました。",
       "IMMの円ポジションは-84,200で、前週比の変化を0.09として売買比率に反映しました。",
       "ニュースは中立寄りです。",
-      "レバレッジなし、最大移動比率50%のルールにより、今回の推奨比率は2%です。"
+      "レバレッジなし、最大移動比率50%のルールにより、今回の推奨比率は1%です。"
     ]
   },
   "recommendation": {
     "action": "HOLD",
-    "allocationRatio": 0.02,
-    "moveAmountJpy": 20000,
+    "allocationRatio": 0.01,
+    "moveAmountJpy": 10000,
     "cashJpyAfterTrade": 1000000,
     "usdAfterTrade": 0
   },
@@ -88,8 +88,8 @@
     {
       "timeJst": "2026-06-28 08:00",
       "action": "様子見",
-      "ratio": 0.02,
-      "amountJpy": 20000,
+      "ratio": 0.01,
+      "amountJpy": 10000,
       "usdJpy": 157.69,
       "totalJpy": 1000000
     }
@@ -114,8 +114,16 @@
   "news": {
     "provider": "Google News RSS",
     "summary": "ニュースは中立寄りです。",
-    "score": 0,
+    "score": -0.036,
     "items": [
+      {
+        "title": "Lower-income Minnesotans struggle in uncertain economy - Federal Reserve Bank of Minneapolis",
+        "summary": "Lower-income Minnesotans struggle in uncertain economy &nbsp;&nbsp; Federal Reserve Bank of Minneapolis",
+        "publishedAt": "Fri, 17 Jul 2026 20:34:41 GMT",
+        "source": "Federal Reserve Bank of Minneapolis",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdGZmWFBLNXZmY3E1dlk3aVRiMktaRmtjaDJUOGxoWmZrTENaWmZzTXlScmZrbFhqZmNKMEpYMG5SZXlLRFN3SjVUSDZEc3JfcFNQMi1qbEJmNE85NlFqb1JGdDhlTWNKRkRDdEtnNm9NLWlfei1OTVpBZGNFR3FGeDg2OHJMS0E0UDVWbVNYNlo3aWprLUdiTnVhalcwSzg?oc=5",
+        "score": 0
+      },
       {
         "title": "Speech by Vice Chair for Supervision Bowman on responsible innovation and financial inclusion - Federal Reserve (.gov)",
         "summary": "Speech by Vice Chair for Supervision Bowman on responsible innovation and financial inclusion &nbsp;&nbsp; Federal Reserve (.gov)",
@@ -125,35 +133,27 @@
         "score": 0
       },
       {
-        "title": "New homeownership measure puts people first - Federal Reserve Bank of Minneapolis",
-        "summary": "New homeownership measure puts people first &nbsp;&nbsp; Federal Reserve Bank of Minneapolis",
-        "publishedAt": "Thu, 16 Jul 2026 08:11:33 GMT",
-        "source": "Federal Reserve Bank of Minneapolis",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQU1MtN253WGpIUkVwYTZGcUlKeFFpQlVvS0xfa2NqYmFLaWwzWG1rRW83Q3dlR3ZGNm9JUTBKRjVob0JvSlpsaHhmaWMxZnZTT1JlQUtPalJhY2dnVEZaR08yWU5wMWNaQWpONVRqNTA2eERJSU52NURwb2pyd1A3QnM3NTE3dC1ua2VETlF3b1Q?oc=5",
-        "score": 0
-      },
-      {
-        "title": "Dallas Fed President Logan calls for 'modestly' higher interest rates - CNBC",
-        "summary": "Dallas Fed President Logan calls for 'modestly' higher interest rates &nbsp;&nbsp; CNBC",
-        "publishedAt": "Thu, 16 Jul 2026 17:15:37 GMT",
-        "source": "CNBC",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWmhwaDU3WFNMZFl5T05PX25qcHFhYWJWNlNoNENreFpoS1VpZHJsWUxXOFc2WkRmWk5jTzdOMDBreG1aSS1NQ2h2bEVVM21UZ3lqMEtZLTBxazE5UkIya28zSDN0aG5HVDRmeDVrUmNobnB2MVI2enZabmllNkw2SV8zZWIwV3ZiSjV5T0kxdkQ1VEtkajBLSjdOdV82SUlZcGF1VHM3d9IBrAFBVV95cUxQTnhlMXVtMVBmOENCMm41cU9sMlROZ0c1TGtDR09fbEc1TV9CTEpIV0F6Vm45X0k4QWxNdGlnYVJ0YVRwUGdqbnhVdjZyM2ZrVFVhV2hvTURpU2ExMVNiWWtCNkdKSnRlWjFyMDVzaGpfdHY4WG04SVJqZ180cWhxNDZaNGt3aTEySjVJN0RscjB3NUtCWjBUTFNKdDhhZVNDYldGQjJqUWptdGFj?oc=5",
-        "score": 0
-      },
-      {
-        "title": "Federal Reserve Follows (to a Degree) FinCEN and Other Banking Agencies in Proposing Sweeping AML/CFT Program Reforms - WilmerHale",
-        "summary": "Federal Reserve Follows (to a Degree) FinCEN and Other Banking Agencies in Proposing Sweeping AML/CFT Program Reforms &nbsp;&nbsp; WilmerHale",
-        "publishedAt": "Tue, 14 Jul 2026 14:59:38 GMT",
-        "source": "WilmerHale",
-        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNcTJpQThmRVl1UWxtM0dYZXlZWHdGeWtJUk52cVpJaFpZU0cyaU5JV2xaWU5SNHo2YVlQb3IwVkdyNVYxTzVYT196ckoyS0k2VHZfNmQtRVdzYXBGdDZZSVAza0szYi11RzRvWU42ZHl6UTc2Vnh5VDlsOVhWbFhHYkoxSVFzVHVWWGJZaHhBUnZ4TnB5TVNXc2dQcExGb1phZmVYVHhGN1o1dG1qR19JVVM5VjVYRU9rSmtCQ2h1enduaEw3T1JEVnpmeXZsOHdQUlZJN3gzLVJjejlmUFpyWGRyVVhqTDRGQ2U0UHp6MlJKTnJOSmZXbw?oc=5",
-        "score": 0
-      },
-      {
-        "title": "Chicago Fed President Talks Inflation, Central Bank Changes - WTTW News",
-        "summary": "Chicago Fed President Talks Inflation, Central Bank Changes &nbsp;&nbsp; WTTW News",
+        "title": "Chicago Fed President Talks Inflation, Central Bank Changes - live-news-wttw.pantheonsite.io",
+        "summary": "Chicago Fed President Talks Inflation, Central Bank Changes &nbsp;&nbsp; live-news-wttw.pantheonsite.io",
         "publishedAt": "Wed, 15 Jul 2026 23:30:00 GMT",
-        "source": "WTTW News",
+        "source": "live-news-wttw.pantheonsite.io",
         "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQUxBYkdCWHp2OTQwNXZhazF1YWZuYTJ4d0tnNzJJeDN3YVA0Q3A4U0x4ZEgyTWozeHg5a0JwU05sTS1MbEtvOXlJbGFkYldJb2dzWXM3UENQZUM5TEtEUmlkb2Y4Q0pRR01aZGdDMFlYVEZYbkNJY0VTTHBRdDd1YmxBOFlIa2NDeWEyc01pWDBob1p4dFE?oc=5",
+        "score": 0
+      },
+      {
+        "title": "Trump wants rate cuts. More Fed officials say hikes could be next. - The Washington Post",
+        "summary": "Trump wants rate cuts. More Fed officials say hikes could be next. &nbsp;&nbsp; The Washington Post",
+        "publishedAt": "Fri, 17 Jul 2026 23:14:25 GMT",
+        "source": "The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZjBUb0NlcTBlcldob3dzdVZmY3d6VzRwZlRPOWJRbU00bUlFM0txZzdNMkZrNlJBblFKZVgxQUdsZ1JwMDdjNnZHOGtMeVRIbXkzcWN6SG5MVmFmTHlaTXdGa0NLbkpGS0dvd0pNeGJKVVVEcFhQcEZoRFdvd192WHhDRnc3V1hlZW5MZWN1TG8wTnBBX3Q0Q2ItTloxX2FjbENLS2Jma1pwU0lEaU9Ma0g3T0ZvOU0?oc=5",
+        "score": -0.18
+      },
+      {
+        "title": "Federal Reserve looks for 'secret sauce' behind a successful Wisconsin toolmaker - NPR",
+        "summary": "Federal Reserve looks for 'secret sauce' behind a successful Wisconsin toolmaker &nbsp;&nbsp; NPR",
+        "publishedAt": "Fri, 17 Jul 2026 09:00:00 GMT",
+        "source": "NPR",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaW1ZTVBNV1A4MGdWY3BDTWJDc3FJb1YyUm15WmR6ZW9VUmpDUGFrRWQ0NlpCV0hQbDJWM3hjOXJYU0NhYzg3andKYUFCNHpkT0EweGw3OFdOX1pLTFc2SWdqRVE0MW9GQ3M3UzdwZTVudlFuczA3VjJBcXRENktWMmFLMFVENmpxdzFlNDJsZWdwb002U0lxelhKSUJFUkc4aGYydl9hNS1zb2liQ2FfWnNscVVpVGh3S1ZsMmZpN3NXZw?oc=5",
         "score": 0
       }
     ]
