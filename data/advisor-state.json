@@ -1,5 +1,5 @@
 {
-  "generatedAtJst": "2026-07-24 09:09",
+  "generatedAtJst": "2026-07-25 09:13",
   "startingCapitalJpy": 1000000,
   "policy": {
     "basePair": "USD/JPY",
@@ -14,7 +14,7 @@
     "directionLabel": "中立",
     "confidence": 0.51,
     "summary": "中立を基本シナリオにします。トレンド、IMM、ニュースが拮抗しているため、最大50%の制約内でも動かす量は抑えています。",
-    "score": 0.032,
+    "score": 0.039,
     "reasons": [
       "直近のUSD/JPYは157.690で、1つ前の観測値からの勢いを0.00として評価しました。",
       "IMMの円ポジションは-84,200で、前週比の変化を0.09として売買比率に反映しました。",
@@ -114,47 +114,47 @@
   "news": {
     "provider": "Google News RSS",
     "summary": "ニュースは中立寄りです。",
-    "score": 0,
+    "score": 0.036,
     "items": [
       {
-        "title": "Making Missing Markets: Catalyzing Capital and Igniting Innovation - Federal Reserve Bank of New York",
-        "summary": "Making Missing Markets: Catalyzing Capital and Igniting Innovation &nbsp;&nbsp; Federal Reserve Bank of New York",
-        "publishedAt": "Wed, 22 Jul 2026 14:00:15 GMT",
-        "source": "Federal Reserve Bank of New York",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPblE2b1lhT0VscmhqWHlpOWZJendmRmlQZFFPVUZFc0JENk1SODRoclpqc0QtWk14dXB4TkZNaEpPaF83VVBsb2VvekhOQjl6X0IyNWpxdDVscm05OUxJZHRkYzFUa2s0UG1vLVhZVl9kRHBBVHlTOENfSUxIdlBpQ1hfdw?oc=5",
+        "title": "Will the Federal Reserve raise interest rates? Here is what experts predict for July's meeting. - CBS News",
+        "summary": "Will the Federal Reserve raise interest rates? Here is what experts predict for July's meeting. &nbsp;&nbsp; CBS News",
+        "publishedAt": "Fri, 24 Jul 2026 10:00:13 GMT",
+        "source": "CBS News",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8tcVhJU0V0QWZhMEN3R1FBVnJycVh3Q2Y1UlBpamRuZUNCdE5RbnE0R1ZfQkRuVHgyeElMTnBvTXdxWjBVazhYdVpKYU82MnFINUc0QzEzM0l4aTRKMXMtaVNrMEhMQVdmTkdGVFU1NWxrR0EyN1J5Qg?oc=5",
         "score": 0
       },
       {
-        "title": "Federal Home Loan Bank Reform Pushed by House Panel - Legis1",
-        "summary": "Federal Home Loan Bank Reform Pushed by House Panel &nbsp;&nbsp; Legis1",
-        "publishedAt": "Thu, 23 Jul 2026 19:15:49 GMT",
-        "source": "Legis1",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Ncm9hdVpvWG1DbDVTUEtaY25lc3pYTGNHaVFDa3FYRWozakFpdEVYMUE1TlpPTzctdDVzLWw1am9LYjVHaW9LeGJoY1Zldk5lUndyODBRVm82MHN0SzFtbFBjUW5GR1RsTmFlazFjMzdnVGloTGxDd0JjUGs?oc=5",
+        "title": "New Management Science Findings from Federal Reserve Bank of Philadelphia Discussed (The Age Gap In Mortgage Access): Business – Management Science - InsuranceNewsNet",
+        "summary": "New Management Science Findings from Federal Reserve Bank of Philadelphia Discussed (The Age Gap In Mortgage Access): Business – Management Science &nbsp;&nbsp; InsuranceNewsNet",
+        "publishedAt": "Fri, 24 Jul 2026 21:35:48 GMT",
+        "source": "InsuranceNewsNet",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPUWdxVU1RQk5tMkNUWHFjQVVSU05hVXRLQWtHZF9GOFJfZ1lMUDFKM1RYRFFOSjFTU3RGdXVpVHhGVEtWZVI5SmhGZFdBcHFpVk1lR3l4TWE5cy04T1Rvbm1tYy1VejBuNlVfN0xQRVNDWG90Yk1MU0psb0RmdnRqa2VMUUtxVm8zc2xuWVdQNnphVG52MGxJSTZ0S2lOZUJ2SkJNT0hFNFJUcEN0VHpyQnp1MWRETlJqeGpERmlkVFhadTZlMnpUcms2SkZfNW15NUVlYndXLW9zeEc1bTFCR2xoRWZTTWdydVRTMWJVSFNDeTFtSm5HX3AyWEg1ZVQxeE9rWUk0dFV2clRy?oc=5",
         "score": 0
       },
       {
-        "title": "Webster-Santander merger clears European Central Bank, awaits Federal Reserve decision - The Business Journals",
-        "summary": "Webster-Santander merger clears European Central Bank, awaits Federal Reserve decision &nbsp;&nbsp; The Business Journals",
-        "publishedAt": "Thu, 23 Jul 2026 16:23:00 GMT",
-        "source": "The Business Journals",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaUNtR19VVFRTNGkxbElyRkVVSXFtZ09Pb2RFRVlpWVFGRXJpMVNmcW9GRU1wSkh2YlZkNjh5b1RzRDh3LWZDSTI4aFZOQzNaTjNVcFgydUZxRVRfeTRKTDBTMm80SmJMeDBvQlktbWZSTzM1Y1JtNlowNUNzLVN2QklvYlNqNmlfelhkNnRVMXowcGhaM1ZsOE44LTZRdDcyMFk4WG1YZw?oc=5",
+        "title": "New homeownership measure puts people first - Federal Reserve Bank of Minneapolis",
+        "summary": "New homeownership measure puts people first &nbsp;&nbsp; Federal Reserve Bank of Minneapolis",
+        "publishedAt": "Wed, 15 Jul 2026 07:00:00 GMT",
+        "source": "Federal Reserve Bank of Minneapolis",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQU1MtN253WGpIUkVwYTZGcUlKeFFpQlVvS0xfa2NqYmFLaWwzWG1rRW83Q3dlR3ZGNm9JUTBKRjVob0JvSlpsaHhmaWMxZnZTT1JlQUtPalJhY2dnVEZaR08yWU5wMWNaQWpONVRqNTA2eERJSU52NURwb2pyd1A3QnM3NTE3dC1ua2VETlF3b1Q?oc=5",
         "score": 0
       },
       {
-        "title": "Dollar dips after four-day streak of gains, yen holds near 40-year low - CNBC",
-        "summary": "Dollar dips after four-day streak of gains, yen holds near 40-year low &nbsp;&nbsp; CNBC",
-        "publishedAt": "Wed, 22 Jul 2026 04:10:04 GMT",
+        "title": "Tenth District Beige Book - Federal Reserve Bank of Kansas City",
+        "summary": "Tenth District Beige Book &nbsp;&nbsp; Federal Reserve Bank of Kansas City",
+        "publishedAt": "Wed, 15 Jul 2026 07:00:00 GMT",
+        "source": "Federal Reserve Bank of Kansas City",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSEVoRlV1TG5idllmUUJMUG5oMEhZaE1ORjY4VldSQV9JTE9iZlQ3TUhGRjRNSVIxU2QxcWZyWmVpclRENEh5bFlaQm9wYXRNcF9HQWVIVnhPeW5Xa25tcmJkNkwwc0xnN0RFS2FHQUNqS3dPZEh2WFdoc3lUNkJ0dA?oc=5",
+        "score": 0
+      },
+      {
+        "title": "Odds of Federal Reserve rate hike surge as oil prices rip higher - CNBC",
+        "summary": "Odds of Federal Reserve rate hike surge as oil prices rip higher &nbsp;&nbsp; CNBC",
+        "publishedAt": "Thu, 23 Jul 2026 17:15:03 GMT",
         "source": "CNBC",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQV0RjeHlQMnpMbDFmS0RCdEZKNU9LWTRvcnkzU3RpMF95a0psdS1hNjdmZXAwbWVNb1NWanhFSWdfX0ZzLUlTTmVXZEJpcFpRa1ZjMDhkb3JGN056VnhCaUNvRldKdjdJaU93NzRxcS00TWNQTGphTmdZRXhCbTdJZEEyd2xzbThkRnJF0gGQAUFVX3lxTE5ES2cweE52OTN4NE16M3BFQVgySnFuVThqVVk4UG4xeWh0NE5tRjNKcEpGVG10ZGdLYjNVcGZhNWJwbWdkWGdsTzdyX1pLM0YwTnpGbUdkSDQ4ZmVvQWNEYU02WHplcGU3VlBFMHZzam44QzZ0OEMwdjRadGwtdlZqbmNjaVJRbnpkRnpSckxEaQ?oc=5",
-        "score": 0
-      },
-      {
-        "title": "Report: Fed examiners were 'untimely' in closing supervisory findings - American Banker",
-        "summary": "Report: Fed examiners were 'untimely' in closing supervisory findings &nbsp;&nbsp; American Banker",
-        "publishedAt": "Thu, 23 Jul 2026 18:37:00 GMT",
-        "source": "American Banker",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRURaM052Vl9ZQVhBTXVwQmJZcUNTaVd6Z0oyOE0tQUUxa0tiMFZXZFJmbDkxNzU4NnlNTU5sRW0wcEJ6eUtPZl9NX3djSWFReEdVQUhQUFBjZVpBNHBQZGNfeC0ybzA0VDNuNDc4eEpsdmhvRkN0YjBtNXFISV96bFVLZG9jQnI3dTN6dXlYVl9xWFVBWTZsUnBrLU1IbUF6MDlVSg?oc=5",
-        "score": 0
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUWx3V1U4LVllRFN2ZUNCN3N5SUN0VF9Iakl4UVlSamwtUGFTNE1ZRXFzWmJMSUNaRnRZejE3V3NRMUVfNzU4Y012MGtaa1plNlUybkxycWRvQ3NKdTdtVVIzVWlIMG55ZHp3S2lyc3JmOEU3bHMtNFFvRkJleWlpYm9FNXPSAYoBQVVfeXFMTmRFOUNteTdsTVNuNXRycmx6YkxLVmVwWGQ4ZURXOVpjUGsxbkU3M1pyZzgxUVJEX2NjV1Jmc2hsY3hCaGpOSkM1UmNsRjFuUlJmYi1jLW1zYmlyOGZ4bWZYRDlCSklGYjVTVWdrWXFiU0Etb0l3NFgwdlRHNDU1YVFaQTllVDN4bmRn?oc=5",
+        "score": 0.18
       }
     ]
   },
