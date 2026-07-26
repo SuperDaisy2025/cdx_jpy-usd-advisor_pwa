@@ -1,5 +1,5 @@
 {
-  "generatedAtJst": "2026-07-25 09:13",
+  "generatedAtJst": "2026-07-26 09:11",
   "startingCapitalJpy": 1000000,
   "policy": {
     "basePair": "USD/JPY",
@@ -14,7 +14,7 @@
     "directionLabel": "中立",
     "confidence": 0.51,
     "summary": "中立を基本シナリオにします。トレンド、IMM、ニュースが拮抗しているため、最大50%の制約内でも動かす量は抑えています。",
-    "score": 0.039,
+    "score": 0.032,
     "reasons": [
       "直近のUSD/JPYは157.690で、1つ前の観測値からの勢いを0.00として評価しました。",
       "IMMの円ポジションは-84,200で、前週比の変化を0.09として売買比率に反映しました。",
@@ -114,22 +114,14 @@
   "news": {
     "provider": "Google News RSS",
     "summary": "ニュースは中立寄りです。",
-    "score": 0.036,
+    "score": 0,
     "items": [
       {
-        "title": "Will the Federal Reserve raise interest rates? Here is what experts predict for July's meeting. - CBS News",
-        "summary": "Will the Federal Reserve raise interest rates? Here is what experts predict for July's meeting. &nbsp;&nbsp; CBS News",
-        "publishedAt": "Fri, 24 Jul 2026 10:00:13 GMT",
-        "source": "CBS News",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8tcVhJU0V0QWZhMEN3R1FBVnJycVh3Q2Y1UlBpamRuZUNCdE5RbnE0R1ZfQkRuVHgyeElMTnBvTXdxWjBVazhYdVpKYU82MnFINUc0QzEzM0l4aTRKMXMtaVNrMEhMQVdmTkdGVFU1NWxrR0EyN1J5Qg?oc=5",
-        "score": 0
-      },
-      {
-        "title": "New Management Science Findings from Federal Reserve Bank of Philadelphia Discussed (The Age Gap In Mortgage Access): Business – Management Science - InsuranceNewsNet",
-        "summary": "New Management Science Findings from Federal Reserve Bank of Philadelphia Discussed (The Age Gap In Mortgage Access): Business – Management Science &nbsp;&nbsp; InsuranceNewsNet",
-        "publishedAt": "Fri, 24 Jul 2026 21:35:48 GMT",
-        "source": "InsuranceNewsNet",
-        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPUWdxVU1RQk5tMkNUWHFjQVVSU05hVXRLQWtHZF9GOFJfZ1lMUDFKM1RYRFFOSjFTU3RGdXVpVHhGVEtWZVI5SmhGZFdBcHFpVk1lR3l4TWE5cy04T1Rvbm1tYy1VejBuNlVfN0xQRVNDWG90Yk1MU0psb0RmdnRqa2VMUUtxVm8zc2xuWVdQNnphVG52MGxJSTZ0S2lOZUJ2SkJNT0hFNFJUcEN0VHpyQnp1MWRETlJqeGpERmlkVFhadTZlMnpUcms2SkZfNW15NUVlYndXLW9zeEc1bTFCR2xoRWZTTWdydVRTMWJVSFNDeTFtSm5HX3AyWEg1ZVQxeE9rWUk0dFV2clRy?oc=5",
+        "title": "Oil Near $100 Puts Fed and Peers in Interest-Rate Spotlight - Bloomberg.com",
+        "summary": "Oil Near $100 Puts Fed and Peers in Interest-Rate Spotlight &nbsp;&nbsp; Bloomberg.com",
+        "publishedAt": "Sat, 25 Jul 2026 20:00:00 GMT",
+        "source": "Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSXdkdkJpZUVDUldTSFRTdmlIUmlIQ3Zmb1NtRkEtdXhLUGM4eGpSSlVjb0Z5NXpKOVlPVVBPVjExaUdZQ05nU25vdDBoaUhNLTZpVzJsYTRSUjBZMUpXUVE1VllDSi1tTXllVlVMbGIzNDJvUTY0S1pETnh4NzhZUGMzcDNhQXFubmJxTWg4WEpLMkxrejBWSm0wcUs5M0lYV3BGNGNYMVpBYkN0Y2RuR053?oc=5",
         "score": 0
       },
       {
@@ -141,6 +133,14 @@
         "score": 0
       },
       {
+        "title": "Investors increase bets on Federal Reserve rate rise after oil price surge - Financial Times",
+        "summary": "Investors increase bets on Federal Reserve rate rise after oil price surge &nbsp;&nbsp; Financial Times",
+        "publishedAt": "Sat, 25 Jul 2026 10:00:09 GMT",
+        "source": "Financial Times",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVGdDMHFqX2FBMWZMQVpTd1dYVGF3NkstVW1DNER3WWZqejIwcDJTSEJkYWIzWjdtdDk0elVFRFlRd1FyakxxeXRJVm82TjJTSFo0Vy1PMEN6WklMRnNkaWw1b0lwQW8zOFM0Z1Fzcm5seXBDYVNkcjB4OEFBVkJxdk83YUk?oc=5",
+        "score": 0
+      },
+      {
         "title": "Tenth District Beige Book - Federal Reserve Bank of Kansas City",
         "summary": "Tenth District Beige Book &nbsp;&nbsp; Federal Reserve Bank of Kansas City",
         "publishedAt": "Wed, 15 Jul 2026 07:00:00 GMT",
@@ -149,12 +149,12 @@
         "score": 0
       },
       {
-        "title": "Odds of Federal Reserve rate hike surge as oil prices rip higher - CNBC",
-        "summary": "Odds of Federal Reserve rate hike surge as oil prices rip higher &nbsp;&nbsp; CNBC",
-        "publishedAt": "Thu, 23 Jul 2026 17:15:03 GMT",
-        "source": "CNBC",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUWx3V1U4LVllRFN2ZUNCN3N5SUN0VF9Iakl4UVlSamwtUGFTNE1ZRXFzWmJMSUNaRnRZejE3V3NRMUVfNzU4Y012MGtaa1plNlUybkxycWRvQ3NKdTdtVVIzVWlIMG55ZHp3S2lyc3JmOEU3bHMtNFFvRkJleWlpYm9FNXPSAYoBQVVfeXFMTmRFOUNteTdsTVNuNXRycmx6YkxLVmVwWGQ4ZURXOVpjUGsxbkU3M1pyZzgxUVJEX2NjV1Jmc2hsY3hCaGpOSkM1UmNsRjFuUlJmYi1jLW1zYmlyOGZ4bWZYRDlCSklGYjVTVWdrWXFiU0Etb0l3NFgwdlRHNDU1YVFaQTllVDN4bmRn?oc=5",
-        "score": 0.18
+        "title": "Will the Federal Reserve raise interest rates? Here is what experts predict for July's meeting. - CBS News",
+        "summary": "Will the Federal Reserve raise interest rates? Here is what experts predict for July's meeting. &nbsp;&nbsp; CBS News",
+        "publishedAt": "Fri, 24 Jul 2026 10:00:13 GMT",
+        "source": "CBS News",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8tcVhJU0V0QWZhMEN3R1FBVnJycVh3Q2Y1UlBpamRuZUNCdE5RbnE0R1ZfQkRuVHgyeElMTnBvTXdxWjBVazhYdVpKYU82MnFINUc0QzEzM0l4aTRKMXMtaVNrMEhMQVdmTkdGVFU1NWxrR0EyN1J5Qg?oc=5",
+        "score": 0
       }
     ]
   },
