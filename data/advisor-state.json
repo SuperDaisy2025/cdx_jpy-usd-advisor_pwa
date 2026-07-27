@@ -1,5 +1,5 @@
 {
-  "generatedAtJst": "2026-07-26 09:11",
+  "generatedAtJst": "2026-07-27 09:11",
   "startingCapitalJpy": 1000000,
   "policy": {
     "basePair": "USD/JPY",
@@ -14,7 +14,7 @@
     "directionLabel": "中立",
     "confidence": 0.51,
     "summary": "中立を基本シナリオにします。トレンド、IMM、ニュースが拮抗しているため、最大50%の制約内でも動かす量は抑えています。",
-    "score": 0.032,
+    "score": 0.039,
     "reasons": [
       "直近のUSD/JPYは157.690で、1つ前の観測値からの勢いを0.00として評価しました。",
       "IMMの円ポジションは-84,200で、前週比の変化を0.09として売買比率に反映しました。",
@@ -114,16 +114,8 @@
   "news": {
     "provider": "Google News RSS",
     "summary": "ニュースは中立寄りです。",
-    "score": 0,
+    "score": 0.036,
     "items": [
-      {
-        "title": "Oil Near $100 Puts Fed and Peers in Interest-Rate Spotlight - Bloomberg.com",
-        "summary": "Oil Near $100 Puts Fed and Peers in Interest-Rate Spotlight &nbsp;&nbsp; Bloomberg.com",
-        "publishedAt": "Sat, 25 Jul 2026 20:00:00 GMT",
-        "source": "Bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSXdkdkJpZUVDUldTSFRTdmlIUmlIQ3Zmb1NtRkEtdXhLUGM4eGpSSlVjb0Z5NXpKOVlPVVBPVjExaUdZQ05nU25vdDBoaUhNLTZpVzJsYTRSUjBZMUpXUVE1VllDSi1tTXllVlVMbGIzNDJvUTY0S1pETnh4NzhZUGMzcDNhQXFubmJxTWg4WEpLMkxrejBWSm0wcUs5M0lYV3BGNGNYMVpBYkN0Y2RuR053?oc=5",
-        "score": 0
-      },
       {
         "title": "New homeownership measure puts people first - Federal Reserve Bank of Minneapolis",
         "summary": "New homeownership measure puts people first &nbsp;&nbsp; Federal Reserve Bank of Minneapolis",
@@ -133,11 +125,11 @@
         "score": 0
       },
       {
-        "title": "Investors increase bets on Federal Reserve rate rise after oil price surge - Financial Times",
-        "summary": "Investors increase bets on Federal Reserve rate rise after oil price surge &nbsp;&nbsp; Financial Times",
-        "publishedAt": "Sat, 25 Jul 2026 10:00:09 GMT",
-        "source": "Financial Times",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVGdDMHFqX2FBMWZMQVpTd1dYVGF3NkstVW1DNER3WWZqejIwcDJTSEJkYWIzWjdtdDk0elVFRFlRd1FyakxxeXRJVm82TjJTSFo0Vy1PMEN6WklMRnNkaWw1b0lwQW8zOFM0Z1Fzcm5seXBDYVNkcjB4OEFBVkJxdk83YUk?oc=5",
+        "title": "About the Fed - Federal Reserve (.gov)",
+        "summary": "About the Fed &nbsp;&nbsp; Federal Reserve (.gov)",
+        "publishedAt": "Wed, 17 Jun 2026 07:00:00 GMT",
+        "source": "Federal Reserve (.gov)",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3X3g2ZkN1N2x6SGdZZFdUU2ZiN214VXRFS3h5ZmRZWExuejFRemx4R3FkZXhVWTdhWG0yVGpvbm9tRS0wZ05xV0VVMU92d0V2ZVlVUlE4TG5HZw?oc=5",
         "score": 0
       },
       {
@@ -155,6 +147,14 @@
         "source": "CBS News",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8tcVhJU0V0QWZhMEN3R1FBVnJycVh3Q2Y1UlBpamRuZUNCdE5RbnE0R1ZfQkRuVHgyeElMTnBvTXdxWjBVazhYdVpKYU82MnFINUc0QzEzM0l4aTRKMXMtaVNrMEhMQVdmTkdGVFU1NWxrR0EyN1J5Qg?oc=5",
         "score": 0
+      },
+      {
+        "title": "Odds of Federal Reserve rate hike surge as oil prices rip higher - CNBC",
+        "summary": "Odds of Federal Reserve rate hike surge as oil prices rip higher &nbsp;&nbsp; CNBC",
+        "publishedAt": "Thu, 23 Jul 2026 17:15:03 GMT",
+        "source": "CNBC",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUWx3V1U4LVllRFN2ZUNCN3N5SUN0VF9Iakl4UVlSamwtUGFTNE1ZRXFzWmJMSUNaRnRZejE3V3NRMUVfNzU4Y012MGtaa1plNlUybkxycWRvQ3NKdTdtVVIzVWlIMG55ZHp3S2lyc3JmOEU3bHMtNFFvRkJleWlpYm9FNXPSAYoBQVVfeXFMTmRFOUNteTdsTVNuNXRycmx6YkxLVmVwWGQ4ZURXOVpjUGsxbkU3M1pyZzgxUVJEX2NjV1Jmc2hsY3hCaGpOSkM1UmNsRjFuUlJmYi1jLW1zYmlyOGZ4bWZYRDlCSklGYjVTVWdrWXFiU0Etb0l3NFgwdlRHNDU1YVFaQTllVDN4bmRn?oc=5",
+        "score": 0.18
       }
     ]
   },
