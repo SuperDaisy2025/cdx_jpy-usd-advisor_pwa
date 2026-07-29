@@ -1,5 +1,5 @@
 {
-  "generatedAtJst": "2026-07-28 09:09",
+  "generatedAtJst": "2026-07-29 09:07",
   "startingCapitalJpy": 1000000,
   "policy": {
     "basePair": "USD/JPY",
@@ -14,7 +14,7 @@
     "directionLabel": "中立",
     "confidence": 0.51,
     "summary": "中立を基本シナリオにします。トレンド、IMM、ニュースが拮抗しているため、最大50%の制約内でも動かす量は抑えています。",
-    "score": 0.039,
+    "score": 0.032,
     "reasons": [
       "直近のUSD/JPYは157.690で、1つ前の観測値からの勢いを0.00として評価しました。",
       "IMMの円ポジションは-84,200で、前週比の変化を0.09として売買比率に反映しました。",
@@ -114,7 +114,7 @@
   "news": {
     "provider": "Google News RSS",
     "summary": "ニュースは中立寄りです。",
-    "score": 0.036,
+    "score": 0,
     "items": [
       {
         "title": "Joint Trades Comment on Federal Reserve Payment Account Framework - Bank Policy Institute",
@@ -125,20 +125,12 @@
         "score": 0
       },
       {
-        "title": "Federal Reserve Proposal Would Divert Deposits from Main Street Banks and Turn America’s Central Bank Into Crypto’s Bank - Better Markets",
-        "summary": "Federal Reserve Proposal Would Divert Deposits from Main Street Banks and Turn America’s Central Bank Into Crypto’s Bank &nbsp;&nbsp; Better Markets",
-        "publishedAt": "Mon, 27 Jul 2026 16:13:40 GMT",
-        "source": "Better Markets",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOWkg5YVBQeU9VV2JIaUxkZlgyeGQzS1pSM21DS0JRc19lQ1duN21EWm5sY3Jva2o2eEZlSzFpMkNHRDRmc2tSd2pUd1hxdTdTMTVodUQ0ckhaaW9CYjBUUWtzLWEycDhVT2hTT1RPYzZzZ3NHSXVBZ0FnemZqQU9HclBidW4zNDNyeXl3dnI0UlBhQ3lhLVQwUUF3Vy0wN0tveUlzaGhEQmxkSU91ZWtkak1DREh5U1FGM1pXdmM0dXUyWV8zSTlRSXRRb3BBaGhJUkh5T1FNN0hjTEF3SXBfbHl6cDVFUjhxdGc?oc=5",
+        "title": "Central banks can't 'see through' this many inflationary risks - Reuters",
+        "summary": "Central banks can't 'see through' this many inflationary risks &nbsp;&nbsp; Reuters",
+        "publishedAt": "Tue, 28 Jul 2026 10:01:15 GMT",
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQb195VXF1UElFVk90QkVUMFNSNklVa2VkQ3c4UlZYbXdjTXU3aC1qUWx0S1VXcGNicGFrd2VyZ3BuMTVFRFFGeEJNVE1RbklSR1RNQW9yTVlOQVk2Q2JsSFJzcVE2Ty0zREpWcDZmQzdZeW9BUTV5TTJNVmRGX2R3cmJxYnNQbTZxR3VWVUJLbGdJbkpQM1lTVHN0aUF1TEExRGhnRnFsQWtFTE9CWmQ4WTV2ZFF2VEI0M0RULTlXODQ5NE0wMjZV?oc=5",
         "score": 0
-      },
-      {
-        "title": "Fed expected to hold rates steady — but an interest rate hike isn't off the table - Yahoo Finance",
-        "summary": "Fed expected to hold rates steady — but an interest rate hike isn't off the table &nbsp;&nbsp; Yahoo Finance",
-        "publishedAt": "Mon, 27 Jul 2026 09:00:00 GMT",
-        "source": "Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUGVzbnB6d2w5TWxXelk4TkU0WXdYWGxFaGRSM3lGZy1KRFFKcDlSX0JldHBrWTA0c2xJQnVNX3Bpa0x1N0RpOUxNX3JpZWY5Z0w0Q0kzQWVlTlRqeXU4Um1BZ0NoUExWTFU4djF0OXhCNjNUOWRCRlNSRHg4SktzUGN5TU1BNUoycHVvY2NfanhoM3llSVVIUEUxaFRxOTRMcDFRT0N2VHR2dXotTkY1SDJ3WWpOcmg5NDBGSHRtVUt4cHJzYk5WSXhvZjFMMTBCWlE?oc=5",
-        "score": 0.18
       },
       {
         "title": "New homeownership measure puts people first - Federal Reserve Bank of Minneapolis",
@@ -146,6 +138,14 @@
         "publishedAt": "Wed, 15 Jul 2026 07:00:00 GMT",
         "source": "Federal Reserve Bank of Minneapolis",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQU1MtN253WGpIUkVwYTZGcUlKeFFpQlVvS0xfa2NqYmFLaWwzWG1rRW83Q3dlR3ZGNm9JUTBKRjVob0JvSlpsaHhmaWMxZnZTT1JlQUtPalJhY2dnVEZaR08yWU5wMWNaQWpONVRqNTA2eERJSU52NURwb2pyd1A3QnM3NTE3dC1ua2VETlF3b1Q?oc=5",
+        "score": 0
+      },
+      {
+        "title": "Will tough talk be enough? Fed Chair Warsh faces pressure to combat inflation - Boston Herald",
+        "summary": "Will tough talk be enough? Fed Chair Warsh faces pressure to combat inflation &nbsp;&nbsp; Boston Herald",
+        "publishedAt": "Tue, 28 Jul 2026 18:00:15 GMT",
+        "source": "Boston Herald",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVmR3ZUt6SjRaRi1NV3JWSUZuVG1yZW5HS2hTci16aklGYW81OWU3TXVBYURhN19kaG9iRUNPTXo3VEtZdTRTUnVyM0o2UVNsNDV5RkxLbmNMWnVzTVk4bnZHQmR0Vi1FYzQtbjVZbU5xX3NvcWtEeHp3cmpOeG5lczBXRkp6VkQz?oc=5",
         "score": 0
       },
       {
