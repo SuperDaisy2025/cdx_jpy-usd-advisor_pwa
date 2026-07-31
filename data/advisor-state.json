@@ -1,5 +1,5 @@
 {
-  "generatedAtJst": "2026-07-30 09:08",
+  "generatedAtJst": "2026-07-31 09:14",
   "startingCapitalJpy": 1000000,
   "policy": {
     "basePair": "USD/JPY",
@@ -12,20 +12,20 @@
   "forecast": {
     "direction": "neutral",
     "directionLabel": "中立",
-    "confidence": 0.51,
+    "confidence": 0.5,
     "summary": "中立を基本シナリオにします。トレンド、IMM、ニュースが拮抗しているため、最大50%の制約内でも動かす量は抑えています。",
-    "score": 0.032,
+    "score": 0.01,
     "reasons": [
       "直近のUSD/JPYは157.690で、1つ前の観測値からの勢いを0.00として評価しました。",
       "IMMの円ポジションは-84,200で、前週比の変化を0.09として売買比率に反映しました。",
       "ニュースは中立寄りです。",
-      "レバレッジなし、最大移動比率50%のルールにより、今回の推奨比率は2%です。"
+      "レバレッジなし、最大移動比率50%のルールにより、今回の推奨比率は0%です。"
     ]
   },
   "recommendation": {
     "action": "HOLD",
-    "allocationRatio": 0.02,
-    "moveAmountJpy": 20000,
+    "allocationRatio": 0,
+    "moveAmountJpy": 0,
     "cashJpyAfterTrade": 1000000,
     "usdAfterTrade": 0
   },
@@ -88,8 +88,8 @@
     {
       "timeJst": "2026-06-28 08:00",
       "action": "様子見",
-      "ratio": 0.02,
-      "amountJpy": 20000,
+      "ratio": 0,
+      "amountJpy": 0,
       "usdJpy": 157.69,
       "totalJpy": 1000000
     }
@@ -114,46 +114,46 @@
   "news": {
     "provider": "Google News RSS",
     "summary": "ニュースは中立寄りです。",
-    "score": 0,
+    "score": -0.108,
     "items": [
+      {
+        "title": "Japan carries out yen-buying intervention as US executes rate check - Nikkei Asia",
+        "summary": "Japan carries out yen-buying intervention as US executes rate check &nbsp;&nbsp; Nikkei Asia",
+        "publishedAt": "Thu, 30 Jul 2026 20:44:00 GMT",
+        "source": "Nikkei Asia",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOT2hQckhtdU42THVUNk9JaU1sNnk3eE9ROFN4MnliUHpBQUsteklqQjVJV1otSEdYakFZRUhINVo1OFdsUnQxa2g5amlvcndMOFlWR21PUExWZmQ0TFhPTVp6YjhxRDVaOVl1WF9Fb2xPTURha2hJZmtKZnlBZ0Y0dkdoS3dXMVdXc3BBbXJkeU1XckZ4OUxUWU1rM3h2Y0Nydm5HU2Q3enY5ZXBVbHA1bGdpc2hJbkpWUlpz?oc=5",
+        "score": -0.18
+      },
+      {
+        "title": "Japan’s yen jumps 3% as speculation over intervention swirls - Financial Times",
+        "summary": "Japan’s yen jumps 3% as speculation over intervention swirls &nbsp;&nbsp; Financial Times",
+        "publishedAt": "Thu, 30 Jul 2026 15:07:45 GMT",
+        "source": "Financial Times",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTTRiS3pGbDFnUEhkQU9TeTA4NVlqa1ZZWEpGZ0U1TDZ1WkhQR29jLWhMQ0tlVWdOWXVNWEhOSmhmTlhlMUlpa1JLR0lCX2hHSTdqODFwZktyUWpyQUdJUDNMb0Rpc3l3UWd4TGoyLWx0cXY2YzN2cVQyTkRYU3BtZ1FFdEc?oc=5",
+        "score": -0.18
+      },
+      {
+        "title": "Yen surges, analysts suspect official Japanese intervention - CNBC",
+        "summary": "Yen surges, analysts suspect official Japanese intervention &nbsp;&nbsp; CNBC",
+        "publishedAt": "Thu, 30 Jul 2026 01:27:00 GMT",
+        "source": "CNBC",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOF9mYzdienIxVVlqdkhYdWJKbXRzYTVLekRXTnBZRFF6bktqbFVhQzNHeXN5REwzYnVtS210cFFCUml3Zk4tek1Kek15eFBzOUp1Tl8tZ1hOSkJ3OW1XZEV5T2U4WE9aWWtxT0R3MUM4RkMwNlRfZ0pNRW90OHJXNURGdHlhekFpRTZfMkRtNFXSAZYBQVVfeXFMTU9yUGI3MmtDMnhFNElvOXlyS1RaSkJEQVZGNkNBVFo4aTk5U0N4cUJjYURjX2FLdHp3ZFdrdXBxOFladE5Td194R3ZvT1V6bngxZUE1NVpyRm45d3BPZzhCd3FQQ2pqNFBacXVMSlpQVWVTT1lVbEhxZ2Y1blNYd1VWaXlUeU1KcUk2cWNHVVI0ZUJSVFlB?oc=5",
+        "score": -0.18
+      },
+      {
+        "title": "Major central banks steer a cautious hiking path - Reuters",
+        "summary": "Major central banks steer a cautious hiking path &nbsp;&nbsp; Reuters",
+        "publishedAt": "Thu, 30 Jul 2026 18:20:25 GMT",
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdDlXeVJqcjR0Y2xJaWNmX1FOUmhhRXl0czFMNzMtendhekdfcm1JWVpra0pqQmVfWlFRZzFNNTBpQVFtaDVDN09odFc1T01ZNUdvTzZMNFdIbXlQR1I2WTFZdVczVmRFcXJZWDE4VUE2RGQ1YWt3Nl9Fa1l2ZlI3aVA4TkE2ZU16cEpzTk11QndOODA?oc=5",
+        "score": 0
+      },
       {
         "title": "A divided Federal Reserve holds interest rates steady despite high inflation - NPR",
         "summary": "A divided Federal Reserve holds interest rates steady despite high inflation &nbsp;&nbsp; NPR",
         "publishedAt": "Wed, 29 Jul 2026 09:00:00 GMT",
         "source": "NPR",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbXhqTkhuVFhZUVVRaFdXYXp2OTJ2TXJtVEFFNEp6YVFLbUZKS25KT2JDaGdCbjdGWnVqRVN6NVBfMjI5SEwwU2F1VDF0VndmYWE0U1JzQnRwMjJhZjFNWU1vbjJ2WjduQ1F3cFQ1TVBSQllFUVotX2R4MEw2UXBtTWF1eEdUYjRjc1pBSU9n?oc=5",
-        "score": 0
-      },
-      {
-        "title": "Federal Reserve holds interest rates steady, but 3 officials vote for hike - CBS News",
-        "summary": "Federal Reserve holds interest rates steady, but 3 officials vote for hike &nbsp;&nbsp; CBS News",
-        "publishedAt": "Wed, 29 Jul 2026 18:03:00 GMT",
-        "source": "CBS News",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMmFhYi1fZEdkNzZpWnpMWmVnMGVrNlRXTnJJdTM4RWZDdHQtbGR3RW5ndmlNU3hTY252SGp1R0hCc1Y0S2pBMWlSN0xtQ1I4NWU1QnllLVh6LW5RcW9jd3BLZ21lSGpCUVpwNmxzMkFuU0JvSExzV0FZTGF6N0FGeDUxTVhjRE5s?oc=5",
-        "score": 0
-      },
-      {
-        "title": "Fed Holds Rates Steady but Three Officials Vote for Increase - wsj.com",
-        "summary": "Fed Holds Rates Steady but Three Officials Vote for Increase &nbsp;&nbsp; wsj.com",
-        "publishedAt": "Wed, 29 Jul 2026 20:57:00 GMT",
-        "source": "wsj.com",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbWprLW5qMWxhbDFjaU9XY183blpJX09mY0hSOXg3dTVxZ250OFp3cFNPekxFdFkxX09jTzNNNWlFNGtjQnduS2JYX3FPdTZSUVZiMDJZYlRyeXlIX19XaGprcFp5dnhjSWxiOUNZeG16WkJqZXF2dGRIbTI3YzFGR3ZOVXkwbzBpVTFSclNWRmx3OTRPdmg1RTNvQXYzb3p2aGcyMjB2NW9Hc24tYkdsMVgyb3Q?oc=5",
-        "score": 0
-      },
-      {
-        "title": "WATCH: Fed chair Warsh holds news conference after leaving interest rate unchanged - PBS",
-        "summary": "WATCH: Fed chair Warsh holds news conference after leaving interest rate unchanged &nbsp;&nbsp; PBS",
-        "publishedAt": "Wed, 29 Jul 2026 14:42:44 GMT",
-        "source": "PBS",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNR1BZa2dPa1lOcjNBSmF2MHFHcTNBTV9mQzZOZ3BzR1ZrekhVWUhzLWszajBVWExhYWxJUWJDejh4SjBTdFdobFk1Y1NlMEpad0I4cUtrY0o1VzhMYmNOX2tuWjF3dXhGbkFVOWJncnZDdEt2dUEydkhhX2pwQXZlaF96QTZ3Z2l3OURfN2lLaVRRcEFLejhVTGZVSEl4XzJLWmE0RmxKRy16Mkh2ZGJvbm0wMUExTU83dHVJUlRn0gHDAUFVX3lxTE9kWHZBeUc3cjFTeGNrQk5QeGl2cHpycW5zR19kQl9vbEY3MzdUX0ZCa2pmV0RNT1VSUElKTEhhNmRmaVVnc1k5R0V2RkhTYkJROUZ3YXZmVjlPSWZ5MWVTWkxYS1B3ai1BZnRVeTE5bmR6Mm01eHlDYlpJblAta3hYSnN5Tnhzc19ZRjJwUWVTZzNRQXd0MUJGU29NRko2aVVuTTByMndYeWU3bTRXNWpEeFBlVDF5RTBUU1VaQUdlT1RlRQ?oc=5",
-        "score": 0
-      },
-      {
-        "title": "Fed holds benchmark rate steady in vote with three dissents - Multifamily Dive",
-        "summary": "Fed holds benchmark rate steady in vote with three dissents &nbsp;&nbsp; Multifamily Dive",
-        "publishedAt": "Wed, 29 Jul 2026 21:22:15 GMT",
-        "source": "Multifamily Dive",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUnZ3akJZYXdNbDR3U3REVVRpYm5pWUZNRGM1ejd6VUF5QTlvRU9lSkVsMHd4RVFqbUFEUXZfbFFhZE0zTXBzNnIzVnhSTGlIRDhIeTNDVlNBcFJ5OWhZcHQweU9UalpLUVZhU3hGLWlUUkNPSlJZUGNPazBqdUFwMXIzQ1BQMGxFUlZhYTNMTHU3MVRJT0oxd3N4RWU?oc=5",
         "score": 0
       }
     ]
