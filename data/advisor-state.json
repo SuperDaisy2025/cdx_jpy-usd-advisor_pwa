@@ -1,5 +1,5 @@
 {
-  "generatedAtJst": "2026-07-31 09:14",
+  "generatedAtJst": "2026-08-01 09:10",
   "startingCapitalJpy": 1000000,
   "policy": {
     "basePair": "USD/JPY",
@@ -12,20 +12,20 @@
   "forecast": {
     "direction": "neutral",
     "directionLabel": "中立",
-    "confidence": 0.5,
+    "confidence": 0.51,
     "summary": "中立を基本シナリオにします。トレンド、IMM、ニュースが拮抗しているため、最大50%の制約内でも動かす量は抑えています。",
-    "score": 0.01,
+    "score": 0.032,
     "reasons": [
       "直近のUSD/JPYは157.690で、1つ前の観測値からの勢いを0.00として評価しました。",
       "IMMの円ポジションは-84,200で、前週比の変化を0.09として売買比率に反映しました。",
       "ニュースは中立寄りです。",
-      "レバレッジなし、最大移動比率50%のルールにより、今回の推奨比率は0%です。"
+      "レバレッジなし、最大移動比率50%のルールにより、今回の推奨比率は2%です。"
     ]
   },
   "recommendation": {
     "action": "HOLD",
-    "allocationRatio": 0,
-    "moveAmountJpy": 0,
+    "allocationRatio": 0.02,
+    "moveAmountJpy": 20000,
     "cashJpyAfterTrade": 1000000,
     "usdAfterTrade": 0
   },
@@ -88,8 +88,8 @@
     {
       "timeJst": "2026-06-28 08:00",
       "action": "様子見",
-      "ratio": 0,
-      "amountJpy": 0,
+      "ratio": 0.02,
+      "amountJpy": 20000,
       "usdJpy": 157.69,
       "totalJpy": 1000000
     }
@@ -114,46 +114,46 @@
   "news": {
     "provider": "Google News RSS",
     "summary": "ニュースは中立寄りです。",
-    "score": -0.108,
+    "score": 0,
     "items": [
       {
-        "title": "Japan carries out yen-buying intervention as US executes rate check - Nikkei Asia",
-        "summary": "Japan carries out yen-buying intervention as US executes rate check &nbsp;&nbsp; Nikkei Asia",
-        "publishedAt": "Thu, 30 Jul 2026 20:44:00 GMT",
-        "source": "Nikkei Asia",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOT2hQckhtdU42THVUNk9JaU1sNnk3eE9ROFN4MnliUHpBQUsteklqQjVJV1otSEdYakFZRUhINVo1OFdsUnQxa2g5amlvcndMOFlWR21PUExWZmQ0TFhPTVp6YjhxRDVaOVl1WF9Fb2xPTURha2hJZmtKZnlBZ0Y0dkdoS3dXMVdXc3BBbXJkeU1XckZ4OUxUWU1rM3h2Y0Nydm5HU2Q3enY5ZXBVbHA1bGdpc2hJbkpWUlpz?oc=5",
-        "score": -0.18
-      },
-      {
-        "title": "Japan’s yen jumps 3% as speculation over intervention swirls - Financial Times",
-        "summary": "Japan’s yen jumps 3% as speculation over intervention swirls &nbsp;&nbsp; Financial Times",
-        "publishedAt": "Thu, 30 Jul 2026 15:07:45 GMT",
-        "source": "Financial Times",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTTRiS3pGbDFnUEhkQU9TeTA4NVlqa1ZZWEpGZ0U1TDZ1WkhQR29jLWhMQ0tlVWdOWXVNWEhOSmhmTlhlMUlpa1JLR0lCX2hHSTdqODFwZktyUWpyQUdJUDNMb0Rpc3l3UWd4TGoyLWx0cXY2YzN2cVQyTkRYU3BtZ1FFdEc?oc=5",
-        "score": -0.18
-      },
-      {
-        "title": "Yen surges, analysts suspect official Japanese intervention - CNBC",
-        "summary": "Yen surges, analysts suspect official Japanese intervention &nbsp;&nbsp; CNBC",
-        "publishedAt": "Thu, 30 Jul 2026 01:27:00 GMT",
-        "source": "CNBC",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOF9mYzdienIxVVlqdkhYdWJKbXRzYTVLekRXTnBZRFF6bktqbFVhQzNHeXN5REwzYnVtS210cFFCUml3Zk4tek1Kek15eFBzOUp1Tl8tZ1hOSkJ3OW1XZEV5T2U4WE9aWWtxT0R3MUM4RkMwNlRfZ0pNRW90OHJXNURGdHlhekFpRTZfMkRtNFXSAZYBQVVfeXFMTU9yUGI3MmtDMnhFNElvOXlyS1RaSkJEQVZGNkNBVFo4aTk5U0N4cUJjYURjX2FLdHp3ZFdrdXBxOFladE5Td194R3ZvT1V6bngxZUE1NVpyRm45d3BPZzhCd3FQQ2pqNFBacXVMSlpQVWVTT1lVbEhxZ2Y1blNYd1VWaXlUeU1KcUk2cWNHVVI0ZUJSVFlB?oc=5",
-        "score": -0.18
-      },
-      {
-        "title": "Major central banks steer a cautious hiking path - Reuters",
-        "summary": "Major central banks steer a cautious hiking path &nbsp;&nbsp; Reuters",
-        "publishedAt": "Thu, 30 Jul 2026 18:20:25 GMT",
+        "title": "US Treasury informed banks that it may intervene in Japan's yen, source says - Reuters",
+        "summary": "US Treasury informed banks that it may intervene in Japan's yen, source says &nbsp;&nbsp; Reuters",
+        "publishedAt": "Fri, 31 Jul 2026 16:14:09 GMT",
         "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdDlXeVJqcjR0Y2xJaWNmX1FOUmhhRXl0czFMNzMtendhekdfcm1JWVpra0pqQmVfWlFRZzFNNTBpQVFtaDVDN09odFc1T01ZNUdvTzZMNFdIbXlQR1I2WTFZdVczVmRFcXJZWDE4VUE2RGQ1YWt3Nl9Fa1l2ZlI3aVA4TkE2ZU16cEpzTk11QndOODA?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdXpOeGRTaEJ5bzQ0eldfM0hpWFlCTUlsVGE4WHJhTFAtNTdwT0Y4R0tDSjBJX1lseXYxVnhDZ1FWRDRmZG05X3lFUl9JdnRBVDZEbHJma1NfdmMxbnNscm1SMmVfT0F4NXhhRGhoZlY4RlJfZDRrdXluMEJfWm1RODA2ek82a2poakpMMnRsZ0Mwd0JOQmV4SFczako3VnRzb1JXN2xCejdUdHJ3Mk5Tc0JkWnpxUXQwQzZr?oc=5",
         "score": 0
       },
       {
-        "title": "A divided Federal Reserve holds interest rates steady despite high inflation - NPR",
-        "summary": "A divided Federal Reserve holds interest rates steady despite high inflation &nbsp;&nbsp; NPR",
-        "publishedAt": "Wed, 29 Jul 2026 09:00:00 GMT",
-        "source": "NPR",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbXhqTkhuVFhZUVVRaFdXYXp2OTJ2TXJtVEFFNEp6YVFLbUZKS25KT2JDaGdCbjdGWnVqRVN6NVBfMjI5SEwwU2F1VDF0VndmYWE0U1JzQnRwMjJhZjFNWU1vbjJ2WjduQ1F3cFQ1TVBSQllFUVotX2R4MEw2UXBtTWF1eEdUYjRjc1pBSU9n?oc=5",
+        "title": "BPI Statement on Federal Reserve Regulation O Modernization Proposal - Bank Policy Institute",
+        "summary": "BPI Statement on Federal Reserve Regulation O Modernization Proposal &nbsp;&nbsp; Bank Policy Institute",
+        "publishedAt": "Fri, 31 Jul 2026 20:04:04 GMT",
+        "source": "Bank Policy Institute",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQ2x6QTNTV0pEdG5qSXhzWHNRQjg3bXRUUmRhYzZWTWdyaW1ua0JUeVpZYk5keHpLLVBWdG1ic3FkVHFkbWVkamZLT1l4ZkN3ZkxvemFXMGFFVy01VEsxakt3TW1DQ0YxUk9SUFVyaGRDT25rWUlfYkJpbEJQYUdmS3ZwWm1zR1RjaEQwQlBR?oc=5",
+        "score": 0
+      },
+      {
+        "title": "Statement on My FOMC Dissent - Federal Reserve Bank of Minneapolis",
+        "summary": "Statement on My FOMC Dissent &nbsp;&nbsp; Federal Reserve Bank of Minneapolis",
+        "publishedAt": "Fri, 31 Jul 2026 12:01:50 GMT",
+        "source": "Federal Reserve Bank of Minneapolis",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HM3JLX3RVbGNnd3d0RUthN2dRanMtWFFPd0drMDFyZDlIVnRFckJ3dlBSc1F1MVdkWExrQmlFRTg2REt1QWxaclAyZXNob2FsY0ZaV29hSXFuM3BpVnMxNE4zYlNyYnR3VFFJeWtXZDdEX295OUxOVkFDQmk?oc=5",
+        "score": 0
+      },
+      {
+        "title": "US Treasury warns banks it may intervene in yen - Financial Times",
+        "summary": "US Treasury warns banks it may intervene in yen &nbsp;&nbsp; Financial Times",
+        "publishedAt": "Fri, 31 Jul 2026 10:47:29 GMT",
+        "source": "Financial Times",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSnZOcHllaFNMdUl5LS1aYWhSczEydGFfX1U4bVhKZnJMS1hJREtCNG9jX0VLYmxYZ056M0hNSm9JaDFDNHpudi1PRXRqRTVPeEZ2c2ZHeW1Mc05RLUMyR1NWa1JoVHdCMW9vcEthNVVoQk8yX2VrWlAwU3lIcE01ckNOSXU?oc=5",
+        "score": 0
+      },
+      {
+        "title": "AI and Productivity: What Firms Are Saying on Earnings Calls - Federal Reserve Bank of St. Louis",
+        "summary": "AI and Productivity: What Firms Are Saying on Earnings Calls &nbsp;&nbsp; Federal Reserve Bank of St. Louis",
+        "publishedAt": "Fri, 31 Jul 2026 14:52:03 GMT",
+        "source": "Federal Reserve Bank of St. Louis",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbHFUQWR0MFZkcm56MFVvUzZLNlRhNXloYXdTaklWRkxXcXFNNDhyT0pkZXdDWDNval9CVlZvZXZXeGtVZjQ1SENlbDFGRmg1LWxxMDVzLWJJdndJbW5IWlZhcDE1WE9kdVhoU2pEdzhTdUdpejFhelBZcjVHNVVta0JHTTdFaXZxajZaRjNqY2k2TndYZHRpQkRGSm4?oc=5",
         "score": 0
       }
     ]
