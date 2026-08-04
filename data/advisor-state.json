@@ -1,5 +1,5 @@
 {
-  "generatedAtJst": "2026-08-03 09:10",
+  "generatedAtJst": "2026-08-04 09:15",
   "startingCapitalJpy": 1000000,
   "policy": {
     "basePair": "USD/JPY",
@@ -14,18 +14,18 @@
     "directionLabel": "中立",
     "confidence": 0.51,
     "summary": "中立を基本シナリオにします。トレンド、IMM、ニュースが拮抗しているため、最大50%の制約内でも動かす量は抑えています。",
-    "score": 0.032,
+    "score": 0.017,
     "reasons": [
       "直近のUSD/JPYは157.690で、1つ前の観測値からの勢いを0.00として評価しました。",
       "IMMの円ポジションは-84,200で、前週比の変化を0.09として売買比率に反映しました。",
       "ニュースは中立寄りです。",
-      "レバレッジなし、最大移動比率50%のルールにより、今回の推奨比率は2%です。"
+      "レバレッジなし、最大移動比率50%のルールにより、今回の推奨比率は1%です。"
     ]
   },
   "recommendation": {
     "action": "HOLD",
-    "allocationRatio": 0.02,
-    "moveAmountJpy": 20000,
+    "allocationRatio": 0.01,
+    "moveAmountJpy": 10000,
     "cashJpyAfterTrade": 1000000,
     "usdAfterTrade": 0
   },
@@ -88,8 +88,8 @@
     {
       "timeJst": "2026-06-28 08:00",
       "action": "様子見",
-      "ratio": 0.02,
-      "amountJpy": 20000,
+      "ratio": 0.01,
+      "amountJpy": 10000,
       "usdJpy": 157.69,
       "totalJpy": 1000000
     }
@@ -114,47 +114,47 @@
   "news": {
     "provider": "Google News RSS",
     "summary": "ニュースは中立寄りです。",
-    "score": 0,
+    "score": -0.072,
     "items": [
       {
-        "title": "U.S. joins Japan in coordinated effort to support yen - upi.com",
-        "summary": "U.S. joins Japan in coordinated effort to support yen &nbsp;&nbsp; upi.com",
-        "publishedAt": "Sun, 02 Aug 2026 22:56:45 GMT",
-        "source": "upi.com",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPLWpEVU12Ylc1Wk9ha2plcjVRdmJMbDFnZnZuQ3I2T2tGX1lfNHNKUGJNTU1wOW05Y0FwVzFMZFBuNS1TY2lYSGpsTzluNUl5OC1wT2tZSkFCUUhoRjktaVNVMzl6NWo4YV8xRWV6SVY1dzViMGN1dER6bVlMejl2TzV1aFhXbGQtR2ZVeUZ2NUNKdW9pUU5FUzF6cGtCM2ZjeFcwMHlLbUZZR1huUFJYYmM0S1FYZGpIeUh3M1g5dnh4RlZpakdYcNIBzgFBVV95cUxQWTFRWV9KOHFuTUU4eVppS2dpcmlUOWdOQ3I1dllESE1lZElhSmtNbmpGV2hZSV9vdE16YmEwS21keEJJQ2ZaQm5PZHlaZE9YQ1c4cHlSUXJyR014SEFTazZtdzF4MlRzSzEwVFdvY2laVGZvRFhJYzV2RjBXdjB3NTh6VnN2Sk9nTXVDY3VTR2c0X3hJZ3Z2YjNLLU13VXJ1VVN0UzdPbmc1VFYyQTk4d2pNdFRpOWZJZWlfdmhBY1ZZX2NTa0RlX1JIcW5SQQ?oc=5",
-        "score": 0
-      },
-      {
-        "title": "U.S. Treasury intervenes to support yen after Japan steps in, FT reports - CNBC",
-        "summary": "U.S. Treasury intervenes to support yen after Japan steps in, FT reports &nbsp;&nbsp; CNBC",
-        "publishedAt": "Sat, 01 Aug 2026 15:44:08 GMT",
+        "title": "Analysis: Federal Reserve may be pulled into Bessent’s effort to support Japan’s yen - CNBC",
+        "summary": "Analysis: Federal Reserve may be pulled into Bessent’s effort to support Japan’s yen &nbsp;&nbsp; CNBC",
+        "publishedAt": "Mon, 03 Aug 2026 22:40:32 GMT",
         "source": "CNBC",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaGZCUXRYYzhqTmNhWEVuX0RpNG1seWRnUENINzdScW9TOFhiSS1SdTNTWVNEeUpxQVlRZW5PQndtRmZpcF9sUDRsNDg3NDdfemtWX3N6WXp1Wk9CYUVGUFZ5TzlHbDRuZUt5VWV2R0EwRTEyb01kT2ZMY043R3lCSFFEOEJHbFNnbFRkSlhfeEQ3c3Z1R1hTOUZnQWtwNEXSAaQBQVVfeXFMTjJkZEJyLUllajlMT2s4d1dVNkQ1S3NGMnhuSFVhWEZRVXhHTVBaZ0NRUkVCaHgtc2RFMC1Mamlidl84cTA5ZGV4dUVmaTNMODRaaU1aOTIwbGVNZWVPdXNELVNwd0JGRGdLeC1Bbl9TN2xGc3lfVTJLSExyNGxZOFF3WjV3ZlE4bmRMaUJ3LUluUnQ0WFBiNzJEUmJIYTI2aDYwUFo?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSW5YaEN0SzRlN2cxVTNqV3NuV2VIVS1WUXh5dGdRSG9kOWg5eGhQaVRZUExWN0tiYWl0VEZrM3Rzbk1ENVhXMVp1YzdkaFREQkd1S0RIVVdjZzFwS3BvbGtNd0dYbEhlVlExQ3hnZHE3UkFpY2tRbXN2UW0zTS03SmRhZw?oc=5",
         "score": 0
       },
       {
-        "title": "US Treasury informed banks that it may intervene in Japan's yen, source says - Reuters",
-        "summary": "US Treasury informed banks that it may intervene in Japan's yen, source says &nbsp;&nbsp; Reuters",
-        "publishedAt": "Fri, 31 Jul 2026 16:14:09 GMT",
+        "title": "Why the U.S. Stepped In to Prop Up Japan’s Yen Currency - Time Magazine",
+        "summary": "Why the U.S. Stepped In to Prop Up Japan’s Yen Currency &nbsp;&nbsp; Time Magazine",
+        "publishedAt": "Mon, 03 Aug 2026 14:37:16 GMT",
+        "source": "Time Magazine",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObzdFZS1YVnZBQUZuYVBqdzR0Smp2aEViYk5EbjhLUVBfaUJ1d2tnemhQZjNCaFlDN2EtU2h6bDNLZ1RKWjBVX0s3UU5oNVNPQlFUQ2pweF9oRFdJYVFEdmlwTl8zVU5zekdySlVkSDNoX2dDbFBaUjhRSzlUYTB2bW5ZMWZGY0JEV1kxWS1ReXMyQVk5?oc=5",
+        "score": 0
+      },
+      {
+        "title": "US Treasury undertakes historic intervention in yen market - Financial Times",
+        "summary": "US Treasury undertakes historic intervention in yen market &nbsp;&nbsp; Financial Times",
+        "publishedAt": "Sat, 01 Aug 2026 15:26:31 GMT",
+        "source": "Financial Times",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSnZOcHllaFNMdUl5LS1aYWhSczEydGFfX1U4bVhKZnJMS1hJREtCNG9jX0VLYmxYZ056M0hNSm9JaDFDNHpudi1PRXRqRTVPeEZ2c2ZHeW1Mc05RLUMyR1NWa1JoVHdCMW9vcEthNVVoQk8yX2VrWlAwU3lIcE01ckNOSXU?oc=5",
+        "score": -0.18
+      },
+      {
+        "title": "How a US-Japan pact to hit yen speculators came together - Reuters",
+        "summary": "How a US-Japan pact to hit yen speculators came together &nbsp;&nbsp; Reuters",
+        "publishedAt": "Mon, 03 Aug 2026 10:45:22 GMT",
         "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdXpOeGRTaEJ5bzQ0eldfM0hpWFlCTUlsVGE4WHJhTFAtNTdwT0Y4R0tDSjBJX1lseXYxVnhDZ1FWRDRmZG05X3lFUl9JdnRBVDZEbHJma1NfdmMxbnNscm1SMmVfT0F4NXhhRGhoZlY4RlJfZDRrdXluMEJfWm1RODA2ek82a2poakpMMnRsZ0Mwd0JOQmV4SFczako3VnRzb1JXN2xCejdUdHJ3Mk5Tc0JkWnpxUXQwQzZr?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTVc2aE9tRUtDd09oX2FUcm54aklBdVp3OURuY0VqenlVYXhodWl0RVIxWWt1blI0Ulc2YTg1amhSSXlhdTNZXzNqR0phd2I0cmZPaHk0TU45ek5CM1Q5b1JoaGkyS1VxaHZOMHpTMDl6UlAxSE5oSm5DZDFjc0xIS2pJZ3dFSG9neW5hRnU2UzgtTFFId3c3bjd1QlByaXE1QU8ydVF4dXFlZw?oc=5",
         "score": 0
       },
       {
-        "title": "Federal Reserve Holds Rates at 3.50%-3.75% in July 2026 - usbank.com",
-        "summary": "Federal Reserve Holds Rates at 3.50%-3.75% in July 2026 &nbsp;&nbsp; usbank.com",
-        "publishedAt": "Wed, 29 Jul 2026 07:00:00 GMT",
-        "source": "usbank.com",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw?oc=5",
-        "score": 0
-      },
-      {
-        "title": "Bessent joins Japan to help reverse months of yen losses - Fortune",
-        "summary": "Bessent joins Japan to help reverse months of yen losses &nbsp;&nbsp; Fortune",
-        "publishedAt": "Sat, 01 Aug 2026 15:05:00 GMT",
-        "source": "Fortune",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQXzlac3ItaWZNYUNTaXZYVEtCY0FQRGFlLUdPdzBLaUJPMUgtZ1VGLThSNmZJeHpTVkJuUEt2Mk5nT0hKRWt0TXd4UlRXampnYVhQcDM4RVJiSzJXS2xEQ18tNk5WdnJ0VU9TN0ZDaGU2a1Zkb0lkVno5SzUwNXU5X003YVJ5Y2dsUEVJZGF3?oc=5",
-        "score": 0
+        "title": "Dollar sinks against yen after Trump administration intervention - The Hill",
+        "summary": "Dollar sinks against yen after Trump administration intervention &nbsp;&nbsp; The Hill",
+        "publishedAt": "Mon, 03 Aug 2026 13:40:00 GMT",
+        "source": "The Hill",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pQW9HSlYzQ0ltTmtRQ0NYbDVZVG9kVGQ3b3p1ZHd4MFR3T3dqMjJiaXlaUFNtZlNCWEV1b2xXbG9wdGlyLUc1MXhoU2RiVGtNOXVSd3pKaTRfUllCQjlVSkZSSGJERE9qT2hmcTN6ZnVvTzBVeGJPZVRraUtFMVnSAYQBQVVfeXFMTldMNUQ4ZWp0eHNNLXVMMU9tQ01QQmYxM1RtSjZQOU1MQmhOa1JHOEdUejNMSDhkR1FIS0IycF9yTU9sX0VGbzc2Z3owclJQTHdUSE1FSW1RWGxiOTlvendHZDF0TWlFUzlYODdvRmtIdHhNc1drdUxvTUZoM3F2NmJXRjJO?oc=5",
+        "score": -0.18
       }
     ]
   },
