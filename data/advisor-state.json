@@ -1,5 +1,5 @@
 {
-  "generatedAtJst": "2026-08-04 09:15",
+  "generatedAtJst": "2026-08-05 09:13",
   "startingCapitalJpy": 1000000,
   "policy": {
     "basePair": "USD/JPY",
@@ -14,18 +14,18 @@
     "directionLabel": "中立",
     "confidence": 0.51,
     "summary": "中立を基本シナリオにします。トレンド、IMM、ニュースが拮抗しているため、最大50%の制約内でも動かす量は抑えています。",
-    "score": 0.017,
+    "score": 0.032,
     "reasons": [
       "直近のUSD/JPYは157.690で、1つ前の観測値からの勢いを0.00として評価しました。",
       "IMMの円ポジションは-84,200で、前週比の変化を0.09として売買比率に反映しました。",
       "ニュースは中立寄りです。",
-      "レバレッジなし、最大移動比率50%のルールにより、今回の推奨比率は1%です。"
+      "レバレッジなし、最大移動比率50%のルールにより、今回の推奨比率は2%です。"
     ]
   },
   "recommendation": {
     "action": "HOLD",
-    "allocationRatio": 0.01,
-    "moveAmountJpy": 10000,
+    "allocationRatio": 0.02,
+    "moveAmountJpy": 20000,
     "cashJpyAfterTrade": 1000000,
     "usdAfterTrade": 0
   },
@@ -88,8 +88,8 @@
     {
       "timeJst": "2026-06-28 08:00",
       "action": "様子見",
-      "ratio": 0.01,
-      "amountJpy": 10000,
+      "ratio": 0.02,
+      "amountJpy": 20000,
       "usdJpy": 157.69,
       "totalJpy": 1000000
     }
@@ -114,47 +114,47 @@
   "news": {
     "provider": "Google News RSS",
     "summary": "ニュースは中立寄りです。",
-    "score": -0.072,
+    "score": 0,
     "items": [
       {
-        "title": "Analysis: Federal Reserve may be pulled into Bessent’s effort to support Japan’s yen - CNBC",
-        "summary": "Analysis: Federal Reserve may be pulled into Bessent’s effort to support Japan’s yen &nbsp;&nbsp; CNBC",
+        "title": "Analysis: How Bessent is pushing Warsh’s Fed to expand backstop for Japan’s yen defense - CNBC",
+        "summary": "Analysis: How Bessent is pushing Warsh’s Fed to expand backstop for Japan’s yen defense &nbsp;&nbsp; CNBC",
         "publishedAt": "Mon, 03 Aug 2026 22:40:32 GMT",
         "source": "CNBC",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSW5YaEN0SzRlN2cxVTNqV3NuV2VIVS1WUXh5dGdRSG9kOWg5eGhQaVRZUExWN0tiYWl0VEZrM3Rzbk1ENVhXMVp1YzdkaFREQkd1S0RIVVdjZzFwS3BvbGtNd0dYbEhlVlExQ3hnZHE3UkFpY2tRbXN2UW0zTS03SmRhZw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSW5YaEN0SzRlN2cxVTNqV3NuV2VIVS1WUXh5dGdRSG9kOWg5eGhQaVRZUExWN0tiYWl0VEZrM3Rzbk1ENVhXMVp1YzdkaFREQkd1S0RIVVdjZzFwS3BvbGtNd0dYbEhlVlExQ3hnZHE3UkFpY2tRbXN2UW0zTS03SmRhZ9IBiAFBVV95cUxNUFBNVEFfX0NidzJ1b05fMUNKWDd4N05GVHVhcDJQMjA1QWtVX3JGTkhBYXAzeTZNYTZpdDhtQ1NQNjJtQ3hGeXpwWnJEOFMyZEtpWGhxbnJVOENPREJGSGZUZkt0Smc5M3Fldy1QQlBtc1ZSR296enJWVU9LSE8teGtnRVBlcGt5?oc=5",
         "score": 0
       },
       {
-        "title": "Why the U.S. Stepped In to Prop Up Japan’s Yen Currency - Time Magazine",
-        "summary": "Why the U.S. Stepped In to Prop Up Japan’s Yen Currency &nbsp;&nbsp; Time Magazine",
-        "publishedAt": "Mon, 03 Aug 2026 14:37:16 GMT",
-        "source": "Time Magazine",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObzdFZS1YVnZBQUZuYVBqdzR0Smp2aEViYk5EbjhLUVBfaUJ1d2tnemhQZjNCaFlDN2EtU2h6bDNLZ1RKWjBVX0s3UU5oNVNPQlFUQ2pweF9oRFdJYVFEdmlwTl8zVU5zekdySlVkSDNoX2dDbFBaUjhRSzlUYTB2bW5ZMWZGY0JEV1kxWS1ReXMyQVk5?oc=5",
+        "title": "Market Minute: Why did Japan and the U.S. prop up the yen? - The Real Economy Blog",
+        "summary": "Market Minute: Why did Japan and the U.S. prop up the yen? &nbsp;&nbsp; The Real Economy Blog",
+        "publishedAt": "Tue, 04 Aug 2026 10:00:29 GMT",
+        "source": "The Real Economy Blog",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRXBXUG5yYkl4bHozajdUVmNpZWZfS2p2bXJUZEVYRDF6N1lpM0x4VkdEREhocFEtdUFFa0w2eEpnSmtoXzc5WnJtZjdsWFBHRHRTY0k4Tjc3cHlOeWgtaERRUGtEVnhYN3NjVGxVRGl4RXFzT2x6a2V1Sk9VMjNMOG5CV1dyRDNpMzVHdG5rUVBIVVRCZmVNdjVqUk8yUQ?oc=5",
         "score": 0
       },
       {
-        "title": "US Treasury undertakes historic intervention in yen market - Financial Times",
-        "summary": "US Treasury undertakes historic intervention in yen market &nbsp;&nbsp; Financial Times",
-        "publishedAt": "Sat, 01 Aug 2026 15:26:31 GMT",
-        "source": "Financial Times",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSnZOcHllaFNMdUl5LS1aYWhSczEydGFfX1U4bVhKZnJMS1hJREtCNG9jX0VLYmxYZ056M0hNSm9JaDFDNHpudi1PRXRqRTVPeEZ2c2ZHeW1Mc05RLUMyR1NWa1JoVHdCMW9vcEthNVVoQk8yX2VrWlAwU3lIcE01ckNOSXU?oc=5",
-        "score": -0.18
+        "title": "Parsing the Relationship between Demographics and Inflation - Atlanta - Federal Reserve Bank",
+        "summary": "Parsing the Relationship between Demographics and Inflation &nbsp;&nbsp; Atlanta - Federal Reserve Bank",
+        "publishedAt": "Tue, 04 Aug 2026 14:43:52 GMT",
+        "source": "Atlanta - Federal Reserve Bank",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUjdoM3AxSFBmTkhRcEIydzJ3Ni1EVklhUzBkNGN2YWdDMkJiUzRSY3JHVm84M2s0X21lSVpEX1RjTDBzYThKSWVFekwzTndfaG03RldENk1xdkpOU3J5dGJoeGRCNjFJUDhvanhpajdkV3I2M3ZZV0U2SF9iRXdGak9YeEd5QUgwUWFqOGxFWlhZWWZrcWEycmx3OTd3aGxDSE54ZmV3LTBjNmR3c3Z5RVJoeEFUbGMzclcwMjFPTXhvczJjWWczcTNVTTZCeGNQakxId0RCa1plV3YyeGc?oc=5",
+        "score": 0
       },
       {
-        "title": "How a US-Japan pact to hit yen speculators came together - Reuters",
-        "summary": "How a US-Japan pact to hit yen speculators came together &nbsp;&nbsp; Reuters",
-        "publishedAt": "Mon, 03 Aug 2026 10:45:22 GMT",
+        "title": "Federal Reserve Board and FDIC Propose to Modernize Insider Lending Rules by Updating Regulation O Thresholds - Consumer Finance Monitor",
+        "summary": "Federal Reserve Board and FDIC Propose to Modernize Insider Lending Rules by Updating Regulation O Thresholds &nbsp;&nbsp; Consumer Finance Monitor",
+        "publishedAt": "Tue, 04 Aug 2026 13:54:01 GMT",
+        "source": "Consumer Finance Monitor",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxObjhEam1mUHNOeHhOM3E5M0FMWC1tM19sX3lDUlpaWWc3UG1HUXk0WlQyWkhQNkJoYkxIRjhBRDV4NnVYY0tyVWEwcVBWS0RPaGYwQTdZVFhudDhBZGRRdWhBeU85RU1Kdzhhc0JwdG50c1pfVlR6Mm9VM1psbWFDdEx0elYtUkYyb2pzWFVjeUt6OFczclM4VnZzX3R0dld6Z3F1RFYtR2h2OTRxcWw0Vi1aYzEzZ1dxUURCejhkWHdON01ieTF2eklXX0xuOEhHQ0VkeDRqOV9Jay1NWXptMEZIWnNmWGdISjVYVU9IQ0Z1QQ?oc=5",
+        "score": 0
+      },
+      {
+        "title": "Breakingviews - US-Japan yen team-up worsens BOJ dilemma - Reuters",
+        "summary": "Breakingviews - US-Japan yen team-up worsens BOJ dilemma &nbsp;&nbsp; Reuters",
+        "publishedAt": "Mon, 03 Aug 2026 05:27:00 GMT",
         "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTVc2aE9tRUtDd09oX2FUcm54aklBdVp3OURuY0VqenlVYXhodWl0RVIxWWt1blI0Ulc2YTg1amhSSXlhdTNZXzNqR0phd2I0cmZPaHk0TU45ek5CM1Q5b1JoaGkyS1VxaHZOMHpTMDl6UlAxSE5oSm5DZDFjc0xIS2pJZ3dFSG9neW5hRnU2UzgtTFFId3c3bjd1QlByaXE1QU8ydVF4dXFlZw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQelRsZk5LdWdvWk1PT2FPM0lHR3ZTZ3RCczR4YUtuMU9rQXpKNDBpRVlZNjZ6TzZrM2loTkFNSFlNVmF5cENXTWQyUzlDR0lLYlhGSGJxMGtaWUFLSnpTTkEyZEdCMU05MVlEMWtfU2p2bWdsOEJwRURXNVJWTElYVWNlcFpIMHNrWlVTS1p3NEFkamRzVWYwc1J2a1RtbzlReFBF?oc=5",
         "score": 0
-      },
-      {
-        "title": "Dollar sinks against yen after Trump administration intervention - The Hill",
-        "summary": "Dollar sinks against yen after Trump administration intervention &nbsp;&nbsp; The Hill",
-        "publishedAt": "Mon, 03 Aug 2026 13:40:00 GMT",
-        "source": "The Hill",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pQW9HSlYzQ0ltTmtRQ0NYbDVZVG9kVGQ3b3p1ZHd4MFR3T3dqMjJiaXlaUFNtZlNCWEV1b2xXbG9wdGlyLUc1MXhoU2RiVGtNOXVSd3pKaTRfUllCQjlVSkZSSGJERE9qT2hmcTN6ZnVvTzBVeGJPZVRraUtFMVnSAYQBQVVfeXFMTldMNUQ4ZWp0eHNNLXVMMU9tQ01QQmYxM1RtSjZQOU1MQmhOa1JHOEdUejNMSDhkR1FIS0IycF9yTU9sX0VGbzc2Z3owclJQTHdUSE1FSW1RWGxiOTlvendHZDF0TWlFUzlYODdvRmtIdHhNc1drdUxvTUZoM3F2NmJXRjJO?oc=5",
-        "score": -0.18
       }
     ]
   },
