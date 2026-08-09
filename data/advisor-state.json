@@ -1,5 +1,5 @@
 {
-  "generatedAtJst": "2026-08-09 08:42",
+  "generatedAtJst": "2026-08-10 08:44",
   "startingCapitalJpy": 1000000,
   "policy": {
     "basePair": "USD/JPY",
@@ -14,18 +14,18 @@
     "directionLabel": "中立",
     "confidence": 0.51,
     "summary": "中立を基本シナリオにします。トレンド、IMM、ニュースが拮抗しているため、最大50%の制約内でも動かす量は抑えています。",
-    "score": 0.032,
+    "score": 0.017,
     "reasons": [
       "直近のUSD/JPYは157.690で、1つ前の観測値からの勢いを0.00として評価しました。",
       "IMMの円ポジションは-84,200で、前週比の変化を0.09として売買比率に反映しました。",
       "ニュースは中立寄りです。",
-      "レバレッジなし、最大移動比率50%のルールにより、今回の推奨比率は2%です。"
+      "レバレッジなし、最大移動比率50%のルールにより、今回の推奨比率は1%です。"
     ]
   },
   "recommendation": {
     "action": "HOLD",
-    "allocationRatio": 0.02,
-    "moveAmountJpy": 20000,
+    "allocationRatio": 0.01,
+    "moveAmountJpy": 10000,
     "cashJpyAfterTrade": 1000000,
     "usdAfterTrade": 0
   },
@@ -88,8 +88,8 @@
     {
       "timeJst": "2026-06-28 08:00",
       "action": "様子見",
-      "ratio": 0.02,
-      "amountJpy": 20000,
+      "ratio": 0.01,
+      "amountJpy": 10000,
       "usdJpy": 157.69,
       "totalJpy": 1000000
     }
@@ -114,15 +114,31 @@
   "news": {
     "provider": "Google News RSS",
     "summary": "ニュースは中立寄りです。",
-    "score": 0,
+    "score": -0.072,
     "items": [
       {
-        "title": "Analysis: How Bessent is pushing Warsh’s Fed to expand backstop for Japan’s yen defense - cnbc.com",
-        "summary": "Analysis: How Bessent is pushing Warsh’s Fed to expand backstop for Japan’s yen defense &nbsp;&nbsp; cnbc.com",
+        "title": "Analysis: How Bessent is pushing Warsh’s Fed to expand backstop for Japan’s yen defense - CNBC",
+        "summary": "Analysis: How Bessent is pushing Warsh’s Fed to expand backstop for Japan’s yen defense &nbsp;&nbsp; CNBC",
         "publishedAt": "Mon, 03 Aug 2026 22:40:32 GMT",
-        "source": "cnbc.com",
+        "source": "CNBC",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSW5YaEN0SzRlN2cxVTNqV3NuV2VIVS1WUXh5dGdRSG9kOWg5eGhQaVRZUExWN0tiYWl0VEZrM3Rzbk1ENVhXMVp1YzdkaFREQkd1S0RIVVdjZzFwS3BvbGtNd0dYbEhlVlExQ3hnZHE3UkFpY2tRbXN2UW0zTS03SmRhZ9IBiAFBVV95cUxNUFBNVEFfX0NidzJ1b05fMUNKWDd4N05GVHVhcDJQMjA1QWtVX3JGTkhBYXAzeTZNYTZpdDhtQ1NQNjJtQ3hGeXpwWnJEOFMyZEtpWGhxbnJVOENPREJGSGZUZkt0Smc5M3Fldy1QQlBtc1ZSR296enJWVU9LSE8teGtnRVBlcGt5?oc=5",
         "score": 0
+      },
+      {
+        "title": "By propping up the yen, the US and Japan are admitting dollar dominance isn't what it used to be - Fortune",
+        "summary": "By propping up the yen, the US and Japan are admitting dollar dominance isn't what it used to be &nbsp;&nbsp; Fortune",
+        "publishedAt": "Sun, 09 Aug 2026 22:33:00 GMT",
+        "source": "Fortune",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQkc5UURETG9RRThRUlhGRjJlN0Z4bzJMdURXVWFZZ3lCOU9JNkxMbFh5dUZXaV9BT1dFdmJ2cjNxTDBTSUxyMHVmSDVaVjRudGFKU2EtWVZsV1ZETmo2MXdYZWRJVEx6TE1yMGhPX2hiT2JIZ1MtSUVDNk00c1NxdV9WMUNUNDNxYkthMWJNcURuaE9kMmdRY2hnTW5PV2pPV1BxM3VWTHQwcXJtT0VwZVNaUkhwdWVw?oc=5",
+        "score": 0
+      },
+      {
+        "title": "Japan’s yen intervention and unusual US support - OMFIF",
+        "summary": "Japan’s yen intervention and unusual US support &nbsp;&nbsp; OMFIF",
+        "publishedAt": "Fri, 07 Aug 2026 16:19:01 GMT",
+        "source": "OMFIF",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbjhvbWVfSnpOdzV6ZTh5WmY4QnNQX2wyMHlSa09fRVowUGZtZDdNS0JVZmtlSkxJNlI0MFdHOHhZeUh0U3ZWYVVZVktHY0NvY1ZCS19WellEQzd1cnZwQUFIWGVSdG44clExRjhOanBQdzUzbXRIVEFET2lSdzdnQWh6dlJ2cVhS?oc=5",
+        "score": -0.18
       },
       {
         "title": "Santander Receives Federal Reserve Approval for the Acquisition of Webster Financial Corporation - santander.com",
@@ -133,28 +149,12 @@
         "score": 0
       },
       {
-        "title": "The Dollar Boomerang Threat: Washington’s Motivations to Support the Yen - cfr.org",
-        "summary": "The Dollar Boomerang Threat: Washington’s Motivations to Support the Yen &nbsp;&nbsp; cfr.org",
-        "publishedAt": "Wed, 05 Aug 2026 09:00:00 GMT",
-        "source": "cfr.org",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORU5PVmZNTEJTeFhOYWxiaGVtUFBJU2xGSlhUZmRYcy1JVlB4X0x3OTJoaE9iM28tZk9ZSmNOUm9XQ1hLUENXcHFpY1RrdVhTcUl2dENMOEd0VnZuME5jSjBOdUNJWFVrOXhHRjNPRVNrNHF0SW1kSXR0ZGZfOXdfRURHeHB6a3lpUm5iTFFSajhOX2pmYmY2Zkt6aEhaZG1V?oc=5",
-        "score": 0
-      },
-      {
-        "title": "Federal Reserve Approves Acquisition Creating 19th-Largest U.S. Bank - jdsupra.com",
-        "summary": "Federal Reserve Approves Acquisition Creating 19th-Largest U.S. Bank &nbsp;&nbsp; jdsupra.com",
-        "publishedAt": "Fri, 07 Aug 2026 18:20:07 GMT",
-        "source": "jdsupra.com",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQd3k2YXJEdngxVmk0cnZySEtZX0g2Y0lTYWpxVFFaTlE5LVFiMUd6c1lBWGNyOUJKWmlFUy1IWnd1aWFZcU9ZZWxYaHo4VXZ4eVdXd1pJclNzdkNySFBISThvS1gySmd1eTNlMXFNX09pTXNETWlvVVNGQlNraTVKckw3emVhZw?oc=5",
-        "score": 0
-      },
-      {
-        "title": "Federal Reserve Board and FDIC Propose to Modernize Insider Lending Rules by Updating Regulation O Thresholds - Consumer Finance Monitor",
-        "summary": "Federal Reserve Board and FDIC Propose to Modernize Insider Lending Rules by Updating Regulation O Thresholds &nbsp;&nbsp; Consumer Finance Monitor",
-        "publishedAt": "Tue, 04 Aug 2026 13:54:01 GMT",
-        "source": "Consumer Finance Monitor",
-        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxObjhEam1mUHNOeHhOM3E5M0FMWC1tM19sX3lDUlpaWWc3UG1HUXk0WlQyWkhQNkJoYkxIRjhBRDV4NnVYY0tyVWEwcVBWS0RPaGYwQTdZVFhudDhBZGRRdWhBeU85RU1Kdzhhc0JwdG50c1pfVlR6Mm9VM1psbWFDdEx0elYtUkYyb2pzWFVjeUt6OFczclM4VnZzX3R0dld6Z3F1RFYtR2h2OTRxcWw0Vi1aYzEzZ1dxUURCejhkWHdON01ieTF2eklXX0xuOEhHQ0VkeDRqOV9Jay1NWXptMEZIWnNmWGdISjVYVU9IQ0Z1QQ?oc=5",
-        "score": 0
+        "title": "Japan's April yen intervention set daily record as pressure persists - Reuters",
+        "summary": "Japan's April yen intervention set daily record as pressure persists &nbsp;&nbsp; Reuters",
+        "publishedAt": "Fri, 07 Aug 2026 00:02:00 GMT",
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeVhydkl4SDN4bnhUZnhIb3dyQXVPb0NzaW5qeHlqQ1dkMTlPd2d6S0w1cnN3aVhtMUNVd2RCX0E1OFVoZnB0cElzU09DQzN0emNPNm1nZnRIVmR1b3B3dmI5cEQ3NDRXQ2FTV0Z0dEZkQ3NFNDNSRmI1QmZxeUdyNlNmUTloQjFRSEV5dlFyRmpVVVM5T0hVYllLdnNnVFpmdjljejl3aS1PSG16dzhoNFd4MWExQQ?oc=5",
+        "score": -0.18
       }
     ]
   },
