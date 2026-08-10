@@ -1,5 +1,5 @@
 {
-  "generatedAtJst": "2026-08-10 08:44",
+  "generatedAtJst": "2026-08-11 08:49",
   "startingCapitalJpy": 1000000,
   "policy": {
     "basePair": "USD/JPY",
@@ -14,7 +14,7 @@
     "directionLabel": "中立",
     "confidence": 0.51,
     "summary": "中立を基本シナリオにします。トレンド、IMM、ニュースが拮抗しているため、最大50%の制約内でも動かす量は抑えています。",
-    "score": 0.017,
+    "score": 0.024,
     "reasons": [
       "直近のUSD/JPYは157.690で、1つ前の観測値からの勢いを0.00として評価しました。",
       "IMMの円ポジションは-84,200で、前週比の変化を0.09として売買比率に反映しました。",
@@ -114,16 +114,8 @@
   "news": {
     "provider": "Google News RSS",
     "summary": "ニュースは中立寄りです。",
-    "score": -0.072,
+    "score": -0.036,
     "items": [
-      {
-        "title": "Analysis: How Bessent is pushing Warsh’s Fed to expand backstop for Japan’s yen defense - CNBC",
-        "summary": "Analysis: How Bessent is pushing Warsh’s Fed to expand backstop for Japan’s yen defense &nbsp;&nbsp; CNBC",
-        "publishedAt": "Mon, 03 Aug 2026 22:40:32 GMT",
-        "source": "CNBC",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSW5YaEN0SzRlN2cxVTNqV3NuV2VIVS1WUXh5dGdRSG9kOWg5eGhQaVRZUExWN0tiYWl0VEZrM3Rzbk1ENVhXMVp1YzdkaFREQkd1S0RIVVdjZzFwS3BvbGtNd0dYbEhlVlExQ3hnZHE3UkFpY2tRbXN2UW0zTS03SmRhZ9IBiAFBVV95cUxNUFBNVEFfX0NidzJ1b05fMUNKWDd4N05GVHVhcDJQMjA1QWtVX3JGTkhBYXAzeTZNYTZpdDhtQ1NQNjJtQ3hGeXpwWnJEOFMyZEtpWGhxbnJVOENPREJGSGZUZkt0Smc5M3Fldy1QQlBtc1ZSR296enJWVU9LSE8teGtnRVBlcGt5?oc=5",
-        "score": 0
-      },
       {
         "title": "By propping up the yen, the US and Japan are admitting dollar dominance isn't what it used to be - Fortune",
         "summary": "By propping up the yen, the US and Japan are admitting dollar dominance isn't what it used to be &nbsp;&nbsp; Fortune",
@@ -133,28 +125,36 @@
         "score": 0
       },
       {
-        "title": "Japan’s yen intervention and unusual US support - OMFIF",
-        "summary": "Japan’s yen intervention and unusual US support &nbsp;&nbsp; OMFIF",
-        "publishedAt": "Fri, 07 Aug 2026 16:19:01 GMT",
-        "source": "OMFIF",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbjhvbWVfSnpOdzV6ZTh5WmY4QnNQX2wyMHlSa09fRVowUGZtZDdNS0JVZmtlSkxJNlI0MFdHOHhZeUh0U3ZWYVVZVktHY0NvY1ZCS19WellEQzd1cnZwQUFIWGVSdG44clExRjhOanBQdzUzbXRIVEFET2lSdzdnQWh6dlJ2cVhS?oc=5",
+        "title": "Amid Yen Intervention, This Japan ETF Thrived - ETF Database",
+        "summary": "Amid Yen Intervention, This Japan ETF Thrived &nbsp;&nbsp; ETF Database",
+        "publishedAt": "Mon, 10 Aug 2026 17:32:25 GMT",
+        "source": "ETF Database",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOV0VaLXliU2dOYU8zMndrWG55VFlsZWltcFEzM2FsV3lmX2Y2UWZqTS1uQXlnekh0WjM0blRHS2dqd1h5Yk5XQWR3WEtuekM2aThlTl9iSS1WYlIyM2J5Y01ZN3NqSURKR3dMTGw4VmtpcEZmcy0yNG1rdTVDcm9QUEdRQ0VIRGs?oc=5",
         "score": -0.18
       },
       {
-        "title": "Santander Receives Federal Reserve Approval for the Acquisition of Webster Financial Corporation - santander.com",
-        "summary": "Santander Receives Federal Reserve Approval for the Acquisition of Webster Financial Corporation &nbsp;&nbsp; santander.com",
-        "publishedAt": "Wed, 05 Aug 2026 06:09:49 GMT",
-        "source": "santander.com",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQM1h0bHB1VTVNcDFZYjROMEFFNFBKTk1WMDBUMjA5b01FMWo5VmMwcG1HejJVU2NFUWZDVnRMNWJ0aXp4Z1J1Q0lrS3RKbHNqUGhWWkczcXh1SnctRFdidzhyM0hZRWhRT0l5T0gtZVEwRVhEN3FnakVfR19Gd2RYU2Vma2ZILXhxTmRnWmtURm1JeXFJVm05SG5GOHUyNzRVUXN4bWdWZy1HLUZlTjhvZmpydTBoWXNOM0FxZ0MtUlBaTENxeDJMU25JYS1VNUtpODFMZFZ1QXEycEpIUWd5ZjVoTUs4MVB5Tm1fOEhoTWY?oc=5",
+        "title": "Analysis: How Bessent is pushing Warsh’s Fed to expand backstop for Japan’s yen defense - cnbc.com",
+        "summary": "Analysis: How Bessent is pushing Warsh’s Fed to expand backstop for Japan’s yen defense &nbsp;&nbsp; cnbc.com",
+        "publishedAt": "Mon, 03 Aug 2026 22:40:32 GMT",
+        "source": "cnbc.com",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSW5YaEN0SzRlN2cxVTNqV3NuV2VIVS1WUXh5dGdRSG9kOWg5eGhQaVRZUExWN0tiYWl0VEZrM3Rzbk1ENVhXMVp1YzdkaFREQkd1S0RIVVdjZzFwS3BvbGtNd0dYbEhlVlExQ3hnZHE3UkFpY2tRbXN2UW0zTS03SmRhZ9IBiAFBVV95cUxNUFBNVEFfX0NidzJ1b05fMUNKWDd4N05GVHVhcDJQMjA1QWtVX3JGTkhBYXAzeTZNYTZpdDhtQ1NQNjJtQ3hGeXpwWnJEOFMyZEtpWGhxbnJVOENPREJGSGZUZkt0Smc5M3Fldy1QQlBtc1ZSR296enJWVU9LSE8teGtnRVBlcGt5?oc=5",
         "score": 0
       },
       {
-        "title": "Japan's April yen intervention set daily record as pressure persists - Reuters",
-        "summary": "Japan's April yen intervention set daily record as pressure persists &nbsp;&nbsp; Reuters",
-        "publishedAt": "Fri, 07 Aug 2026 00:02:00 GMT",
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeVhydkl4SDN4bnhUZnhIb3dyQXVPb0NzaW5qeHlqQ1dkMTlPd2d6S0w1cnN3aVhtMUNVd2RCX0E1OFVoZnB0cElzU09DQzN0emNPNm1nZnRIVmR1b3B3dmI5cEQ3NDRXQ2FTV0Z0dEZkQ3NFNDNSRmI1QmZxeUdyNlNmUTloQjFRSEV5dlFyRmpVVVM5T0hVYllLdnNnVFpmdjljejl3aS1PSG16dzhoNFd4MWExQQ?oc=5",
-        "score": -0.18
+        "title": "Federal Reserve Approves Acquisition Creating 19th-Largest U.S. Bank - JD Supra",
+        "summary": "Federal Reserve Approves Acquisition Creating 19th-Largest U.S. Bank &nbsp;&nbsp; JD Supra",
+        "publishedAt": "Fri, 07 Aug 2026 18:20:07 GMT",
+        "source": "JD Supra",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQd3k2YXJEdngxVmk0cnZySEtZX0g2Y0lTYWpxVFFaTlE5LVFiMUd6c1lBWGNyOUJKWmlFUy1IWnd1aWFZcU9ZZWxYaHo4VXZ4eVdXd1pJclNzdkNySFBISThvS1gySmd1eTNlMXFNX09pTXNETWlvVVNGQlNraTVKckw3emVhZw?oc=5",
+        "score": 0
+      },
+      {
+        "title": "Kolb appointed SVP of Risk and Compliance at the Minneapolis Fed - Federal Reserve Bank of Minneapolis",
+        "summary": "Kolb appointed SVP of Risk and Compliance at the Minneapolis Fed &nbsp;&nbsp; Federal Reserve Bank of Minneapolis",
+        "publishedAt": "Sun, 09 Aug 2026 07:00:00 GMT",
+        "source": "Federal Reserve Bank of Minneapolis",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZGxGaXhZTlY2QTYtYWFaQjVQUXRkTjlsT3FSaUJienI1R2JzLUlkcDJtcVBoNDdRRGRBMlNHb0FDd1FLdm8wYUlwd2NzUkhUSGtybHlsdThnS2ItLTR2SFhEU0dkOVNnQkhNQjA2QW4taUlwV0RxLURUbEM1eGEtZXR3M3JoQmtWdU1pMmdsQUZZc1NmamtkcFNxSWlzWTlIWWhLaldZTXpDMUg3cVdUYUkzbzE?oc=5",
+        "score": 0
       }
     ]
   },
