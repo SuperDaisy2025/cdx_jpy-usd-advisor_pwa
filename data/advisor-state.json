@@ -1,5 +1,5 @@
 {
-  "generatedAtJst": "2026-08-11 08:49",
+  "generatedAtJst": "2026-08-12 08:57",
   "startingCapitalJpy": 1000000,
   "policy": {
     "basePair": "USD/JPY",
@@ -14,18 +14,18 @@
     "directionLabel": "中立",
     "confidence": 0.51,
     "summary": "中立を基本シナリオにします。トレンド、IMM、ニュースが拮抗しているため、最大50%の制約内でも動かす量は抑えています。",
-    "score": 0.024,
+    "score": 0.032,
     "reasons": [
       "直近のUSD/JPYは157.690で、1つ前の観測値からの勢いを0.00として評価しました。",
       "IMMの円ポジションは-84,200で、前週比の変化を0.09として売買比率に反映しました。",
       "ニュースは中立寄りです。",
-      "レバレッジなし、最大移動比率50%のルールにより、今回の推奨比率は1%です。"
+      "レバレッジなし、最大移動比率50%のルールにより、今回の推奨比率は2%です。"
     ]
   },
   "recommendation": {
     "action": "HOLD",
-    "allocationRatio": 0.01,
-    "moveAmountJpy": 10000,
+    "allocationRatio": 0.02,
+    "moveAmountJpy": 20000,
     "cashJpyAfterTrade": 1000000,
     "usdAfterTrade": 0
   },
@@ -88,8 +88,8 @@
     {
       "timeJst": "2026-06-28 08:00",
       "action": "様子見",
-      "ratio": 0.01,
-      "amountJpy": 10000,
+      "ratio": 0.02,
+      "amountJpy": 20000,
       "usdJpy": 157.69,
       "totalJpy": 1000000
     }
@@ -114,46 +114,46 @@
   "news": {
     "provider": "Google News RSS",
     "summary": "ニュースは中立寄りです。",
-    "score": -0.036,
+    "score": 0,
     "items": [
       {
-        "title": "By propping up the yen, the US and Japan are admitting dollar dominance isn't what it used to be - Fortune",
-        "summary": "By propping up the yen, the US and Japan are admitting dollar dominance isn't what it used to be &nbsp;&nbsp; Fortune",
-        "publishedAt": "Sun, 09 Aug 2026 22:33:00 GMT",
-        "source": "Fortune",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQkc5UURETG9RRThRUlhGRjJlN0Z4bzJMdURXVWFZZ3lCOU9JNkxMbFh5dUZXaV9BT1dFdmJ2cjNxTDBTSUxyMHVmSDVaVjRudGFKU2EtWVZsV1ZETmo2MXdYZWRJVEx6TE1yMGhPX2hiT2JIZ1MtSUVDNk00c1NxdV9WMUNUNDNxYkthMWJNcURuaE9kMmdRY2hnTW5PV2pPV1BxM3VWTHQwcXJtT0VwZVNaUkhwdWVw?oc=5",
+        "title": "In trying to prop up the yen, the US wants to have its cake and eat it too - Peterson Institute for International Economics",
+        "summary": "In trying to prop up the yen, the US wants to have its cake and eat it too &nbsp;&nbsp; Peterson Institute for International Economics",
+        "publishedAt": "Tue, 11 Aug 2026 13:29:21 GMT",
+        "source": "Peterson Institute for International Economics",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQmwwSW9VYmw5Zk5Vc0VIcXZ1THFnNUxxaXR5eFlGQi0tVWY5b3FQWGw1VldhZER1OXZ1U3RUZU8yRVRWcE5JVjVBczQtNi1qaGJEcTEzZ3ZaTjlPUVhfbmhZRXk5YkRWb193c0Rfa2J1d1lxejZXTUI3OFcxUnFRaGhnNF9DNkpiNWFuMzd2akFBOUhUSEJkLVlxLWl6SUc2M3Q3NEw3Yw?oc=5",
         "score": 0
       },
       {
-        "title": "Amid Yen Intervention, This Japan ETF Thrived - ETF Database",
-        "summary": "Amid Yen Intervention, This Japan ETF Thrived &nbsp;&nbsp; ETF Database",
-        "publishedAt": "Mon, 10 Aug 2026 17:32:25 GMT",
-        "source": "ETF Database",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOV0VaLXliU2dOYU8zMndrWG55VFlsZWltcFEzM2FsV3lmX2Y2UWZqTS1uQXlnekh0WjM0blRHS2dqd1h5Yk5XQWR3WEtuekM2aThlTl9iSS1WYlIyM2J5Y01ZN3NqSURKR3dMTGw4VmtpcEZmcy0yNG1rdTVDcm9QUEdRQ0VIRGs?oc=5",
-        "score": -0.18
+        "title": "Inflation is the biggest problem, Fed's Goolsbee says - Reuters",
+        "summary": "Inflation is the biggest problem, Fed's Goolsbee says &nbsp;&nbsp; Reuters",
+        "publishedAt": "Tue, 11 Aug 2026 18:07:13 GMT",
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZDltR2o0ZVZseWpZbFpveU1hMUxTTjZCQ1lDa2FkMzNRR0VtRW5fMENiaHVyNWVnZ0UwcTkta1IwM05ON29kNjZMQ1dfNjktNnNrWlZPUHE5cVhfZjFoVjZaWERyMDBuWUxrMTZ0b1EybmZjMjIyMXpEdkZwdmF5dmNPeEVOaE5WelZSczMzSmwyRGdFSzNOcHVn?oc=5",
+        "score": 0
       },
       {
-        "title": "Analysis: How Bessent is pushing Warsh’s Fed to expand backstop for Japan’s yen defense - cnbc.com",
-        "summary": "Analysis: How Bessent is pushing Warsh’s Fed to expand backstop for Japan’s yen defense &nbsp;&nbsp; cnbc.com",
+        "title": "By propping up the yen, the U.S. and Japan are actually admitting dollar dominance isn’t what it used to be, top economist warns - Yahoo Finance",
+        "summary": "By propping up the yen, the U.S. and Japan are actually admitting dollar dominance isn’t what it used to be, top economist warns &nbsp;&nbsp; Yahoo Finance",
+        "publishedAt": "Sun, 09 Aug 2026 22:33:07 GMT",
+        "source": "Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZEUwaUFGaHJOdGVtLXRiMmUzMkt2SGhuQWtlUlR5RWlYTHVMRTlQT2NGWmFBUHBNUDgwYzRFWXlCV2o0OXFTUzhVRzR6Q1pFYnZNS0pRZGZjem1YSU1lWkY0bVF4ZkdCR1R2VG1sQ2ViUHZlTWhkN2VoeUEtb0Y5TVhZeW43bnhBRUgwNTZJQmtqU1BNNmVwS210Zm4wWlE?oc=5",
+        "score": 0
+      },
+      {
+        "title": "Analysis: How Bessent is pushing Warsh’s Fed to expand backstop for Japan’s yen defense - CNBC",
+        "summary": "Analysis: How Bessent is pushing Warsh’s Fed to expand backstop for Japan’s yen defense &nbsp;&nbsp; CNBC",
         "publishedAt": "Mon, 03 Aug 2026 22:40:32 GMT",
-        "source": "cnbc.com",
+        "source": "CNBC",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSW5YaEN0SzRlN2cxVTNqV3NuV2VIVS1WUXh5dGdRSG9kOWg5eGhQaVRZUExWN0tiYWl0VEZrM3Rzbk1ENVhXMVp1YzdkaFREQkd1S0RIVVdjZzFwS3BvbGtNd0dYbEhlVlExQ3hnZHE3UkFpY2tRbXN2UW0zTS03SmRhZ9IBiAFBVV95cUxNUFBNVEFfX0NidzJ1b05fMUNKWDd4N05GVHVhcDJQMjA1QWtVX3JGTkhBYXAzeTZNYTZpdDhtQ1NQNjJtQ3hGeXpwWnJEOFMyZEtpWGhxbnJVOENPREJGSGZUZkt0Smc5M3Fldy1QQlBtc1ZSR296enJWVU9LSE8teGtnRVBlcGt5?oc=5",
         "score": 0
       },
       {
-        "title": "Federal Reserve Approves Acquisition Creating 19th-Largest U.S. Bank - JD Supra",
-        "summary": "Federal Reserve Approves Acquisition Creating 19th-Largest U.S. Bank &nbsp;&nbsp; JD Supra",
-        "publishedAt": "Fri, 07 Aug 2026 18:20:07 GMT",
-        "source": "JD Supra",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQd3k2YXJEdngxVmk0cnZySEtZX0g2Y0lTYWpxVFFaTlE5LVFiMUd6c1lBWGNyOUJKWmlFUy1IWnd1aWFZcU9ZZWxYaHo4VXZ4eVdXd1pJclNzdkNySFBISThvS1gySmd1eTNlMXFNX09pTXNETWlvVVNGQlNraTVKckw3emVhZw?oc=5",
-        "score": 0
-      },
-      {
-        "title": "Kolb appointed SVP of Risk and Compliance at the Minneapolis Fed - Federal Reserve Bank of Minneapolis",
-        "summary": "Kolb appointed SVP of Risk and Compliance at the Minneapolis Fed &nbsp;&nbsp; Federal Reserve Bank of Minneapolis",
-        "publishedAt": "Sun, 09 Aug 2026 07:00:00 GMT",
-        "source": "Federal Reserve Bank of Minneapolis",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZGxGaXhZTlY2QTYtYWFaQjVQUXRkTjlsT3FSaUJienI1R2JzLUlkcDJtcVBoNDdRRGRBMlNHb0FDd1FLdm8wYUlwd2NzUkhUSGtybHlsdThnS2ItLTR2SFhEU0dkOVNnQkhNQjA2QW4taUlwV0RxLURUbEM1eGEtZXR3M3JoQmtWdU1pMmdsQUZZc1NmamtkcFNxSWlzWTlIWWhLaldZTXpDMUg3cVdUYUkzbzE?oc=5",
+        "title": "OCC and FDIC Propose Targeted Amendments to Community Reinvestment Act Regulations: What Banks Need to Know - Consumer Finance Monitor",
+        "summary": "OCC and FDIC Propose Targeted Amendments to Community Reinvestment Act Regulations: What Banks Need to Know &nbsp;&nbsp; Consumer Finance Monitor",
+        "publishedAt": "Mon, 10 Aug 2026 21:05:47 GMT",
+        "source": "Consumer Finance Monitor",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZFNYNWlSQXhPcHlnUGU0QXlrNzBxM01nOG1TOWxONnllT3VCYlJ4YU1icEhpSGpYTjgtb0Zuc2xkQmVZZ2hIekxaNERLVjNaZTRPeVVyOXcwSjB1Wl9qa3FmcXJrNW5XMmU5aERCbkZDS0FPQnZUQWEtYm40T2JGcGFHdmFXUVQxekdVakY5T0NsMC03VEdTbi1pQnpkMEQ1TEdxc3h2cVJmUHVQX25sQkF5SmNjR2hVLUo0WGNidUZzaTBDdW95OTRfQXNTd3JuR3dtNkI1QzlmbWFoOTFRY3dqQTNETmFtS2VLQUp3?oc=5",
         "score": 0
       }
     ]
