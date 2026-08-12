@@ -1,5 +1,5 @@
 {
-  "generatedAtJst": "2026-08-12 08:57",
+  "generatedAtJst": "2026-08-13 08:56",
   "startingCapitalJpy": 1000000,
   "policy": {
     "basePair": "USD/JPY",
@@ -14,18 +14,18 @@
     "directionLabel": "中立",
     "confidence": 0.51,
     "summary": "中立を基本シナリオにします。トレンド、IMM、ニュースが拮抗しているため、最大50%の制約内でも動かす量は抑えています。",
-    "score": 0.032,
+    "score": 0.017,
     "reasons": [
       "直近のUSD/JPYは157.690で、1つ前の観測値からの勢いを0.00として評価しました。",
       "IMMの円ポジションは-84,200で、前週比の変化を0.09として売買比率に反映しました。",
       "ニュースは中立寄りです。",
-      "レバレッジなし、最大移動比率50%のルールにより、今回の推奨比率は2%です。"
+      "レバレッジなし、最大移動比率50%のルールにより、今回の推奨比率は1%です。"
     ]
   },
   "recommendation": {
     "action": "HOLD",
-    "allocationRatio": 0.02,
-    "moveAmountJpy": 20000,
+    "allocationRatio": 0.01,
+    "moveAmountJpy": 10000,
     "cashJpyAfterTrade": 1000000,
     "usdAfterTrade": 0
   },
@@ -88,8 +88,8 @@
     {
       "timeJst": "2026-06-28 08:00",
       "action": "様子見",
-      "ratio": 0.02,
-      "amountJpy": 20000,
+      "ratio": 0.01,
+      "amountJpy": 10000,
       "usdJpy": 157.69,
       "totalJpy": 1000000
     }
@@ -114,7 +114,7 @@
   "news": {
     "provider": "Google News RSS",
     "summary": "ニュースは中立寄りです。",
-    "score": 0,
+    "score": -0.072,
     "items": [
       {
         "title": "In trying to prop up the yen, the US wants to have its cake and eat it too - Peterson Institute for International Economics",
@@ -125,27 +125,27 @@
         "score": 0
       },
       {
-        "title": "Inflation is the biggest problem, Fed's Goolsbee says - Reuters",
-        "summary": "Inflation is the biggest problem, Fed's Goolsbee says &nbsp;&nbsp; Reuters",
-        "publishedAt": "Tue, 11 Aug 2026 18:07:13 GMT",
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZDltR2o0ZVZseWpZbFpveU1hMUxTTjZCQ1lDa2FkMzNRR0VtRW5fMENiaHVyNWVnZ0UwcTkta1IwM05ON29kNjZMQ1dfNjktNnNrWlZPUHE5cVhfZjFoVjZaWERyMDBuWUxrMTZ0b1EybmZjMjIyMXpEdkZwdmF5dmNPeEVOaE5WelZSczMzSmwyRGdFSzNOcHVn?oc=5",
-        "score": 0
-      },
-      {
-        "title": "By propping up the yen, the U.S. and Japan are actually admitting dollar dominance isn’t what it used to be, top economist warns - Yahoo Finance",
-        "summary": "By propping up the yen, the U.S. and Japan are actually admitting dollar dominance isn’t what it used to be, top economist warns &nbsp;&nbsp; Yahoo Finance",
-        "publishedAt": "Sun, 09 Aug 2026 22:33:07 GMT",
-        "source": "Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZEUwaUFGaHJOdGVtLXRiMmUzMkt2SGhuQWtlUlR5RWlYTHVMRTlQT2NGWmFBUHBNUDgwYzRFWXlCV2o0OXFTUzhVRzR6Q1pFYnZNS0pRZGZjem1YSU1lWkY0bVF4ZkdCR1R2VG1sQ2ViUHZlTWhkN2VoeUEtb0Y5TVhZeW43bnhBRUgwNTZJQmtqU1BNNmVwS210Zm4wWlE?oc=5",
-        "score": 0
-      },
-      {
-        "title": "Analysis: How Bessent is pushing Warsh’s Fed to expand backstop for Japan’s yen defense - CNBC",
-        "summary": "Analysis: How Bessent is pushing Warsh’s Fed to expand backstop for Japan’s yen defense &nbsp;&nbsp; CNBC",
-        "publishedAt": "Mon, 03 Aug 2026 22:40:32 GMT",
+        "title": "Why the historic U.S.-Japan intervention has failed to halt the yen’s slide - CNBC",
+        "summary": "Why the historic U.S.-Japan intervention has failed to halt the yen’s slide &nbsp;&nbsp; CNBC",
+        "publishedAt": "Wed, 12 Aug 2026 03:36:00 GMT",
         "source": "CNBC",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSW5YaEN0SzRlN2cxVTNqV3NuV2VIVS1WUXh5dGdRSG9kOWg5eGhQaVRZUExWN0tiYWl0VEZrM3Rzbk1ENVhXMVp1YzdkaFREQkd1S0RIVVdjZzFwS3BvbGtNd0dYbEhlVlExQ3hnZHE3UkFpY2tRbXN2UW0zTS03SmRhZ9IBiAFBVV95cUxNUFBNVEFfX0NidzJ1b05fMUNKWDd4N05GVHVhcDJQMjA1QWtVX3JGTkhBYXAzeTZNYTZpdDhtQ1NQNjJtQ3hGeXpwWnJEOFMyZEtpWGhxbnJVOENPREJGSGZUZkt0Smc5M3Fldy1QQlBtc1ZSR296enJWVU9LSE8teGtnRVBlcGt5?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1FQUhmRWc3YTZVWDVub3p3d3NXRFBXQUswajBRREdldXNoNEVpX3Y2TWY2cFdzNkZvNXZrb0NwLWFXRFpVU3lQMDFsZmhvS2tual85TER1cGd1T2dORUhWUzVMQXNtZVJBZmZrQ1d5SUNIZndRWnhlWFV30gF_QVVfeXFMTUVNUzFyQnlDUFRuOV90UHdlZU1CLW1NUlFBY2kzdXFjX01HQ1VrTmFzSmVWUlJYRHpOVnVfWU5ERHRadDJuckdVSHFUam5PcndpSUp2OGdwaGtBT29XSGFibFBkRTFzOVNIZ3h2UHI2YUdlMnFpSkRQRnUweURxRQ?oc=5",
+        "score": -0.18
+      },
+      {
+        "title": "US-Japan yen intervention puts interest rates, Iran war in focus - The Jerusalem Post",
+        "summary": "US-Japan yen intervention puts interest rates, Iran war in focus &nbsp;&nbsp; The Jerusalem Post",
+        "publishedAt": "Wed, 12 Aug 2026 14:47:57 GMT",
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MZTdBSTJSLWE1UmZyZEhwaEVXZ2hINDhqY2hMUnFadkpDa0xqamhzdzROcGxKRWp5azBFWmxFYzhFY0Z5NjR6NUcxV1dUNkptR3owcVJYUGY4Wnk1RXlPTG14bUwxdjNvNDdaVA?oc=5",
+        "score": -0.18
+      },
+      {
+        "title": "By propping up the yen, the US and Japan are admitting dollar dominance isn't what it used to be - Fortune",
+        "summary": "By propping up the yen, the US and Japan are admitting dollar dominance isn't what it used to be &nbsp;&nbsp; Fortune",
+        "publishedAt": "Sun, 09 Aug 2026 22:33:00 GMT",
+        "source": "Fortune",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQkc5UURETG9RRThRUlhGRjJlN0Z4bzJMdURXVWFZZ3lCOU9JNkxMbFh5dUZXaV9BT1dFdmJ2cjNxTDBTSUxyMHVmSDVaVjRudGFKU2EtWVZsV1ZETmo2MXdYZWRJVEx6TE1yMGhPX2hiT2JIZ1MtSUVDNk00c1NxdV9WMUNUNDNxYkthMWJNcURuaE9kMmdRY2hnTW5PV2pPV1BxM3VWTHQwcXJtT0VwZVNaUkhwdWVw?oc=5",
         "score": 0
       },
       {
