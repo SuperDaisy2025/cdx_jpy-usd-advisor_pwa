@@ -1,5 +1,5 @@
 {
-  "generatedAtJst": "2026-08-13 08:56",
+  "generatedAtJst": "2026-08-14 08:56",
   "startingCapitalJpy": 1000000,
   "policy": {
     "basePair": "USD/JPY",
@@ -14,7 +14,7 @@
     "directionLabel": "中立",
     "confidence": 0.51,
     "summary": "中立を基本シナリオにします。トレンド、IMM、ニュースが拮抗しているため、最大50%の制約内でも動かす量は抑えています。",
-    "score": 0.017,
+    "score": 0.024,
     "reasons": [
       "直近のUSD/JPYは157.690で、1つ前の観測値からの勢いを0.00として評価しました。",
       "IMMの円ポジションは-84,200で、前週比の変化を0.09として売買比率に反映しました。",
@@ -114,8 +114,24 @@
   "news": {
     "provider": "Google News RSS",
     "summary": "ニュースは中立寄りです。",
-    "score": -0.072,
+    "score": -0.036,
     "items": [
+      {
+        "title": "When Japan buys yen, it unwinds a dangerous trade - The Economist",
+        "summary": "When Japan buys yen, it unwinds a dangerous trade &nbsp;&nbsp; The Economist",
+        "publishedAt": "Thu, 13 Aug 2026 08:49:36 GMT",
+        "source": "The Economist",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWnZ0S2Y1Y3NYTGhFWTlZaS10Rks0UFJsUmloeTdGbHhySGxVMDZDMU9Nc2J1YjFPTjhfWnAybldKVlFpd2pzSW4yaXBWbkw4LXF2ek9SNkFPcVR4aHpyTkhyOWxWSTVxTHV6UmdRbWJ5dWlKQzNQaURTU2VQUnN0XzA3MkRaYzNNS182UTJSLWw4RHpsWmExOERWRG9DdTZ6Z2pXUlBHeVFHa1U?oc=5",
+        "score": 0
+      },
+      {
+        "title": "Goldman says Japan's $1 trillion of reserves leaves 'plenty of capacity' for further yen interventions - CNBC",
+        "summary": "Goldman says Japan's $1 trillion of reserves leaves 'plenty of capacity' for further yen interventions &nbsp;&nbsp; CNBC",
+        "publishedAt": "Thu, 13 Aug 2026 01:12:00 GMT",
+        "source": "CNBC",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcFlEZUloX0dlRHB6S0xLQ1JHRmVLSXItaUs1dndpNG15Z2RPV1g1QUNxZnF0MWtZc282dWlQeHRzaVJqeDhxVVV3bU9GdGsxOU9QcmNhMnEzaDZNZmVrUV9vdDZQMTRpcDdLdjgwSThBNnhtaTVWZ3M0TldfSXd1YlZMTdIBiAFBVV95cUxOQUJrNy15ckhJYTBseHRNenQ0SXpsSFRGa3lXZ3BmWXhhOF81aWlZOVZ4Z0VVcXJZaVJJQnVQU2l0bEJxeGxlTG9wQWlGcGlUUjEzWkdQV0NNVHBJT19aMHFkbm1YenA1d2ZZNEhXVHFmczFZS2FscHB2bmo2ZTdZQlV0MUFoQk5R?oc=5",
+        "score": -0.18
+      },
       {
         "title": "In trying to prop up the yen, the US wants to have its cake and eat it too - Peterson Institute for International Economics",
         "summary": "In trying to prop up the yen, the US wants to have its cake and eat it too &nbsp;&nbsp; Peterson Institute for International Economics",
@@ -125,35 +141,19 @@
         "score": 0
       },
       {
-        "title": "Why the historic U.S.-Japan intervention has failed to halt the yen’s slide - CNBC",
-        "summary": "Why the historic U.S.-Japan intervention has failed to halt the yen’s slide &nbsp;&nbsp; CNBC",
-        "publishedAt": "Wed, 12 Aug 2026 03:36:00 GMT",
-        "source": "CNBC",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1FQUhmRWc3YTZVWDVub3p3d3NXRFBXQUswajBRREdldXNoNEVpX3Y2TWY2cFdzNkZvNXZrb0NwLWFXRFpVU3lQMDFsZmhvS2tual85TER1cGd1T2dORUhWUzVMQXNtZVJBZmZrQ1d5SUNIZndRWnhlWFV30gF_QVVfeXFMTUVNUzFyQnlDUFRuOV90UHdlZU1CLW1NUlFBY2kzdXFjX01HQ1VrTmFzSmVWUlJYRHpOVnVfWU5ERHRadDJuckdVSHFUam5PcndpSUp2OGdwaGtBT29XSGFibFBkRTFzOVNIZ3h2UHI2YUdlMnFpSkRQRnUweURxRQ?oc=5",
-        "score": -0.18
-      },
-      {
-        "title": "US-Japan yen intervention puts interest rates, Iran war in focus - The Jerusalem Post",
-        "summary": "US-Japan yen intervention puts interest rates, Iran war in focus &nbsp;&nbsp; The Jerusalem Post",
-        "publishedAt": "Wed, 12 Aug 2026 14:47:57 GMT",
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MZTdBSTJSLWE1UmZyZEhwaEVXZ2hINDhqY2hMUnFadkpDa0xqamhzdzROcGxKRWp5azBFWmxFYzhFY0Z5NjR6NUcxV1dUNkptR3owcVJYUGY4Wnk1RXlPTG14bUwxdjNvNDdaVA?oc=5",
-        "score": -0.18
-      },
-      {
-        "title": "By propping up the yen, the US and Japan are admitting dollar dominance isn't what it used to be - Fortune",
-        "summary": "By propping up the yen, the US and Japan are admitting dollar dominance isn't what it used to be &nbsp;&nbsp; Fortune",
-        "publishedAt": "Sun, 09 Aug 2026 22:33:00 GMT",
-        "source": "Fortune",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQkc5UURETG9RRThRUlhGRjJlN0Z4bzJMdURXVWFZZ3lCOU9JNkxMbFh5dUZXaV9BT1dFdmJ2cjNxTDBTSUxyMHVmSDVaVjRudGFKU2EtWVZsV1ZETmo2MXdYZWRJVEx6TE1yMGhPX2hiT2JIZ1MtSUVDNk00c1NxdV9WMUNUNDNxYkthMWJNcURuaE9kMmdRY2hnTW5PV2pPV1BxM3VWTHQwcXJtT0VwZVNaUkhwdWVw?oc=5",
+        "title": "Fed should raise rates to restrain growth and inflation, Hammack says - Reuters",
+        "summary": "Fed should raise rates to restrain growth and inflation, Hammack says &nbsp;&nbsp; Reuters",
+        "publishedAt": "Thu, 13 Aug 2026 21:24:49 GMT",
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVHBQbGpaRk5FcmRfWTlhRmNHeFJiWlpOY2pyY25qdzFka19seGhUU29vMWlvVkxzdW1oMUtYVjN0bU1WNzBsRzZxOS1BLWdRRXVPdDdBdGdPVFRSU2dMZWtXbHZQcmZHTFdhQVU1RXNBYVVyZUdoTjE1RmluSXRxUUpkQXFqUkRXR0RHZ3Fxakh4dEJYY0FUM2toSTNyMFlCc3VpTHlCVTZUbGMtZGZFN0hkVG8?oc=5",
         "score": 0
       },
       {
-        "title": "OCC and FDIC Propose Targeted Amendments to Community Reinvestment Act Regulations: What Banks Need to Know - Consumer Finance Monitor",
-        "summary": "OCC and FDIC Propose Targeted Amendments to Community Reinvestment Act Regulations: What Banks Need to Know &nbsp;&nbsp; Consumer Finance Monitor",
-        "publishedAt": "Mon, 10 Aug 2026 21:05:47 GMT",
-        "source": "Consumer Finance Monitor",
-        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZFNYNWlSQXhPcHlnUGU0QXlrNzBxM01nOG1TOWxONnllT3VCYlJ4YU1icEhpSGpYTjgtb0Zuc2xkQmVZZ2hIekxaNERLVjNaZTRPeVVyOXcwSjB1Wl9qa3FmcXJrNW5XMmU5aERCbkZDS0FPQnZUQWEtYm40T2JGcGFHdmFXUVQxekdVakY5T0NsMC03VEdTbi1pQnpkMEQ1TEdxc3h2cVJmUHVQX25sQkF5SmNjR2hVLUo0WGNidUZzaTBDdW95OTRfQXNTd3JuR3dtNkI1QzlmbWFoOTFRY3dqQTNETmFtS2VLQUp3?oc=5",
+        "title": "Impact-First Investing: Matching Capital to Purpose - Federal Reserve Bank of New York",
+        "summary": "Impact-First Investing: Matching Capital to Purpose &nbsp;&nbsp; Federal Reserve Bank of New York",
+        "publishedAt": "Wed, 12 Aug 2026 20:10:53 GMT",
+        "source": "Federal Reserve Bank of New York",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbHBvYzVQUlVSZW02ZEUwdHdURTRwRHdWdnVOZnBQVGRWbXZXRGo5QXQ4TlpqRHBHOHFvUFRkNUN0dkpJei02cXp0Wkt6YklPeDNrT3VGcGFiTER0R0plSzljY29UbHZxdEo0ZWZRVTJEYU9KNS04U1NyUlE1d3FITkpjUQ?oc=5",
         "score": 0
       }
     ]
