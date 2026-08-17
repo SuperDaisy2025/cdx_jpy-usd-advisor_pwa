@@ -1,5 +1,5 @@
 {
-  "generatedAtJst": "2026-08-17 08:32",
+  "generatedAtJst": "2026-08-18 08:34",
   "startingCapitalJpy": 1000000,
   "policy": {
     "basePair": "USD/JPY",
@@ -14,18 +14,18 @@
     "directionLabel": "中立",
     "confidence": 0.51,
     "summary": "中立を基本シナリオにします。トレンド、IMM、ニュースが拮抗しているため、最大50%の制約内でも動かす量は抑えています。",
-    "score": 0.024,
+    "score": 0.032,
     "reasons": [
       "直近のUSD/JPYは157.690で、1つ前の観測値からの勢いを0.00として評価しました。",
       "IMMの円ポジションは-84,200で、前週比の変化を0.09として売買比率に反映しました。",
       "ニュースは中立寄りです。",
-      "レバレッジなし、最大移動比率50%のルールにより、今回の推奨比率は1%です。"
+      "レバレッジなし、最大移動比率50%のルールにより、今回の推奨比率は2%です。"
     ]
   },
   "recommendation": {
     "action": "HOLD",
-    "allocationRatio": 0.01,
-    "moveAmountJpy": 10000,
+    "allocationRatio": 0.02,
+    "moveAmountJpy": 20000,
     "cashJpyAfterTrade": 1000000,
     "usdAfterTrade": 0
   },
@@ -88,8 +88,8 @@
     {
       "timeJst": "2026-06-28 08:00",
       "action": "様子見",
-      "ratio": 0.01,
-      "amountJpy": 10000,
+      "ratio": 0.02,
+      "amountJpy": 20000,
       "usdJpy": 157.69,
       "totalJpy": 1000000
     }
@@ -114,15 +114,15 @@
   "news": {
     "provider": "Google News RSS",
     "summary": "ニュースは中立寄りです。",
-    "score": -0.036,
+    "score": 0,
     "items": [
       {
-        "title": "Goldman says Japan's $1 trillion of reserves leaves 'plenty of capacity' for further yen interventions - CNBC",
-        "summary": "Goldman says Japan's $1 trillion of reserves leaves 'plenty of capacity' for further yen interventions &nbsp;&nbsp; CNBC",
-        "publishedAt": "Thu, 13 Aug 2026 01:12:00 GMT",
-        "source": "CNBC",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcFlEZUloX0dlRHB6S0xLQ1JHRmVLSXItaUs1dndpNG15Z2RPV1g1QUNxZnF0MWtZc282dWlQeHRzaVJqeDhxVVV3bU9GdGsxOU9QcmNhMnEzaDZNZmVrUV9vdDZQMTRpcDdLdjgwSThBNnhtaTVWZ3M0TldfSXd1YlZMTdIBiAFBVV95cUxOQUJrNy15ckhJYTBseHRNenQ0SXpsSFRGa3lXZ3BmWXhhOF81aWlZOVZ4Z0VVcXJZaVJJQnVQU2l0bEJxeGxlTG9wQWlGcGlUUjEzWkdQV0NNVHBJT19aMHFkbm1YenA1d2ZZNEhXVHFmczFZS2FscHB2bmo2ZTdZQlV0MUFoQk5R?oc=5",
-        "score": -0.18
+        "title": "The Real Driver of Dollar Yen Is Sitting Inside the Federal Reserve - stonex.com",
+        "summary": "The Real Driver of Dollar Yen Is Sitting Inside the Federal Reserve &nbsp;&nbsp; stonex.com",
+        "publishedAt": "Mon, 17 Aug 2026 14:05:24 GMT",
+        "source": "stonex.com",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTnN4dV9HX1k2RElBdmJYaHNwX0FabXh6cl9Bd29LMzJjUHREOWVOMjJ2UFd6ZllTWWdidl93TFVDSXl6M2xhZzEyRWJndE5tcHBSRWZKeXktRDMxRlBIcHZqYklweXlDOHA2dWwyTnNOTE81UW81cDhKa1lHWnhVbEJyRTlNcE4tc0JjSFE4ZkRwOGR2bjFBWFF1VDRBNTJodXg3bWR3?oc=5",
+        "score": 0
       },
       {
         "title": "Charting the Economy - Federal Reserve Bank of Kansas City",
@@ -141,19 +141,19 @@
         "score": 0
       },
       {
-        "title": "The FOMC's Executive Committee, 1933 to 1955 - federalreservehistory.org",
-        "summary": "The FOMC's Executive Committee, 1933 to 1955 &nbsp;&nbsp; federalreservehistory.org",
+        "title": "The FOMC's Executive Committee, 1933 to 1955 - Federal Reserve History",
+        "summary": "The FOMC's Executive Committee, 1933 to 1955 &nbsp;&nbsp; Federal Reserve History",
         "publishedAt": "Fri, 14 Aug 2026 15:07:07 GMT",
-        "source": "federalreservehistory.org",
+        "source": "Federal Reserve History",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8tai1MaEtqUkxzdFpIVnEzdXVKdnllcS13eHQybUs4eDBSc1d4WGd3bzR2czRWd20zRUVtQkd1Z0xCMXRUTzlsTGdIZUpScDgzdWZSQTBIM21mQXF5M1FHNHJhbnd5bC1sazMxQXY5Rkdfd2w0cHg0eA?oc=5",
         "score": 0
       },
       {
-        "title": "Will the Fed minutes reveal any forward guidance? - Financial Times",
-        "summary": "Will the Fed minutes reveal any forward guidance? &nbsp;&nbsp; Financial Times",
-        "publishedAt": "Sun, 16 Aug 2026 11:00:02 GMT",
-        "source": "Financial Times",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeDF3cjFrdXdSSHNPNjZnRGo1U1RMMVFXUXkzck9RRHBMX21aWS1NS2owYlhYNW1yWkx6ZUhJZ3dkMGdaTklYRHJseXJJWWFwQUlrTWVnTW9UTTFNd1dMRHlCVDdfSy1NalFtb1FNY1MtUVhnNUlacEZpZXh1UjhSa0k4X3Y?oc=5",
+        "title": "Analysis: How Bessent is pushing Warsh’s Fed to expand backstop for Japan’s yen defense - CNBC",
+        "summary": "Analysis: How Bessent is pushing Warsh’s Fed to expand backstop for Japan’s yen defense &nbsp;&nbsp; CNBC",
+        "publishedAt": "Mon, 03 Aug 2026 07:00:00 GMT",
+        "source": "CNBC",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSW5YaEN0SzRlN2cxVTNqV3NuV2VIVS1WUXh5dGdRSG9kOWg5eGhQaVRZUExWN0tiYWl0VEZrM3Rzbk1ENVhXMVp1YzdkaFREQkd1S0RIVVdjZzFwS3BvbGtNd0dYbEhlVlExQ3hnZHE3UkFpY2tRbXN2UW0zTS03SmRhZ9IBiAFBVV95cUxNUFBNVEFfX0NidzJ1b05fMUNKWDd4N05GVHVhcDJQMjA1QWtVX3JGTkhBYXAzeTZNYTZpdDhtQ1NQNjJtQ3hGeXpwWnJEOFMyZEtpWGhxbnJVOENPREJGSGZUZkt0Smc5M3Fldy1QQlBtc1ZSR296enJWVU9LSE8teGtnRVBlcGt5?oc=5",
         "score": 0
       }
     ]
