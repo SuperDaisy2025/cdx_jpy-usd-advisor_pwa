@@ -1,5 +1,5 @@
 {
-  "generatedAtJst": "2026-08-19 08:34",
+  "generatedAtJst": "2026-08-20 08:34",
   "startingCapitalJpy": 1000000,
   "policy": {
     "basePair": "USD/JPY",
@@ -14,7 +14,7 @@
     "directionLabel": "中立",
     "confidence": 0.51,
     "summary": "中立を基本シナリオにします。トレンド、IMM、ニュースが拮抗しているため、最大50%の制約内でも動かす量は抑えています。",
-    "score": 0.032,
+    "score": 0.039,
     "reasons": [
       "直近のUSD/JPYは157.690で、1つ前の観測値からの勢いを0.00として評価しました。",
       "IMMの円ポジションは-84,200で、前週比の変化を0.09として売買比率に反映しました。",
@@ -114,23 +114,15 @@
   "news": {
     "provider": "Google News RSS",
     "summary": "ニュースは中立寄りです。",
-    "score": 0,
+    "score": 0.036,
     "items": [
       {
-        "title": "Monetary Policy and Financial Conditions - Atlanta - Federal Reserve Bank",
-        "summary": "Monetary Policy and Financial Conditions &nbsp;&nbsp; Atlanta - Federal Reserve Bank",
-        "publishedAt": "Tue, 18 Aug 2026 14:36:50 GMT",
-        "source": "Atlanta - Federal Reserve Bank",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSE1GZlhQcm1pUk9Ga3ZIOG5RVmhLTzZTRnlQTHpnVkhLU19pX0pjcnowSkQxMkxqbGNBN2dMV1poc3BPd2hGNDRpY2FEbGpZRThHeVJwSEVBekZDVlBIMjF0SU1DSHdkZk5haFFpNXo3UzBYbUEwb0c5enBnRElvbkx0cERNQ0V6b1lmSjBYZ0JzQko3N1ZlQ1BQSlFFU0M4U3FVTVF4VUN6cC1GSzhrYjVleWswSm4taXJtVXFLNzJHbVFkV0FucnppOEQ4Z0tJcUhB?oc=5",
-        "score": 0
-      },
-      {
-        "title": "Barnett, Peyton named to Federal Reserve industry councils - Talk Business & Politics",
-        "summary": "Barnett, Peyton named to Federal Reserve industry councils &nbsp;&nbsp; Talk Business & Politics",
-        "publishedAt": "Tue, 18 Aug 2026 19:04:24 GMT",
-        "source": "Talk Business & Politics",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQenJvM000S2huQzZ6N3R2dUJrOE9nN1hqOVg1ODd5c3h1dkFhUFZjMU94U1doMWVQS3FWTDZqOXk4bHdvZ0FqQ1BqMlY3X29NaWZTV3p2NUZuWUdUOWp2WjQ5WW4wbUtHdGdrN2UwVFI3V1RZTG4xSjhnOGZFVzlDbDR3RUJ2OGdkRGRWYVE0NUZHWVZyM3c?oc=5",
-        "score": 0
+        "title": "Fed officials warned rate hikes may be needed if inflation stays high - Axios",
+        "summary": "Fed officials warned rate hikes may be needed if inflation stays high &nbsp;&nbsp; Axios",
+        "publishedAt": "Wed, 19 Aug 2026 19:18:38 GMT",
+        "source": "Axios",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQWEt5Q3dhWUdERVp6Q3JZQ05KQk5qUTcwZi1WZVMteFVTX09YQVZrZ0FPN0pyRU9qZnpJbElqNEE4Vm05ZmcyZ3ZEdl9YcUpEb2prb1F1cVdLM1daTkMxNjNCV3ZXQlE?oc=5",
+        "score": 0.18
       },
       {
         "title": "The Real Driver of Dollar Yen Is Sitting Inside the Federal Reserve - stonex.com",
@@ -138,6 +130,14 @@
         "publishedAt": "Mon, 17 Aug 2026 14:05:24 GMT",
         "source": "stonex.com",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTnN4dV9HX1k2RElBdmJYaHNwX0FabXh6cl9Bd29LMzJjUHREOWVOMjJ2UFd6ZllTWWdidl93TFVDSXl6M2xhZzEyRWJndE5tcHBSRWZKeXktRDMxRlBIcHZqYklweXlDOHA2dWwyTnNOTE81UW81cDhKa1lHWnhVbEJyRTlNcE4tc0JjSFE4ZkRwOGR2bjFBWFF1VDRBNTJodXg3bWR3?oc=5",
+        "score": 0
+      },
+      {
+        "title": "What the Federal Reserve is and what it does - qz.com",
+        "summary": "What the Federal Reserve is and what it does &nbsp;&nbsp; qz.com",
+        "publishedAt": "Wed, 19 Aug 2026 16:34:57 GMT",
+        "source": "qz.com",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NSl9OWHZrQ05HR0RkWFRHVWpZci1ESjlCQU5rMGVSVXRHdmQ0OFBtTjZIRDFsM05BSGF5d2o3d0gwY0ppaXZ6Tjl0TnNRSVk?oc=5",
         "score": 0
       },
       {
@@ -149,11 +149,11 @@
         "score": 0
       },
       {
-        "title": "Charting the Economy - kansascityfed.org",
-        "summary": "Charting the Economy &nbsp;&nbsp; kansascityfed.org",
-        "publishedAt": "Thu, 13 Aug 2026 07:00:00 GMT",
-        "source": "kansascityfed.org",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBnWnc1d0tEUFRweFhKM3AxcGYxNnVHXzRDeVV3RHA4MkpsUW5iUVpTSm1JeHNBdGlXVmVTdUthMXlmNTFRaVhva0Izc0YyOTJBSVlIRnhRVjl1eHh6cVZZdFF4RXJSQTZ6OW44Tg?oc=5",
+        "title": "Federal Reserve officials hint rate increase may be necessary - The Hill",
+        "summary": "Federal Reserve officials hint rate increase may be necessary &nbsp;&nbsp; The Hill",
+        "publishedAt": "Wed, 19 Aug 2026 23:13:00 GMT",
+        "source": "The Hill",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE94NWtnVTFYOGRxSDdodmNaNjBqVEdObFFuVTJfdGVuRFMwUG92RXBOT2E5TTdLVG9UWm5CR2pZOTNNRjgyR2pQZVVNSU5WSnd5U1h3NldjTy1sTG5wQlJtLVg4VHNWTDI1R2NOcS13MGt2UdIBd0FVX3lxTE9sXzNSYjA0Sk0xOVVyVWRja2FsMnZIVmVYSHo1UVBxX2lGQ3BzSXFpazJPbFgzUzgySHJ1UzdhYklkTjdvNEpxd3hBZkdYaVdrdW8xQzNmTG8wS2p0YWlTOEJmY0ZJMWd0NjlBR2JEdEpLckJkTmZz?oc=5",
         "score": 0
       }
     ]
