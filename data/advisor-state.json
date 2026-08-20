@@ -1,5 +1,5 @@
 {
-  "generatedAtJst": "2026-08-20 08:34",
+  "generatedAtJst": "2026-08-21 08:37",
   "startingCapitalJpy": 1000000,
   "policy": {
     "basePair": "USD/JPY",
@@ -119,10 +119,34 @@
       {
         "title": "Fed officials warned rate hikes may be needed if inflation stays high - Axios",
         "summary": "Fed officials warned rate hikes may be needed if inflation stays high &nbsp;&nbsp; Axios",
-        "publishedAt": "Wed, 19 Aug 2026 19:18:38 GMT",
+        "publishedAt": "Thu, 20 Aug 2026 17:36:58 GMT",
         "source": "Axios",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQWEt5Q3dhWUdERVp6Q3JZQ05KQk5qUTcwZi1WZVMteFVTX09YQVZrZ0FPN0pyRU9qZnpJbElqNEE4Vm05ZmcyZ3ZEdl9YcUpEb2prb1F1cVdLM1daTkMxNjNCV3ZXQlE?oc=5",
         "score": 0.18
+      },
+      {
+        "title": "'Many' Fed officials think higher rates will be needed if inflation stays high - PBS",
+        "summary": "'Many' Fed officials think higher rates will be needed if inflation stays high &nbsp;&nbsp; PBS",
+        "publishedAt": "Wed, 19 Aug 2026 21:19:43 GMT",
+        "source": "PBS",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX0hhVDlqaTItMnN5c1RjYVJTYnJNUkNJVmNvUXRqYk95bUtsYVNNanFTVl9jbjNWYWtGRjFGM213RHpBVHE5SDNMdjhDTGNMRkx6Y1FWQ2JoRUxqZGFuQjRDRkNCbGk2a0QtSG81TlRHSHN6aV9SU0xtNkxuVURCcUtJajZQbnlOMlV2a2NRM1VwZ1pLYmpEckZaQS0wYjhGLURSeVVkM0lxU05GaFNqWUZDZ9IBuAFBVV95cUxOcFFEcWZYcVdLMDVPSUFQMFdfaEU4cHB4SnBOY01LQnRub1U2N19rWG1SVGljdTdudVlaRENrT3pEbjNES0F4QzVGa1ZxQWduUDJEckhoY245VVlQdmhhRW0zdWVVYmR1ZFZSQ0cxVl9OaUJlelZzQ2pleTRqRzBBSEhKVmlJTFR6dE1WeXpmZzBtcDUwWkhOVFpVS2htNXIweWVLd0ZBbzlMQ0NzNDc0SkFwOUJLTlY0?oc=5",
+        "score": 0
+      },
+      {
+        "title": "Warsh faces Fed independence test as Bessent moves in on central bank's turf - CNBC",
+        "summary": "Warsh faces Fed independence test as Bessent moves in on central bank's turf &nbsp;&nbsp; CNBC",
+        "publishedAt": "Thu, 20 Aug 2026 20:02:18 GMT",
+        "source": "CNBC",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdUVSTjd5bEhZTDcwVG55a05tQ05tU0ZZNmZETXZma0k0RFFmdUZNY3lZd1ZKZlZTM1o1LWZSNDVJWHdRc192VkNKa1hxMjRFbEUyeXY2S1NPdjZSRE41TDluLVBoc0l0T3lpZ21DN2pSNEJlT3hQdXpseHJXNG96OWI5NTFuVEZrRVHSAY8BQVVfeXFMTWJROXFhcXR5TWZXVDlTZ3k4OHdpWkRzWGNiUVJUdFZFczgyM0lCQVVRdnJvdnhIWUNhWnNTRFAtUHdqVnlLOFVvUXc2dW9HMHNwZE9UdnY2Uy0xSHRlVWtnWkZjWThHcjZTU2p3LWs5Y0NFS3F1eDVCUXFaVDdYSXBjTFM2S1ludmhRS1dZWE0?oc=5",
+        "score": 0
+      },
+      {
+        "title": "SouthPoint Bancshares faces formal enforcement action as regulators tighten oversight - The Business Journals",
+        "summary": "SouthPoint Bancshares faces formal enforcement action as regulators tighten oversight &nbsp;&nbsp; The Business Journals",
+        "publishedAt": "Thu, 20 Aug 2026 20:49:00 GMT",
+        "source": "The Business Journals",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNDN6RzZjLVdOZjBCanZ0a3pFWkZObFJfX2U2UlpfcmdmRnFZeExCVXM1NVpIaG9xbFN3VzFwTHc0ekZTWUh1THdYbWU0TWxjM3VNMlhWVjlUcWczQzFmbzBRYXFURHZKeklnaXJVYTdWcDNZZk1TcVBDMGlNYUpNRjRpTXZjQUl0MDZPWW5NWTB4d05BWThwTi1fZ2puYmhX?oc=5",
+        "score": 0
       },
       {
         "title": "The Real Driver of Dollar Yen Is Sitting Inside the Federal Reserve - stonex.com",
@@ -130,30 +154,6 @@
         "publishedAt": "Mon, 17 Aug 2026 14:05:24 GMT",
         "source": "stonex.com",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTnN4dV9HX1k2RElBdmJYaHNwX0FabXh6cl9Bd29LMzJjUHREOWVOMjJ2UFd6ZllTWWdidl93TFVDSXl6M2xhZzEyRWJndE5tcHBSRWZKeXktRDMxRlBIcHZqYklweXlDOHA2dWwyTnNOTE81UW81cDhKa1lHWnhVbEJyRTlNcE4tc0JjSFE4ZkRwOGR2bjFBWFF1VDRBNTJodXg3bWR3?oc=5",
-        "score": 0
-      },
-      {
-        "title": "What the Federal Reserve is and what it does - qz.com",
-        "summary": "What the Federal Reserve is and what it does &nbsp;&nbsp; qz.com",
-        "publishedAt": "Wed, 19 Aug 2026 16:34:57 GMT",
-        "source": "qz.com",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NSl9OWHZrQ05HR0RkWFRHVWpZci1ESjlCQU5rMGVSVXRHdmQ0OFBtTjZIRDFsM05BSGF5d2o3d0gwY0ppaXZ6Tjl0TnNRSVk?oc=5",
-        "score": 0
-      },
-      {
-        "title": "Shrinking the Fed’s Balance Sheet Is Easier Said Than Done - Stanford Graduate School of Business",
-        "summary": "Shrinking the Fed’s Balance Sheet Is Easier Said Than Done &nbsp;&nbsp; Stanford Graduate School of Business",
-        "publishedAt": "Mon, 17 Aug 2026 23:26:06 GMT",
-        "source": "Stanford Graduate School of Business",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYTYxSHp3ZnpTWGRGanNGZ2c5eDVsNlJ2blc1V0VRUEluVXltbVhyVTQwcjROOGdMenA4aGs2VHVVejVqbEY2bmRHZTJTRG12aDdEU25LSVVDS2VtV0VWNGtoOC1jaUZxQzdSR2p2dDBjS2NPUXZkQ21LU0RNWXlybWNfXzlsaTVPMGtz?oc=5",
-        "score": 0
-      },
-      {
-        "title": "Federal Reserve officials hint rate increase may be necessary - The Hill",
-        "summary": "Federal Reserve officials hint rate increase may be necessary &nbsp;&nbsp; The Hill",
-        "publishedAt": "Wed, 19 Aug 2026 23:13:00 GMT",
-        "source": "The Hill",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE94NWtnVTFYOGRxSDdodmNaNjBqVEdObFFuVTJfdGVuRFMwUG92RXBOT2E5TTdLVG9UWm5CR2pZOTNNRjgyR2pQZVVNSU5WSnd5U1h3NldjTy1sTG5wQlJtLVg4VHNWTDI1R2NOcS13MGt2UdIBd0FVX3lxTE9sXzNSYjA0Sk0xOVVyVWRja2FsMnZIVmVYSHo1UVBxX2lGQ3BzSXFpazJPbFgzUzgySHJ1UzdhYklkTjdvNEpxd3hBZkdYaVdrdW8xQzNmTG8wS2p0YWlTOEJmY0ZJMWd0NjlBR2JEdEpLckJkTmZz?oc=5",
         "score": 0
       }
     ]
