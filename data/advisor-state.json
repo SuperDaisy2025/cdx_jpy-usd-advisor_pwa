@@ -1,5 +1,5 @@
 {
-  "generatedAtJst": "2026-08-21 08:37",
+  "generatedAtJst": "2026-08-22 08:35",
   "startingCapitalJpy": 1000000,
   "policy": {
     "basePair": "USD/JPY",
@@ -14,7 +14,7 @@
     "directionLabel": "中立",
     "confidence": 0.51,
     "summary": "中立を基本シナリオにします。トレンド、IMM、ニュースが拮抗しているため、最大50%の制約内でも動かす量は抑えています。",
-    "score": 0.039,
+    "score": 0.032,
     "reasons": [
       "直近のUSD/JPYは157.690で、1つ前の観測値からの勢いを0.00として評価しました。",
       "IMMの円ポジションは-84,200で、前週比の変化を0.09として売買比率に反映しました。",
@@ -114,15 +114,15 @@
   "news": {
     "provider": "Google News RSS",
     "summary": "ニュースは中立寄りです。",
-    "score": 0.036,
+    "score": 0,
     "items": [
       {
-        "title": "Fed officials warned rate hikes may be needed if inflation stays high - Axios",
-        "summary": "Fed officials warned rate hikes may be needed if inflation stays high &nbsp;&nbsp; Axios",
-        "publishedAt": "Thu, 20 Aug 2026 17:36:58 GMT",
-        "source": "Axios",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQWEt5Q3dhWUdERVp6Q3JZQ05KQk5qUTcwZi1WZVMteFVTX09YQVZrZ0FPN0pyRU9qZnpJbElqNEE4Vm05ZmcyZ3ZEdl9YcUpEb2prb1F1cVdLM1daTkMxNjNCV3ZXQlE?oc=5",
-        "score": 0.18
+        "title": "Philadelphia Fed Names Skander Van den Heuvel Director of Research - Philadelphia Federal Reserve Bank",
+        "summary": "Philadelphia Fed Names Skander Van den Heuvel Director of Research &nbsp;&nbsp; Philadelphia Federal Reserve Bank",
+        "publishedAt": "Fri, 21 Aug 2026 20:18:48 GMT",
+        "source": "Philadelphia Federal Reserve Bank",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaU1LbEZuaWh2VVo3czBSNUc5dTBxS1B3bmstZlNGazA1d0pmNF9zdS1YeTJfd0xzNzU3c21iY2k0eVYtVC01U0NtM1dmeWVJNEFSdUE3X0hIdnVFNDdGY1QyRnNBbkJ0T0tHdXRrTTlYaHlaNDY0S044MW5abXdaa19NUGFxVy1kb1g0T1N0cU91V2tFSHBSdTl6SzFOdnFFR0VfQmhXUk9waDZ2RnBaa0gyWjY?oc=5",
+        "score": 0
       },
       {
         "title": "'Many' Fed officials think higher rates will be needed if inflation stays high - PBS",
@@ -133,27 +133,27 @@
         "score": 0
       },
       {
-        "title": "Warsh faces Fed independence test as Bessent moves in on central bank's turf - CNBC",
-        "summary": "Warsh faces Fed independence test as Bessent moves in on central bank's turf &nbsp;&nbsp; CNBC",
-        "publishedAt": "Thu, 20 Aug 2026 20:02:18 GMT",
-        "source": "CNBC",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdUVSTjd5bEhZTDcwVG55a05tQ05tU0ZZNmZETXZma0k0RFFmdUZNY3lZd1ZKZlZTM1o1LWZSNDVJWHdRc192VkNKa1hxMjRFbEUyeXY2S1NPdjZSRE41TDluLVBoc0l0T3lpZ21DN2pSNEJlT3hQdXpseHJXNG96OWI5NTFuVEZrRVHSAY8BQVVfeXFMTWJROXFhcXR5TWZXVDlTZ3k4OHdpWkRzWGNiUVJUdFZFczgyM0lCQVVRdnJvdnhIWUNhWnNTRFAtUHdqVnlLOFVvUXc2dW9HMHNwZE9UdnY2Uy0xSHRlVWtnWkZjWThHcjZTU2p3LWs5Y0NFS3F1eDVCUXFaVDdYSXBjTFM2S1ludmhRS1dZWE0?oc=5",
-        "score": 0
-      },
-      {
-        "title": "SouthPoint Bancshares faces formal enforcement action as regulators tighten oversight - The Business Journals",
-        "summary": "SouthPoint Bancshares faces formal enforcement action as regulators tighten oversight &nbsp;&nbsp; The Business Journals",
-        "publishedAt": "Thu, 20 Aug 2026 20:49:00 GMT",
-        "source": "The Business Journals",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNDN6RzZjLVdOZjBCanZ0a3pFWkZObFJfX2U2UlpfcmdmRnFZeExCVXM1NVpIaG9xbFN3VzFwTHc0ekZTWUh1THdYbWU0TWxjM3VNMlhWVjlUcWczQzFmbzBRYXFURHZKeklnaXJVYTdWcDNZZk1TcVBDMGlNYUpNRjRpTXZjQUl0MDZPWW5NWTB4d05BWThwTi1fZ2puYmhX?oc=5",
-        "score": 0
-      },
-      {
         "title": "The Real Driver of Dollar Yen Is Sitting Inside the Federal Reserve - stonex.com",
         "summary": "The Real Driver of Dollar Yen Is Sitting Inside the Federal Reserve &nbsp;&nbsp; stonex.com",
-        "publishedAt": "Mon, 17 Aug 2026 14:05:24 GMT",
+        "publishedAt": "Mon, 17 Aug 2026 13:12:19 GMT",
         "source": "stonex.com",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTnN4dV9HX1k2RElBdmJYaHNwX0FabXh6cl9Bd29LMzJjUHREOWVOMjJ2UFd6ZllTWWdidl93TFVDSXl6M2xhZzEyRWJndE5tcHBSRWZKeXktRDMxRlBIcHZqYklweXlDOHA2dWwyTnNOTE81UW81cDhKa1lHWnhVbEJyRTlNcE4tc0JjSFE4ZkRwOGR2bjFBWFF1VDRBNTJodXg3bWR3?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNck5uSEVBVjJ4VmdtdEtGZzR6NXVVY2RBOEJZUTdhdXFUeUxWM29VYkFPdUQ5ME5sRzNOdDFfU3FaQkZWX0d2ZW5tNVZUMC1TY3IzTnR5QXZPOFhuNnJuMEJ1SWJOeE5ESHBtQkNpUEx5QU9wZmx5dzdacXp6bEY0ZzVCUUpqZ05nQnJOUEUwa2lBc3hSaF9jWnE5bEJaTlJfU0R2UEdpSldadw?oc=5",
+        "score": 0
+      },
+      {
+        "title": "Federal Open Market Committee Minutes Released - Atlanta - Federal Reserve Bank",
+        "summary": "Federal Open Market Committee Minutes Released &nbsp;&nbsp; Atlanta - Federal Reserve Bank",
+        "publishedAt": "Wed, 19 Aug 2026 21:27:15 GMT",
+        "source": "Atlanta - Federal Reserve Bank",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaXZ0YnJFZ21WXzU4UVVMYk56X3NySzFQbHFRWHFRRmF5dWdLLVdZcXJOY3Zlb1FObFhoNXhSUk9OZWVuUU1WbDJpUlhZUXJiSHF2U1JSemFFMmxVd29ocmZfbGp6R3VJdi1GeVhBRFJRX3ZnRE9NencycG1xNXdyWQ?oc=5",
+        "score": 0
+      },
+      {
+        "title": "Analysis: How Bessent is pushing Warsh’s Fed to expand backstop for Japan’s yen defense - CNBC",
+        "summary": "Analysis: How Bessent is pushing Warsh’s Fed to expand backstop for Japan’s yen defense &nbsp;&nbsp; CNBC",
+        "publishedAt": "Mon, 03 Aug 2026 07:00:00 GMT",
+        "source": "CNBC",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSW5YaEN0SzRlN2cxVTNqV3NuV2VIVS1WUXh5dGdRSG9kOWg5eGhQaVRZUExWN0tiYWl0VEZrM3Rzbk1ENVhXMVp1YzdkaFREQkd1S0RIVVdjZzFwS3BvbGtNd0dYbEhlVlExQ3hnZHE3UkFpY2tRbXN2UW0zTS03SmRhZ9IBiAFBVV95cUxNUFBNVEFfX0NidzJ1b05fMUNKWDd4N05GVHVhcDJQMjA1QWtVX3JGTkhBYXAzeTZNYTZpdDhtQ1NQNjJtQ3hGeXpwWnJEOFMyZEtpWGhxbnJVOENPREJGSGZUZkt0Smc5M3Fldy1QQlBtc1ZSR296enJWVU9LSE8teGtnRVBlcGt5?oc=5",
         "score": 0
       }
     ]
