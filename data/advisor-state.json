@@ -1,5 +1,5 @@
 {
-  "generatedAtJst": "2026-08-22 08:35",
+  "generatedAtJst": "2026-08-23 08:33",
   "startingCapitalJpy": 1000000,
   "policy": {
     "basePair": "USD/JPY",
@@ -14,18 +14,18 @@
     "directionLabel": "中立",
     "confidence": 0.51,
     "summary": "中立を基本シナリオにします。トレンド、IMM、ニュースが拮抗しているため、最大50%の制約内でも動かす量は抑えています。",
-    "score": 0.032,
+    "score": 0.024,
     "reasons": [
       "直近のUSD/JPYは157.690で、1つ前の観測値からの勢いを0.00として評価しました。",
       "IMMの円ポジションは-84,200で、前週比の変化を0.09として売買比率に反映しました。",
       "ニュースは中立寄りです。",
-      "レバレッジなし、最大移動比率50%のルールにより、今回の推奨比率は2%です。"
+      "レバレッジなし、最大移動比率50%のルールにより、今回の推奨比率は1%です。"
     ]
   },
   "recommendation": {
     "action": "HOLD",
-    "allocationRatio": 0.02,
-    "moveAmountJpy": 20000,
+    "allocationRatio": 0.01,
+    "moveAmountJpy": 10000,
     "cashJpyAfterTrade": 1000000,
     "usdAfterTrade": 0
   },
@@ -88,8 +88,8 @@
     {
       "timeJst": "2026-06-28 08:00",
       "action": "様子見",
-      "ratio": 0.02,
-      "amountJpy": 20000,
+      "ratio": 0.01,
+      "amountJpy": 10000,
       "usdJpy": 157.69,
       "totalJpy": 1000000
     }
@@ -114,22 +114,22 @@
   "news": {
     "provider": "Google News RSS",
     "summary": "ニュースは中立寄りです。",
-    "score": 0,
+    "score": -0.036,
     "items": [
-      {
-        "title": "Philadelphia Fed Names Skander Van den Heuvel Director of Research - Philadelphia Federal Reserve Bank",
-        "summary": "Philadelphia Fed Names Skander Van den Heuvel Director of Research &nbsp;&nbsp; Philadelphia Federal Reserve Bank",
-        "publishedAt": "Fri, 21 Aug 2026 20:18:48 GMT",
-        "source": "Philadelphia Federal Reserve Bank",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaU1LbEZuaWh2VVo3czBSNUc5dTBxS1B3bmstZlNGazA1d0pmNF9zdS1YeTJfd0xzNzU3c21iY2k0eVYtVC01U0NtM1dmeWVJNEFSdUE3X0hIdnVFNDdGY1QyRnNBbkJ0T0tHdXRrTTlYaHlaNDY0S044MW5abXdaa19NUGFxVy1kb1g0T1N0cU91V2tFSHBSdTl6SzFOdnFFR0VfQmhXUk9waDZ2RnBaa0gyWjY?oc=5",
-        "score": 0
-      },
       {
         "title": "'Many' Fed officials think higher rates will be needed if inflation stays high - PBS",
         "summary": "'Many' Fed officials think higher rates will be needed if inflation stays high &nbsp;&nbsp; PBS",
         "publishedAt": "Wed, 19 Aug 2026 21:19:43 GMT",
         "source": "PBS",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX0hhVDlqaTItMnN5c1RjYVJTYnJNUkNJVmNvUXRqYk95bUtsYVNNanFTVl9jbjNWYWtGRjFGM213RHpBVHE5SDNMdjhDTGNMRkx6Y1FWQ2JoRUxqZGFuQjRDRkNCbGk2a0QtSG81TlRHSHN6aV9SU0xtNkxuVURCcUtJajZQbnlOMlV2a2NRM1VwZ1pLYmpEckZaQS0wYjhGLURSeVVkM0lxU05GaFNqWUZDZ9IBuAFBVV95cUxOcFFEcWZYcVdLMDVPSUFQMFdfaEU4cHB4SnBOY01LQnRub1U2N19rWG1SVGljdTdudVlaRENrT3pEbjNES0F4QzVGa1ZxQWduUDJEckhoY245VVlQdmhhRW0zdWVVYmR1ZFZSQ0cxVl9OaUJlelZzQ2pleTRqRzBBSEhKVmlJTFR6dE1WeXpmZzBtcDUwWkhOVFpVS2htNXIweWVLd0ZBbzlMQ0NzNDc0SkFwOUJLTlY0?oc=5",
+        "score": 0
+      },
+      {
+        "title": "Philadelphia Fed Names Skander Van den Heuvel Director of Research - Philadelphia Federal Reserve Bank",
+        "summary": "Philadelphia Fed Names Skander Van den Heuvel Director of Research &nbsp;&nbsp; Philadelphia Federal Reserve Bank",
+        "publishedAt": "Fri, 21 Aug 2026 20:18:48 GMT",
+        "source": "Philadelphia Federal Reserve Bank",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaU1LbEZuaWh2VVo3czBSNUc5dTBxS1B3bmstZlNGazA1d0pmNF9zdS1YeTJfd0xzNzU3c21iY2k0eVYtVC01U0NtM1dmeWVJNEFSdUE3X0hIdnVFNDdGY1QyRnNBbkJ0T0tHdXRrTTlYaHlaNDY0S044MW5abXdaa19NUGFxVy1kb1g0T1N0cU91V2tFSHBSdTl6SzFOdnFFR0VfQmhXUk9waDZ2RnBaa0gyWjY?oc=5",
         "score": 0
       },
       {
@@ -149,12 +149,12 @@
         "score": 0
       },
       {
-        "title": "Analysis: How Bessent is pushing Warsh’s Fed to expand backstop for Japan’s yen defense - CNBC",
-        "summary": "Analysis: How Bessent is pushing Warsh’s Fed to expand backstop for Japan’s yen defense &nbsp;&nbsp; CNBC",
-        "publishedAt": "Mon, 03 Aug 2026 07:00:00 GMT",
-        "source": "CNBC",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSW5YaEN0SzRlN2cxVTNqV3NuV2VIVS1WUXh5dGdRSG9kOWg5eGhQaVRZUExWN0tiYWl0VEZrM3Rzbk1ENVhXMVp1YzdkaFREQkd1S0RIVVdjZzFwS3BvbGtNd0dYbEhlVlExQ3hnZHE3UkFpY2tRbXN2UW0zTS03SmRhZ9IBiAFBVV95cUxNUFBNVEFfX0NidzJ1b05fMUNKWDd4N05GVHVhcDJQMjA1QWtVX3JGTkhBYXAzeTZNYTZpdDhtQ1NQNjJtQ3hGeXpwWnJEOFMyZEtpWGhxbnJVOENPREJGSGZUZkt0Smc5M3Fldy1QQlBtc1ZSR296enJWVU9LSE8teGtnRVBlcGt5?oc=5",
-        "score": 0
+        "title": "Fed officials tread carefully after Treasury's bond market intervention - Reuters",
+        "summary": "Fed officials tread carefully after Treasury's bond market intervention &nbsp;&nbsp; Reuters",
+        "publishedAt": "Thu, 20 Aug 2026 23:44:04 GMT",
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNExUX05vcVRoMGFiSkhtemgyTmhlSVpPd25ldTV2d0NXQWpvTzJLdTJSOUFnTjBPN2JKVU1oWXA2STYzNHBlVVdoa1V3a25ka1NVbkdSQXo5N2VhQU1DSFIwbjEtM0ZIN1ZPd2tNMDJPR1NTcWpNaWxUSzhsRmw0VHRtenJtc2N6bU9aREw1bnp0d1lMdkU5Y29xSHhZb3paQjRfeGRER1drWEc5aXc?oc=5",
+        "score": -0.18
       }
     ]
   },
