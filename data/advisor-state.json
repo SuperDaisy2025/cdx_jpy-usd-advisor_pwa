@@ -1,5 +1,5 @@
 {
-  "generatedAtJst": "2026-08-23 08:33",
+  "generatedAtJst": "2026-08-24 08:34",
   "startingCapitalJpy": 1000000,
   "policy": {
     "basePair": "USD/JPY",
@@ -14,18 +14,18 @@
     "directionLabel": "中立",
     "confidence": 0.51,
     "summary": "中立を基本シナリオにします。トレンド、IMM、ニュースが拮抗しているため、最大50%の制約内でも動かす量は抑えています。",
-    "score": 0.024,
+    "score": 0.032,
     "reasons": [
       "直近のUSD/JPYは157.690で、1つ前の観測値からの勢いを0.00として評価しました。",
       "IMMの円ポジションは-84,200で、前週比の変化を0.09として売買比率に反映しました。",
       "ニュースは中立寄りです。",
-      "レバレッジなし、最大移動比率50%のルールにより、今回の推奨比率は1%です。"
+      "レバレッジなし、最大移動比率50%のルールにより、今回の推奨比率は2%です。"
     ]
   },
   "recommendation": {
     "action": "HOLD",
-    "allocationRatio": 0.01,
-    "moveAmountJpy": 10000,
+    "allocationRatio": 0.02,
+    "moveAmountJpy": 20000,
     "cashJpyAfterTrade": 1000000,
     "usdAfterTrade": 0
   },
@@ -88,8 +88,8 @@
     {
       "timeJst": "2026-06-28 08:00",
       "action": "様子見",
-      "ratio": 0.01,
-      "amountJpy": 10000,
+      "ratio": 0.02,
+      "amountJpy": 20000,
       "usdJpy": 157.69,
       "totalJpy": 1000000
     }
@@ -114,7 +114,7 @@
   "news": {
     "provider": "Google News RSS",
     "summary": "ニュースは中立寄りです。",
-    "score": -0.036,
+    "score": 0,
     "items": [
       {
         "title": "'Many' Fed officials think higher rates will be needed if inflation stays high - PBS",
@@ -133,28 +133,28 @@
         "score": 0
       },
       {
+        "title": "Kashkari says inflation could be extended \"the longer there's back and forth\" in Canada tariff fight - CBS News",
+        "summary": "Kashkari says inflation could be extended \"the longer there's back and forth\" in Canada tariff fight &nbsp;&nbsp; CBS News",
+        "publishedAt": "Sun, 23 Aug 2026 18:22:44 GMT",
+        "source": "CBS News",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQV0RSc203eTNtUEpmUml2LXBRX3dDXzRtOU5TdFhRbEJmU19nbWhBeXRTNkF5MldST3VmNDNQWU5icWtZRnYwTFNZZ1Q0V0hSeVVQc0QzdjAzTlM5UUtWRS1nb0dPcXJpRm9LU2h5Y2F0NHhXOVlIZ1Myc0M5d0JOUU00QmpaOWZHQXlZ?oc=5",
+        "score": 0
+      },
+      {
+        "title": "Monetary Policy Stance and Financial Conditions - Atlanta - Federal Reserve Bank",
+        "summary": "Monetary Policy Stance and Financial Conditions &nbsp;&nbsp; Atlanta - Federal Reserve Bank",
+        "publishedAt": "Tue, 18 Aug 2026 14:36:50 GMT",
+        "source": "Atlanta - Federal Reserve Bank",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSE1GZlhQcm1pUk9Ga3ZIOG5RVmhLTzZTRnlQTHpnVkhLU19pX0pjcnowSkQxMkxqbGNBN2dMV1poc3BPd2hGNDRpY2FEbGpZRThHeVJwSEVBekZDVlBIMjF0SU1DSHdkZk5haFFpNXo3UzBYbUEwb0c5enBnRElvbkx0cERNQ0V6b1lmSjBYZ0JzQko3N1ZlQ1BQSlFFU0M4U3FVTVF4VUN6cC1GSzhrYjVleWswSm4taXJtVXFLNzJHbVFkV0FucnppOEQ4Z0tJcUhB?oc=5",
+        "score": 0
+      },
+      {
         "title": "The Real Driver of Dollar Yen Is Sitting Inside the Federal Reserve - stonex.com",
         "summary": "The Real Driver of Dollar Yen Is Sitting Inside the Federal Reserve &nbsp;&nbsp; stonex.com",
         "publishedAt": "Mon, 17 Aug 2026 13:12:19 GMT",
         "source": "stonex.com",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNck5uSEVBVjJ4VmdtdEtGZzR6NXVVY2RBOEJZUTdhdXFUeUxWM29VYkFPdUQ5ME5sRzNOdDFfU3FaQkZWX0d2ZW5tNVZUMC1TY3IzTnR5QXZPOFhuNnJuMEJ1SWJOeE5ESHBtQkNpUEx5QU9wZmx5dzdacXp6bEY0ZzVCUUpqZ05nQnJOUEUwa2lBc3hSaF9jWnE5bEJaTlJfU0R2UEdpSldadw?oc=5",
         "score": 0
-      },
-      {
-        "title": "Federal Open Market Committee Minutes Released - Atlanta - Federal Reserve Bank",
-        "summary": "Federal Open Market Committee Minutes Released &nbsp;&nbsp; Atlanta - Federal Reserve Bank",
-        "publishedAt": "Wed, 19 Aug 2026 21:27:15 GMT",
-        "source": "Atlanta - Federal Reserve Bank",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaXZ0YnJFZ21WXzU4UVVMYk56X3NySzFQbHFRWHFRRmF5dWdLLVdZcXJOY3Zlb1FObFhoNXhSUk9OZWVuUU1WbDJpUlhZUXJiSHF2U1JSemFFMmxVd29ocmZfbGp6R3VJdi1GeVhBRFJRX3ZnRE9NencycG1xNXdyWQ?oc=5",
-        "score": 0
-      },
-      {
-        "title": "Fed officials tread carefully after Treasury's bond market intervention - Reuters",
-        "summary": "Fed officials tread carefully after Treasury's bond market intervention &nbsp;&nbsp; Reuters",
-        "publishedAt": "Thu, 20 Aug 2026 23:44:04 GMT",
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNExUX05vcVRoMGFiSkhtemgyTmhlSVpPd25ldTV2d0NXQWpvTzJLdTJSOUFnTjBPN2JKVU1oWXA2STYzNHBlVVdoa1V3a25ka1NVbkdSQXo5N2VhQU1DSFIwbjEtM0ZIN1ZPd2tNMDJPR1NTcWpNaWxUSzhsRmw0VHRtenJtc2N6bU9aREw1bnp0d1lMdkU5Y29xSHhZb3paQjRfeGRER1drWEc5aXc?oc=5",
-        "score": -0.18
       }
     ]
   },
