@@ -1,5 +1,5 @@
 {
-  "generatedAtJst": "2026-08-31 10:21",
+  "generatedAtJst": "2026-09-01 10:48",
   "startingCapitalJpy": 1000000,
   "policy": {
     "basePair": "USD/JPY",
@@ -18,7 +18,7 @@
     "reasons": [
       "直近のUSD/JPYは157.690で、1つ前の観測値からの勢いを0.00として評価しました。",
       "IMMの円ポジションは-84,200で、前週比の変化を0.09として売買比率に反映しました。",
-      "ニュース取得は失敗したため、前回の要約を使っています。",
+      "ニュースは中立寄りです。",
       "レバレッジなし、最大移動比率50%のルールにより、今回の推奨比率は2%です。"
     ]
   },
@@ -113,47 +113,47 @@
   },
   "news": {
     "provider": "Google News RSS",
-    "summary": "ニュース取得は失敗したため、前回の要約を使っています。",
+    "summary": "ニュースは中立寄りです。",
     "score": 0,
     "items": [
       {
-        "title": "Fed Chairman Warsh Seeks to Calm Elevated Inflation Concerns - The New York Times",
-        "summary": "Fed Chairman Warsh Seeks to Calm Elevated Inflation Concerns &nbsp;&nbsp; The New York Times",
-        "publishedAt": "Sat, 29 Aug 2026 20:07:00 GMT",
-        "source": "The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeXgwVmE4SkVPN3VMZkRoUGc5MTlnNlgyRHo2NVhZNGpSWmtPZ09oTnczOWtoX3M5QjlqdnN2d0cyRW5lZTNKYUhGRHdVdGk3VS1MSkFkczJ2dzQ2RkoyV2FNZVJaZ01OY3dnMUxMU0R0QmF3Q3hsTVEtT0RjQnhUX2hzcC05TjlQ?oc=5",
+        "title": "Challenges and Opportunities in Multifamily Affordable Housing Finance - Federal Reserve Bank of New York",
+        "summary": "Challenges and Opportunities in Multifamily Affordable Housing Finance &nbsp;&nbsp; Federal Reserve Bank of New York",
+        "publishedAt": "Mon, 31 Aug 2026 17:33:32 GMT",
+        "source": "Federal Reserve Bank of New York",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTlloSHB5ZTFNQXQxVkh3MEgxX1BVMGRiRUJnbWY2OUpHZkk4YTFHS1Vxa2FKS1g4S3c1TFZVUTFlWk00aS1NOHllcENvM0NwaTlyd016TDc5MFh6bXo2ME5Dd2QyTXNNckdlN2dlRXdoQkFtUzRPZUhhaEtQVDlIaGhqaw?oc=5",
         "score": 0
       },
       {
-        "title": "Key takeaways from the Fed’s annual Jackson Hole conference - Fortune",
-        "summary": "Key takeaways from the Fed’s annual Jackson Hole conference &nbsp;&nbsp; Fortune",
-        "publishedAt": "Sat, 29 Aug 2026 20:02:00 GMT",
-        "source": "Fortune",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSzQ2YW9MSlRrSWZuZXZXTXo4M0hPUWdQZEpDbThTSkhDVzNELUN0eUhVcHVQQnUtYmFRQ0ZzdjVpUGF1cnZnNzVsLUd3dzZjNWNTR2RfWUtJelRkSXFGb0U1VGZRTVkyUE0yVWdRTkwycTNIT0lrWksxajdQcDgwb3NUY3FONGQxcjBETE45d0FrR3Y3RjBzOWF1RmU5UQ?oc=5",
+        "title": "Yen Caught Between Top U.S. Officials’ Remarks - WSJ",
+        "summary": "Yen Caught Between Top U.S. Officials’ Remarks &nbsp;&nbsp; WSJ",
+        "publishedAt": "Mon, 31 Aug 2026 02:10:00 GMT",
+        "source": "WSJ",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYmZyUEFWT1BPRU1EZnZvY0E1aU9jYm5WdEl0YVNpUWQ1VVdlbFhSVGd3OVpGQkM3V0JqM2h1U2VpaE1SeVlydV9TRDhCU0tlemhTS2ZsWl9mSUpUZXdMeE05Q1puSXk2RlU2U2JncFBEbUx0X3JadVk1dFdvbVBDb1IyVmdlVGJ5?oc=5",
         "score": 0
       },
       {
-        "title": "Ninth District businesses continue to grapple with high costs - Federal Reserve Bank of Minneapolis",
-        "summary": "Ninth District businesses continue to grapple with high costs &nbsp;&nbsp; Federal Reserve Bank of Minneapolis",
-        "publishedAt": "Mon, 24 Aug 2026 07:00:00 GMT",
+        "title": "Jackson Hole Economic Policy Symposium: Financial Innovation — Implications for Payments and Policy - Federal Reserve Bank of Kansas City",
+        "summary": "Jackson Hole Economic Policy Symposium: Financial Innovation — Implications for Payments and Policy &nbsp;&nbsp; Federal Reserve Bank of Kansas City",
+        "publishedAt": "Fri, 28 Aug 2026 00:08:50 GMT",
+        "source": "Federal Reserve Bank of Kansas City",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNLXdUdlpUMm9BekI0V2lrVFRaUDN0WFNNRkZXMkNrcHBVaDdtZWo1WUxLOTdxdzd5QTFKUF9RR0NGajgyYXR2UXhXbm9qX3pTejNSZU02OUdYY0Z6S2FBcG1wSHlnMEYySjk2TVRxaXlaZ1VkNndyVzZaVENRRmZkeURB?oc=5",
+        "score": 0
+      },
+      {
+        "title": "Preparing workers for an uncertain AI future - Federal Reserve Bank of Minneapolis",
+        "summary": "Preparing workers for an uncertain AI future &nbsp;&nbsp; Federal Reserve Bank of Minneapolis",
+        "publishedAt": "Fri, 28 Aug 2026 08:17:49 GMT",
         "source": "Federal Reserve Bank of Minneapolis",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeWd4WUs0SXZVSkpZRi1LaTlhbXBHODQzLVRieXpnTEl6cDR4VTEzZ0lTcHVJY1BLdkJqQ0ZLbWhUOVpDS1RFSlBOTGFKTFlfbjlrZ3loZ0Z4cjlDTXZIQVBVUm5wV0prR2VzN05vOUlUMzE1bU9kZ3g0b3g3VVM2cDJaU3l4VFVaSnNTZXpzSnJnZDEwU2RvaGZVRTBxT3Y2X1puLVNKc04?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOb0V3c0dqT0hKa184bDk5RzJSZFFGWE9ZU3lQTmI5aEZSQktfVnJjZFYxN3MzTmJ3MUFMZjBSQ2Yxckh5OTFUSWtoU1o3aWltSkhEaVRBaVNSRzYzdnlROC1HR0lsVFFUV3g0ZzdKbThEQjdTYlNmMFNfWU94aFNqMzFTUHRyRVlsaExjbFJqTGQzQQ?oc=5",
         "score": 0
       },
       {
-        "title": "Why Fed chief Kevin Warsh turned to Central Banking 101 - Axios",
-        "summary": "Why Fed chief Kevin Warsh turned to Central Banking 101 &nbsp;&nbsp; Axios",
-        "publishedAt": "Sat, 29 Aug 2026 13:13:18 GMT",
-        "source": "Axios",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1nUVdWR1lkWkJHOXVDbGVDeXgtZEk3SzJZZGtyX3JqcVhQV2xhbGs1dEZUSVZZZVNteWVkQTAxa1p1cmZ3X1REQ1M4dVd2aFhDS1hhZkc0dldvcGVsNmxfeFc0RnZfclVoU1BVeFVR?oc=5",
-        "score": 0
-      },
-      {
-        "title": "Fed Chairman Warsh expresses concern about inflation, advocates for 'quieter' central bank - CNBC",
-        "summary": "Fed Chairman Warsh expresses concern about inflation, advocates for 'quieter' central bank &nbsp;&nbsp; CNBC",
-        "publishedAt": "Fri, 28 Aug 2026 14:00:06 GMT",
-        "source": "CNBC",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSDgxMWMxLTZHbGRNUGgxeExaV0VyY2dqZ0ZaeVJaZTNsQ28wSldKeEpYRGN5NEpRNmV1Vjl3QWdheHFoSHFGQ3ZRSEVQQnZWd3R1OWw2dEhlQzBDS1hoanFlWlRaN0YwbVZIN2tUTE91LTRWWEI2MXBVVl9VczFCNm1LVjFFY0c5a3FCZHpFdDDSAZYBQVVfeXFMUC1lQUszSmUyc2dXV1FDVFA0QnFtWXVsLXVicFp0NDk5MVUzX01jOHhaRTBvcm1PbDRpWTFRUWZOa1I1LXNMUnJHX1pxNnlmbWdSUExuLTh6SU5qdEJJVU5vUU1FMDdpSkJMb0dvWUpDeFFjV0VoVWQtRXhpYmozS3pnc0Q4T1BjZXZ3VEpBT0JKOHV6eEpB?oc=5",
+        "title": "Fed Chair Warsh Speaks at the Federal Reserve Bank of Kansas City - C-SPAN",
+        "summary": "Fed Chair Warsh Speaks at the Federal Reserve Bank of Kansas City &nbsp;&nbsp; C-SPAN",
+        "publishedAt": "Fri, 28 Aug 2026 13:34:51 GMT",
+        "source": "C-SPAN",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUDRuNGtXTmRkTTA4am5PY1p1aFhDcVBDcGdJbmxoYzU2NlZGSzE5cURKdUZZa0JtdWxCRnpIYzJHLVZTenE3M0ZXSXZaZW1UcW5jeHV0bW1wcGlqSjBSQU9YV09CMEtyYmVnS3FkSzNfUHdFUkJQMDBhNmdSTnlXekNjUHJBR1ctWThPREpzeXZOOEdmM19leVdZNlZGVE80RGgycGtfcXRybG9qcGV2QzJuVnJNTzJRY05tejRWTQ?oc=5",
         "score": 0
       }
     ]
