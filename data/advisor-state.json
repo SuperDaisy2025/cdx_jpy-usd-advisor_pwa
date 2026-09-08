@@ -1,5 +1,5 @@
 {
-  "generatedAtJst": "2026-09-07 09:59",
+  "generatedAtJst": "2026-09-08 10:10",
   "startingCapitalJpy": 1000000,
   "policy": {
     "basePair": "USD/JPY",
@@ -12,20 +12,20 @@
   "forecast": {
     "direction": "neutral",
     "directionLabel": "中立",
-    "confidence": 0.51,
+    "confidence": 0.5,
     "summary": "中立を基本シナリオにします。トレンド、IMM、ニュースが拮抗しているため、最大50%の制約内でも動かす量は抑えています。",
-    "score": 0.024,
+    "score": 0.01,
     "reasons": [
       "直近のUSD/JPYは157.690で、1つ前の観測値からの勢いを0.00として評価しました。",
       "IMMの円ポジションは-84,200で、前週比の変化を0.09として売買比率に反映しました。",
       "ニュースは中立寄りです。",
-      "レバレッジなし、最大移動比率50%のルールにより、今回の推奨比率は1%です。"
+      "レバレッジなし、最大移動比率50%のルールにより、今回の推奨比率は0%です。"
     ]
   },
   "recommendation": {
     "action": "HOLD",
-    "allocationRatio": 0.01,
-    "moveAmountJpy": 10000,
+    "allocationRatio": 0,
+    "moveAmountJpy": 0,
     "cashJpyAfterTrade": 1000000,
     "usdAfterTrade": 0
   },
@@ -88,8 +88,8 @@
     {
       "timeJst": "2026-06-28 08:00",
       "action": "様子見",
-      "ratio": 0.01,
-      "amountJpy": 10000,
+      "ratio": 0,
+      "amountJpy": 0,
       "usdJpy": 157.69,
       "totalJpy": 1000000
     }
@@ -114,8 +114,24 @@
   "news": {
     "provider": "Google News RSS",
     "summary": "ニュースは中立寄りです。",
-    "score": -0.036,
+    "score": -0.108,
     "items": [
+      {
+        "title": "Japan's foreign reserves drop by a record $80 billion in August following yen intervention - CNBC",
+        "summary": "Japan's foreign reserves drop by a record $80 billion in August following yen intervention &nbsp;&nbsp; CNBC",
+        "publishedAt": "Mon, 07 Sep 2026 07:38:42 GMT",
+        "source": "CNBC",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQXk1Yjl3Q0VlTTdFeTdqNE9zQ21CWGY3cG03Yi1SYmIxVFZhLXhwZmNVbHFjUm1YWi1UMThsTTNEc0p5enBNOE1pdE14YnE3NzBNOUlGOERRalh4NS1TbGZwVXQ0T0czalZGZ2tDQ0UwWjNiNHcxMTR6OG9UcmJLS1930gGHAUFVX3lxTFB0RE43YmJwWXlkdnlvTFdjU1FrMFJmamEzWllGSzNYSXJlUUxVSGdiNlAzZE9vMVB2Qm5NbWVVZlY0VUo3QjlDeWNpYWZERHNrN0U1SGhtUzFHd0tBbmgzQUNhcEgwOUZkRFllOGUxbEhpekFKQUhoaG0taDhXSUFPTW1XMGZUNA?oc=5",
+        "score": -0.18
+      },
+      {
+        "title": "Yen rises to highest since February, topping intervention rally - The Japan Times",
+        "summary": "Yen rises to highest since February, topping intervention rally &nbsp;&nbsp; The Japan Times",
+        "publishedAt": "Tue, 08 Sep 2026 00:26:09 GMT",
+        "source": "The Japan Times",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZWNOeHl6dEJxWEZGT3Y4OHk0UUV2N3VBLTd3R08ybXdEbmlQd1c4a2hNVnNtQzNZQklzcEtZS25kZWQxMVlud3RyVmZBNWR6N20yTzd5S1NWVzgtZmUtRjdXalNLalJ6R1VCaldJakhfVGczeVBmOXlyaDZEOVZXcTVfQQ?oc=5",
+        "score": -0.18
+      },
       {
         "title": "Japan's August foreign reserves post largest-ever drop after record intervention - Reuters",
         "summary": "Japan's August foreign reserves post largest-ever drop after record intervention &nbsp;&nbsp; Reuters",
@@ -125,35 +141,19 @@
         "score": -0.18
       },
       {
-        "title": "Week Ahead for FX, Bonds: U.S. Inflation Data in Focus; ECB Expected to Raise Rates - WSJ",
-        "summary": "Week Ahead for FX, Bonds: U.S. Inflation Data in Focus; ECB Expected to Raise Rates &nbsp;&nbsp; WSJ",
-        "publishedAt": "Sun, 06 Sep 2026 17:25:26 GMT",
-        "source": "WSJ",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYUg3NndUYW1HNGpfSzJxNUVyU3A1ZzFVbXhGMjBhVndjbFpZaHM4c0N4NTdsczFkS19XUkFEbHAyazFvbXA4T1RmY2thTUpYZHdMTXZGLTk5d1NuNmJGeGhZWnp4RFdGXzNtakUzWVpBVXhxUDZxOGFPamVmZFRQUkJ4el9ETUgxbTByc25JRGVwcGo4RlhtMTZBeUJfMGFjeC0yb212QXNPZk9wZEU3T0hZU0NSSWM?oc=5",
+        "title": "Tenth District Beige Book - Kansas City Fed",
+        "summary": "Tenth District Beige Book &nbsp;&nbsp; Kansas City Fed",
+        "publishedAt": "Wed, 02 Sep 2026 07:00:00 GMT",
+        "source": "Kansas City Fed",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSEVoRlV1TG5idllmUUJMUG5oMEhZaE1ORjY4VldSQV9JTE9iZlQ3TUhGRjRNSVIxU2QxcWZyWmVpclRENEh5bFlaQm9wYXRNcF9HQWVIVnhPeW5Xa25tcmJkNkwwc0xnN0RFS2FHQUNqS3dPZEh2WFdoc3lUNkJ0dA?oc=5",
         "score": 0
       },
       {
-        "title": "Bank of Japan and Federal Reserve Divergence Is Driving the Yen Higher - stonex.com",
-        "summary": "Bank of Japan and Federal Reserve Divergence Is Driving the Yen Higher &nbsp;&nbsp; stonex.com",
-        "publishedAt": "Thu, 03 Sep 2026 20:30:14 GMT",
-        "source": "stonex.com",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQkpDY3ppN3R5Y1NpWnFFVjk1MFJXQ1ZIcFdiSnl2a0xnUE9qbmk4aHlCSjB2Q240TDJVR2R6a1hMdWd0SHlTRVJFNEwtUFdYdEMtZnd1bVNJMkw2US1mTjhJY3RKSTRfVWl1OUJzTi01R3F3TlVpQ2cyMlBXQm9xbFJieTdmRFpMUUwwOFd0Nm9IMDB1MjNQQm9pUDhuaXVkcXJiMTdCSlJ3aGxCb0E?oc=5",
-        "score": 0
-      },
-      {
-        "title": "Federal Banking Agencies and FinCEN Clarify SAR Confidentiality Rules for Customer Communications - Consumer Financial Services Law Monitor",
-        "summary": "Federal Banking Agencies and FinCEN Clarify SAR Confidentiality Rules for Customer Communications &nbsp;&nbsp; Consumer Financial Services Law Monitor",
-        "publishedAt": "Thu, 03 Sep 2026 13:39:47 GMT",
-        "source": "Consumer Financial Services Law Monitor",
-        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPUC1vLWlSbDVFVVZzVlcyZ005dzlxbUFNR0NneWlGWVd2OHdJa1RKMEptTEZMaWZoNF93ejU5c3lJTTdXaGdMOEhPQnVRSGlMZTM0VUV5SXItUDVrSGZnTlhuemtRMC1ISlYwdnhHSGp0X1dJWklBelJpV0hkbFJNRW9COEY2c0RMRWtzUURvMmlkXy1mRUY4Nzc1QTlyZ3FMLUxQYzNTNnBrLVQ1SGxRbTBBZm1FaUhpVlk1MDRkVmh4dURrc2MzZVdpbUpyei04N2FDWERzeXg4bnVhdHRoVGhoTkVDZ2MwcE9QRmlWQQ?oc=5",
-        "score": 0
-      },
-      {
-        "title": "What’s behind the vault door at the Federal Reserve Bank of San Francisco - The San Francisco Standard",
-        "summary": "What’s behind the vault door at the Federal Reserve Bank of San Francisco &nbsp;&nbsp; The San Francisco Standard",
-        "publishedAt": "Fri, 04 Sep 2026 13:00:00 GMT",
-        "source": "The San Francisco Standard",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMWwwRmIzRjFFbllpMXMtVXltZkhzUzhBdDNOU3MteFZPeEdyZTRqOFpLSjFqdFpJLXc4Mmp5NS1FdEJhS3BxdUpMNzZ2Rk5nNlF6SmozcU1wbXN6V3B1Q0hNUGdPNVJfNUFJNVg2ZzcxRU5Rcnc3X2JJZ2hJV2JaRTJn?oc=5",
+        "title": "The Japanese Yen has stopped trading the Federal Reserve - FXStreet",
+        "summary": "The Japanese Yen has stopped trading the Federal Reserve &nbsp;&nbsp; FXStreet",
+        "publishedAt": "Mon, 07 Sep 2026 18:02:21 GMT",
+        "source": "FXStreet",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRVRoa3kwQ0R1MDNQSmpLdDJEZ2pZVlZ0SEdtYUIwaGJZM3lDZGNZeWNiZ2NvOEJ0S3UxaHFweDBacHRPc2gyU1JxMVRiUEg2dmR1dTlDd2NSRDc2ZnZGN1pwY2xtVG1udzAtZ2VoS05TcEd1OW11WkktWllxVWdRZ0E2MldIdG1vWjFNQTUta2JwX01wVDEzNFdR?oc=5",
         "score": 0
       }
     ]
