@@ -1,5 +1,5 @@
 {
-  "generatedAtJst": "2026-09-10 10:02",
+  "generatedAtJst": "2026-09-11 10:02",
   "startingCapitalJpy": 1000000,
   "policy": {
     "basePair": "USD/JPY",
@@ -14,18 +14,18 @@
     "directionLabel": "中立",
     "confidence": 0.51,
     "summary": "中立を基本シナリオにします。トレンド、IMM、ニュースが拮抗しているため、最大50%の制約内でも動かす量は抑えています。",
-    "score": 0.017,
+    "score": 0.039,
     "reasons": [
       "直近のUSD/JPYは157.690で、1つ前の観測値からの勢いを0.00として評価しました。",
       "IMMの円ポジションは-84,200で、前週比の変化を0.09として売買比率に反映しました。",
       "ニュースは中立寄りです。",
-      "レバレッジなし、最大移動比率50%のルールにより、今回の推奨比率は1%です。"
+      "レバレッジなし、最大移動比率50%のルールにより、今回の推奨比率は2%です。"
     ]
   },
   "recommendation": {
     "action": "HOLD",
-    "allocationRatio": 0.01,
-    "moveAmountJpy": 10000,
+    "allocationRatio": 0.02,
+    "moveAmountJpy": 20000,
     "cashJpyAfterTrade": 1000000,
     "usdAfterTrade": 0
   },
@@ -88,8 +88,8 @@
     {
       "timeJst": "2026-06-28 08:00",
       "action": "様子見",
-      "ratio": 0.01,
-      "amountJpy": 10000,
+      "ratio": 0.02,
+      "amountJpy": 20000,
       "usdJpy": 157.69,
       "totalJpy": 1000000
     }
@@ -114,46 +114,46 @@
   "news": {
     "provider": "Google News RSS",
     "summary": "ニュースは中立寄りです。",
-    "score": -0.072,
+    "score": 0.036,
     "items": [
       {
-        "title": "Japan's August foreign reserves post largest-ever drop after record intervention - Reuters",
-        "summary": "Japan's August foreign reserves post largest-ever drop after record intervention &nbsp;&nbsp; Reuters",
-        "publishedAt": "Mon, 07 Sep 2026 00:28:00 GMT",
+        "title": "Washington nonprofit Better Markets sues Federal Reserve over capital rule overhaul - Reuters",
+        "summary": "Washington nonprofit Better Markets sues Federal Reserve over capital rule overhaul &nbsp;&nbsp; Reuters",
+        "publishedAt": "Thu, 10 Sep 2026 19:20:55 GMT",
         "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNanBTRWJCMTNGZkYzeS01WDVnOUlYSTdIWU1zdm82WjE3TGxBdlI0ZTlpc1BQTXExdE5ESmExaXFrN2JpOEhJYU0zUGVGdnUyalhqeU5wX0VobHU0bExWLUJLZW5Yc1RjMTdSY1lqaWplSFZOc0JHQ05Rek04RXVSdmc0NG1jZGNQeF9oQnpoTkJOQV9IejkyeUxYdlFtTUM4MnFfQXBoOE1haVNjUFFWdFVOcjhrRTU1c3lqSlB2SzVwdjlPb0RWOEkyZHpYTWM?oc=5",
-        "score": -0.18
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQb3hQU3Y4VWFmRkpaUll6bmx3MzFKYlFzS0x6VjNsc1ZjdjZCUDhaYVdxdXRFSUd5bGFScjdZWHJLaGx6ZDdROUd1SnpzbE5NaWxpa3d6OGJqX000QThqOGVxUXZrdnE2djFJSHp6Z1YzTVlIUzNHcjliMmVfU0Ixb21jNmRudUwxeWItZTlSUDhpaTRNbmRMbndpZWVEOW1TSWdvR2ZxYXZVQXc0SFllLWI3UlM0Z2k0XzcxRWpFR0E3UUo1bjczRXNR?oc=5",
+        "score": 0
       },
       {
-        "title": "Japan's foreign reserves drop by a record $80 billion in August following yen intervention - CNBC",
-        "summary": "Japan's foreign reserves drop by a record $80 billion in August following yen intervention &nbsp;&nbsp; CNBC",
-        "publishedAt": "Mon, 07 Sep 2026 07:38:42 GMT",
+        "title": "Better Markets Sues the Federal Reserve and Vice Chair Bowman for Corrupt Collusion with Wall Street Banks Over Capital Rulemaking - Better Markets",
+        "summary": "Better Markets Sues the Federal Reserve and Vice Chair Bowman for Corrupt Collusion with Wall Street Banks Over Capital Rulemaking &nbsp;&nbsp; Better Markets",
+        "publishedAt": "Thu, 10 Sep 2026 18:23:12 GMT",
+        "source": "Better Markets",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNN19BVVVZLU1fcFVOUTUxa0t3dU9HcUdmYjdKVmpkTW55T2duVl9sMG1CX2ZkSXN2dkIwazM4YkoyajREWUJ2b3lXRFZSZ1JaX1MzN3puX2Y5ajNyWUE3QWZaZ05ka09ERWRuZ3hBaHZBNVYxdWkxLW55ME5QYk03ajdvN3Q1YUhLcEJDaldXZF9RdWhuUlZVYkY2TTRPZzZPbXlhTy1aWGhiRzZVTDQyb2RfZ09EeldHdU1hNm9Cc1l4QmlaY19TVGJ1eE5kTy1KT043TnpDWF81WTNDdlhaXzB4ckpHckVNdnl1T21JNy1GZmxOSGR1VWdR?oc=5",
+        "score": 0
+      },
+      {
+        "title": "European Central Bank Raises Rates in Bid to Quell Inflation - The New York Times",
+        "summary": "European Central Bank Raises Rates in Bid to Quell Inflation &nbsp;&nbsp; The New York Times",
+        "publishedAt": "Thu, 10 Sep 2026 17:55:45 GMT",
+        "source": "The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMGlxa0FOS0lsVkNiRERaRE1FRjF2M092VmxtRG9GMGo5VG1paktWRFJ5Q1hRVkNfX0kwXzNnemV1NEJ4UHZmcFNSelRmdjRnbkQ5YmJtLW5LTTE2b1NFQmczbE1RdXV3VkRKUDJlRjFzeFhVTXplVjhfMC10SWVCWV9oZnRhQUtadm9naE1R?oc=5",
+        "score": 0
+      },
+      {
+        "title": "The likelihood of a Fed interest rate hike next week just got a lot higher - CNBC",
+        "summary": "The likelihood of a Fed interest rate hike next week just got a lot higher &nbsp;&nbsp; CNBC",
+        "publishedAt": "Thu, 10 Sep 2026 14:34:55 GMT",
         "source": "CNBC",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQXk1Yjl3Q0VlTTdFeTdqNE9zQ21CWGY3cG03Yi1SYmIxVFZhLXhwZmNVbHFjUm1YWi1UMThsTTNEc0p5enBNOE1pdE14YnE3NzBNOUlGOERRalh4NS1TbGZwVXQ0T0czalZGZ2tDQ0UwWjNiNHcxMTR6OG9UcmJLS1930gGHAUFVX3lxTFB0RE43YmJwWXlkdnlvTFdjU1FrMFJmamEzWllGSzNYSXJlUUxVSGdiNlAzZE9vMVB2Qm5NbWVVZlY0VUo3QjlDeWNpYWZERHNrN0U1SGhtUzFHd0tBbmgzQUNhcEgwOUZkRFllOGUxbEhpekFKQUhoaG0taDhXSUFPTW1XMGZUNA?oc=5",
-        "score": -0.18
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONjAwZFZ6bi16bV9pV1FMWDdfMzlhZUVicnJQaThwYjZySUZTbGhMQkNscFdkdHB1ME1Hc0RsaWYzVDM1SEk0ZmNSX3czTmlESXR1U0R1Zy1DMnU0cWU4REpYYWNVMHdBYlp3TjRkRHAyQ0pqLXdTZ2hoUUlkYnlPMHFCeUhZb2hEYmRVenQ1bWxpT0E1anFMT2NCRDFIdmlUaUlPVUtJX05idUVJa3lCd9IBtgFBVV95cUxNb09kWUpPaTFYX1J3T0ZYVDM1YjZURW4zVnh3R29VUWU2bzlsTWQxZ051RElKY1BzZmZ0X2RNT3BUWFR6TUpEV3pIOURqamZmMDM0YlJVSWpELXRJOUJhYkI1RU9xc2hvdFdiRHZNOWVVVXB0SFFfWG5NMFIwdXlwZ0ZsUUtfS1FsVGJBQ3RBZzJQbEx1NFNiN196NmNTdW5rZDB3TkpYbS1Ld3AwRThybGt5VjVEUQ?oc=5",
+        "score": 0.18
       },
       {
-        "title": "Labor demand policies connect workers to jobs - Federal Reserve Bank of Minneapolis",
-        "summary": "Labor demand policies connect workers to jobs &nbsp;&nbsp; Federal Reserve Bank of Minneapolis",
-        "publishedAt": "Wed, 09 Sep 2026 08:18:08 GMT",
-        "source": "Federal Reserve Bank of Minneapolis",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMnAzbFJNNHlrMXBDM2FnMENuUU5mTXJQeEFtS0FZOWJ4WU5IVjZXeGo4ckJMV1Z5LVJxaDl5OUNvSWlIZURfMGtTdVpfUVNoM3VXaVpoVE1rU1RHTWtUMWczNG5HQVF5TzY5Y2Y2a2ZfLWt5OU15Y1JYMGFqejBkV1V2V2tqTjA1UmQyWTJEQWJpaW8?oc=5",
-        "score": 0
-      },
-      {
-        "title": "BPI and The Clearing House Association Comment on Federal Reserve AML/CFT Program Proposal - Bank Policy Institute",
-        "summary": "BPI and The Clearing House Association Comment on Federal Reserve AML/CFT Program Proposal &nbsp;&nbsp; Bank Policy Institute",
-        "publishedAt": "Tue, 08 Sep 2026 22:21:23 GMT",
-        "source": "Bank Policy Institute",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPemp6UHd5UjBPQVpwRWJFX3hIbGMyUDlMVVRFUDEzcVJPOUpmV3JsYVQxbDg0QmRIeVFnVlNWd0tZOWtfT3B2dmkzYWhpMWN6dDU2emhUaEtHS09VTDFZSnRjc2Iwa0J4TU5kTHRJYTJPMjNXUmFmVWpzaG9lLTVzanlFdkJ1UE02VW5ZUDVVWVc2RWcxUy1NSmdvRjNzYUNUbnhDaXp4QVM1ZXc?oc=5",
-        "score": 0
-      },
-      {
-        "title": "More tariff costs are being passed on to consumers - mprnews.org",
-        "summary": "More tariff costs are being passed on to consumers &nbsp;&nbsp; mprnews.org",
-        "publishedAt": "Wed, 09 Sep 2026 09:00:00 GMT",
-        "source": "mprnews.org",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOT3Zvd1JIbFdJQmRTYUNOV1JtR0FVRFl0ZUI0S0dQem93M3hPeEFBOHJUN3JkRDRRNS03dUNTQlo0OXM0VEFZc3lacnZzMGlRV00zMVVRZEkwY1lLdDdvMTRVNkpPZEdveFJNcmFlV2NyQV91V1NfeWtwdno1YnRZQlA2c2IzSkZJYmZQMXJGUQ?oc=5",
+        "title": "ETFs to Watch as Japan Spends $80B Foreign Reserves to Save the Yen - Yahoo Finance",
+        "summary": "ETFs to Watch as Japan Spends $80B Foreign Reserves to Save the Yen &nbsp;&nbsp; Yahoo Finance",
+        "publishedAt": "Thu, 10 Sep 2026 14:52:00 GMT",
+        "source": "Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPc181Y1FwYS1rbzNTTGl1akF0aTBtaUx6RG5zSWRIb2UxWE1DR0diX04wR180bmJOX0YycWlvMjNVV3hpbmVSaHMxUm9NNDlYcURUNkN4RzQ5eV9mMkFERlVfQjZ1aWUtRllRVVJ5RmtSMWU2LW5nN3RsaldJS2NGZUhfY0RNcTJVal9taW9vcmlPczVRUWp3UElOY2o?oc=5",
         "score": 0
       }
     ]
