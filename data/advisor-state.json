@@ -1,5 +1,5 @@
 {
-  "generatedAtJst": "2026-09-11 10:02",
+  "generatedAtJst": "2026-09-12 10:04",
   "startingCapitalJpy": 1000000,
   "policy": {
     "basePair": "USD/JPY",
@@ -14,7 +14,7 @@
     "directionLabel": "中立",
     "confidence": 0.51,
     "summary": "中立を基本シナリオにします。トレンド、IMM、ニュースが拮抗しているため、最大50%の制約内でも動かす量は抑えています。",
-    "score": 0.039,
+    "score": 0.032,
     "reasons": [
       "直近のUSD/JPYは157.690で、1つ前の観測値からの勢いを0.00として評価しました。",
       "IMMの円ポジションは-84,200で、前週比の変化を0.09として売買比率に反映しました。",
@@ -114,46 +114,46 @@
   "news": {
     "provider": "Google News RSS",
     "summary": "ニュースは中立寄りです。",
-    "score": 0.036,
+    "score": 0,
     "items": [
+      {
+        "title": "Week Ahead for FX, Bonds: All Eyes on Fed Rate Decision - wsj.com",
+        "summary": "Week Ahead for FX, Bonds: All Eyes on Fed Rate Decision &nbsp;&nbsp; wsj.com",
+        "publishedAt": "Fri, 11 Sep 2026 15:49:00 GMT",
+        "source": "wsj.com",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOT2FWUnZ2OXJzNkR6VEpTYXhoMDZ2Mm1VYkZ3N1NCT051SHk2S1FxbnNIcGtBam1pNGN5M2lCazQwMFV5UHBNQUVERTVyTHd5VmFHaXBmRWdRVG9IY0gzWWNkT1Q5cXl3VUw2eVFkeVc2ZVA2R1JTcnA0NE5BU1BjUWI2dTVTMXQ0cURjTGw0N0t3cERhdnNfMHlvbW80MGZ5aVhRRWFZX3Fadw?oc=5",
+        "score": 0
+      },
+      {
+        "title": "Opinion: Forget the Fed. The Bank of Japan could deliver next week’s market shock. - MarketWatch",
+        "summary": "Opinion: Forget the Fed. The Bank of Japan could deliver next week’s market shock. &nbsp;&nbsp; MarketWatch",
+        "publishedAt": "Fri, 11 Sep 2026 15:23:00 GMT",
+        "source": "MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcW11bjM3Y01tYm5qUEd1TXRLaENabXd4UTIybDVkOU0tZVpHZm83VWlOQVo3MnFkWE05TlZ0NGV6QmludlBHb3BqdzJENktMNzhyWmZTc0p0amtRbDZGUThMWnBieTg4OVNuMWhpUFpQa3J2V0NwM0FKNjdLcUUtSlRFNXI2d3ZxNWQ1ZGR5MmJNQUdsLS12eVl0cnMwZjFQT0lrUUVLTGd0U29WaVdTTXZpRQ?oc=5",
+        "score": 0
+      },
+      {
+        "title": "Interest rates could rise again across the world – here's why - bbc.com",
+        "summary": "Interest rates could rise again across the world – here's why &nbsp;&nbsp; bbc.com",
+        "publishedAt": "Fri, 11 Sep 2026 13:35:29 GMT",
+        "source": "bbc.com",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUQl9vUmJqbm83OEJBTUxHZjhfNW5PNWlIRC1obldZd2swNDVLUVhaLUFIOEtNZl9lcjJJQ1BodnZzcjQ4bGJzUDdXd0VsdWljSUFiQTJWQTQ4QQ?oc=5",
+        "score": 0
+      },
+      {
+        "title": "Fed, Bowman sued over capital-requirements process - Banking Dive",
+        "summary": "Fed, Bowman sued over capital-requirements process &nbsp;&nbsp; Banking Dive",
+        "publishedAt": "Fri, 11 Sep 2026 16:43:54 GMT",
+        "source": "Banking Dive",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNnd3YmdHS2ZZMDRyRC11MlczZVhZWG1GZ2ZWcjMxY08yOEVrXzl0M1FMQVNfSUpMajlwdVNZUF9pdFpfY0VsNmpsRS1UenFjZUgxS2tIQ0YyakVIU0FQVkJxTlNlaFlCcXZnX012U3ZxMDlvZXZTam9zYkxuNVNqZmRDV2FwemxNZEFMb3B2eWtvOVNwdkhaczJjYk8waDdfVHlTcHlDWmYtQXVmaGlmWXNYR3pmdHp1TUoyWGI2eUhNNWRva0EyRFBQMUxxemxk?oc=5",
+        "score": 0
+      },
       {
         "title": "Washington nonprofit Better Markets sues Federal Reserve over capital rule overhaul - Reuters",
         "summary": "Washington nonprofit Better Markets sues Federal Reserve over capital rule overhaul &nbsp;&nbsp; Reuters",
         "publishedAt": "Thu, 10 Sep 2026 19:20:55 GMT",
         "source": "Reuters",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQb3hQU3Y4VWFmRkpaUll6bmx3MzFKYlFzS0x6VjNsc1ZjdjZCUDhaYVdxdXRFSUd5bGFScjdZWHJLaGx6ZDdROUd1SnpzbE5NaWxpa3d6OGJqX000QThqOGVxUXZrdnE2djFJSHp6Z1YzTVlIUzNHcjliMmVfU0Ixb21jNmRudUwxeWItZTlSUDhpaTRNbmRMbndpZWVEOW1TSWdvR2ZxYXZVQXc0SFllLWI3UlM0Z2k0XzcxRWpFR0E3UUo1bjczRXNR?oc=5",
-        "score": 0
-      },
-      {
-        "title": "Better Markets Sues the Federal Reserve and Vice Chair Bowman for Corrupt Collusion with Wall Street Banks Over Capital Rulemaking - Better Markets",
-        "summary": "Better Markets Sues the Federal Reserve and Vice Chair Bowman for Corrupt Collusion with Wall Street Banks Over Capital Rulemaking &nbsp;&nbsp; Better Markets",
-        "publishedAt": "Thu, 10 Sep 2026 18:23:12 GMT",
-        "source": "Better Markets",
-        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNN19BVVVZLU1fcFVOUTUxa0t3dU9HcUdmYjdKVmpkTW55T2duVl9sMG1CX2ZkSXN2dkIwazM4YkoyajREWUJ2b3lXRFZSZ1JaX1MzN3puX2Y5ajNyWUE3QWZaZ05ka09ERWRuZ3hBaHZBNVYxdWkxLW55ME5QYk03ajdvN3Q1YUhLcEJDaldXZF9RdWhuUlZVYkY2TTRPZzZPbXlhTy1aWGhiRzZVTDQyb2RfZ09EeldHdU1hNm9Cc1l4QmlaY19TVGJ1eE5kTy1KT043TnpDWF81WTNDdlhaXzB4ckpHckVNdnl1T21JNy1GZmxOSGR1VWdR?oc=5",
-        "score": 0
-      },
-      {
-        "title": "European Central Bank Raises Rates in Bid to Quell Inflation - The New York Times",
-        "summary": "European Central Bank Raises Rates in Bid to Quell Inflation &nbsp;&nbsp; The New York Times",
-        "publishedAt": "Thu, 10 Sep 2026 17:55:45 GMT",
-        "source": "The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMGlxa0FOS0lsVkNiRERaRE1FRjF2M092VmxtRG9GMGo5VG1paktWRFJ5Q1hRVkNfX0kwXzNnemV1NEJ4UHZmcFNSelRmdjRnbkQ5YmJtLW5LTTE2b1NFQmczbE1RdXV3VkRKUDJlRjFzeFhVTXplVjhfMC10SWVCWV9oZnRhQUtadm9naE1R?oc=5",
-        "score": 0
-      },
-      {
-        "title": "The likelihood of a Fed interest rate hike next week just got a lot higher - CNBC",
-        "summary": "The likelihood of a Fed interest rate hike next week just got a lot higher &nbsp;&nbsp; CNBC",
-        "publishedAt": "Thu, 10 Sep 2026 14:34:55 GMT",
-        "source": "CNBC",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONjAwZFZ6bi16bV9pV1FMWDdfMzlhZUVicnJQaThwYjZySUZTbGhMQkNscFdkdHB1ME1Hc0RsaWYzVDM1SEk0ZmNSX3czTmlESXR1U0R1Zy1DMnU0cWU4REpYYWNVMHdBYlp3TjRkRHAyQ0pqLXdTZ2hoUUlkYnlPMHFCeUhZb2hEYmRVenQ1bWxpT0E1anFMT2NCRDFIdmlUaUlPVUtJX05idUVJa3lCd9IBtgFBVV95cUxNb09kWUpPaTFYX1J3T0ZYVDM1YjZURW4zVnh3R29VUWU2bzlsTWQxZ051RElKY1BzZmZ0X2RNT3BUWFR6TUpEV3pIOURqamZmMDM0YlJVSWpELXRJOUJhYkI1RU9xc2hvdFdiRHZNOWVVVXB0SFFfWG5NMFIwdXlwZ0ZsUUtfS1FsVGJBQ3RBZzJQbEx1NFNiN196NmNTdW5rZDB3TkpYbS1Ld3AwRThybGt5VjVEUQ?oc=5",
-        "score": 0.18
-      },
-      {
-        "title": "ETFs to Watch as Japan Spends $80B Foreign Reserves to Save the Yen - Yahoo Finance",
-        "summary": "ETFs to Watch as Japan Spends $80B Foreign Reserves to Save the Yen &nbsp;&nbsp; Yahoo Finance",
-        "publishedAt": "Thu, 10 Sep 2026 14:52:00 GMT",
-        "source": "Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPc181Y1FwYS1rbzNTTGl1akF0aTBtaUx6RG5zSWRIb2UxWE1DR0diX04wR180bmJOX0YycWlvMjNVV3hpbmVSaHMxUm9NNDlYcURUNkN4RzQ5eV9mMkFERlVfQjZ1aWUtRllRVVJ5RmtSMWU2LW5nN3RsaldJS2NGZUhfY0RNcTJVal9taW9vcmlPczVRUWp3UElOY2o?oc=5",
         "score": 0
       }
     ]
