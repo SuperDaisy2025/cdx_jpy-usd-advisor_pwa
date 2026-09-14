@@ -1,5 +1,5 @@
 {
-  "generatedAtJst": "2026-09-13 09:58",
+  "generatedAtJst": "2026-09-14 10:01",
   "startingCapitalJpy": 1000000,
   "policy": {
     "basePair": "USD/JPY",
@@ -14,7 +14,7 @@
     "directionLabel": "中立",
     "confidence": 0.51,
     "summary": "中立を基本シナリオにします。トレンド、IMM、ニュースが拮抗しているため、最大50%の制約内でも動かす量は抑えています。",
-    "score": 0.039,
+    "score": 0.032,
     "reasons": [
       "直近のUSD/JPYは157.690で、1つ前の観測値からの勢いを0.00として評価しました。",
       "IMMの円ポジションは-84,200で、前週比の変化を0.09として売買比率に反映しました。",
@@ -114,8 +114,24 @@
   "news": {
     "provider": "Google News RSS",
     "summary": "ニュースは中立寄りです。",
-    "score": 0.036,
+    "score": 0,
     "items": [
+      {
+        "title": "Surging inflation puts interest rates back in focus as policymakers meet in Japan, US and UK - The Guardian",
+        "summary": "Surging inflation puts interest rates back in focus as policymakers meet in Japan, US and UK &nbsp;&nbsp; The Guardian",
+        "publishedAt": "Sun, 13 Sep 2026 17:34:00 GMT",
+        "source": "The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSjlxdEJuc05uQjJBcXJsU2cycGktTGlVMDVrVTdZcTRlMDRDNU9lWmhUaW9CTFB6cjhfdWpOaDkyaWhjeWp3amV1MkJmQXJkUjU1RERfWWY5T2hyNXhLX0puWHdFeFdCRHRRY0praXZPSjZGRmRQNDVuMUtBWjh3ME85endheVBtTXpxTjhXcXpaWER0X2dBTzFNeHd5bWtqdlE?oc=5",
+        "score": 0
+      },
+      {
+        "title": "Dollar steady, yen near 7-month high ahead of Fed, BOJ meetings - The Mighty 790 KFGO",
+        "summary": "Dollar steady, yen near 7-month high ahead of Fed, BOJ meetings &nbsp;&nbsp; The Mighty 790 KFGO",
+        "publishedAt": "Mon, 14 Sep 2026 00:56:13 GMT",
+        "source": "The Mighty 790 KFGO",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZGFndmg5dnN4M1l1dUhlM29yNkM3YlVEWXMwOFZ4WFdrTXB6S2NfT00xM3NQNXZ0SnFFU1F5Q3RNN1FqckpfSlBhRVEwN1V2QnJQVk9nZjlma3dQTUlDWXRiOG5vR1lSb2dQWmRsTXhGVUZZUTFJb21WcmVGOXFLYnFkUWR0QWlvREVyRWh3SW1uSzJ6?oc=5",
+        "score": 0
+      },
       {
         "title": "Week Ahead for FX, Bonds: All Eyes on Fed Rate Decision - WSJ",
         "summary": "Week Ahead for FX, Bonds: All Eyes on Fed Rate Decision &nbsp;&nbsp; WSJ",
@@ -125,33 +141,17 @@
         "score": 0
       },
       {
-        "title": "Market Minute: Toward synchronized global rate hikes … almost - The Real Economy Blog",
-        "summary": "Market Minute: Toward synchronized global rate hikes … almost &nbsp;&nbsp; The Real Economy Blog",
-        "publishedAt": "Sat, 12 Sep 2026 10:00:13 GMT",
-        "source": "The Real Economy Blog",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeWFQSnp0YjQzRzNicWdoUWduWWJ4UjBJcll2Y1J6ZkFuTGJXQUp6Y1JwNW5udUxGcWtLMzByYWtaWGJJLUFlN0UwY3UtRERlbFk0UENVbE02bTBlcDFXNXBHY2p6NTZPa1FEMUJEX3lndy1RSUd3X2hqQTd2bHg4MFBaZTF6THFGQ3BRNjFack9QQWM?oc=5",
-        "score": 0.18
-      },
-      {
-        "title": "Washington nonprofit Better Markets sues Federal Reserve over capital rule overhaul - Reuters",
-        "summary": "Washington nonprofit Better Markets sues Federal Reserve over capital rule overhaul &nbsp;&nbsp; Reuters",
-        "publishedAt": "Thu, 10 Sep 2026 19:20:55 GMT",
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQb3hQU3Y4VWFmRkpaUll6bmx3MzFKYlFzS0x6VjNsc1ZjdjZCUDhaYVdxdXRFSUd5bGFScjdZWHJLaGx6ZDdROUd1SnpzbE5NaWxpa3d6OGJqX000QThqOGVxUXZrdnE2djFJSHp6Z1YzTVlIUzNHcjliMmVfU0Ixb21jNmRudUwxeWItZTlSUDhpaTRNbmRMbndpZWVEOW1TSWdvR2ZxYXZVQXc0SFllLWI3UlM0Z2k0XzcxRWpFR0E3UUo1bjczRXNR?oc=5",
-        "score": 0
-      },
-      {
-        "title": "Tenth District Beige Book - Federal Reserve Bank of Kansas City",
-        "summary": "Tenth District Beige Book &nbsp;&nbsp; Federal Reserve Bank of Kansas City",
-        "publishedAt": "Wed, 02 Sep 2026 07:00:00 GMT",
-        "source": "Federal Reserve Bank of Kansas City",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSEVoRlV1TG5idllmUUJMUG5oMEhZaE1ORjY4VldSQV9JTE9iZlQ3TUhGRjRNSVIxU2QxcWZyWmVpclRENEh5bFlaQm9wYXRNcF9HQWVIVnhPeW5Xa25tcmJkNkwwc0xnN0RFS2FHQUNqS3dPZEh2WFdoc3lUNkJ0dA?oc=5",
+        "title": "Trump again calls for Federal Reserve to cut interest rates - upi.com",
+        "summary": "Trump again calls for Federal Reserve to cut interest rates &nbsp;&nbsp; upi.com",
+        "publishedAt": "Sun, 13 Sep 2026 23:51:22 GMT",
+        "source": "upi.com",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWmtfNTJxb3hXWW9zMV93MU5HWHdwRG10NDB0aTgwbE1yRjFQT2c4UUc2WVdnOG9IMHpmZ1JEd0s0ZWZrVzNUZC1RNm1STkFGV0txaEVZdDNEdmctdzNtOVRhVGgyWU5fN1lKVWVDek5HZUVJWkFmMlItZTdLN0lEbzhIcjZEZ9IBiwFBVV95cUxNdk9lelJkSi1mdXdGU2YxUWFRTDhFMGhjbGFZQklrOVFlR0hEcXJ4TFpNTC15N2tsdS1abFBqZGJGZDlZZTRVYk94ZFJvUlJVUThBZDhnZy1Fc1EyeWo1eEdNektvSTBvNUxmMVlxSjFjdk1yWm1zX001a21rV2UyREVDZEhNS0FHTzYw?oc=5",
         "score": 0
       },
       {
         "title": "Why are European banks moving gold out of United States? - DW.com",
         "summary": "Why are European banks moving gold out of United States? &nbsp;&nbsp; DW.com",
-        "publishedAt": "Sat, 12 Sep 2026 13:03:02 GMT",
+        "publishedAt": "Sun, 13 Sep 2026 15:57:36 GMT",
         "source": "DW.com",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNnUwWTNfTlFKeW02MWt4WFlCLUdtRmhsNUhFOUhlMkFhMWNFTmpFYl90YnVBSlF3WHRXZjJKZHBuejQ3YkNMcHZHS285aDlGcVAwOXhnQjMtZGI4R3dqOE9rZ05uU1p6QlhZM3gxRkhiWXp4c0F1QlJoTlJCbTdlcUlaYlRoRlNoRlFhLVBKaUtfZ9IBkgFBVV95cUxNQjlCemtDUEFvbHM0b2l6QlZQN0xiWmZwd2x6d3Y0aC1OTnM3d2VKRHFYak1NSlpIRndZVkR6TlZzU3N3T0gxWllsZ0xMWDBGWXJibmlHY0xuZzV6OUdUV2hQTE1udVI4WXE4M3l0anlfZW80dzZXLThhSVRCSkc4aEdMMjJtdVpoXzdGRS1nUExHZw?oc=5",
         "score": 0
