@@ -1,5 +1,5 @@
 {
-  "generatedAtJst": "2026-09-17 10:23",
+  "generatedAtJst": "2026-09-18 10:16",
   "startingCapitalJpy": 1000000,
   "policy": {
     "basePair": "USD/JPY",
@@ -14,7 +14,7 @@
     "directionLabel": "中立",
     "confidence": 0.51,
     "summary": "中立を基本シナリオにします。トレンド、IMM、ニュースが拮抗しているため、最大50%の制約内でも動かす量は抑えています。",
-    "score": 0.039,
+    "score": 0.032,
     "reasons": [
       "直近のUSD/JPYは157.690で、1つ前の観測値からの勢いを0.00として評価しました。",
       "IMMの円ポジションは-84,200で、前週比の変化を0.09として売買比率に反映しました。",
@@ -114,46 +114,46 @@
   "news": {
     "provider": "Google News RSS",
     "summary": "ニュースは中立寄りです。",
-    "score": 0.036,
+    "score": 0,
     "items": [
       {
-        "title": "What the Fed rate hike likely means for you - pbs.org",
-        "summary": "What the Fed rate hike likely means for you &nbsp;&nbsp; pbs.org",
-        "publishedAt": "Wed, 16 Sep 2026 19:08:08 GMT",
-        "source": "pbs.org",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeGxPU095Y1JPU3hiRjc1UkN3OWtqazMyNVkySkliRHJtZEtubjRqaTZDa09US1VsaGpPVTJ6bGd5Um5la3AxT2luZXRGekMzQ2s1Z1VzcXdLUmQ4TGc5eUJDaUs5NW9PUTBJeHVLcy1jWUNGaXlJWGVlWVJUU0hRYktXWW5NckXSAYwBQVVfeXFMTm5vME9DbHJOTGVXdjh6blVJMEpLc1h3TzdDc0xRTzFVLTJ1cl9WcGw2cU91YlRnZEpRMUF6TE5mTWFuYnhuX2xLNDJpS19Ta1VGeklxMXk5MTE1bE9rR1NSN2JvbXVwRS1xbl9qbHg5TkJTb3hSLXA0UGFnZHZOakFfTUdkQXZ3c01fbTU?oc=5",
-        "score": 0.18
+        "title": "Fed Policy Outlook Weighs on Yen Ahead of Bank of Japan Decision - wsj.com",
+        "summary": "Fed Policy Outlook Weighs on Yen Ahead of Bank of Japan Decision &nbsp;&nbsp; wsj.com",
+        "publishedAt": "Thu, 17 Sep 2026 06:58:18 GMT",
+        "source": "wsj.com",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbURrRV95a2huNGZrRU5wWmI3S2VfNks3d0FHTjVXd2t3TFcxWVZIZ09JSFBQRkN4eUttVldxcE5QeVpMS3JuYXcxZW4ybEpLcV91RWliQ29seFlaa1ZlaDhOMWhtQU01cVNuMk1zWlVfM016X21rci1MUnZCT0NPQTlIX1dGRmR5Zlh2RWQ5cnRlcllTRWg4LU1fa3NSSDB4RU9vdkVXalJpNWY1YkVNNFdB?oc=5",
+        "score": 0
       },
       {
-        "title": "Federal Reserve raises interest rates for the 1st time since 2023 - ABC News - Breaking News, Latest News and Videos",
-        "summary": "Federal Reserve raises interest rates for the 1st time since 2023 &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
-        "publishedAt": "Wed, 16 Sep 2026 19:27:43 GMT",
+        "title": "Bank of Japan set to raise interest rates to 31-year high - Tacoma News Tribune",
+        "summary": "Bank of Japan set to raise interest rates to 31-year high &nbsp;&nbsp; Tacoma News Tribune",
+        "publishedAt": "Thu, 17 Sep 2026 22:06:00 GMT",
+        "source": "Tacoma News Tribune",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbVBWTThXN04wdEcxRHduaVZyWjRIcGkyLVBWbzRDZUhOM3h6QmJlMVdkX0pZUXdkYXVtd0NTbmJfdHQ0MU5mRFI0aklIaXg0S3BJZ24xdnJsbExfc0d5Z05wTk1MeExfYkZJbm5Kamx6eUxDLU5WendsazBxcXM2Mnp1UHNJdw?oc=5",
+        "score": 0
+      },
+      {
+        "title": "Why the Federal Reserve is lifting rates now, and what it means - ABC News - Breaking News, Latest News and Videos",
+        "summary": "Why the Federal Reserve is lifting rates now, and what it means &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
+        "publishedAt": "Thu, 17 Sep 2026 18:43:49 GMT",
         "source": "ABC News - Breaking News, Latest News and Videos",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYktxZlJxRVNrdUZFRWViQjVMLUh3OGJwNGhrVFpJY2E5QTAyajNfcnFSb09rZUVkSnVMUHd4WkpsYktvZGczX05nRzVhSTdKNWtfU2hWb09IYnNQQ01tTlMwMV95YzJkbWVDMklwZ19XMC1RNmVsckpGS3FpNUpiRlUxZkVtNXk5NE5YRnpBSTI4eEhVOWxaUlBzZDlxb3p1ZVBFeHFR0gGrAUFVX3lxTFBrZzU3UXhjRlBBblFYNzJZZ3dINVFwMnpIOFQwRlJ1NmRTa3JNUGlkamJyS08wRjM5UlFuMkRJcHAtUEQxYjF3b2Yyc2E2V1hOOEhQRHRPckpidllEOHpLRG9VUTFxSUwyaE95SzNNZ0pkemQwQkNBYkZPbTBpN0ZMYTBWU25nT3FrUVNNal9Eb0lCNnJwZTVFUVVhM0dDRlMzQ1pQTF8xRTV6bw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORFRrcjFjNF9RUnlLeHdvU29aWXB2UlVpMDdFUEZaNkt5dWJac0xqNS1McHpDUk1qOHdrT00xNm1Eakp2RGM2VGdyd3JRQng3R05MV0VaWUpRLVhwUS00MWVSRGFzVVIzVy10bldUeDJvQVlXZXRiWmFObmx5NlJMTGtzWTlrdzNybGZLN0tFckNSd9IBlwFBVV95cUxNbVljWWRYTktKY2hBdHhnN2xTb1ctMGwtM2R4UGVCV05jRjJTSGM1RXpUdlF5ZzlyTVhseThoQkJPbGZBN3VhbEpzWUhOZDB5MlRZNEUwckptYU51WDlvOWhsMlUyTEl0UFdieUZ1QlpIc1huRGdFTUd1WXMtOVJiN3h6SHVwa0U2LTREcnJ0Y0JRSFNDdFFR?oc=5",
         "score": 0
       },
       {
-        "title": "Fed raises interest rates for first time since 2023, defying Trump as inflation mounts - NBC News",
-        "summary": "Fed raises interest rates for first time since 2023, defying Trump as inflation mounts &nbsp;&nbsp; NBC News",
-        "publishedAt": "Wed, 16 Sep 2026 21:03:41 GMT",
-        "source": "NBC News",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaHFvTUxpaHU4XzFTTkx6bkQxb19mNkF3WjVwQ1FMZjVkaXRPMzZmdDFCZVNKU0RJSDNpUWR1TmxFWWkyUWxfUnl1aUs5SGRKYzU1eDgtUzR5cUZsX044M0E0T2VBenRKZUJOTk5Dc2FDbFhtRlpyenBmRk8wVjRERUFCbGpoM214OUE?oc=5",
+        "title": "Banking Agencies Propose More Prescriptive Third-Party Risk Management Framework - Consumer Finance Monitor",
+        "summary": "Banking Agencies Propose More Prescriptive Third-Party Risk Management Framework &nbsp;&nbsp; Consumer Finance Monitor",
+        "publishedAt": "Thu, 17 Sep 2026 13:57:13 GMT",
+        "source": "Consumer Finance Monitor",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMlFnUktRVDFFTlZsaGpQQ09mc3BaUFdGMVZOT1k0OFNoaDVONDViTWxRNE1aYWQ5QXlBbkI4ZTd3N3kwSjFybXFWYnVCWm9fMC01a2hrbDhEaVc1MHpBeVJhZVVadzlEVUF6MlpsVHdGQnhRSkZFS3lvUm9wZjJLenlDWXFFRm9xbUNJQWFoU2RqNGZ5Q2Y3TGExMmZQbHM4V3Y1R2c4d3p2N0ExQnFtcFZIVDd1X3NJUHEybWFHSkpmSlA5ZEliTWR2bw?oc=5",
         "score": 0
       },
       {
-        "title": "U.S. Federal Reserve raises interest rates for the first time since 2023 - ABC13 Houston",
-        "summary": "U.S. Federal Reserve raises interest rates for the first time since 2023 &nbsp;&nbsp; ABC13 Houston",
-        "publishedAt": "Wed, 16 Sep 2026 23:22:25 GMT",
-        "source": "ABC13 Houston",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVWdLZXRIRVdvQkl0cFBHWFJxbzBCQjB6WklKU0JaNlFuODg0cWk0TDU1OWJ5QWV3NDA4TGg3Q3NucVdYNldGajFpaGM0bjFiQ05sRlhxYTFiTUxtMXhSaTRIajlqbHhOWkdCc0hHRFBNWFNPek1nMXF0bDZiWVVQMnFWY0NxTFJGSFFJQklnRGgtWHfSAZgBQVVfeXFMUGp3VjBnZ0xwa3prNlNjbGtnSVlXSG0ySElTdmFSRHhhSjIySUZid2RHR2djMldTZmRiNlJiNWJlcllGWDJPT2NiYjl3dFAzMzRGOFhCbzhpeTl4Y2poUUYwbVpYWThad2ZicnM3M0o1bi1nNGZmMWpqanJ4b21jUTVHMDdkRlU3S1phdFNUV3ZJYkpfYTc4cVc?oc=5",
-        "score": 0
-      },
-      {
-        "title": "Federal Reserve raises interest rates for the first time since 2023 - CBS News",
-        "summary": "Federal Reserve raises interest rates for the first time since 2023 &nbsp;&nbsp; CBS News",
-        "publishedAt": "Wed, 16 Sep 2026 18:02:00 GMT",
-        "source": "CBS News",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9aQTI5TnA0bk5pNlk0b0E3NkpjR1Jfd1BFa1FwZ1ZhY01FS1NfMFBHVnBySWdFY1FBN1RibF9hZk1tU180bU1EdTFQS3JuNHotRE5TNjk1REFsdG5iY2hqeXpmeEJNMVNFWnQ5aF9fSQ?oc=5",
+        "title": "Goldman's October hike call underscores renewed Fed tightening risks - Reuters",
+        "summary": "Goldman's October hike call underscores renewed Fed tightening risks &nbsp;&nbsp; Reuters",
+        "publishedAt": "Thu, 17 Sep 2026 23:08:14 GMT",
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNnA4bVp0ZlNGeVVZRGJvNmIwcVdmSHN3N1I1WlpaYldOaDdGUEoxUkxJNjd3ZkFkNkxhN09iR0RJbzU0VnQxdHdqUHhhVHRsZ3B4cnl0dHE5VHh1WHFBbjRFNnhpQ2NtRjlNQXRtUUVHN0w3azFuS2VxMEJ1NHB3SG5MVWl0NzVDcGNNVmlwYXJsMzZoNWpr?oc=5",
         "score": 0
       }
     ]
