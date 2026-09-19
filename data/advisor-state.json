@@ -1,5 +1,5 @@
 {
-  "generatedAtJst": "2026-09-18 10:16",
+  "generatedAtJst": "2026-09-19 10:08",
   "startingCapitalJpy": 1000000,
   "policy": {
     "basePair": "USD/JPY",
@@ -14,7 +14,7 @@
     "directionLabel": "中立",
     "confidence": 0.51,
     "summary": "中立を基本シナリオにします。トレンド、IMM、ニュースが拮抗しているため、最大50%の制約内でも動かす量は抑えています。",
-    "score": 0.032,
+    "score": 0.039,
     "reasons": [
       "直近のUSD/JPYは157.690で、1つ前の観測値からの勢いを0.00として評価しました。",
       "IMMの円ポジションは-84,200で、前週比の変化を0.09として売買比率に反映しました。",
@@ -114,47 +114,47 @@
   "news": {
     "provider": "Google News RSS",
     "summary": "ニュースは中立寄りです。",
-    "score": 0,
+    "score": 0.036,
     "items": [
       {
-        "title": "Fed Policy Outlook Weighs on Yen Ahead of Bank of Japan Decision - wsj.com",
-        "summary": "Fed Policy Outlook Weighs on Yen Ahead of Bank of Japan Decision &nbsp;&nbsp; wsj.com",
-        "publishedAt": "Thu, 17 Sep 2026 06:58:18 GMT",
-        "source": "wsj.com",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbURrRV95a2huNGZrRU5wWmI3S2VfNks3d0FHTjVXd2t3TFcxWVZIZ09JSFBQRkN4eUttVldxcE5QeVpMS3JuYXcxZW4ybEpLcV91RWliQ29seFlaa1ZlaDhOMWhtQU01cVNuMk1zWlVfM016X21rci1MUnZCT0NPQTlIX1dGRmR5Zlh2RWQ5cnRlcllTRWg4LU1fa3NSSDB4RU9vdkVXalJpNWY1YkVNNFdB?oc=5",
+        "title": "Japan raises interest rate to new 31-year high to curb rising prices - bbc.com",
+        "summary": "Japan raises interest rate to new 31-year high to curb rising prices &nbsp;&nbsp; bbc.com",
+        "publishedAt": "Fri, 18 Sep 2026 07:14:57 GMT",
+        "source": "bbc.com",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhNkRsZVl0OU5ob3FDR0l5WTZsM21feGs2OWpJNzlqMjVjT09RMkk0MDZOc0NZTzZyQzB1T2xSZTM5TmxMRHZXcElrTU5FNDQtVEQ5R1VGc2YzUnM?oc=5",
         "score": 0
       },
       {
-        "title": "Bank of Japan set to raise interest rates to 31-year high - Tacoma News Tribune",
-        "summary": "Bank of Japan set to raise interest rates to 31-year high &nbsp;&nbsp; Tacoma News Tribune",
-        "publishedAt": "Thu, 17 Sep 2026 22:06:00 GMT",
-        "source": "Tacoma News Tribune",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbVBWTThXN04wdEcxRHduaVZyWjRIcGkyLVBWbzRDZUhOM3h6QmJlMVdkX0pZUXdkYXVtd0NTbmJfdHQ0MU5mRFI0aklIaXg0S3BJZ24xdnJsbExfc0d5Z05wTk1MeExfYkZJbm5Kamx6eUxDLU5WendsazBxcXM2Mnp1UHNJdw?oc=5",
+        "title": "Japan raises interest rates to 31-year high to curb impact of rising prices - The Guardian",
+        "summary": "Japan raises interest rates to 31-year high to curb impact of rising prices &nbsp;&nbsp; The Guardian",
+        "publishedAt": "Fri, 18 Sep 2026 11:27:00 GMT",
+        "source": "The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOVhza1NzR202aG1nOTNQMGFmN1ExZGgxb3NfaWZGWTRaUi11blRFaHZaazBDZ2k4MVR6ckpzSi1wa1QzQjNTeTRuQkRYOXZoUzEyaWt4YVJZczdtaGRTNnZpWHNxWXlmTndSaU50bjhtSG8yMVhSb0xyZGpGQldpUDdfQjNQSUU5ZVFUNVlUemU3TXQ5a3RmbmZuSWZFX3dYcmxRNzhVZDVudw?oc=5",
         "score": 0
       },
       {
-        "title": "Why the Federal Reserve is lifting rates now, and what it means - ABC News - Breaking News, Latest News and Videos",
-        "summary": "Why the Federal Reserve is lifting rates now, and what it means &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
-        "publishedAt": "Thu, 17 Sep 2026 18:43:49 GMT",
-        "source": "ABC News - Breaking News, Latest News and Videos",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORFRrcjFjNF9RUnlLeHdvU29aWXB2UlVpMDdFUEZaNkt5dWJac0xqNS1McHpDUk1qOHdrT00xNm1Eakp2RGM2VGdyd3JRQng3R05MV0VaWUpRLVhwUS00MWVSRGFzVVIzVy10bldUeDJvQVlXZXRiWmFObmx5NlJMTGtzWTlrdzNybGZLN0tFckNSd9IBlwFBVV95cUxNbVljWWRYTktKY2hBdHhnN2xTb1ctMGwtM2R4UGVCV05jRjJTSGM1RXpUdlF5ZzlyTVhseThoQkJPbGZBN3VhbEpzWUhOZDB5MlRZNEUwckptYU51WDlvOWhsMlUyTEl0UFdieUZ1QlpIc1huRGdFTUd1WXMtOVJiN3h6SHVwa0U2LTREcnJ0Y0JRSFNDdFFR?oc=5",
+        "title": "New Report on SVB Collapse Pins Blame on Fed’s Own Regulators, Fed Official Says - WSJ",
+        "summary": "New Report on SVB Collapse Pins Blame on Fed’s Own Regulators, Fed Official Says &nbsp;&nbsp; WSJ",
+        "publishedAt": "Fri, 18 Sep 2026 17:51:00 GMT",
+        "source": "WSJ",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeWFTVVo0WXlybUpxZXR0c2IxVGpQYy11OVplMlVTTnY3WUt4VXBoU0xxRkRSaGVFdVYzeVZxVFVLSjJJdW1rTjBfeXJaNU5ZaHBlZ3ZaT3FQbGtiMWt0UlVlSmZaa1Voc21JTVN3WkJjSGdES3lFSzZlM2g2Sm1RUlNWeFB4OEVad3hURHpMZkNjbUltamx2NjhuUV8zVWo3UHJEN1lGcXhqcjVOdmVTTmVBb1luSkh3?oc=5",
         "score": 0
       },
       {
-        "title": "Banking Agencies Propose More Prescriptive Third-Party Risk Management Framework - Consumer Finance Monitor",
-        "summary": "Banking Agencies Propose More Prescriptive Third-Party Risk Management Framework &nbsp;&nbsp; Consumer Finance Monitor",
-        "publishedAt": "Thu, 17 Sep 2026 13:57:13 GMT",
-        "source": "Consumer Finance Monitor",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMlFnUktRVDFFTlZsaGpQQ09mc3BaUFdGMVZOT1k0OFNoaDVONDViTWxRNE1aYWQ5QXlBbkI4ZTd3N3kwSjFybXFWYnVCWm9fMC01a2hrbDhEaVc1MHpBeVJhZVVadzlEVUF6MlpsVHdGQnhRSkZFS3lvUm9wZjJLenlDWXFFRm9xbUNJQWFoU2RqNGZ5Q2Y3TGExMmZQbHM4V3Y1R2c4d3p2N0ExQnFtcFZIVDd1X3NJUHEybWFHSkpmSlA5ZEliTWR2bw?oc=5",
+        "title": "Yen sinks after Bank of Japan raises rates to highest level since 1995 - ft.com",
+        "summary": "Yen sinks after Bank of Japan raises rates to highest level since 1995 &nbsp;&nbsp; ft.com",
+        "publishedAt": "Fri, 18 Sep 2026 02:59:14 GMT",
+        "source": "ft.com",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObUhqdVpOUjhKVG9KcFI2a1FHNGZCY0dxbHg5NWhYaVktS29lOWJFNHI2UVdKNmIzR2NOYnBfUTc3eDJxQjBHWW1RQ3htcHByRks4amxoRWpMRUVmZE9seXBJOWlXa1RFSXRmYXlxcURPM0lBTmtJV05qejZVNUl0dHZYOWs?oc=5",
         "score": 0
       },
       {
-        "title": "Goldman's October hike call underscores renewed Fed tightening risks - Reuters",
-        "summary": "Goldman's October hike call underscores renewed Fed tightening risks &nbsp;&nbsp; Reuters",
-        "publishedAt": "Thu, 17 Sep 2026 23:08:14 GMT",
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNnA4bVp0ZlNGeVVZRGJvNmIwcVdmSHN3N1I1WlpaYldOaDdGUEoxUkxJNjd3ZkFkNkxhN09iR0RJbzU0VnQxdHdqUHhhVHRsZ3B4cnl0dHE5VHh1WHFBbjRFNnhpQ2NtRjlNQXRtUUVHN0w3azFuS2VxMEJ1NHB3SG5MVWl0NzVDcGNNVmlwYXJsMzZoNWpr?oc=5",
-        "score": 0
+        "title": "BOJ faces higher bar to support yen after Fed’s hawkish hike - The Japan Times",
+        "summary": "BOJ faces higher bar to support yen after Fed’s hawkish hike &nbsp;&nbsp; The Japan Times",
+        "publishedAt": "Thu, 17 Sep 2026 01:47:00 GMT",
+        "source": "The Japan Times",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZExBTHJQOGN4ckNBMWVSVG9abUpzUmVaaElkRk5ZbWlCOGpOMHBfTTJWMWxYTHZOT2FhRXpaSDhiaTRyMFlScnFIN1RMZUNORkswZDNiWDJYM2JNLTVnZzdkNlNlRlcyVDJaejRFd3JmTC1BdXZXSFBlUmlzSXlJNEZmM19TMk9p?oc=5",
+        "score": 0.18
       }
     ]
   },
