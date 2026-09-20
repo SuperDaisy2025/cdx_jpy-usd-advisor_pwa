@@ -1,5 +1,5 @@
 {
-  "generatedAtJst": "2026-09-19 10:08",
+  "generatedAtJst": "2026-09-20 10:05",
   "startingCapitalJpy": 1000000,
   "policy": {
     "basePair": "USD/JPY",
@@ -12,9 +12,9 @@
   "forecast": {
     "direction": "neutral",
     "directionLabel": "中立",
-    "confidence": 0.51,
+    "confidence": 0.52,
     "summary": "中立を基本シナリオにします。トレンド、IMM、ニュースが拮抗しているため、最大50%の制約内でも動かす量は抑えています。",
-    "score": 0.039,
+    "score": 0.046,
     "reasons": [
       "直近のUSD/JPYは157.690で、1つ前の観測値からの勢いを0.00として評価しました。",
       "IMMの円ポジションは-84,200で、前週比の変化を0.09として売買比率に反映しました。",
@@ -114,38 +114,22 @@
   "news": {
     "provider": "Google News RSS",
     "summary": "ニュースは中立寄りです。",
-    "score": 0.036,
+    "score": 0.072,
     "items": [
       {
-        "title": "Japan raises interest rate to new 31-year high to curb rising prices - bbc.com",
-        "summary": "Japan raises interest rate to new 31-year high to curb rising prices &nbsp;&nbsp; bbc.com",
+        "title": "Fed raises rates to 3.75%-4.00%, first hike since 2023 - U.S. Bank",
+        "summary": "Fed raises rates to 3.75%-4.00%, first hike since 2023 &nbsp;&nbsp; U.S. Bank",
+        "publishedAt": "Wed, 16 Sep 2026 07:00:00 GMT",
+        "source": "U.S. Bank",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw?oc=5",
+        "score": 0
+      },
+      {
+        "title": "Japan raises interest rate to new 31-year high to curb rising prices - BBC",
+        "summary": "Japan raises interest rate to new 31-year high to curb rising prices &nbsp;&nbsp; BBC",
         "publishedAt": "Fri, 18 Sep 2026 07:14:57 GMT",
-        "source": "bbc.com",
+        "source": "BBC",
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhNkRsZVl0OU5ob3FDR0l5WTZsM21feGs2OWpJNzlqMjVjT09RMkk0MDZOc0NZTzZyQzB1T2xSZTM5TmxMRHZXcElrTU5FNDQtVEQ5R1VGc2YzUnM?oc=5",
-        "score": 0
-      },
-      {
-        "title": "Japan raises interest rates to 31-year high to curb impact of rising prices - The Guardian",
-        "summary": "Japan raises interest rates to 31-year high to curb impact of rising prices &nbsp;&nbsp; The Guardian",
-        "publishedAt": "Fri, 18 Sep 2026 11:27:00 GMT",
-        "source": "The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOVhza1NzR202aG1nOTNQMGFmN1ExZGgxb3NfaWZGWTRaUi11blRFaHZaazBDZ2k4MVR6ckpzSi1wa1QzQjNTeTRuQkRYOXZoUzEyaWt4YVJZczdtaGRTNnZpWHNxWXlmTndSaU50bjhtSG8yMVhSb0xyZGpGQldpUDdfQjNQSUU5ZVFUNVlUemU3TXQ5a3RmbmZuSWZFX3dYcmxRNzhVZDVudw?oc=5",
-        "score": 0
-      },
-      {
-        "title": "New Report on SVB Collapse Pins Blame on Fed’s Own Regulators, Fed Official Says - WSJ",
-        "summary": "New Report on SVB Collapse Pins Blame on Fed’s Own Regulators, Fed Official Says &nbsp;&nbsp; WSJ",
-        "publishedAt": "Fri, 18 Sep 2026 17:51:00 GMT",
-        "source": "WSJ",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeWFTVVo0WXlybUpxZXR0c2IxVGpQYy11OVplMlVTTnY3WUt4VXBoU0xxRkRSaGVFdVYzeVZxVFVLSjJJdW1rTjBfeXJaNU5ZaHBlZ3ZaT3FQbGtiMWt0UlVlSmZaa1Voc21JTVN3WkJjSGdES3lFSzZlM2g2Sm1RUlNWeFB4OEVad3hURHpMZkNjbUltamx2NjhuUV8zVWo3UHJEN1lGcXhqcjVOdmVTTmVBb1luSkh3?oc=5",
-        "score": 0
-      },
-      {
-        "title": "Yen sinks after Bank of Japan raises rates to highest level since 1995 - ft.com",
-        "summary": "Yen sinks after Bank of Japan raises rates to highest level since 1995 &nbsp;&nbsp; ft.com",
-        "publishedAt": "Fri, 18 Sep 2026 02:59:14 GMT",
-        "source": "ft.com",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObUhqdVpOUjhKVG9KcFI2a1FHNGZCY0dxbHg5NWhYaVktS29lOWJFNHI2UVdKNmIzR2NOYnBfUTc3eDJxQjBHWW1RQ3htcHByRks4amxoRWpMRUVmZE9seXBJOWlXa1RFSXRmYXlxcURPM0lBTmtJV05qejZVNUl0dHZYOWs?oc=5",
         "score": 0
       },
       {
@@ -154,6 +138,22 @@
         "publishedAt": "Thu, 17 Sep 2026 01:47:00 GMT",
         "source": "The Japan Times",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZExBTHJQOGN4ckNBMWVSVG9abUpzUmVaaElkRk5ZbWlCOGpOMHBfTTJWMWxYTHZOT2FhRXpaSDhiaTRyMFlScnFIN1RMZUNORkswZDNiWDJYM2JNLTVnZzdkNlNlRlcyVDJaejRFd3JmTC1BdXZXSFBlUmlzSXlJNEZmM19TMk9p?oc=5",
+        "score": 0.18
+      },
+      {
+        "title": "Yen sinks after Bank of Japan raises rates to highest level since 1995 - Financial Times",
+        "summary": "Yen sinks after Bank of Japan raises rates to highest level since 1995 &nbsp;&nbsp; Financial Times",
+        "publishedAt": "Fri, 18 Sep 2026 02:59:36 GMT",
+        "source": "Financial Times",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObUhqdVpOUjhKVG9KcFI2a1FHNGZCY0dxbHg5NWhYaVktS29lOWJFNHI2UVdKNmIzR2NOYnBfUTc3eDJxQjBHWW1RQ3htcHByRks4amxoRWpMRUVmZE9seXBJOWlXa1RFSXRmYXlxcURPM0lBTmtJV05qejZVNUl0dHZYOWs?oc=5",
+        "score": 0
+      },
+      {
+        "title": "What the Fed rate hike likely means for you - PBS",
+        "summary": "What the Fed rate hike likely means for you &nbsp;&nbsp; PBS",
+        "publishedAt": "Wed, 16 Sep 2026 19:08:08 GMT",
+        "source": "PBS",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeGxPU095Y1JPU3hiRjc1UkN3OWtqazMyNVkySkliRHJtZEtubjRqaTZDa09US1VsaGpPVTJ6bGd5Um5la3AxT2luZXRGekMzQ2s1Z1VzcXdLUmQ4TGc5eUJDaUs5NW9PUTBJeHVLcy1jWUNGaXlJWGVlWVJUU0hRYktXWW5NckXSAYwBQVVfeXFMTm5vME9DbHJOTGVXdjh6blVJMEpLc1h3TzdDc0xRTzFVLTJ1cl9WcGw2cU91YlRnZEpRMUF6TE5mTWFuYnhuX2xLNDJpS19Ta1VGeklxMXk5MTE1bE9rR1NSN2JvbXVwRS1xbl9qbHg5TkJTb3hSLXA0UGFnZHZOakFfTUdkQXZ3c01fbTU?oc=5",
         "score": 0.18
       }
     ]
