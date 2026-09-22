@@ -1,5 +1,5 @@
 {
-  "generatedAtJst": "2026-09-21 10:02",
+  "generatedAtJst": "2026-09-22 10:35",
   "startingCapitalJpy": 1000000,
   "policy": {
     "basePair": "USD/JPY",
@@ -14,18 +14,18 @@
     "directionLabel": "中立",
     "confidence": 0.52,
     "summary": "中立を基本シナリオにします。トレンド、IMM、ニュースが拮抗しているため、最大50%の制約内でも動かす量は抑えています。",
-    "score": 0.053,
+    "score": 0.046,
     "reasons": [
       "直近のUSD/JPYは157.690で、1つ前の観測値からの勢いを0.00として評価しました。",
       "IMMの円ポジションは-84,200で、前週比の変化を0.09として売買比率に反映しました。",
       "ニュースは中立寄りです。",
-      "レバレッジなし、最大移動比率50%のルールにより、今回の推奨比率は3%です。"
+      "レバレッジなし、最大移動比率50%のルールにより、今回の推奨比率は2%です。"
     ]
   },
   "recommendation": {
     "action": "HOLD",
-    "allocationRatio": 0.03,
-    "moveAmountJpy": 30000,
+    "allocationRatio": 0.02,
+    "moveAmountJpy": 20000,
     "cashJpyAfterTrade": 1000000,
     "usdAfterTrade": 0
   },
@@ -88,8 +88,8 @@
     {
       "timeJst": "2026-06-28 08:00",
       "action": "様子見",
-      "ratio": 0.03,
-      "amountJpy": 30000,
+      "ratio": 0.02,
+      "amountJpy": 20000,
       "usdJpy": 157.69,
       "totalJpy": 1000000
     }
@@ -114,47 +114,47 @@
   "news": {
     "provider": "Google News RSS",
     "summary": "ニュースは中立寄りです。",
-    "score": 0.108,
+    "score": 0.072,
     "items": [
       {
-        "title": "Fed raises interest rates to 3.75%-4.00% in first rate hike in three years, with more expected - U.S. Bank",
-        "summary": "Fed raises interest rates to 3.75%-4.00% in first rate hike in three years, with more expected &nbsp;&nbsp; U.S. Bank",
-        "publishedAt": "Wed, 16 Sep 2026 07:00:00 GMT",
-        "source": "U.S. Bank",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw?oc=5",
+        "title": "OMFIF Event: Monetary Policy in an Uncertain World - Chicago - Federal Reserve Bank",
+        "summary": "OMFIF Event: Monetary Policy in an Uncertain World &nbsp;&nbsp; Chicago - Federal Reserve Bank",
+        "publishedAt": "Mon, 21 Sep 2026 18:58:37 GMT",
+        "source": "Chicago - Federal Reserve Bank",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE91cnF5UWdJTDhZOXFuNTBfYkxRN0pCcVU2bnlwRnZEVWZTZERjcktya0IxMlltTTBNUldRWWp5ZlFScXZfSFJhVlBTM055YWJDTzd4RkhPM3dnZDNwT3BpZ3UxeWtlbDNlYVlWQ1U2ZzVBN0JRdmc?oc=5",
+        "score": 0
+      },
+      {
+        "title": "2026 Agricultural Economic Summit - Kansas City Fed",
+        "summary": "2026 Agricultural Economic Summit &nbsp;&nbsp; Kansas City Fed",
+        "publishedAt": "Mon, 21 Sep 2026 21:43:25 GMT",
+        "source": "Kansas City Fed",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPY3puVHk3SXhwcFE2dzE5c0x3SkhpLTZTdHpTUkczYUJHMTktVWZFaXR5LUVabFMzT2xHNDVLbHVuVzVhZWczSTUxVlcxRHR4OU1xeG9uOGtyU2Nrb0JCWFNTSU1teUZsbFNReW00SGVtWE42a1FJY3BvOHNwMS1Sb3RB?oc=5",
+        "score": 0
+      },
+      {
+        "title": "Fighting inflation likely to be 'painful,' Chicago Fed president says - PBS",
+        "summary": "Fighting inflation likely to be 'painful,' Chicago Fed president says &nbsp;&nbsp; PBS",
+        "publishedAt": "Mon, 21 Sep 2026 17:36:10 GMT",
+        "source": "PBS",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQVR1azg4WmktY0lXSExsMzBsSVpRVzhqR2pFTUN2YkNRNVNDeFgxU0VfdzFzbHRJMHdHd1ZPWDdxdWl0eXdFRVoxdTNUQ0xISHI3Y1ZlTm8tQzZvLXZDR1EwOFVUNE9WdWhNYWFPMVB0cHFXU2szS2l0TzVPM08xNXRYMHdCN2lXdXBIdGNoTEhDWk1aYVZvaUJjcmxpRDlFUUllRGRR?oc=5",
+        "score": 0
+      },
+      {
+        "title": "Yen squeezed as hawkish turn grips central banks - The Mighty 790 KFGO",
+        "summary": "Yen squeezed as hawkish turn grips central banks &nbsp;&nbsp; The Mighty 790 KFGO",
+        "publishedAt": "Tue, 22 Sep 2026 01:17:30 GMT",
+        "source": "The Mighty 790 KFGO",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPd3ZfczV6UXJfTE1UUTMzYzZLc3R6eXROZmZ3a2lMSU9VX2gxbnFuLWh0SEUxejFnQ1VWWGYwaW45cExEdTZsNVA4SHNqUmVMd1hTdkNNaHNJalRsY0dJS2h3SEkzcTBISFdZTEJHcDJfLTQ5Xy01cEZNVkFzNmdhM0c4aw?oc=5",
         "score": 0.18
       },
       {
-        "title": "Japan raises interest rate to new 31-year high to curb rising prices - BBC",
-        "summary": "Japan raises interest rate to new 31-year high to curb rising prices &nbsp;&nbsp; BBC",
-        "publishedAt": "Fri, 18 Sep 2026 07:14:57 GMT",
-        "source": "BBC",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhNkRsZVl0OU5ob3FDR0l5WTZsM21feGs2OWpJNzlqMjVjT09RMkk0MDZOc0NZTzZyQzB1T2xSZTM5TmxMRHZXcElrTU5FNDQtVEQ5R1VGc2YzUnM?oc=5",
-        "score": 0
-      },
-      {
-        "title": "Yen sinks after Bank of Japan raises rates to highest level since 1995 - Financial Times",
-        "summary": "Yen sinks after Bank of Japan raises rates to highest level since 1995 &nbsp;&nbsp; Financial Times",
-        "publishedAt": "Fri, 18 Sep 2026 16:28:24 GMT",
-        "source": "Financial Times",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObUhqdVpOUjhKVG9KcFI2a1FHNGZCY0dxbHg5NWhYaVktS29lOWJFNHI2UVdKNmIzR2NOYnBfUTc3eDJxQjBHWW1RQ3htcHByRks4amxoRWpMRUVmZE9seXBJOWlXa1RFSXRmYXlxcURPM0lBTmtJV05qejZVNUl0dHZYOWs?oc=5",
-        "score": 0
-      },
-      {
-        "title": "Japan raises interest rates to 31-year high to curb impact of rising prices | Bank of Japan - The Guardian",
-        "summary": "Japan raises interest rates to 31-year high to curb impact of rising prices | Bank of Japan &nbsp;&nbsp; The Guardian",
-        "publishedAt": "Fri, 18 Sep 2026 11:27:00 GMT",
-        "source": "The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOVhza1NzR202aG1nOTNQMGFmN1ExZGgxb3NfaWZGWTRaUi11blRFaHZaazBDZ2k4MVR6ckpzSi1wa1QzQjNTeTRuQkRYOXZoUzEyaWt4YVJZczdtaGRTNnZpWHNxWXlmTndSaU50bjhtSG8yMVhSb0xyZGpGQldpUDdfQjNQSUU5ZVFUNVlUemU3TXQ5a3RmbmZuSWZFX3dYcmxRNzhVZDVudw?oc=5",
-        "score": 0
-      },
-      {
-        "title": "Global stocks mixed as yen falls despite Bank of Japan rate hike - afp.com",
-        "summary": "Global stocks mixed as yen falls despite Bank of Japan rate hike &nbsp;&nbsp; afp.com",
-        "publishedAt": "Fri, 18 Sep 2026 21:37:38 GMT",
-        "source": "afp.com",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMUlrclFfdWl0SlpSTU51dVNIRVRfOGlWc09KY2hfLVRja1B4MGVGenJ0Y2RWc0lOaE1PUjZGZ3pSUnlnd1dEdDRTNl9UMUgxTlZrczlub0g4R3lYeEhGOTg0RHBVa2RISE10aF8tWWowQ1FHVlA3VFM2b0QtSkRoWXMybVYzLU56?oc=5",
-        "score": 0.36
+        "title": "Fed raises interest rates to 3.75%-4.00% in first rate hike in three years, with more expected - usbank.com",
+        "summary": "Fed raises interest rates to 3.75%-4.00% in first rate hike in three years, with more expected &nbsp;&nbsp; usbank.com",
+        "publishedAt": "Wed, 16 Sep 2026 07:00:00 GMT",
+        "source": "usbank.com",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw?oc=5",
+        "score": 0.18
       }
     ]
   },
