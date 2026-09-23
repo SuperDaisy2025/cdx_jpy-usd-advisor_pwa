@@ -1,5 +1,5 @@
 {
-  "generatedAtJst": "2026-09-22 10:35",
+  "generatedAtJst": "2026-09-23 10:29",
   "startingCapitalJpy": 1000000,
   "policy": {
     "basePair": "USD/JPY",
@@ -12,9 +12,9 @@
   "forecast": {
     "direction": "neutral",
     "directionLabel": "中立",
-    "confidence": 0.52,
+    "confidence": 0.51,
     "summary": "中立を基本シナリオにします。トレンド、IMM、ニュースが拮抗しているため、最大50%の制約内でも動かす量は抑えています。",
-    "score": 0.046,
+    "score": 0.039,
     "reasons": [
       "直近のUSD/JPYは157.690で、1つ前の観測値からの勢いを0.00として評価しました。",
       "IMMの円ポジションは-84,200で、前週比の変化を0.09として売買比率に反映しました。",
@@ -114,7 +114,7 @@
   "news": {
     "provider": "Google News RSS",
     "summary": "ニュースは中立寄りです。",
-    "score": 0.072,
+    "score": 0.036,
     "items": [
       {
         "title": "OMFIF Event: Monetary Policy in an Uncertain World - Chicago - Federal Reserve Bank",
@@ -125,12 +125,28 @@
         "score": 0
       },
       {
-        "title": "2026 Agricultural Economic Summit - Kansas City Fed",
-        "summary": "2026 Agricultural Economic Summit &nbsp;&nbsp; Kansas City Fed",
-        "publishedAt": "Mon, 21 Sep 2026 21:43:25 GMT",
-        "source": "Kansas City Fed",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPY3puVHk3SXhwcFE2dzE5c0x3SkhpLTZTdHpTUkczYUJHMTktVWZFaXR5LUVabFMzT2xHNDVLbHVuVzVhZWczSTUxVlcxRHR4OU1xeG9uOGtyU2Nrb0JCWFNTSU1teUZsbFNReW00SGVtWE42a1FJY3BvOHNwMS1Sb3RB?oc=5",
+        "title": "Fed's Williams says rate-control toolkit is working well - Reuters",
+        "summary": "Fed's Williams says rate-control toolkit is working well &nbsp;&nbsp; Reuters",
+        "publishedAt": "Tue, 22 Sep 2026 21:27:52 GMT",
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeW9XZUd5U3BmaXhkR2F4NEgwNk1FMWtuZEd0UVVFcWgxMUZkOXRDZHJqSzI5X1U2Y01BbXY0OG04c0hmOEpqMHpERWd1WUQyVElTeUdrTmJYNFBHYTFRek1XNkZRb3FEQWxJQUZpZFhkUms0MWl5LXByUDd1Y2tIbHRtVzRzUU1zbXdZQUVwMGRCR1BnZkpnMGFUc0RmNUtvcTl2bFZ1WmE1ejk1?oc=5",
         "score": 0
+      },
+      {
+        "title": "How do changing interest rates affect the stock market in 2026 - U.S. Bank",
+        "summary": "How do changing interest rates affect the stock market in 2026 &nbsp;&nbsp; U.S. Bank",
+        "publishedAt": "Fri, 18 Sep 2026 07:00:00 GMT",
+        "source": "U.S. Bank",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVVJpa2pCR3B0TmxRZGlpSmRZaFctZ21ybGtrVUVBMFozZ0xiSGFRY0ZZdGNWaV80dnhHUTR2TTVoSnZEU190aGtMamY2MDAxT0hYYzRXcUl5OUEyOGRGYWlBbm54T3ppaEZWRWtyV01EOEJGcVRaM2xROWlCX2FxSFYxX1NXeUQwZmJLS3pqcGhCWjR5RVJrNlhmbUtRcy1EUGJLaFI4UTNkUHg4emNPUE95cTc0bnlDcklaaG5EcWhBeVU?oc=5",
+        "score": 0
+      },
+      {
+        "title": "Yen squeezed as hawkish turn grips central banks - The Mighty 790 KFGO",
+        "summary": "Yen squeezed as hawkish turn grips central banks &nbsp;&nbsp; The Mighty 790 KFGO",
+        "publishedAt": "Tue, 22 Sep 2026 06:02:44 GMT",
+        "source": "The Mighty 790 KFGO",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPd3ZfczV6UXJfTE1UUTMzYzZLc3R6eXROZmZ3a2lMSU9VX2gxbnFuLWh0SEUxejFnQ1VWWGYwaW45cExEdTZsNVA4SHNqUmVMd1hTdkNNaHNJalRsY0dJS2h3SEkzcTBISFdZTEJHcDJfLTQ5Xy01cEZNVkFzNmdhM0c4aw?oc=5",
+        "score": 0.18
       },
       {
         "title": "Fighting inflation likely to be 'painful,' Chicago Fed president says - PBS",
@@ -139,22 +155,6 @@
         "source": "PBS",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQVR1azg4WmktY0lXSExsMzBsSVpRVzhqR2pFTUN2YkNRNVNDeFgxU0VfdzFzbHRJMHdHd1ZPWDdxdWl0eXdFRVoxdTNUQ0xISHI3Y1ZlTm8tQzZvLXZDR1EwOFVUNE9WdWhNYWFPMVB0cHFXU2szS2l0TzVPM08xNXRYMHdCN2lXdXBIdGNoTEhDWk1aYVZvaUJjcmxpRDlFUUllRGRR?oc=5",
         "score": 0
-      },
-      {
-        "title": "Yen squeezed as hawkish turn grips central banks - The Mighty 790 KFGO",
-        "summary": "Yen squeezed as hawkish turn grips central banks &nbsp;&nbsp; The Mighty 790 KFGO",
-        "publishedAt": "Tue, 22 Sep 2026 01:17:30 GMT",
-        "source": "The Mighty 790 KFGO",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPd3ZfczV6UXJfTE1UUTMzYzZLc3R6eXROZmZ3a2lMSU9VX2gxbnFuLWh0SEUxejFnQ1VWWGYwaW45cExEdTZsNVA4SHNqUmVMd1hTdkNNaHNJalRsY0dJS2h3SEkzcTBISFdZTEJHcDJfLTQ5Xy01cEZNVkFzNmdhM0c4aw?oc=5",
-        "score": 0.18
-      },
-      {
-        "title": "Fed raises interest rates to 3.75%-4.00% in first rate hike in three years, with more expected - usbank.com",
-        "summary": "Fed raises interest rates to 3.75%-4.00% in first rate hike in three years, with more expected &nbsp;&nbsp; usbank.com",
-        "publishedAt": "Wed, 16 Sep 2026 07:00:00 GMT",
-        "source": "usbank.com",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw?oc=5",
-        "score": 0.18
       }
     ]
   },
