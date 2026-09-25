@@ -1,5 +1,5 @@
 {
-  "generatedAtJst": "2026-09-24 10:22",
+  "generatedAtJst": "2026-09-25 10:27",
   "startingCapitalJpy": 1000000,
   "policy": {
     "basePair": "USD/JPY",
@@ -12,9 +12,9 @@
   "forecast": {
     "direction": "neutral",
     "directionLabel": "中立",
-    "confidence": 0.51,
+    "confidence": 0.52,
     "summary": "中立を基本シナリオにします。トレンド、IMM、ニュースが拮抗しているため、最大50%の制約内でも動かす量は抑えています。",
-    "score": 0.039,
+    "score": 0.046,
     "reasons": [
       "直近のUSD/JPYは157.690で、1つ前の観測値からの勢いを0.00として評価しました。",
       "IMMの円ポジションは-84,200で、前週比の変化を0.09として売買比率に反映しました。",
@@ -114,14 +114,14 @@
   "news": {
     "provider": "Google News RSS",
     "summary": "ニュースは中立寄りです。",
-    "score": 0.036,
+    "score": 0.072,
     "items": [
       {
-        "title": "Fed’s Barr says future interest rate hikes ‘likely’ needed to tame inflation - The Hill",
-        "summary": "Fed’s Barr says future interest rate hikes ‘likely’ needed to tame inflation &nbsp;&nbsp; The Hill",
-        "publishedAt": "Wed, 23 Sep 2026 23:12:00 GMT",
-        "source": "The Hill",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9EdzJJZVlSVDhNMGMyYmJrTGVieVdLQXlBSVlYbVNYbmt0b0cxM0J3M295TnJTN25tTU9IbjVxNk9lQmpLdzdrMGV3TGNFQlcxSDZwNmduSW9ySTl6VTVqdnNLQmV5Y2EzUEpER2luOXlsZEXSAXhBVV95cUxPVE1LZHE1YzZZcHNSaVB1dTA1Qk9ramtnRENqVFl1QVVZbVhTSnNXNkFwSUNEZmxYMlU2cV8wSWcwZjNkaWdMMG1TWkJ4Y0lkX3NhMjZ4cWg2RzcyUFNqTXdtR004S0YtR0k1TlJzUmROV0lETHpUY3o?oc=5",
+        "title": "Fed's Williams says it is reasonable to see another US rate hike this year - Reuters",
+        "summary": "Fed's Williams says it is reasonable to see another US rate hike this year &nbsp;&nbsp; Reuters",
+        "publishedAt": "Thu, 24 Sep 2026 14:17:57 GMT",
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYkdqZ3lLWVItQUduVDZkZW45dEhCcmIwUEM4QlZFSVoxN0QxVEl0NTk4MmtqYVktY3JjNGFGOGZSaVRNMDJFX1QzTXRjYnVkWm0yQUFlU1hWRTNsbXRlY0pIa3RGWEtkamtjdUhERE1qLVlsQTgyNjBGSzA0ZXFLS29pQXM3QTBOTHZuYXRZT2paWlBPWk90eFM3NzFBRnBTZFZaVGF3cFA0V3lCY1I5T09FQWVhdw?oc=5",
         "score": 0.18
       },
       {
@@ -133,27 +133,27 @@
         "score": 0
       },
       {
-        "title": "Federal Reserve delivers warning to all Americans with a savings account: ‘There will be a reckoning.’ Are you ready? - Yahoo Finance",
-        "summary": "Federal Reserve delivers warning to all Americans with a savings account: ‘There will be a reckoning.’ Are you ready? &nbsp;&nbsp; Yahoo Finance",
-        "publishedAt": "Wed, 23 Sep 2026 10:35:00 GMT",
-        "source": "Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSzlCZVFEeVdoN25oSkh1OVZiZ3QyLUQ0NXBPZm1ZOWY3MFRGc0hqQ3lyRFdPLXpTN0VMWXpoVHpBVVhOY2NKUjBHb2luT0xWam9PTWhDLXpNQjhlTEZTUTJSVmtRLVFwMm5HRDdpZ1dUQlM2alBxbU93cjI5NTFYZEx5b0htblJxa2NMNHNiZjNjNUZycjc5SWtlLXVIR2VXSlhfVHF6TjFXeFU?oc=5",
+        "title": "Dollar hits two-month high as traders bet on more Fed rate hikes - The Journal Record",
+        "summary": "Dollar hits two-month high as traders bet on more Fed rate hikes &nbsp;&nbsp; The Journal Record",
+        "publishedAt": "Thu, 24 Sep 2026 16:22:31 GMT",
+        "source": "The Journal Record",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbzJqZGpJallZQnltLU9tVkgwY3hWR0kwMzJCM0xONjNvUzU1aTZNMk1KdUJyWUVXZG9zN20xNWFxaHB0cmx4d2NFS1ZTWGdkZy1TbGpLRzFoUnVGX0F0eXJNVG1qYUpCUFRZdlhGYXpDc2tqOGlPTVY2Zm5iT3ZRZ1NtNzZmSEozNjdaZUx3VQ?oc=5",
+        "score": 0.18
+      },
+      {
+        "title": "Fighting inflation likely to be 'painful,' Chicago Fed president says - pbs.org",
+        "summary": "Fighting inflation likely to be 'painful,' Chicago Fed president says &nbsp;&nbsp; pbs.org",
+        "publishedAt": "Mon, 21 Sep 2026 17:36:10 GMT",
+        "source": "pbs.org",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQVR1azg4WmktY0lXSExsMzBsSVpRVzhqR2pFTUN2YkNRNVNDeFgxU0VfdzFzbHRJMHdHd1ZPWDdxdWl0eXdFRVoxdTNUQ0xISHI3Y1ZlTm8tQzZvLXZDR1EwOFVUNE9WdWhNYWFPMVB0cHFXU2szS2l0TzVPM08xNXRYMHdCN2lXdXBIdGNoTEhDWk1aYVZvaUJjcmxpRDlFUUllRGRR?oc=5",
         "score": 0
       },
       {
-        "title": "Fed's Barkin says economy may be firming, inflation not limited to energy, tariff shocks - Reuters",
-        "summary": "Fed's Barkin says economy may be firming, inflation not limited to energy, tariff shocks &nbsp;&nbsp; Reuters",
-        "publishedAt": "Tue, 22 Sep 2026 16:56:55 GMT",
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZGR3T2ZLcVk2ZkdRdDBJLWZkVlRlUXBONm9UVmoyX1lmVU1CcE1KM2ViNDhrWllDVTdJdnYtYVlsQnBDMzRGU0JoczNhSlV3UGdnMTl4M3o2NDBVcVhDZDZZQUhHUlFZN0tDVWNGUDFMQkJmSWhtNjhKM2E4LTVtZThna01tSTdGekdrQVVmUGthTEpRLXBVTEtqRDBkNmVJbnQ4MURybndmMkwtMmVVU01CWkxIZG9ISUoycg?oc=5",
-        "score": 0
-      },
-      {
-        "title": "Fed raises rates to 3.75%-4.00%, first hike since 2023 - U.S. Bank",
-        "summary": "Fed raises rates to 3.75%-4.00%, first hike since 2023 &nbsp;&nbsp; U.S. Bank",
-        "publishedAt": "Wed, 16 Sep 2026 07:00:00 GMT",
-        "source": "U.S. Bank",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw?oc=5",
+        "title": "Federal Banking Agencies and NCUA Propose New Approach to Third-Party Risk Management - Davis Wright Tremaine",
+        "summary": "Federal Banking Agencies and NCUA Propose New Approach to Third-Party Risk Management &nbsp;&nbsp; Davis Wright Tremaine",
+        "publishedAt": "Thu, 24 Sep 2026 13:57:47 GMT",
+        "source": "Davis Wright Tremaine",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUkZLR044d21SUVR6S25LRW1XZUw2SmptNl8wbWI0ZnBMOVRmcWlyemFQdlpyZkR6WHRSYjRRdVlvVzY2VEpsUmhFQmxNRUhTME1rZ0xlVHk1RXNBMmh0MDRnOVhJMFl4cmowUWlneU1QLW1LOWJjdl9BdTJ1V0Y4d2xlRnVYVnRRdVhzTjVEeHZsNGpuZl9oZ0I1dW9pQUEtQkE?oc=5",
         "score": 0
       }
     ]
