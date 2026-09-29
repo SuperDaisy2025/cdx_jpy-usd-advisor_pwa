@@ -1,5 +1,5 @@
 {
-  "generatedAtJst": "2026-09-28 10:38",
+  "generatedAtJst": "2026-09-29 11:33",
   "startingCapitalJpy": 1000000,
   "policy": {
     "basePair": "USD/JPY",
@@ -14,7 +14,7 @@
     "directionLabel": "中立",
     "confidence": 0.51,
     "summary": "中立を基本シナリオにします。トレンド、IMM、ニュースが拮抗しているため、最大50%の制約内でも動かす量は抑えています。",
-    "score": 0.039,
+    "score": 0.032,
     "reasons": [
       "直近のUSD/JPYは157.690で、1つ前の観測値からの勢いを0.00として評価しました。",
       "IMMの円ポジションは-84,200で、前週比の変化を0.09として売買比率に反映しました。",
@@ -114,14 +114,30 @@
   "news": {
     "provider": "Google News RSS",
     "summary": "ニュースは中立寄りです。",
-    "score": 0.036,
+    "score": 0,
     "items": [
       {
-        "title": "US Fed plans to raise bank oversight thresholds, sources say - Reuters",
-        "summary": "US Fed plans to raise bank oversight thresholds, sources say &nbsp;&nbsp; Reuters",
-        "publishedAt": "Fri, 25 Sep 2026 17:19:23 GMT",
+        "title": "Federal Reserve Staffer Removed Sensitive Files Before Retiring, Report Finds - WSJ",
+        "summary": "Federal Reserve Staffer Removed Sensitive Files Before Retiring, Report Finds &nbsp;&nbsp; WSJ",
+        "publishedAt": "Mon, 28 Sep 2026 16:54:00 GMT",
+        "source": "WSJ",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZE9iVEZ3OEN6YjlpNWhnZEJQUVlJSEZuMTJieVBnQU05dWhyUXp4Y0hBQXNlZUtodi1ZQ2ZIVUlVTk9TUkpnSlNmc3hXN0tHaG42c0VyRUZJVHd6eXZWaUltTUE5U01jbkxvV0NyMnE1MTZOemJXODhINVRZVnJUekpMVUtvRDlvZko4RFdqbTZ0SElIR2JsZXNERGtYXzhZWTlzOUxuZ3hjdXZzZXNrakxweE1Bc0VCcjFYbVp4UklURWN3UmxvTw?oc=5",
+        "score": 0
+      },
+      {
+        "title": "Fed watchdog flags apparent data breaches by retiring staff member - Reuters",
+        "summary": "Fed watchdog flags apparent data breaches by retiring staff member &nbsp;&nbsp; Reuters",
+        "publishedAt": "Mon, 28 Sep 2026 20:49:43 GMT",
         "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUWp2cWtUeTRqUnMtdGU0NElzbE9lV2N5QllabnBYYlhyRVk5TnU4ckJhSUc3aVZmRmxadmVoRTBsM2xfSWdpR19JMlVLMlg4eG1SdDdaSXRvT1RKNE5kS3d6NjgwS2l3ZGxqSW5Tc2x3RFJQYm1nV3RTN3NpZVBPbzhjekxzdlp0djdiNHVFckt5UDFCY2Ixajc0bVhaSkNDUEJvYm9iUWprUkFINVpGWGdR?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ2ZwVHE1NFdjY0xLQmFReFNEY080ZGhOS0UyQmNBTXZQbTBTWWN4T040OHgwUFZIRVRrenlVZmhxRzZxNmJuSHh0ZTU1dDZWSzNsdmNGRDRvbThHVDBTNC0xX1FkMzZnTHFBZzU5UmYxWnlCZGNaTUxhdlJoZm5NNU1kR1VheU5rcC1iVWctS25BcGtYbFRjLXJlOVBYSGhqTW9Wci1zdUpaOGVrY2ktSVU0cVJ1dw?oc=5",
+        "score": 0
+      },
+      {
+        "title": "Federal Reserve exposed to security ‘deficiencies’, watchdog warns - Financial Times",
+        "summary": "Federal Reserve exposed to security ‘deficiencies’, watchdog warns &nbsp;&nbsp; Financial Times",
+        "publishedAt": "Mon, 28 Sep 2026 17:31:45 GMT",
+        "source": "Financial Times",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRzh6dVk3eFMxWHl5VVJsSXVid1kyTTNReFJNOVo0c200VUdSU2RVR2M3elBjaVFhNTRyUDFfamFfYm9iRndST3ZEWi0wenNFSlZOX2F6Z21uVzJBTGp5WHl4LTRKSnpENEhzZG40Z2NVZS1GUFBBSU9KdGN4dlczeWk4c3A?oc=5",
         "score": 0
       },
       {
@@ -133,27 +149,11 @@
         "score": 0
       },
       {
-        "title": "Trump Expressed Concerns About Yen Weakness, Japan Finance Minister Says - WSJ",
-        "summary": "Trump Expressed Concerns About Yen Weakness, Japan Finance Minister Says &nbsp;&nbsp; WSJ",
-        "publishedAt": "Fri, 25 Sep 2026 04:23:00 GMT",
-        "source": "WSJ",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa3VnY0xlZ0NXQzJnSXFtQ0VQTnpnNk13cDA3aDBXWWQ2ckFvdjlqWi1fVGZDbDAwLUo2SFBEbldPRkJjNEhOM3BVZ3FpRkJ5dHBscFdEQUVpUndoR3NuWF9nUmc1OFR5S243Vm8xVmZaQ1luN2dlMkZjeHJYS3d4N3NIakE5NFlXb05KeGIyemoxYVQydlUwTHZpRjRYWHhxczIxRENxYzBvaHhDdU0tQXF2blZxcDkyZVZv?oc=5",
-        "score": 0.18
-      },
-      {
-        "title": "Fed Confronts the Prospect of Another Rate Increase Ahead of Midterms - The New York Times",
-        "summary": "Fed Confronts the Prospect of Another Rate Increase Ahead of Midterms &nbsp;&nbsp; The New York Times",
-        "publishedAt": "Fri, 25 Sep 2026 13:37:14 GMT",
-        "source": "The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMGdRWGMwS19RQ1QwQVhydF9udFh2SkVwN2RYaXZMZGd6UzdGdXJOQ1JUMlFuLUw3VExKTm5XbldCLVBWVHpWSmNSWlQyN0tYUzVtRTg5Rlk3SnMxRklVWHVzbWJ4RFgtajBvVGM1cEhJcVZnTkhVNXNmWFVvZXZiRmt3?oc=5",
-        "score": 0
-      },
-      {
-        "title": "Fed raises rates to 3.75%-4.00%, first hike since 2023 - U.S. Bank",
-        "summary": "Fed raises rates to 3.75%-4.00%, first hike since 2023 &nbsp;&nbsp; U.S. Bank",
-        "publishedAt": "Wed, 16 Sep 2026 07:00:00 GMT",
-        "source": "U.S. Bank",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw?oc=5",
+        "title": "Federal Agencies Propose New Guidance for Third-Party Risk Management - JD Supra",
+        "summary": "Federal Agencies Propose New Guidance for Third-Party Risk Management &nbsp;&nbsp; JD Supra",
+        "publishedAt": "Mon, 28 Sep 2026 19:43:22 GMT",
+        "source": "JD Supra",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWFlaZ0xPdXlUbVFldnJ5Mk9jZUVLTndZdnV2NjZmZ0hJcXU2aTFUeWN5eXR3TVIwT2Q5VnF5cXAya0FLbDlrcnZ1dVRaYkRXeTd2Y1FJVHVpZW9tT2R5Rktmemk4dUdoMzJxWUd0aS1TbXQ5bkVHNWtIT012V1ZNZ2ZlRGFtWGs?oc=5",
         "score": 0
       }
     ]
