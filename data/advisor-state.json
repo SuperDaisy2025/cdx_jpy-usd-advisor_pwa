@@ -1,5 +1,5 @@
 {
-  "generatedAtJst": "2026-09-29 11:33",
+  "generatedAtJst": "2026-09-30 11:05",
   "startingCapitalJpy": 1000000,
   "policy": {
     "basePair": "USD/JPY",
@@ -14,7 +14,7 @@
     "directionLabel": "中立",
     "confidence": 0.51,
     "summary": "中立を基本シナリオにします。トレンド、IMM、ニュースが拮抗しているため、最大50%の制約内でも動かす量は抑えています。",
-    "score": 0.032,
+    "score": 0.039,
     "reasons": [
       "直近のUSD/JPYは157.690で、1つ前の観測値からの勢いを0.00として評価しました。",
       "IMMの円ポジションは-84,200で、前週比の変化を0.09として売買比率に反映しました。",
@@ -114,30 +114,30 @@
   "news": {
     "provider": "Google News RSS",
     "summary": "ニュースは中立寄りです。",
-    "score": 0,
+    "score": 0.036,
     "items": [
       {
-        "title": "Federal Reserve Staffer Removed Sensitive Files Before Retiring, Report Finds - WSJ",
-        "summary": "Federal Reserve Staffer Removed Sensitive Files Before Retiring, Report Finds &nbsp;&nbsp; WSJ",
-        "publishedAt": "Mon, 28 Sep 2026 16:54:00 GMT",
+        "title": "Opening remarks by Vice Chair for Supervision Bowman at the Community Bank Cyber Workshop - Federal Reserve (.gov)",
+        "summary": "Opening remarks by Vice Chair for Supervision Bowman at the Community Bank Cyber Workshop &nbsp;&nbsp; Federal Reserve (.gov)",
+        "publishedAt": "Tue, 29 Sep 2026 15:04:28 GMT",
+        "source": "Federal Reserve (.gov)",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9VU2ZOYS15UHZjZC1vLVRJd1h1NzRCNkpTakxBbTgyamtwMHdidXJqcEZBckFLVDJkaGc1VkJ2dFc2SWFveXpELTNnRzJ1eF9oNVJUMTZ1UE5uaXl4VFNsT1pZS0FfUmtqcWlrazFCMkdBcmZWOE1j?oc=5",
+        "score": 0
+      },
+      {
+        "title": "Fed's Williams sees no urgency for next rate hike - reuters.com",
+        "summary": "Fed's Williams sees no urgency for next rate hike &nbsp;&nbsp; reuters.com",
+        "publishedAt": "Tue, 29 Sep 2026 18:01:00 GMT",
+        "source": "reuters.com",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQW15c0ZrS2lrMUlHZDZjZlpxRG5GazRlendBenpXeWZSR3NCaXBFLXA5LVBlbWNEeDNsWnRnS25CYWwxc3AzRDhrTjhUZTNZcl8xN2VDT3JtZHk1eVpHUzFaaXpVVy1HbUk1Y3hKOEtoTmxpNTVwWkJHZXVvTWl1cm5QdWVpWXhFQkxBdmt4enRJRkF3NUlxTQ?oc=5",
+        "score": 0.18
+      },
+      {
+        "title": "Fed’s Williams Hints Next Rate Increase Can Wait - WSJ",
+        "summary": "Fed’s Williams Hints Next Rate Increase Can Wait &nbsp;&nbsp; WSJ",
+        "publishedAt": "Tue, 29 Sep 2026 19:10:00 GMT",
         "source": "WSJ",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZE9iVEZ3OEN6YjlpNWhnZEJQUVlJSEZuMTJieVBnQU05dWhyUXp4Y0hBQXNlZUtodi1ZQ2ZIVUlVTk9TUkpnSlNmc3hXN0tHaG42c0VyRUZJVHd6eXZWaUltTUE5U01jbkxvV0NyMnE1MTZOemJXODhINVRZVnJUekpMVUtvRDlvZko4RFdqbTZ0SElIR2JsZXNERGtYXzhZWTlzOUxuZ3hjdXZzZXNrakxweE1Bc0VCcjFYbVp4UklURWN3UmxvTw?oc=5",
-        "score": 0
-      },
-      {
-        "title": "Fed watchdog flags apparent data breaches by retiring staff member - Reuters",
-        "summary": "Fed watchdog flags apparent data breaches by retiring staff member &nbsp;&nbsp; Reuters",
-        "publishedAt": "Mon, 28 Sep 2026 20:49:43 GMT",
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ2ZwVHE1NFdjY0xLQmFReFNEY080ZGhOS0UyQmNBTXZQbTBTWWN4T040OHgwUFZIRVRrenlVZmhxRzZxNmJuSHh0ZTU1dDZWSzNsdmNGRDRvbThHVDBTNC0xX1FkMzZnTHFBZzU5UmYxWnlCZGNaTUxhdlJoZm5NNU1kR1VheU5rcC1iVWctS25BcGtYbFRjLXJlOVBYSGhqTW9Wci1zdUpaOGVrY2ktSVU0cVJ1dw?oc=5",
-        "score": 0
-      },
-      {
-        "title": "Federal Reserve exposed to security ‘deficiencies’, watchdog warns - Financial Times",
-        "summary": "Federal Reserve exposed to security ‘deficiencies’, watchdog warns &nbsp;&nbsp; Financial Times",
-        "publishedAt": "Mon, 28 Sep 2026 17:31:45 GMT",
-        "source": "Financial Times",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRzh6dVk3eFMxWHl5VVJsSXVid1kyTTNReFJNOVo0c200VUdSU2RVR2M3elBjaVFhNTRyUDFfamFfYm9iRndST3ZEWi0wenNFSlZOX2F6Z21uVzJBTGp5WHl4LTRKSnpENEhzZG40Z2NVZS1GUFBBSU9KdGN4dlczeWk4c3A?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUlJqZW8zbmpLc2tYN0lzcHhDaEdoNHp3cHBmVjVnSF9GVElVTmV4NkZpeklLTVNfTHRCZ1pUX3FpOGE5ckoxbllKX3hwQ19CMjBkMi0yRmpGeDZoRWxpa0owNlVScDktSjlIOUxsaWxORUx0T3QzSm9pelRxd2xwSU4xQlBMYllsNkJjUFRka2oyQi0xVkZyTVdwZi1Hald0NWdNTTlLMlJVUm82YmFtUE1VV2NYTWVWX1E?oc=5",
         "score": 0
       },
       {
@@ -149,11 +149,11 @@
         "score": 0
       },
       {
-        "title": "Federal Agencies Propose New Guidance for Third-Party Risk Management - JD Supra",
-        "summary": "Federal Agencies Propose New Guidance for Third-Party Risk Management &nbsp;&nbsp; JD Supra",
-        "publishedAt": "Mon, 28 Sep 2026 19:43:22 GMT",
-        "source": "JD Supra",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWFlaZ0xPdXlUbVFldnJ5Mk9jZUVLTndZdnV2NjZmZ0hJcXU2aTFUeWN5eXR3TVIwT2Q5VnF5cXAya0FLbDlrcnZ1dVRaYkRXeTd2Y1FJVHVpZW9tT2R5Rktmemk4dUdoMzJxWUd0aS1TbXQ5bkVHNWtIT012V1ZNZ2ZlRGFtWGs?oc=5",
+        "title": "Fed’s ‘collective lack of action’ let info security risks fester: OIG - Banking Dive",
+        "summary": "Fed’s ‘collective lack of action’ let info security risks fester: OIG &nbsp;&nbsp; Banking Dive",
+        "publishedAt": "Tue, 29 Sep 2026 16:16:06 GMT",
+        "source": "Banking Dive",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOS3JxOXhvWHVzekJnM2R1MnFqY2t2NWE3NUx2R3Jia0JoenUtNURaYXJUbklEY2pxNDVhbFZHbE5jSDZRUHhHbFpSQU1WZzNBMHBSYk4yZi1CRFF1N2haTDFkNWNjX2UwM2VmTVBtLVQxRTgyOXVsay1QcDhaYy1EMUdXNUY1bzU2Njk3SlZXcmdOdnpFWERGb3hTX3ZOdU9CZVFkaklsaVRVTzRmYk1j?oc=5",
         "score": 0
       }
     ]
