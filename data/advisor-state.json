@@ -1,5 +1,5 @@
 {
-  "generatedAtJst": "2026-09-30 11:05",
+  "generatedAtJst": "2026-10-01 11:07",
   "startingCapitalJpy": 1000000,
   "policy": {
     "basePair": "USD/JPY",
@@ -14,7 +14,7 @@
     "directionLabel": "中立",
     "confidence": 0.51,
     "summary": "中立を基本シナリオにします。トレンド、IMM、ニュースが拮抗しているため、最大50%の制約内でも動かす量は抑えています。",
-    "score": 0.039,
+    "score": 0.032,
     "reasons": [
       "直近のUSD/JPYは157.690で、1つ前の観測値からの勢いを0.00として評価しました。",
       "IMMの円ポジションは-84,200で、前週比の変化を0.09として売買比率に反映しました。",
@@ -114,8 +114,16 @@
   "news": {
     "provider": "Google News RSS",
     "summary": "ニュースは中立寄りです。",
-    "score": 0.036,
+    "score": 0,
     "items": [
+      {
+        "title": "Oil and gas activity increases despite cost pressures, longer supplier delivery times - Federal Reserve Bank of Dallas",
+        "summary": "Oil and gas activity increases despite cost pressures, longer supplier delivery times &nbsp;&nbsp; Federal Reserve Bank of Dallas",
+        "publishedAt": "Wed, 30 Sep 2026 19:36:37 GMT",
+        "source": "Federal Reserve Bank of Dallas",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA3bEViaWRKem5STThFZ1J2NlhvMlE0TUZmUzY3NmhvejZJZE9WQXM3MV9PdTUycVRTeWpLX1oxTE9DM25CdnBaek81QmM5VGN1TnF4S3pvb1NiY1dzTWZYMW5NTHBSMnc?oc=5",
+        "score": 0
+      },
       {
         "title": "Opening remarks by Vice Chair for Supervision Bowman at the Community Bank Cyber Workshop - Federal Reserve (.gov)",
         "summary": "Opening remarks by Vice Chair for Supervision Bowman at the Community Bank Cyber Workshop &nbsp;&nbsp; Federal Reserve (.gov)",
@@ -125,35 +133,27 @@
         "score": 0
       },
       {
-        "title": "Fed's Williams sees no urgency for next rate hike - reuters.com",
-        "summary": "Fed's Williams sees no urgency for next rate hike &nbsp;&nbsp; reuters.com",
-        "publishedAt": "Tue, 29 Sep 2026 18:01:00 GMT",
-        "source": "reuters.com",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQW15c0ZrS2lrMUlHZDZjZlpxRG5GazRlendBenpXeWZSR3NCaXBFLXA5LVBlbWNEeDNsWnRnS25CYWwxc3AzRDhrTjhUZTNZcl8xN2VDT3JtZHk1eVpHUzFaaXpVVy1HbUk1Y3hKOEtoTmxpNTVwWkJHZXVvTWl1cm5QdWVpWXhFQkxBdmt4enRJRkF3NUlxTQ?oc=5",
-        "score": 0.18
-      },
-      {
-        "title": "Fed’s Williams Hints Next Rate Increase Can Wait - WSJ",
-        "summary": "Fed’s Williams Hints Next Rate Increase Can Wait &nbsp;&nbsp; WSJ",
-        "publishedAt": "Tue, 29 Sep 2026 19:10:00 GMT",
-        "source": "WSJ",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUlJqZW8zbmpLc2tYN0lzcHhDaEdoNHp3cHBmVjVnSF9GVElVTmV4NkZpeklLTVNfTHRCZ1pUX3FpOGE5ckoxbllKX3hwQ19CMjBkMi0yRmpGeDZoRWxpa0owNlVScDktSjlIOUxsaWxORUx0T3QzSm9pelRxd2xwSU4xQlBMYllsNkJjUFRka2oyQi0xVkZyTVdwZi1Hald0NWdNTTlLMlJVUm82YmFtUE1VV2NYTWVWX1E?oc=5",
+        "title": "Fed finalizes bank 'stress test' overhaul - Reuters",
+        "summary": "Fed finalizes bank 'stress test' overhaul &nbsp;&nbsp; Reuters",
+        "publishedAt": "Wed, 30 Sep 2026 14:27:13 GMT",
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQd2dfSDlWdVBOYTBlWUlpZC12Qkc1SzZRcERBX2lSWTdZT3VfNDJZOU5DVDExTi1zdl9VNVN0Q2xuSVlyS1JhMENlT09SMjNBMDRwYVZaZTJQRUhoeEo4YXJXclJaU3FmeXkwWnVCRXkwOEtaWGNLZTE2amJfVmpiVW02YlBSMHhQWi1DSXNkaXBKcUVRSTI4?oc=5",
         "score": 0
       },
       {
-        "title": "Operation Save the Yen: Japan partially turns off the cheap money tap, with a little help from its ‘American friend’ - EL PAÍS English",
-        "summary": "Operation Save the Yen: Japan partially turns off the cheap money tap, with a little help from its ‘American friend’ &nbsp;&nbsp; EL PAÍS English",
-        "publishedAt": "Sun, 27 Sep 2026 04:00:00 GMT",
-        "source": "EL PAÍS English",
-        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxONkhoX280SkYyRy1fMWpWZ1ZQblFvQnQtSThhcnp5VmY3b2tVX0NTQ1YzZ1RmTHIxS0tPbDVNaTFEZTBGV1EyWkdEb0RLVlRYUWJKbEVxaFlMeFRSd0NSRFpGYjROaUd5LWpLTVkzNmNwU1ZSN1Rac1IxX2RhSjEtbGhjMlZoRmRjY21uR3pCN0d2TjlPTFEzSjdSX0xkNlRhV2JFZUNCek9KeXRGUGY5dG85VnpnNjA0amJfYVhuYWIwX3pFZGoxb3l4OVVOa0FBVF80Unp5b2NTTHlLNU5BcXVhQjdXU2pjc09yLTkwMkVkc0QtNnozUXdHa1ZKOHkzbWNCdVpQQdIBmwJBVV95cUxOOXQ3MTZLUEZBX3dnanJmeEVDU3hmOVVtdjZZVUdfb0UtSEJSUUFSWXJDb3BXNkdXYTZmTzJGdEt0WjhWU2w4U2d3VUhkOWxzbkdzcnROMHFndUJxZVBIVUlrODl2d3NpbWxPMUNDWWlMbHc1cW1zZlNabEJJNG5WU3l3YXloRXR1bjY1aUVhMVAtZU9MWjlqMlVEc3RYSmFXbEFOZ0g5RVlrTVVRMnFxWWRoZVJpQk5SUmoxVHJlcERPc1prVjhLWXktTGloNTl4YmlhbFhmS0lvZjdaVmVad2k4Qk00eUVNSzRubzVWdExCUE5HcHk4MklmSXYtQUNOS0s5NDMwcmtNc3h3X29KTWxfeUU1NkhDemlj?oc=5",
+        "title": "Replacing Reserve Balances: Loans, Not Treasuries, Should Back Banks’ Discount Window Capacity - Bank Policy Institute",
+        "summary": "Replacing Reserve Balances: Loans, Not Treasuries, Should Back Banks’ Discount Window Capacity &nbsp;&nbsp; Bank Policy Institute",
+        "publishedAt": "Wed, 30 Sep 2026 19:52:55 GMT",
+        "source": "Bank Policy Institute",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbXRoUVoycTlodlBIUVlyRFRJSmZmZVJOZ2JDdVdXRWpCV2huYXVLdUZxc1FjZWJBck1CZjJ4RVVVQWlkNWF2STNJWVdlMVNoM1RONlA3T1dHblhrM2Fab0plVEcyUk8xaXc5UE5EbFVkalZPSmloeU5rcWROQ3RTS1JGUVl0RWtoSGJMWVJGQ19teVFBRHpEWU43NVB6UmljMGtZWXFyQ0VZczQ?oc=5",
         "score": 0
       },
       {
-        "title": "Fed’s ‘collective lack of action’ let info security risks fester: OIG - Banking Dive",
-        "summary": "Fed’s ‘collective lack of action’ let info security risks fester: OIG &nbsp;&nbsp; Banking Dive",
-        "publishedAt": "Tue, 29 Sep 2026 16:16:06 GMT",
-        "source": "Banking Dive",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOS3JxOXhvWHVzekJnM2R1MnFqY2t2NWE3NUx2R3Jia0JoenUtNURaYXJUbklEY2pxNDVhbFZHbE5jSDZRUHhHbFpSQU1WZzNBMHBSYk4yZi1CRFF1N2haTDFkNWNjX2UwM2VmTVBtLVQxRTgyOXVsay1QcDhaYy1EMUdXNUY1bzU2Njk3SlZXcmdOdnpFWERGb3hTX3ZOdU9CZVFkaklsaVRVTzRmYk1j?oc=5",
+        "title": "Neel Kashkari Q&A at the Council on Foreign Relations - Federal Reserve Bank of Minneapolis",
+        "summary": "Neel Kashkari Q&A at the Council on Foreign Relations &nbsp;&nbsp; Federal Reserve Bank of Minneapolis",
+        "publishedAt": "Wed, 30 Sep 2026 22:00:00 GMT",
+        "source": "Federal Reserve Bank of Minneapolis",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObXNzVkJBbWt2MVg3VGc1eWpscWRhbk5yc2lmNWxLLUNicjFCTFhETGoxcHkxc3MtaXIwbnFCdjFOQ0VnZW45dkpibjBidDZRb1N6VzNreXNWcjVpQTZsSldFVFZEQlFxWGFYTmczV2J6Z242RDRvMDlYbUxWb0lqbWJkNW9nYmhYdWpRSnZ0T2ZwWG5tSUhJamRwRXRvZw?oc=5",
         "score": 0
       }
     ]
