@@ -1,5 +1,5 @@
 {
-  "generatedAtJst": "2026-10-01 11:07",
+  "generatedAtJst": "2026-10-02 11:13",
   "startingCapitalJpy": 1000000,
   "policy": {
     "basePair": "USD/JPY",
@@ -14,7 +14,7 @@
     "directionLabel": "中立",
     "confidence": 0.51,
     "summary": "中立を基本シナリオにします。トレンド、IMM、ニュースが拮抗しているため、最大50%の制約内でも動かす量は抑えています。",
-    "score": 0.032,
+    "score": 0.039,
     "reasons": [
       "直近のUSD/JPYは157.690で、1つ前の観測値からの勢いを0.00として評価しました。",
       "IMMの円ポジションは-84,200で、前週比の変化を0.09として売買比率に反映しました。",
@@ -114,16 +114,8 @@
   "news": {
     "provider": "Google News RSS",
     "summary": "ニュースは中立寄りです。",
-    "score": 0,
+    "score": 0.036,
     "items": [
-      {
-        "title": "Oil and gas activity increases despite cost pressures, longer supplier delivery times - Federal Reserve Bank of Dallas",
-        "summary": "Oil and gas activity increases despite cost pressures, longer supplier delivery times &nbsp;&nbsp; Federal Reserve Bank of Dallas",
-        "publishedAt": "Wed, 30 Sep 2026 19:36:37 GMT",
-        "source": "Federal Reserve Bank of Dallas",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA3bEViaWRKem5STThFZ1J2NlhvMlE0TUZmUzY3NmhvejZJZE9WQXM3MV9PdTUycVRTeWpLX1oxTE9DM25CdnBaek81QmM5VGN1TnF4S3pvb1NiY1dzTWZYMW5NTHBSMnc?oc=5",
-        "score": 0
-      },
       {
         "title": "Opening remarks by Vice Chair for Supervision Bowman at the Community Bank Cyber Workshop - Federal Reserve (.gov)",
         "summary": "Opening remarks by Vice Chair for Supervision Bowman at the Community Bank Cyber Workshop &nbsp;&nbsp; Federal Reserve (.gov)",
@@ -133,27 +125,35 @@
         "score": 0
       },
       {
-        "title": "Fed finalizes bank 'stress test' overhaul - Reuters",
-        "summary": "Fed finalizes bank 'stress test' overhaul &nbsp;&nbsp; Reuters",
-        "publishedAt": "Wed, 30 Sep 2026 14:27:13 GMT",
+        "title": "Fed policymakers lean against October rate hike - Reuters",
+        "summary": "Fed policymakers lean against October rate hike &nbsp;&nbsp; Reuters",
+        "publishedAt": "Thu, 01 Oct 2026 17:32:00 GMT",
         "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQd2dfSDlWdVBOYTBlWUlpZC12Qkc1SzZRcERBX2lSWTdZT3VfNDJZOU5DVDExTi1zdl9VNVN0Q2xuSVlyS1JhMENlT09SMjNBMDRwYVZaZTJQRUhoeEo4YXJXclJaU3FmeXkwWnVCRXkwOEtaWGNLZTE2amJfVmpiVW02YlBSMHhQWi1DSXNkaXBKcUVRSTI4?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcEdmemN4NUZ5RjRobklFbGFkcWZ0NENTRmZfU2hmNnFuZ1ZkRzJKY09hV3VLcjllT2V3VEVHdGg1NTFBbU1BVUJycDV1ODc5cTRxM1hCWlk5aW1RY3c0RzQ2bTNMcmsybi1VdDdoMG9RdUFrakRXSnFfb2trYmpOQzU5RmNmMXpqZlpJNUY1OEtEOGxnNXhlUjkzdmpnaWZVSVcwX1MyTHl1UQ?oc=5",
+        "score": 0.18
+      },
+      {
+        "title": "Oil and gas activity increases despite cost pressures, longer supplier delivery times - Federal Reserve Bank of Dallas",
+        "summary": "Oil and gas activity increases despite cost pressures, longer supplier delivery times &nbsp;&nbsp; Federal Reserve Bank of Dallas",
+        "publishedAt": "Wed, 30 Sep 2026 19:36:37 GMT",
+        "source": "Federal Reserve Bank of Dallas",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA3bEViaWRKem5STThFZ1J2NlhvMlE0TUZmUzY3NmhvejZJZE9WQXM3MV9PdTUycVRTeWpLX1oxTE9DM25CdnBaek81QmM5VGN1TnF4S3pvb1NiY1dzTWZYMW5NTHBSMnc?oc=5",
         "score": 0
       },
       {
-        "title": "Replacing Reserve Balances: Loans, Not Treasuries, Should Back Banks’ Discount Window Capacity - Bank Policy Institute",
-        "summary": "Replacing Reserve Balances: Loans, Not Treasuries, Should Back Banks’ Discount Window Capacity &nbsp;&nbsp; Bank Policy Institute",
-        "publishedAt": "Wed, 30 Sep 2026 19:52:55 GMT",
-        "source": "Bank Policy Institute",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbXRoUVoycTlodlBIUVlyRFRJSmZmZVJOZ2JDdVdXRWpCV2huYXVLdUZxc1FjZWJBck1CZjJ4RVVVQWlkNWF2STNJWVdlMVNoM1RONlA3T1dHblhrM2Fab0plVEcyUk8xaXc5UE5EbFVkalZPSmloeU5rcWROQ3RTS1JGUVl0RWtoSGJMWVJGQ19teVFBRHpEWU43NVB6UmljMGtZWXFyQ0VZczQ?oc=5",
+        "title": "Federal Reserve vice chair says it ‘may take more time’ before hiking rates again - The Hill",
+        "summary": "Federal Reserve vice chair says it ‘may take more time’ before hiking rates again &nbsp;&nbsp; The Hill",
+        "publishedAt": "Thu, 01 Oct 2026 19:44:00 GMT",
+        "source": "The Hill",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVDVTZUhtTW9WaGJRWEk0MUZQbUxJM3J1LXhqSEkyQm5hdTMxY2E4OVNMTGpmaU5HVHBhU3hzcG8zNDJvM090bWFPNmZhbnREekNobld4VkZXSmIzYnhTSVhtMll2c0VuMG5KbEJ6X3U1bWJjaHp2ZV9tRVhVVWJOVl9BMmpuUHpNM0VqZ0xFZk7SAZYBQVVfeXFMTTZGaGY4UUNCQVhvREgySndWbU5LN1ZTY0hEVmhwdXctblY5c21MYW1reWhlSTNHMVZtYXA4bHlrTHdoa29TNGF1cnQ4R25GSVVOU3o1eWxVSHl6NnpnNGFQRGRCaEV5N05HREF5YzBqM1FweHhiZ09oU0ZjbmhkVFE3QUdmbEdKQU1yRWhDMWhOZFJFZEZR?oc=5",
         "score": 0
       },
       {
-        "title": "Neel Kashkari Q&A at the Council on Foreign Relations - Federal Reserve Bank of Minneapolis",
-        "summary": "Neel Kashkari Q&A at the Council on Foreign Relations &nbsp;&nbsp; Federal Reserve Bank of Minneapolis",
-        "publishedAt": "Wed, 30 Sep 2026 22:00:00 GMT",
-        "source": "Federal Reserve Bank of Minneapolis",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObXNzVkJBbWt2MVg3VGc1eWpscWRhbk5yc2lmNWxLLUNicjFCTFhETGoxcHkxc3MtaXIwbnFCdjFOQ0VnZW45dkpibjBidDZRb1N6VzNreXNWcjVpQTZsSldFVFZEQlFxWGFYTmczV2J6Z242RDRvMDlYbUxWb0lqbWJkNW9nYmhYdWpRSnZ0T2ZwWG5tSUhJamRwRXRvZw?oc=5",
+        "title": "Federal Reserve Staffer Removed Sensitive Files Before Retiring, Report Finds - WSJ",
+        "summary": "Federal Reserve Staffer Removed Sensitive Files Before Retiring, Report Finds &nbsp;&nbsp; WSJ",
+        "publishedAt": "Mon, 28 Sep 2026 16:54:00 GMT",
+        "source": "WSJ",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZE9iVEZ3OEN6YjlpNWhnZEJQUVlJSEZuMTJieVBnQU05dWhyUXp4Y0hBQXNlZUtodi1ZQ2ZIVUlVTk9TUkpnSlNmc3hXN0tHaG42c0VyRUZJVHd6eXZWaUltTUE5U01jbkxvV0NyMnE1MTZOemJXODhINVRZVnJUekpMVUtvRDlvZko4RFdqbTZ0SElIR2JsZXNERGtYXzhZWTlzOUxuZ3hjdXZzZXNrakxweE1Bc0VCcjFYbVp4UklURWN3UmxvTw?oc=5",
         "score": 0
       }
     ]
