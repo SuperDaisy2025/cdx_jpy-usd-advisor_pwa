@@ -1,5 +1,5 @@
 {
-  "generatedAtJst": "2026-10-03 10:55",
+  "generatedAtJst": "2026-10-04 11:35",
   "startingCapitalJpy": 1000000,
   "policy": {
     "basePair": "USD/JPY",
@@ -14,7 +14,7 @@
     "directionLabel": "中立",
     "confidence": 0.51,
     "summary": "中立を基本シナリオにします。トレンド、IMM、ニュースが拮抗しているため、最大50%の制約内でも動かす量は抑えています。",
-    "score": 0.032,
+    "score": 0.039,
     "reasons": [
       "直近のUSD/JPYは157.690で、1つ前の観測値からの勢いを0.00として評価しました。",
       "IMMの円ポジションは-84,200で、前週比の変化を0.09として売買比率に反映しました。",
@@ -114,16 +114,8 @@
   "news": {
     "provider": "Google News RSS",
     "summary": "ニュースは中立寄りです。",
-    "score": 0,
+    "score": 0.036,
     "items": [
-      {
-        "title": "Macroeconomic Policy Perspectives: The Long-Run Implications of Deglobalization - Federal Reserve Bank of Minneapolis",
-        "summary": "Macroeconomic Policy Perspectives: The Long-Run Implications of Deglobalization &nbsp;&nbsp; Federal Reserve Bank of Minneapolis",
-        "publishedAt": "Fri, 02 Oct 2026 18:28:37 GMT",
-        "source": "Federal Reserve Bank of Minneapolis",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNc2lHT3p1MFAwRmpjV1QtZ01YZTE0LVI3aWdWcG5hM2QtYWlLOS1BSGlsYlVON1l3RFVTdFJHUG5RTzlMRmZweXQ0VFdfdTVrYUFSd1ZsbV83cFZLUEs4VDMxMjRRenFUWWs5Vm5jbUcxb2Y5el9STUo4NTAyclFQTi1lRndnYVdyVnRRcmNpd1pWOTZ0aWdUMG1UOU91NkpBZ3NPUmJPbUhhMENab3p5VUQzUGF3Zml5SGgyaENn?oc=5",
-        "score": 0
-      },
       {
         "title": "Opening remarks by Vice Chair for Supervision Bowman at the Community Bank Cyber Workshop - Federal Reserve (.gov)",
         "summary": "Opening remarks by Vice Chair for Supervision Bowman at the Community Bank Cyber Workshop &nbsp;&nbsp; Federal Reserve (.gov)",
@@ -141,19 +133,27 @@
         "score": 0
       },
       {
-        "title": "Federal Reserve Bank of Philadelphia President tours Penn College, highlights workforce impact - WNEP",
-        "summary": "Federal Reserve Bank of Philadelphia President tours Penn College, highlights workforce impact &nbsp;&nbsp; WNEP",
-        "publishedAt": "Fri, 02 Oct 2026 22:10:00 GMT",
-        "source": "WNEP",
-        "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPa1Y2dlNyR2xkbnNSQUN2S1RmQkMxUFJpejZEV2pFRC1Wd09peVg4Z0JnVEdzb3BFY2dIalI0SG1UVElXQkxYRndwbGlZOTZKSXg1SEV6eDN1bC1UTjk2ZWtYNWhWbUFyd05rdExPYTFadkpKQUR4bEpsOHlzcEtoSjAwVW1Mc0xrVWR6b3Uydi1HVVhjUG5wMjlQUU9ZbU5WTHNabWZZbGtNbmtNbTMzczFwNGIyX1VrbTdGSVd5dnVsNE5vRkF5N2FfbUk5Ukw0NDRnX01DTi1NUllZZVFUNkduaXhvaFJfMURqeWw1SVAzS0ZSdkoxdlZQZWxCUG1XN2JvQW5CcWxkMzNiNm9LYm1NV1A4dURiU2twZTJjZmhEdzVGYW1pWS00V2dHMlU?oc=5",
+        "title": "Macroeconomic Policy Perspectives: The Long-Run Implications of Deglobalization - minneapolisfed.org",
+        "summary": "Macroeconomic Policy Perspectives: The Long-Run Implications of Deglobalization &nbsp;&nbsp; minneapolisfed.org",
+        "publishedAt": "Fri, 02 Oct 2026 18:28:37 GMT",
+        "source": "minneapolisfed.org",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNc2lHT3p1MFAwRmpjV1QtZ01YZTE0LVI3aWdWcG5hM2QtYWlLOS1BSGlsYlVON1l3RFVTdFJHUG5RTzlMRmZweXQ0VFdfdTVrYUFSd1ZsbV83cFZLUEs4VDMxMjRRenFUWWs5Vm5jbUcxb2Y5el9STUo4NTAyclFQTi1lRndnYVdyVnRRcmNpd1pWOTZ0aWdUMG1UOU91NkpBZ3NPUmJPbUhhMENab3p5VUQzUGF3Zml5SGgyaENn?oc=5",
         "score": 0
       },
       {
-        "title": "Fed's Hammack tells PBS there's still time to weigh next monetary policy move - Reuters",
-        "summary": "Fed's Hammack tells PBS there's still time to weigh next monetary policy move &nbsp;&nbsp; Reuters",
-        "publishedAt": "Fri, 02 Oct 2026 23:22:44 GMT",
+        "title": "Fed policymakers lean against October rate hike - Reuters",
+        "summary": "Fed policymakers lean against October rate hike &nbsp;&nbsp; Reuters",
+        "publishedAt": "Thu, 01 Oct 2026 17:32:00 GMT",
         "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTHpvekZZa2RvTHNpUjIyaElsMjFYdjZxRll0SUxoNmhGRVFsUjBieTZDSGI5TzB2bVhGMmJ5djUxMHVzUmJyc0I0Nm1IR0Vxa3lFRUZtdk5UZGVzOVhaQmlFNVk1OFpzbklLTERJT2t4czdTZEtqNGZWeHlfUW1sZXFFQTJjRzlaUFRTRjBDRGxfMFlQbHdSUklZM2hOS196WWFZMGVlNHl2WWZ0ZU42TlVid29GZ3BE?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcEdmemN4NUZ5RjRobklFbGFkcWZ0NENTRmZfU2hmNnFuZ1ZkRzJKY09hV3VLcjllT2V3VEVHdGg1NTFBbU1BVUJycDV1ODc5cTRxM1hCWlk5aW1RY3c0RzQ2bTNMcmsybi1VdDdoMG9RdUFrakRXSnFfb2trYmpOQzU5RmNmMXpqZlpJNUY1OEtEOGxnNXhlUjkzdmpnaWZVSVcwX1MyTHl1UQ?oc=5",
+        "score": 0.18
+      },
+      {
+        "title": "Watchdog finds no criminality in Fed renovation that drew Trump’s scrutiny - NBC News",
+        "summary": "Watchdog finds no criminality in Fed renovation that drew Trump’s scrutiny &nbsp;&nbsp; NBC News",
+        "publishedAt": "Wed, 30 Sep 2026 20:12:41 GMT",
+        "source": "NBC News",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWjZPdzBKbzhWOXVZeWNweTJQa2VuOC1vLXZqVjcwUjNfU3o0czNVbGtEQ1FOeklfanpCcDNpT1lIZnhXc1F4THlfdkJiRHVEMDA0a3pUcGQ4VHZhS2Flc21fQkJNQm5Tb1J4YXNqRWcyUy1lOVgtSllrS3c0RV9xcF9Bb2Y4cHREREhOeF80NTdOZXFy?oc=5",
         "score": 0
       }
     ]
