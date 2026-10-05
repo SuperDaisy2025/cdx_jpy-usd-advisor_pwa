@@ -1,5 +1,5 @@
 {
-  "generatedAtJst": "2026-10-04 11:35",
+  "generatedAtJst": "2026-10-05 10:57",
   "startingCapitalJpy": 1000000,
   "policy": {
     "basePair": "USD/JPY",
@@ -12,9 +12,9 @@
   "forecast": {
     "direction": "neutral",
     "directionLabel": "中立",
-    "confidence": 0.51,
+    "confidence": 0.52,
     "summary": "中立を基本シナリオにします。トレンド、IMM、ニュースが拮抗しているため、最大50%の制約内でも動かす量は抑えています。",
-    "score": 0.039,
+    "score": 0.046,
     "reasons": [
       "直近のUSD/JPYは157.690で、1つ前の観測値からの勢いを0.00として評価しました。",
       "IMMの円ポジションは-84,200で、前週比の変化を0.09として売買比率に反映しました。",
@@ -114,30 +114,14 @@
   "news": {
     "provider": "Google News RSS",
     "summary": "ニュースは中立寄りです。",
-    "score": 0.036,
+    "score": 0.072,
     "items": [
-      {
-        "title": "Opening remarks by Vice Chair for Supervision Bowman at the Community Bank Cyber Workshop - Federal Reserve (.gov)",
-        "summary": "Opening remarks by Vice Chair for Supervision Bowman at the Community Bank Cyber Workshop &nbsp;&nbsp; Federal Reserve (.gov)",
-        "publishedAt": "Tue, 29 Sep 2026 15:04:28 GMT",
-        "source": "Federal Reserve (.gov)",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9VU2ZOYS15UHZjZC1vLVRJd1h1NzRCNkpTakxBbTgyamtwMHdidXJqcEZBckFLVDJkaGc1VkJ2dFc2SWFveXpELTNnRzJ1eF9oNVJUMTZ1UE5uaXl4VFNsT1pZS0FfUmtqcWlrazFCMkdBcmZWOE1j?oc=5",
-        "score": 0
-      },
       {
         "title": "Oil and gas activity increases despite cost pressures, longer supplier delivery times - Federal Reserve Bank of Dallas",
         "summary": "Oil and gas activity increases despite cost pressures, longer supplier delivery times &nbsp;&nbsp; Federal Reserve Bank of Dallas",
         "publishedAt": "Wed, 30 Sep 2026 19:36:37 GMT",
         "source": "Federal Reserve Bank of Dallas",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA3bEViaWRKem5STThFZ1J2NlhvMlE0TUZmUzY3NmhvejZJZE9WQXM3MV9PdTUycVRTeWpLX1oxTE9DM25CdnBaek81QmM5VGN1TnF4S3pvb1NiY1dzTWZYMW5NTHBSMnc?oc=5",
-        "score": 0
-      },
-      {
-        "title": "Macroeconomic Policy Perspectives: The Long-Run Implications of Deglobalization - minneapolisfed.org",
-        "summary": "Macroeconomic Policy Perspectives: The Long-Run Implications of Deglobalization &nbsp;&nbsp; minneapolisfed.org",
-        "publishedAt": "Fri, 02 Oct 2026 18:28:37 GMT",
-        "source": "minneapolisfed.org",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNc2lHT3p1MFAwRmpjV1QtZ01YZTE0LVI3aWdWcG5hM2QtYWlLOS1BSGlsYlVON1l3RFVTdFJHUG5RTzlMRmZweXQ0VFdfdTVrYUFSd1ZsbV83cFZLUEs4VDMxMjRRenFUWWs5Vm5jbUcxb2Y5el9STUo4NTAyclFQTi1lRndnYVdyVnRRcmNpd1pWOTZ0aWdUMG1UOU91NkpBZ3NPUmJPbUhhMENab3p5VUQzUGF3Zml5SGgyaENn?oc=5",
         "score": 0
       },
       {
@@ -149,11 +133,27 @@
         "score": 0.18
       },
       {
+        "title": "Fed raises interest rates to 3.75%-4.00% in first rate hike in three years, with more expected - U.S. Bank",
+        "summary": "Fed raises interest rates to 3.75%-4.00% in first rate hike in three years, with more expected &nbsp;&nbsp; U.S. Bank",
+        "publishedAt": "Wed, 16 Sep 2026 07:00:00 GMT",
+        "source": "U.S. Bank",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw?oc=5",
+        "score": 0.18
+      },
+      {
         "title": "Watchdog finds no criminality in Fed renovation that drew Trump’s scrutiny - NBC News",
         "summary": "Watchdog finds no criminality in Fed renovation that drew Trump’s scrutiny &nbsp;&nbsp; NBC News",
         "publishedAt": "Wed, 30 Sep 2026 20:12:41 GMT",
         "source": "NBC News",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWjZPdzBKbzhWOXVZeWNweTJQa2VuOC1vLXZqVjcwUjNfU3o0czNVbGtEQ1FOeklfanpCcDNpT1lIZnhXc1F4THlfdkJiRHVEMDA0a3pUcGQ4VHZhS2Flc21fQkJNQm5Tb1J4YXNqRWcyUy1lOVgtSllrS3c0RV9xcF9Bb2Y4cHREREhOeF80NTdOZXFy?oc=5",
+        "score": 0
+      },
+      {
+        "title": "Soft Jobs Report Boosts Market Bets Fed Will Skip October Rate Increase - The New York Times",
+        "summary": "Soft Jobs Report Boosts Market Bets Fed Will Skip October Rate Increase &nbsp;&nbsp; The New York Times",
+        "publishedAt": "Fri, 02 Oct 2026 14:51:37 GMT",
+        "source": "The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaXlVWmhNUF9PdTVEQlFNZFNhbHRab3dOSHlQdXBrN3N3M2dwSUIzTVFHbWd5c0RvOWNPSnJqOFQ5R3Q1OWdxX0NtNTRhaXZNWEpEamFzaGxwaVp0NHhNYTNrRm9EUHlGTGoyNXJ3ZktiR18yLVplcjRjd3lFLW9UdnpGU3ppNzE1LUNVeHFkQm4?oc=5",
         "score": 0
       }
     ]
