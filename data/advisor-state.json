@@ -1,5 +1,5 @@
 {
-  "generatedAtJst": "2026-10-05 10:57",
+  "generatedAtJst": "2026-10-06 11:56",
   "startingCapitalJpy": 1000000,
   "policy": {
     "basePair": "USD/JPY",
@@ -12,9 +12,9 @@
   "forecast": {
     "direction": "neutral",
     "directionLabel": "中立",
-    "confidence": 0.52,
+    "confidence": 0.51,
     "summary": "中立を基本シナリオにします。トレンド、IMM、ニュースが拮抗しているため、最大50%の制約内でも動かす量は抑えています。",
-    "score": 0.046,
+    "score": 0.032,
     "reasons": [
       "直近のUSD/JPYは157.690で、1つ前の観測値からの勢いを0.00として評価しました。",
       "IMMの円ポジションは-84,200で、前週比の変化を0.09として売買比率に反映しました。",
@@ -114,46 +114,46 @@
   "news": {
     "provider": "Google News RSS",
     "summary": "ニュースは中立寄りです。",
-    "score": 0.072,
+    "score": 0,
     "items": [
       {
-        "title": "Oil and gas activity increases despite cost pressures, longer supplier delivery times - Federal Reserve Bank of Dallas",
-        "summary": "Oil and gas activity increases despite cost pressures, longer supplier delivery times &nbsp;&nbsp; Federal Reserve Bank of Dallas",
-        "publishedAt": "Wed, 30 Sep 2026 19:36:37 GMT",
-        "source": "Federal Reserve Bank of Dallas",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA3bEViaWRKem5STThFZ1J2NlhvMlE0TUZmUzY3NmhvejZJZE9WQXM3MV9PdTUycVRTeWpLX1oxTE9DM25CdnBaek81QmM5VGN1TnF4S3pvb1NiY1dzTWZYMW5NTHBSMnc?oc=5",
+        "title": "Federal Reserve System Conference on Investing in Rural America - Federal Reserve Bank of New York",
+        "summary": "Federal Reserve System Conference on Investing in Rural America &nbsp;&nbsp; Federal Reserve Bank of New York",
+        "publishedAt": "Wed, 30 Sep 2026 07:00:00 GMT",
+        "source": "Federal Reserve Bank of New York",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQS0gwR29wMzFJb3ozRlQ0MElzMFVmUkFjcnA4cTgwUkx0bW9zcW9OUFVYTGVUakRId29XZUdRQUJoU29vYWJTOHhrcV9kVGtocl9CazUzcjlLNGVEWmF3clpkQjhESTBpcXBJYUtfWWJwT0FVNmZ2YTVPcFREc0JwelNWTQ?oc=5",
         "score": 0
       },
       {
-        "title": "Fed policymakers lean against October rate hike - Reuters",
-        "summary": "Fed policymakers lean against October rate hike &nbsp;&nbsp; Reuters",
-        "publishedAt": "Thu, 01 Oct 2026 17:32:00 GMT",
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcEdmemN4NUZ5RjRobklFbGFkcWZ0NENTRmZfU2hmNnFuZ1ZkRzJKY09hV3VLcjllT2V3VEVHdGg1NTFBbU1BVUJycDV1ODc5cTRxM1hCWlk5aW1RY3c0RzQ2bTNMcmsybi1VdDdoMG9RdUFrakRXSnFfb2trYmpOQzU5RmNmMXpqZlpJNUY1OEtEOGxnNXhlUjkzdmpnaWZVSVcwX1MyTHl1UQ?oc=5",
-        "score": 0.18
+        "title": "Federal Reserve adopts stress-test changes to reduce volatility in bank capital requirements - The Asian Banker",
+        "summary": "Federal Reserve adopts stress-test changes to reduce volatility in bank capital requirements &nbsp;&nbsp; The Asian Banker",
+        "publishedAt": "Mon, 05 Oct 2026 20:10:31 GMT",
+        "source": "The Asian Banker",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaVZnaVlRZFZCa2xqSjd6YzJDajQwVEctcVMxRS00ZUFYVFNBX2M2MEphWnd0ak5ZR1FZajJ0M1EtWjhzQUlreVE3S1dZMHFlVnVtNzRLUzlLbkdmOWdpUWJUQkhVR2pIQVVxZHVWSDlhMGdRVnV0ajRVM3k3SHRDNV81bzdGWHR0SzB0ajZkSUh0MWxMQWp3aHkweUlyekhYUDBUd25IeDhuQW4wMEdQd0RXLVJwcWVGVHJDUHhPbjVKVzBUNk5oZWZJbnhlOVIwRVRaelJsODhvM2VP?oc=5",
+        "score": 0
       },
       {
-        "title": "Fed raises interest rates to 3.75%-4.00% in first rate hike in three years, with more expected - U.S. Bank",
-        "summary": "Fed raises interest rates to 3.75%-4.00% in first rate hike in three years, with more expected &nbsp;&nbsp; U.S. Bank",
+        "title": "Rpt Federal Reserve Bank Of New York Has Been Visiting Big Banks To Review Their Loans To Private Credit Firms - Semafor - TradingView",
+        "summary": "Rpt Federal Reserve Bank Of New York Has Been Visiting Big Banks To Review Their Loans To Private Credit Firms - Semafor &nbsp;&nbsp; TradingView",
+        "publishedAt": "Mon, 05 Oct 2026 20:53:15 GMT",
+        "source": "TradingView",
+        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQV0xhSWVPTjNQWkNyZFZXVVpXTEVqbU51QmsxWkNQUzZkaWZFN0RVUFo1LVNZM0s2aUdlR2hscUI4RlFaQUNUMU5xc1VVZ3JvcDlDZEJkelNSbHQ0RjZiY2RjMEN6c016NTRYYWpld29Hb0g3ZUQ3djM2VHNxdkdFQmhROTdmMFUtd3E1bHFzd1FVRllvemp6OGQwXzBQTkpkeVBIcWtFTkNsc0RYMF9vbGhvV1U5YzVVVVozSEw1U1FVakVXYklrZ2Y2aG41WndTTE13enBiMGx4Q3N3UVV0MVp5dzZXeG95T3oyN0ZjZm5lT21OTExwa2JyRlQyc0VaOHZjR3pZVTA2ZEVFU1VUOGJYYy1CS28?oc=5",
+        "score": 0
+      },
+      {
+        "title": "About the Fed - Federal Reserve (.gov)",
+        "summary": "About the Fed &nbsp;&nbsp; Federal Reserve (.gov)",
+        "publishedAt": "Wed, 17 Jun 2026 07:00:00 GMT",
+        "source": "Federal Reserve (.gov)",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3X3g2ZkN1N2x6SGdZZFdUU2ZiN214VXRFS3h5ZmRZWExuejFRemx4R3FkZXhVWTdhWG0yVGpvbm9tRS0wZ05xV0VVMU92d0V2ZVlVUlE4TG5HZw?oc=5",
+        "score": 0
+      },
+      {
+        "title": "Fed raises rates to 3.75%-4.00%, first hike since 2023 - U.S. Bank",
+        "summary": "Fed raises rates to 3.75%-4.00%, first hike since 2023 &nbsp;&nbsp; U.S. Bank",
         "publishedAt": "Wed, 16 Sep 2026 07:00:00 GMT",
         "source": "U.S. Bank",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw?oc=5",
-        "score": 0.18
-      },
-      {
-        "title": "Watchdog finds no criminality in Fed renovation that drew Trump’s scrutiny - NBC News",
-        "summary": "Watchdog finds no criminality in Fed renovation that drew Trump’s scrutiny &nbsp;&nbsp; NBC News",
-        "publishedAt": "Wed, 30 Sep 2026 20:12:41 GMT",
-        "source": "NBC News",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWjZPdzBKbzhWOXVZeWNweTJQa2VuOC1vLXZqVjcwUjNfU3o0czNVbGtEQ1FOeklfanpCcDNpT1lIZnhXc1F4THlfdkJiRHVEMDA0a3pUcGQ4VHZhS2Flc21fQkJNQm5Tb1J4YXNqRWcyUy1lOVgtSllrS3c0RV9xcF9Bb2Y4cHREREhOeF80NTdOZXFy?oc=5",
-        "score": 0
-      },
-      {
-        "title": "Soft Jobs Report Boosts Market Bets Fed Will Skip October Rate Increase - The New York Times",
-        "summary": "Soft Jobs Report Boosts Market Bets Fed Will Skip October Rate Increase &nbsp;&nbsp; The New York Times",
-        "publishedAt": "Fri, 02 Oct 2026 14:51:37 GMT",
-        "source": "The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaXlVWmhNUF9PdTVEQlFNZFNhbHRab3dOSHlQdXBrN3N3M2dwSUIzTVFHbWd5c0RvOWNPSnJqOFQ5R3Q1OWdxX0NtNTRhaXZNWEpEamFzaGxwaVp0NHhNYTNrRm9EUHlGTGoyNXJ3ZktiR18yLVplcjRjd3lFLW9UdnpGU3ppNzE1LUNVeHFkQm4?oc=5",
         "score": 0
       }
     ]
