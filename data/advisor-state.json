@@ -1,5 +1,5 @@
 {
-  "generatedAtJst": "2026-10-08 11:41",
+  "generatedAtJst": "2026-10-09 11:55",
   "startingCapitalJpy": 1000000,
   "policy": {
     "basePair": "USD/JPY",
@@ -14,7 +14,7 @@
     "directionLabel": "中立",
     "confidence": 0.51,
     "summary": "中立を基本シナリオにします。トレンド、IMM、ニュースが拮抗しているため、最大50%の制約内でも動かす量は抑えています。",
-    "score": 0.032,
+    "score": 0.039,
     "reasons": [
       "直近のUSD/JPYは157.690で、1つ前の観測値からの勢いを0.00として評価しました。",
       "IMMの円ポジションは-84,200で、前週比の変化を0.09として売買比率に反映しました。",
@@ -114,8 +114,24 @@
   "news": {
     "provider": "Google News RSS",
     "summary": "ニュースは中立寄りです。",
-    "score": 0,
+    "score": 0.036,
     "items": [
+      {
+        "title": "Palmer named to Minneapolis Fed leadership - Federal Reserve Bank of Minneapolis",
+        "summary": "Palmer named to Minneapolis Fed leadership &nbsp;&nbsp; Federal Reserve Bank of Minneapolis",
+        "publishedAt": "Thu, 08 Oct 2026 20:19:10 GMT",
+        "source": "Federal Reserve Bank of Minneapolis",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNLXhWUmVjb1p3blJIN0cyUE43MVdhdFNYby1rUGo3RmJFcy1laFFYUlNQRjFodkZRTEJYTHpqWlMtLUlFV1ZZeFBVSGotczhIRlRBNV9JT2hsQXNzWVZheDFpOG5ENElUWG1odUJ0ZDQ5cFhFUFpiSVNpZmNMdV9xTnU2OERGdi10b1RoNkxodGtxUlJ4cHNv?oc=5",
+        "score": 0
+      },
+      {
+        "title": "Surveying Consumers' Use of Personal Checks - Atlanta Federal Reserve Bank",
+        "summary": "Surveying Consumers' Use of Personal Checks &nbsp;&nbsp; Atlanta Federal Reserve Bank",
+        "publishedAt": "Thu, 08 Oct 2026 19:16:33 GMT",
+        "source": "Atlanta Federal Reserve Bank",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOX2Zfcy1NbkdWM3YtR0o0MFpUd3VFTVVLbEdMNEhkSHVyaERXMTItS2lTb0pfaFlCcGJ6bEZZQjctYTdBOWZMVTNxWFZYcWZCRDRELVU4SC1GeE8yM2JjSFlId0pjd1Y0bmRRQVJzOWFuN2hQMWpuTklLSS1rM3lRWkdUNVNJRDBtbEZlTWhiYU5UZnNBLVVVdl9CLXR6RzRjNUU2UFZvejgzaXJXOWFlSjNkdnFnSzVpUjlVLWdaWFo4YV9DTkQxc3J5ZE0?oc=5",
+        "score": 0
+      },
       {
         "title": "Fed plans to overhaul bank supervision responsibilities, Bowman says - Reuters",
         "summary": "Fed plans to overhaul bank supervision responsibilities, Bowman says &nbsp;&nbsp; Reuters",
@@ -125,36 +141,20 @@
         "score": 0
       },
       {
+        "title": "A Top Fed Official Casts Further Doubt on a Rate Rise This Month - The New York Times",
+        "summary": "A Top Fed Official Casts Further Doubt on a Rate Rise This Month &nbsp;&nbsp; The New York Times",
+        "publishedAt": "Thu, 08 Oct 2026 08:38:57 GMT",
+        "source": "The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNckNMd0xCc1RMemJpSlNXQVBEeVFKUktQWmFwTlBZWTFrM19DWTA1d1dtN3djS0tSbTY3VzhWYlp2NEdpQ1RIdUthT2xGMVhPNmxqRXFyUEloVVNRQWZ6S3VQeHlZaklEbGh2SWRmckNONnZXaV81TjItOTAwZlBPakZsTzRoVHpMUDVEYlFpbTJraXM?oc=5",
+        "score": 0
+      },
+      {
         "title": "Federal Reserve officials expect another rate hike will be needed this year, according to minutes - ABC News - Breaking News, Latest News and Videos",
         "summary": "Federal Reserve officials expect another rate hike will be needed this year, according to minutes &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
         "publishedAt": "Wed, 07 Oct 2026 18:37:29 GMT",
         "source": "ABC News - Breaking News, Latest News and Videos",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUW9sbjktb0FQUGFKM3d1WVEtNGRrQWg0REotQUxPVEhlSlF3aTRCREJhN3dXZkUzWWkwUDkzOTNZT3JlNElKbE5rQkE1VEtWMWdaejBiaDJOSjVtd3lMVFE2RE1lamg5N0FNRkVoaVhZM0p3RTBxMHZZZEIwWkxnUFl5RVpZRUp6X2tIRE9NVXVYWlFzNnVadnJkNnE0a3dUUHBnV05R0gGrAUFVX3lxTFA2T0hYZGpud0VZUWp3Rk43QTZOSFZVbXVoWHJRYnRRWFZTaHZ1Qi12bGxVQVdHWEJER0huZ19RQ2M2T0xtSUhIcm10cFJRbElfQWd0UFRMQWpYeVVhYlJRLVlXajJNOVAyZXFpWmdUUHhjemVvcFFjVDlja3VYSEZzY0YySWVEdjhvdkM4RXdVZVJjS0QyN1lxekJZZGt4VV9kZmVIMVBsdlllNA?oc=5",
         "score": 0.18
-      },
-      {
-        "title": "Fed consolidates bank supervision structure - Banking Dive",
-        "summary": "Fed consolidates bank supervision structure &nbsp;&nbsp; Banking Dive",
-        "publishedAt": "Wed, 07 Oct 2026 16:47:07 GMT",
-        "source": "Banking Dive",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQ1RwME02U2hyRWNKWTcyNHJkY1lHclI5ZzJtZDNpUUlYa2ItVkQ3V0VnWWZWZms3QkJhMUdVbGF2ZFNKWWgzTVpUaXY0dllZOGFmSHQ2bzZvTTJLSkJWU0M3Uy0zUFJBYWtfOHBsNjlXb1hJYXFQMjZlbWRHY0dSLTBwRmE0RGRnLWR4MlF1WjNwVW1lZ3poWDJwcVJmMjlz?oc=5",
-        "score": 0
-      },
-      {
-        "title": "Fed Used Treasury Funds to Support Yen in Joint Intervention - Bloomberg.com",
-        "summary": "Fed Used Treasury Funds to Support Yen in Joint Intervention &nbsp;&nbsp; Bloomberg.com",
-        "publishedAt": "Wed, 07 Oct 2026 19:03:20 GMT",
-        "source": "Bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVTJZdUNqaGpmYlEyNWtVNDR3cFc5ano2UHpFMWtlYkd1UEVZNGhLZGx6TUxvZHVEeDdaV2ZQc3J6LXU1aU5pTnhPRDlJZzJKdzBVZEM3aThUWjVTZ0prNVFUSnR6M1lxQ0tFanJzMmc5dDRxUDFld0MtMmpoRG1MX3hnZHM1X1JSczM2VTBFd1MtNHNwM2pYMmk4Y2dTWExoMHNpUzAwaGVodDBiRTVKRA?oc=5",
-        "score": -0.18
-      },
-      {
-        "title": "Bankers detail stable conditions in new survey - Federal Reserve Bank of Minneapolis",
-        "summary": "Bankers detail stable conditions in new survey &nbsp;&nbsp; Federal Reserve Bank of Minneapolis",
-        "publishedAt": "Tue, 06 Oct 2026 07:00:00 GMT",
-        "source": "Federal Reserve Bank of Minneapolis",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQc1hsRldOREZFblkzZkI1emNyUi05bU9sa1Vrall4UEp5REYtVDFXdjJBRFJFaTd1Wml6WFR1Ym1jU0F6b3FJM3lxYTZCeG91cXpyZ2NnUDFQN21rZkJBMzNkY2NCSk1jU1pqRmlJVm1JVWY3SWo3dHJmc2p1c0piV3cxeVBxMUJyZEo0ZHFLelFHUnhF?oc=5",
-        "score": 0
       }
     ]
   },
