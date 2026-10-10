@@ -1,5 +1,5 @@
 {
-  "generatedAtJst": "2026-10-09 11:55",
+  "generatedAtJst": "2026-10-10 11:18",
   "startingCapitalJpy": 1000000,
   "policy": {
     "basePair": "USD/JPY",
@@ -14,7 +14,7 @@
     "directionLabel": "中立",
     "confidence": 0.51,
     "summary": "中立を基本シナリオにします。トレンド、IMM、ニュースが拮抗しているため、最大50%の制約内でも動かす量は抑えています。",
-    "score": 0.039,
+    "score": 0.032,
     "reasons": [
       "直近のUSD/JPYは157.690で、1つ前の観測値からの勢いを0.00として評価しました。",
       "IMMの円ポジションは-84,200で、前週比の変化を0.09として売買比率に反映しました。",
@@ -114,8 +114,16 @@
   "news": {
     "provider": "Google News RSS",
     "summary": "ニュースは中立寄りです。",
-    "score": 0.036,
+    "score": 0,
     "items": [
+      {
+        "title": "Tenth District Energy Activity Continued to Grow in Q3 - Kansas City - Federal Reserve",
+        "summary": "Tenth District Energy Activity Continued to Grow in Q3 &nbsp;&nbsp; Kansas City - Federal Reserve",
+        "publishedAt": "Fri, 09 Oct 2026 19:40:27 GMT",
+        "source": "Kansas City - Federal Reserve",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSDhubHh6YjZ4SXF6QnFVQWxUMXB6TmdUaUc0WVYtS0ZuXzZvMWh6am1kZ1pCRGk4T0lfQ0JHSTFfVnh6X0I4YnBhZkY3SE1WT25jaWtJSVlMNS1jX0FYMEtCWERuM2FoRGttZ2xwRmhNSVFad195bXJBTVNYWldlZ19ZMUpFU3cwNGZhUFNPallhTktOdUJpT2RnbkN1NnFjOE85STFZenBCcDJSYmltZ0dGcmRLQ3dibmxqUg?oc=5",
+        "score": 0
+      },
       {
         "title": "Palmer named to Minneapolis Fed leadership - Federal Reserve Bank of Minneapolis",
         "summary": "Palmer named to Minneapolis Fed leadership &nbsp;&nbsp; Federal Reserve Bank of Minneapolis",
@@ -125,36 +133,28 @@
         "score": 0
       },
       {
-        "title": "Surveying Consumers' Use of Personal Checks - Atlanta Federal Reserve Bank",
-        "summary": "Surveying Consumers' Use of Personal Checks &nbsp;&nbsp; Atlanta Federal Reserve Bank",
-        "publishedAt": "Thu, 08 Oct 2026 19:16:33 GMT",
-        "source": "Atlanta Federal Reserve Bank",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOX2Zfcy1NbkdWM3YtR0o0MFpUd3VFTVVLbEdMNEhkSHVyaERXMTItS2lTb0pfaFlCcGJ6bEZZQjctYTdBOWZMVTNxWFZYcWZCRDRELVU4SC1GeE8yM2JjSFlId0pjd1Y0bmRRQVJzOWFuN2hQMWpuTklLSS1rM3lRWkdUNVNJRDBtbEZlTWhiYU5UZnNBLVVVdl9CLXR6RzRjNUU2UFZvejgzaXJXOWFlSjNkdnFnSzVpUjlVLWdaWFo4YV9DTkQxc3J5ZE0?oc=5",
+        "title": "Trump launches probe into Federal Reserve Governor Lisa Cook - Al Jazeera",
+        "summary": "Trump launches probe into Federal Reserve Governor Lisa Cook &nbsp;&nbsp; Al Jazeera",
+        "publishedAt": "Fri, 09 Oct 2026 16:19:46 GMT",
+        "source": "Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ2JMVFlBWUdLenV3SlJWX0s0bW01cmo5WWNpb1l3QkpUSGVfclpZS0ZfcnBUVnAwWXctUVZidFl0a09OM1lzMWdKMjFySzhDclFJaU5DNHdLNjNUV3lSSGhkOW9GZ1VUTm9mZG9KcU4zckl2Znk3cjJ5MUNIYTVibFF6YWtFNl9lcUFRSXVMSXVjRUt0V01oeEVBcnpORWY0aUl3ZEdlY9IBrAFBVV95cUxOTHRKdmZEUGkzR0gtRC1aOE10NHU2cVVpeUVXaHFlVTZ6WTJLOGpON3F1OXR2WTB4Y2tWekN0NWxBdnE1bEJ6bUZlUkkyMEhiMU1HN1FsTkVYVUhZbzJ5NDlKZU1UTENuUWo0d3lOd0Z5bkJMY1FTSDNIU1MwbTNCaWppU21tNHQ5QkJmUmNJSXJNcHRkRnNGZW40VkdVclJnYkt0Q0dCOEVCTmNJ?oc=5",
         "score": 0
       },
       {
-        "title": "Fed plans to overhaul bank supervision responsibilities, Bowman says - Reuters",
-        "summary": "Fed plans to overhaul bank supervision responsibilities, Bowman says &nbsp;&nbsp; Reuters",
-        "publishedAt": "Tue, 06 Oct 2026 18:15:37 GMT",
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeXUxU2F5X1UwSTZreDdOc3FaTDdsWVBreUNYY3U1WVlpZXVUNGM1UE8tLU50eUU1UTlzVHRPVlhOTlBmemF5ZTJGY3lNa2Njc1NwaFNkWG04OVdTbkUxVGd4d1E1WkFkVkpXdmFoVkEyUHFkX24tSUlMTkZaS3FUYy1pQzJfQ1Nldy10bDhwdEhoOHg5eHFpVDFMWDJ6bkcyT1F3R0tDaWhFSU4tb0RHeUVYNFVSUHJT?oc=5",
+        "title": "Trump Announces New Investigation of Federal Reserve Governor - The Well News",
+        "summary": "Trump Announces New Investigation of Federal Reserve Governor &nbsp;&nbsp; The Well News",
+        "publishedAt": "Fri, 09 Oct 2026 22:07:30 GMT",
+        "source": "The Well News",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQ0xDMXViUUt0V2RVTHUwRzRVY1JIQlVleVlQTmFsZWxheGlXNWNCNUJLVFRUaWJQeDNVM3ZZSng4cnVRY1RocGM4VEFwaVRVemo4VklsR0V1WDBIOVVNYmJJMnJmbm9GWkRQWDhMdXRZZk5PTElCcXFUMEt2SzRDYXdBVGFNYV9VVnpaTmxYaVpTMDVXenlMcFNOMjdMdWtyMUlSUVZDV2Mwdw?oc=5",
         "score": 0
       },
       {
-        "title": "A Top Fed Official Casts Further Doubt on a Rate Rise This Month - The New York Times",
-        "summary": "A Top Fed Official Casts Further Doubt on a Rate Rise This Month &nbsp;&nbsp; The New York Times",
-        "publishedAt": "Thu, 08 Oct 2026 08:38:57 GMT",
-        "source": "The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNckNMd0xCc1RMemJpSlNXQVBEeVFKUktQWmFwTlBZWTFrM19DWTA1d1dtN3djS0tSbTY3VzhWYlp2NEdpQ1RIdUthT2xGMVhPNmxqRXFyUEloVVNRQWZ6S3VQeHlZaklEbGh2SWRmckNONnZXaV81TjItOTAwZlBPakZsTzRoVHpMUDVEYlFpbTJraXM?oc=5",
+        "title": "How Fast Do Tariffs Pass Through into Consumer Prices? - Liberty Street Economics",
+        "summary": "How Fast Do Tariffs Pass Through into Consumer Prices? &nbsp;&nbsp; Liberty Street Economics",
+        "publishedAt": "Thu, 08 Oct 2026 23:25:40 GMT",
+        "source": "Liberty Street Economics",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYXRvNnIxajNaZk1IWWR1ckhXSEtaaDFOVEh1UUljTEE1ZWtpY1dVOTBSSXRIWS14eDl2ZGtyTVU4bTd4S1JaMVM4bG83TGNEQm83a2ZoZU1kNlIwSlFtUWdoODFyY3lnVll2YVBrdWExSUpoeUdpN2QxTEx2Z3A0bDZ6eTQzMnRISU9vRTZZOTg1Rmc4bXZwZEptWmhmRU5LSUtOd1V1ejVibUtl?oc=5",
         "score": 0
-      },
-      {
-        "title": "Federal Reserve officials expect another rate hike will be needed this year, according to minutes - ABC News - Breaking News, Latest News and Videos",
-        "summary": "Federal Reserve officials expect another rate hike will be needed this year, according to minutes &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
-        "publishedAt": "Wed, 07 Oct 2026 18:37:29 GMT",
-        "source": "ABC News - Breaking News, Latest News and Videos",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUW9sbjktb0FQUGFKM3d1WVEtNGRrQWg0REotQUxPVEhlSlF3aTRCREJhN3dXZkUzWWkwUDkzOTNZT3JlNElKbE5rQkE1VEtWMWdaejBiaDJOSjVtd3lMVFE2RE1lamg5N0FNRkVoaVhZM0p3RTBxMHZZZEIwWkxnUFl5RVpZRUp6X2tIRE9NVXVYWlFzNnVadnJkNnE0a3dUUHBnV05R0gGrAUFVX3lxTFA2T0hYZGpud0VZUWp3Rk43QTZOSFZVbXVoWHJRYnRRWFZTaHZ1Qi12bGxVQVdHWEJER0huZ19RQ2M2T0xtSUhIcm10cFJRbElfQWd0UFRMQWpYeVVhYlJRLVlXajJNOVAyZXFpWmdUUHhjemVvcFFjVDlja3VYSEZzY0YySWVEdjhvdkM4RXdVZVJjS0QyN1lxekJZZGt4VV9kZmVIMVBsdlllNA?oc=5",
-        "score": 0.18
       }
     ]
   },
