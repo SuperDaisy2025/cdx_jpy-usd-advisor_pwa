@@ -1,5 +1,5 @@
 {
-  "generatedAtJst": "2026-10-11 10:50",
+  "generatedAtJst": "2026-10-12 11:21",
   "startingCapitalJpy": 1000000,
   "policy": {
     "basePair": "USD/JPY",
@@ -14,7 +14,7 @@
     "directionLabel": "中立",
     "confidence": 0.51,
     "summary": "中立を基本シナリオにします。トレンド、IMM、ニュースが拮抗しているため、最大50%の制約内でも動かす量は抑えています。",
-    "score": 0.032,
+    "score": 0.039,
     "reasons": [
       "直近のUSD/JPYは157.690で、1つ前の観測値からの勢いを0.00として評価しました。",
       "IMMの円ポジションは-84,200で、前週比の変化を0.09として売買比率に反映しました。",
@@ -114,22 +114,30 @@
   "news": {
     "provider": "Google News RSS",
     "summary": "ニュースは中立寄りです。",
-    "score": 0,
+    "score": 0.036,
     "items": [
       {
-        "title": "How Fast Do Tariffs Pass Through into Consumer Prices? - Liberty Street Economics",
-        "summary": "How Fast Do Tariffs Pass Through into Consumer Prices? &nbsp;&nbsp; Liberty Street Economics",
-        "publishedAt": "Thu, 08 Oct 2026 23:25:40 GMT",
-        "source": "Liberty Street Economics",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYXRvNnIxajNaZk1IWWR1ckhXSEtaaDFOVEh1UUljTEE1ZWtpY1dVOTBSSXRIWS14eDl2ZGtyTVU4bTd4S1JaMVM4bG83TGNEQm83a2ZoZU1kNlIwSlFtUWdoODFyY3lnVll2YVBrdWExSUpoeUdpN2QxTEx2Z3A0bDZ6eTQzMnRISU9vRTZZOTg1Rmc4bXZwZEptWmhmRU5LSUtOd1V1ejVibUtl?oc=5",
+        "title": "About the Fed - Federal Reserve (.gov)",
+        "summary": "About the Fed &nbsp;&nbsp; Federal Reserve (.gov)",
+        "publishedAt": "Wed, 17 Jun 2026 07:00:00 GMT",
+        "source": "Federal Reserve (.gov)",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3X3g2ZkN1N2x6SGdZZFdUU2ZiN214VXRFS3h5ZmRZWExuejFRemx4R3FkZXhVWTdhWG0yVGpvbm9tRS0wZ05xV0VVMU92d0V2ZVlVUlE4TG5HZw?oc=5",
         "score": 0
       },
       {
-        "title": "Rising Labor Market Anxiety and Declining Quits - Federal Reserve Bank of Atlanta",
-        "summary": "Rising Labor Market Anxiety and Declining Quits &nbsp;&nbsp; Federal Reserve Bank of Atlanta",
-        "publishedAt": "Tue, 06 Oct 2026 16:31:19 GMT",
-        "source": "Federal Reserve Bank of Atlanta",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSnAzZzRscF96NExDSE1VdW0xUmpIS3hmY09IVl9HQUE0VjdIZEJWM0tRMTU1dzJ0WTdSVUZBeVpjQndpQkxMamhEU215eGtzV3hxczFjZ0l0OEJxYUFKaEVZMFF1SnBCeHdkUTNPV0Y0cWt6bVgtMngwMVFoVkNENmVpYVZ5X3loYXRwdGxaa2ZDM3RNanR6eVJZYUU4Vl91MGM1UmZOd3pPRGg3VWc3eFhLS0tKbUJ5cTNBeVJhVWQtUEJxcVdldGFIVmRTU2dNNkJz?oc=5",
+        "title": "A Top Fed Official Casts Further Doubt on a Rate Rise This Month - The New York Times",
+        "summary": "A Top Fed Official Casts Further Doubt on a Rate Rise This Month &nbsp;&nbsp; The New York Times",
+        "publishedAt": "Thu, 08 Oct 2026 08:38:57 GMT",
+        "source": "The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNckNMd0xCc1RMemJpSlNXQVBEeVFKUktQWmFwTlBZWTFrM19DWTA1d1dtN3djS0tSbTY3VzhWYlp2NEdpQ1RIdUthT2xGMVhPNmxqRXFyUEloVVNRQWZ6S3VQeHlZaklEbGh2SWRmckNONnZXaV81TjItOTAwZlBPakZsTzRoVHpMUDVEYlFpbTJraXM?oc=5",
+        "score": 0
+      },
+      {
+        "title": "Refinery outages pumping up fuel prices more than cost of crude oil - Federal Reserve Bank of Dallas",
+        "summary": "Refinery outages pumping up fuel prices more than cost of crude oil &nbsp;&nbsp; Federal Reserve Bank of Dallas",
+        "publishedAt": "Thu, 08 Oct 2026 19:36:58 GMT",
+        "source": "Federal Reserve Bank of Dallas",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE54QVNSRE5wVG1lQmwyWlpvX1gwbmNKbmJmaXc0NTFjR2Q5ZGJMbThDTEhjUS1Wem9qY2dHXzZwYXlLeUNtWVdiTzdVZ2hva3lueEJFLU9KcFdpaFZVZTJvcTI4ZmU?oc=5",
         "score": 0
       },
       {
@@ -141,20 +149,12 @@
         "score": 0
       },
       {
-        "title": "Tenth District Energy Activity Continued to Grow in Q3 - Kansas City Fed",
-        "summary": "Tenth District Energy Activity Continued to Grow in Q3 &nbsp;&nbsp; Kansas City Fed",
-        "publishedAt": "Fri, 09 Oct 2026 19:40:27 GMT",
-        "source": "Kansas City Fed",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSDhubHh6YjZ4SXF6QnFVQWxUMXB6TmdUaUc0WVYtS0ZuXzZvMWh6am1kZ1pCRGk4T0lfQ0JHSTFfVnh6X0I4YnBhZkY3SE1WT25jaWtJSVlMNS1jX0FYMEtCWERuM2FoRGttZ2xwRmhNSVFad195bXJBTVNYWldlZ19ZMUpFU3cwNGZhUFNPallhTktOdUJpT2RnbkN1NnFjOE85STFZenBCcDJSYmltZ0dGcmRLQ3dibmxqUg?oc=5",
-        "score": 0
-      },
-      {
-        "title": "A Top Fed Official Casts Further Doubt on a Rate Rise This Month - The New York Times",
-        "summary": "A Top Fed Official Casts Further Doubt on a Rate Rise This Month &nbsp;&nbsp; The New York Times",
-        "publishedAt": "Thu, 08 Oct 2026 08:38:57 GMT",
-        "source": "The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNckNMd0xCc1RMemJpSlNXQVBEeVFKUktQWmFwTlBZWTFrM19DWTA1d1dtN3djS0tSbTY3VzhWYlp2NEdpQ1RIdUthT2xGMVhPNmxqRXFyUEloVVNRQWZ6S3VQeHlZaklEbGh2SWRmckNONnZXaV81TjItOTAwZlBPakZsTzRoVHpMUDVEYlFpbTJraXM?oc=5",
-        "score": 0
+        "title": "Fed raises interest rates to 3.75%-4.00% in first rate hike in three years, with more expected - U.S. Bank",
+        "summary": "Fed raises interest rates to 3.75%-4.00% in first rate hike in three years, with more expected &nbsp;&nbsp; U.S. Bank",
+        "publishedAt": "Wed, 16 Sep 2026 07:00:00 GMT",
+        "source": "U.S. Bank",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw?oc=5",
+        "score": 0.18
       }
     ]
   },
