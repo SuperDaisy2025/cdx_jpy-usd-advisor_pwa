@@ -1,5 +1,5 @@
 {
-  "generatedAtJst": "2026-10-12 11:21",
+  "generatedAtJst": "2026-10-13 12:31",
   "startingCapitalJpy": 1000000,
   "policy": {
     "basePair": "USD/JPY",
@@ -14,7 +14,7 @@
     "directionLabel": "中立",
     "confidence": 0.51,
     "summary": "中立を基本シナリオにします。トレンド、IMM、ニュースが拮抗しているため、最大50%の制約内でも動かす量は抑えています。",
-    "score": 0.039,
+    "score": 0.032,
     "reasons": [
       "直近のUSD/JPYは157.690で、1つ前の観測値からの勢いを0.00として評価しました。",
       "IMMの円ポジションは-84,200で、前週比の変化を0.09として売買比率に反映しました。",
@@ -114,47 +114,47 @@
   "news": {
     "provider": "Google News RSS",
     "summary": "ニュースは中立寄りです。",
-    "score": 0.036,
+    "score": 0,
     "items": [
       {
-        "title": "About the Fed - Federal Reserve (.gov)",
-        "summary": "About the Fed &nbsp;&nbsp; Federal Reserve (.gov)",
-        "publishedAt": "Wed, 17 Jun 2026 07:00:00 GMT",
-        "source": "Federal Reserve (.gov)",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3X3g2ZkN1N2x6SGdZZFdUU2ZiN214VXRFS3h5ZmRZWExuejFRemx4R3FkZXhVWTdhWG0yVGpvbm9tRS0wZ05xV0VVMU92d0V2ZVlVUlE4TG5HZw?oc=5",
+        "title": "Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack - CNBC",
+        "summary": "Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack &nbsp;&nbsp; CNBC",
+        "publishedAt": "Mon, 12 Oct 2026 17:08:43 GMT",
+        "source": "CNBC",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9iRWdUXzU4TE1qSExlakQ2Nk9qM0ljX2tRaXg2d3ZhdG56Vmc4TTJqdGMyQmE2aFNQT3l1eHRlb0tWdWgtbWJOXzk2OXJoUlVfU05TaU5TRy1QOXlVQlNpcjAtdkFPRFFiajBIOU9DY3ZEcWUwMDJWdWx30gF_QVVfeXFMT0RHU1ZWNllmUG93MHhmemF0dzQ3VHRvX2JYcGV4RmxrMHNvRnotcEZZanBJYTdjemxLS1pnNDRLZEloYXpqeEp6ZHQ0X01ZQkN1a0JtWEpXdjNqUVdsZWE2X2M2Q1dwQjFsMk8wQUw1UzllTmJmNFZHcHFzQ01rVQ?oc=5",
         "score": 0
       },
       {
-        "title": "A Top Fed Official Casts Further Doubt on a Rate Rise This Month - The New York Times",
-        "summary": "A Top Fed Official Casts Further Doubt on a Rate Rise This Month &nbsp;&nbsp; The New York Times",
-        "publishedAt": "Thu, 08 Oct 2026 08:38:57 GMT",
-        "source": "The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNckNMd0xCc1RMemJpSlNXQVBEeVFKUktQWmFwTlBZWTFrM19DWTA1d1dtN3djS0tSbTY3VzhWYlp2NEdpQ1RIdUthT2xGMVhPNmxqRXFyUEloVVNRQWZ6S3VQeHlZaklEbGh2SWRmckNONnZXaV81TjItOTAwZlBPakZsTzRoVHpMUDVEYlFpbTJraXM?oc=5",
+        "title": "Fed's Hammack backs restrictive policy, says better if it comes 'relatively quickly' - Reuters",
+        "summary": "Fed's Hammack backs restrictive policy, says better if it comes 'relatively quickly' &nbsp;&nbsp; Reuters",
+        "publishedAt": "Mon, 12 Oct 2026 20:54:20 GMT",
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQS3JSQmJSVHVtZDBjMUV0VUlYb0xQaGJvUUkyZG12VVQzVWJYc0pIcjZjQ2R5VUR5Nm1MaTV4SVpLOTB2Rno0b0lRak5ORWFKX21GdGVrTm51b2VKYU9DQWdBUk1TNWlUZkt4WjQ2dEx1OEt0N2hKNjYtVUh1elVZSFJMNG80WUxVUTdqVTdMaU43VUE5SzVGd1FsWnlGSU95VElLNk92VzlMU0NIU1VkZW5nc0xrak11STE1MTl4X19kRUpHZ1E?oc=5",
         "score": 0
       },
       {
-        "title": "Refinery outages pumping up fuel prices more than cost of crude oil - Federal Reserve Bank of Dallas",
-        "summary": "Refinery outages pumping up fuel prices more than cost of crude oil &nbsp;&nbsp; Federal Reserve Bank of Dallas",
-        "publishedAt": "Thu, 08 Oct 2026 19:36:58 GMT",
-        "source": "Federal Reserve Bank of Dallas",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE54QVNSRE5wVG1lQmwyWlpvX1gwbmNKbmJmaXc0NTFjR2Q5ZGJMbThDTEhjUS1Wem9qY2dHXzZwYXlLeUNtWVdiTzdVZ2hva3lueEJFLU9KcFdpaFZVZTJvcTI4ZmU?oc=5",
+        "title": "Fed names new payments chief - Payments Dive",
+        "summary": "Fed names new payments chief &nbsp;&nbsp; Payments Dive",
+        "publishedAt": "Mon, 12 Oct 2026 16:09:06 GMT",
+        "source": "Payments Dive",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5KREprVVZoNTBYTW9LV0lUc0F0TGJyX1JVcDVfbzJVa2NWRGg4cmlUdHJNUVJJZ0FreVZyQkwydllwQnBSeVRvc1Zyb3AyaGZ1UzFmVzB0M0ZzRV9zVTBxV0xYRWhxaXlIT20xT3Q1TUxuQ0pNNnY0OHBn?oc=5",
         "score": 0
       },
       {
-        "title": "Trump launches probe into Federal Reserve Governor Lisa Cook - Al Jazeera",
-        "summary": "Trump launches probe into Federal Reserve Governor Lisa Cook &nbsp;&nbsp; Al Jazeera",
-        "publishedAt": "Sat, 10 Oct 2026 07:54:40 GMT",
-        "source": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ2JMVFlBWUdLenV3SlJWX0s0bW01cmo5WWNpb1l3QkpUSGVfclpZS0ZfcnBUVnAwWXctUVZidFl0a09OM1lzMWdKMjFySzhDclFJaU5DNHdLNjNUV3lSSGhkOW9GZ1VUTm9mZG9KcU4zckl2Znk3cjJ5MUNIYTVibFF6YWtFNl9lcUFRSXVMSXVjRUt0V01oeEVBcnpORWY0aUl3ZEdlY9IBrAFBVV95cUxOTHRKdmZEUGkzR0gtRC1aOE10NHU2cVVpeUVXaHFlVTZ6WTJLOGpON3F1OXR2WTB4Y2tWekN0NWxBdnE1bEJ6bUZlUkkyMEhiMU1HN1FsTkVYVUhZbzJ5NDlKZU1UTENuUWo0d3lOd0Z5bkJMY1FTSDNIU1MwbTNCaWppU21tNHQ5QkJmUmNJSXJNcHRkRnNGZW40VkdVclJnYkt0Q0dCOEVCTmNJ?oc=5",
+        "title": "Dive Deposits: Trump’s Cook committee is betting like it’s 2025 - Banking Dive",
+        "summary": "Dive Deposits: Trump’s Cook committee is betting like it’s 2025 &nbsp;&nbsp; Banking Dive",
+        "publishedAt": "Mon, 12 Oct 2026 18:49:47 GMT",
+        "source": "Banking Dive",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5SVnh1aW16TUloeUEyV1lyRU10QjhucGdIMGVWT0hoQUd4ZmlVcWROUXBBd04xeFpKSklnalJCdUNiZGU2azdWM2hxN2pHOFlHdUFNYVBQck9JMUE0blRxYnhCWWlvZmN4djY0TEdpVDNHbUhQSEVJOWVySmg?oc=5",
         "score": 0
       },
       {
-        "title": "Fed raises interest rates to 3.75%-4.00% in first rate hike in three years, with more expected - U.S. Bank",
-        "summary": "Fed raises interest rates to 3.75%-4.00% in first rate hike in three years, with more expected &nbsp;&nbsp; U.S. Bank",
-        "publishedAt": "Wed, 16 Sep 2026 07:00:00 GMT",
-        "source": "U.S. Bank",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw?oc=5",
-        "score": 0.18
+        "title": "Federal Reserve selects KC executive to lead its nationwide payments system - The Business Journals",
+        "summary": "Federal Reserve selects KC executive to lead its nationwide payments system &nbsp;&nbsp; The Business Journals",
+        "publishedAt": "Mon, 12 Oct 2026 17:01:00 GMT",
+        "source": "The Business Journals",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcDBXMVZrSjU5WnliWGJGSG1qZlYxR0lPSFNuMW13R1BCTjNFV0xOYmVKRVN4dzBueFVnaUtYNTJHeW42Rl9Na0NDdFRZaF9FV0FwMGdFRVhaZ2xoOFpUQWh1QUVYQjZfMndCTENxNUlfOXpSQ1ZZdllMWmtNSmd1OGVWSlc3UncyTC11ZURKbzI0LWJaMi1UY25PeWVfeFFlNTUtekJMQ0dBdw?oc=5",
+        "score": 0
       }
     ]
   },
