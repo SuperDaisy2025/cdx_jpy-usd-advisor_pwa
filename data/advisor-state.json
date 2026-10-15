@@ -1,5 +1,5 @@
 {
-  "generatedAtJst": "2026-10-14 10:53",
+  "generatedAtJst": "2026-10-15 10:26",
   "startingCapitalJpy": 1000000,
   "policy": {
     "basePair": "USD/JPY",
@@ -12,9 +12,9 @@
   "forecast": {
     "direction": "neutral",
     "directionLabel": "中立",
-    "confidence": 0.52,
+    "confidence": 0.51,
     "summary": "中立を基本シナリオにします。トレンド、IMM、ニュースが拮抗しているため、最大50%の制約内でも動かす量は抑えています。",
-    "score": 0.046,
+    "score": 0.039,
     "reasons": [
       "直近のUSD/JPYは157.690で、1つ前の観測値からの勢いを0.00として評価しました。",
       "IMMの円ポジションは-84,200で、前週比の変化を0.09として売買比率に反映しました。",
@@ -114,22 +114,30 @@
   "news": {
     "provider": "Google News RSS",
     "summary": "ニュースは中立寄りです。",
-    "score": 0.072,
+    "score": 0.036,
     "items": [
       {
-        "title": "Fed's Collins sees another rate hike on the table before end of 2026 - Reuters",
-        "summary": "Fed's Collins sees another rate hike on the table before end of 2026 &nbsp;&nbsp; Reuters",
-        "publishedAt": "Tue, 13 Oct 2026 20:08:52 GMT",
+        "title": "Regional Economic Conditions: Ag Credit - Federal Reserve Bank of Minneapolis",
+        "summary": "Regional Economic Conditions: Ag Credit &nbsp;&nbsp; Federal Reserve Bank of Minneapolis",
+        "publishedAt": "Wed, 14 Oct 2026 19:07:51 GMT",
+        "source": "Federal Reserve Bank of Minneapolis",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQS19vSTczTVB0TTdveTJfSmw5cXFDOHdlalNzcXFBWXk5aGN5YmZyTGhQZU1ScXBVMFUzMk5TOWNqajA5alhBWUpfNGZQTVEzUmJoTU9Ebzd1dGZsTHQwcVdmZ2JlTDZCNy0xTjBUYUlZeHBrY05YMnVQT3kzSlNrdUNPOGlWRkZPdmk3b19n?oc=5",
+        "score": 0
+      },
+      {
+        "title": "EXCLUSIVE: Fed's Daly says rate hikes likely needed, but not urgently - Reuters",
+        "summary": "EXCLUSIVE: Fed's Daly says rate hikes likely needed, but not urgently &nbsp;&nbsp; Reuters",
+        "publishedAt": "Wed, 14 Oct 2026 21:40:00 GMT",
         "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQTNoWUtZWjdLcTc2ZmNycnptRmR1cmluWThZU2ZTYU5JUkdaazY1Z2hEdjIxNWZ3VU5RSVZvejc3VnlueGZoN0JyNlNmdkptQk9ZNEZqU1MyLTNUblpOaF9FMkdGbnZhX1hTVllLTzYxNFEwamlyazZKem00N1k1UFBablNQSVRCZTgySWNNR3pHemxzSEl1S0VBeE1DQlYyS0Ntdw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMndHODQzSE53STRuTnVib1hVbS02ZEtKUEFmQnlqNDRFTXVHSVRxMFh1YU9IN0lLRTlPbEZsOXhHQllMczhyQ0llSHFoX3RuQTdHNUMtQUszZlZEcWJYMDRjMDAxNG5hUGNxMXZHejlZbFg5STlZekM0Vy1VeldsVGdvRXU5SVZmZTAyVTRkT0NZOHptamRHMFVqdzdBUmNONTV2eWJzaXc?oc=5",
         "score": 0.18
       },
       {
-        "title": "Williams says Fed may not have to hike rates in 2027, at odds with traders - CNBC",
-        "summary": "Williams says Fed may not have to hike rates in 2027, at odds with traders &nbsp;&nbsp; CNBC",
-        "publishedAt": "Tue, 13 Oct 2026 19:46:12 GMT",
-        "source": "CNBC",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5VSndIVE1JX2VXdmZyMWVSRmFUMS1Senp5cWt3c1hocHY2dVVfbkNkbVhHQnYyZXpmUGIwQWRaY19CZFQ2RWpDYkRKZjFPZ18zdTVXV0k0V1IyeWs0ejRTMjYyQVl5TmMxQXBObWVSQTlEUG5fY1ZCQnF30gF_QVVfeXFMT0dnRDVFSGJQejktSTNBdS1xeGdpSU0weXp0UlJLVms4Z0lxcUVfV254RnNiWi1mcDdXM0prWFp2aV8tT2NDN1pZZV83Qk83TkVqS0FzWHNsTlBLUkdmeC1PTmhlSmg5SGEtbXA4SXFRT0l1bjJZS0lKSHNCQlRaZw?oc=5",
+        "title": "Beige Book: GLP-1s Affecting Demand for Poultry, Alcohol - Federal Reserve Bank of Atlanta",
+        "summary": "Beige Book: GLP-1s Affecting Demand for Poultry, Alcohol &nbsp;&nbsp; Federal Reserve Bank of Atlanta",
+        "publishedAt": "Wed, 14 Oct 2026 18:14:25 GMT",
+        "source": "Federal Reserve Bank of Atlanta",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdkFpOWZDd0JQZkpLV2dQS2tiZlFyMXlVQkdTTl9IVHByNEFaZFpEdjhZWFVIeUw3MXFDQWNhTG9TbF9hWHJ6dHF6RXhQejBtLUhqY3hRZGttRVdtUGhDMjNQZFRPMTFwNG9xZXBCV0J5U0xMaW43eWNNdUFqc08ySFNxQ0pvZ2V3aS1vVVlQbk1ORnBfZHpZa1BUMzctMExXbk9wSGU4LXhDUnVsTDNkQVVHbDI3b2xRbEJWam9Vak5Pb2ZlVVNkYXZIVllkdTQ?oc=5",
         "score": 0
       },
       {
@@ -141,20 +149,12 @@
         "score": 0
       },
       {
-        "title": "Federal Reserve Says AI Data Center Buildout Is Making Everything More Expensive - Futurism",
-        "summary": "Federal Reserve Says AI Data Center Buildout Is Making Everything More Expensive &nbsp;&nbsp; Futurism",
-        "publishedAt": "Tue, 13 Oct 2026 23:01:00 GMT",
-        "source": "Futurism",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa2t3SHQ1Vi02V21DN183TVBmSGk1NFpnUnA0SThBU3NCc1h6VExUelFyLUlUTHNOTVdldndjcUxLMjdNaXhvTVAtSzczaExBU0FiSHdvLXlZSlF1cUpTS2JWdkIwRzJmU1diblllQjRvQnZUVUw3VTJkZElaeDFEY0lTN3RXZy0yemFaTHp6RlpyeVRjZkU4OHJ6Y3lGYUc5?oc=5",
+        "title": "Who's Driving Medicaid's Enrollment Growth? - Federal Reserve Bank of Cleveland",
+        "summary": "Who's Driving Medicaid's Enrollment Growth? &nbsp;&nbsp; Federal Reserve Bank of Cleveland",
+        "publishedAt": "Tue, 13 Oct 2026 04:00:00 GMT",
+        "source": "Federal Reserve Bank of Cleveland",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMThWWHE2STduSkxHazBfT1pDa0k2Y1JzaEdtXy04cF9nc2NwUGZDSmpzTndqQllERTdkQjNZVlYtY045bkZ3N3JDZVdwZ1hqc0sxMXBMWFA4a1J5X3BzeER1RUtPc1ZFU1hXMkFJcEtMZ2JjZ0VmM3VYYmU5Zi1fZmVhckRnS2ZXSWpJV19wbW5uLVo1VTlZUERTUmk1aXBPUjJKak12TjlHZWVXWW1qRVdPYVE5Yk9x?oc=5",
         "score": 0
-      },
-      {
-        "title": "Fed raises interest rates to 3.75%-4.00% in first rate hike in three years, with more expected - U.S. Bank",
-        "summary": "Fed raises interest rates to 3.75%-4.00% in first rate hike in three years, with more expected &nbsp;&nbsp; U.S. Bank",
-        "publishedAt": "Wed, 16 Sep 2026 07:00:00 GMT",
-        "source": "U.S. Bank",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw?oc=5",
-        "score": 0.18
       }
     ]
   },
