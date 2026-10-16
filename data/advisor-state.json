@@ -1,5 +1,5 @@
 {
-  "generatedAtJst": "2026-10-15 10:26",
+  "generatedAtJst": "2026-10-16 10:18",
   "startingCapitalJpy": 1000000,
   "policy": {
     "basePair": "USD/JPY",
@@ -14,7 +14,7 @@
     "directionLabel": "中立",
     "confidence": 0.51,
     "summary": "中立を基本シナリオにします。トレンド、IMM、ニュースが拮抗しているため、最大50%の制約内でも動かす量は抑えています。",
-    "score": 0.039,
+    "score": 0.032,
     "reasons": [
       "直近のUSD/JPYは157.690で、1つ前の観測値からの勢いを0.00として評価しました。",
       "IMMの円ポジションは-84,200で、前週比の変化を0.09として売買比率に反映しました。",
@@ -114,46 +114,46 @@
   "news": {
     "provider": "Google News RSS",
     "summary": "ニュースは中立寄りです。",
-    "score": 0.036,
+    "score": 0,
     "items": [
       {
-        "title": "Regional Economic Conditions: Ag Credit - Federal Reserve Bank of Minneapolis",
-        "summary": "Regional Economic Conditions: Ag Credit &nbsp;&nbsp; Federal Reserve Bank of Minneapolis",
-        "publishedAt": "Wed, 14 Oct 2026 19:07:51 GMT",
-        "source": "Federal Reserve Bank of Minneapolis",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQS19vSTczTVB0TTdveTJfSmw5cXFDOHdlalNzcXFBWXk5aGN5YmZyTGhQZU1ScXBVMFUzMk5TOWNqajA5alhBWUpfNGZQTVEzUmJoTU9Ebzd1dGZsTHQwcVdmZ2JlTDZCNy0xTjBUYUlZeHBrY05YMnVQT3kzSlNrdUNPOGlWRkZPdmk3b19n?oc=5",
+        "title": "The Decentralized Structure of the Federal Reserve System - U.S. Government Accountability Office (.gov)",
+        "summary": "The Decentralized Structure of the Federal Reserve System &nbsp;&nbsp; U.S. Government Accountability Office (.gov)",
+        "publishedAt": "Wed, 14 Oct 2026 03:04:01 GMT",
+        "source": "U.S. Government Accountability Office (.gov)",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE52OE45UGw5Rlc0S0tFd3VjSVczcUptMXZyb196YVFicDF1NTNVZXgyU1pVR0FHR3NUcHAwWWIycnE4d0Vsb0s4MVlSbEZ0NlhFQ3dHa3NwdEVXMnJvSkR2TzhKUW9vVVF0cEtRVl9oSTdJQW9BeDlFdmppSQ?oc=5",
         "score": 0
       },
       {
-        "title": "EXCLUSIVE: Fed's Daly says rate hikes likely needed, but not urgently - Reuters",
-        "summary": "EXCLUSIVE: Fed's Daly says rate hikes likely needed, but not urgently &nbsp;&nbsp; Reuters",
-        "publishedAt": "Wed, 14 Oct 2026 21:40:00 GMT",
+        "title": "Fed's Goolsbee on inflation: discouraging, but still some optimism - Reuters",
+        "summary": "Fed's Goolsbee on inflation: discouraging, but still some optimism &nbsp;&nbsp; Reuters",
+        "publishedAt": "Thu, 15 Oct 2026 23:49:44 GMT",
         "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMndHODQzSE53STRuTnVib1hVbS02ZEtKUEFmQnlqNDRFTXVHSVRxMFh1YU9IN0lLRTlPbEZsOXhHQllMczhyQ0llSHFoX3RuQTdHNUMtQUszZlZEcWJYMDRjMDAxNG5hUGNxMXZHejlZbFg5STlZekM0Vy1VeldsVGdvRXU5SVZmZTAyVTRkT0NZOHptamRHMFVqdzdBUmNONTV2eWJzaXc?oc=5",
-        "score": 0.18
-      },
-      {
-        "title": "Beige Book: GLP-1s Affecting Demand for Poultry, Alcohol - Federal Reserve Bank of Atlanta",
-        "summary": "Beige Book: GLP-1s Affecting Demand for Poultry, Alcohol &nbsp;&nbsp; Federal Reserve Bank of Atlanta",
-        "publishedAt": "Wed, 14 Oct 2026 18:14:25 GMT",
-        "source": "Federal Reserve Bank of Atlanta",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdkFpOWZDd0JQZkpLV2dQS2tiZlFyMXlVQkdTTl9IVHByNEFaZFpEdjhZWFVIeUw3MXFDQWNhTG9TbF9hWHJ6dHF6RXhQejBtLUhqY3hRZGttRVdtUGhDMjNQZFRPMTFwNG9xZXBCV0J5U0xMaW43eWNNdUFqc08ySFNxQ0pvZ2V3aS1vVVlQbk1ORnBfZHpZa1BUMzctMExXbk9wSGU4LXhDUnVsTDNkQVVHbDI3b2xRbEJWam9Vak5Pb2ZlVVNkYXZIVllkdTQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcXR1ek9vWXFJUnhjSUhmTnNnd0o1MERLZ3Q5OWxEX2J4UERIT1dGNWMwaVI4MkpiajNzZmprSE1vZWRaSDZ4RjlkSjFlSG1FSWxYT2JkSVNSaVp5alFfbGQ1RHd0WHdaeGw2bU1aaHQ2cmJhSnM4STd2cS1odWZreU1nU0hqYm5WeVJkUmdxMmg2NFRiMkFmMkRtMWQxTWd5SHRNM2FR?oc=5",
         "score": 0
       },
       {
-        "title": "About the Fed - Federal Reserve (.gov)",
-        "summary": "About the Fed &nbsp;&nbsp; Federal Reserve (.gov)",
-        "publishedAt": "Wed, 17 Jun 2026 07:00:00 GMT",
-        "source": "Federal Reserve (.gov)",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3X3g2ZkN1N2x6SGdZZFdUU2ZiN214VXRFS3h5ZmRZWExuejFRemx4R3FkZXhVWTdhWG0yVGpvbm9tRS0wZ05xV0VVMU92d0V2ZVlVUlE4TG5HZw?oc=5",
+        "title": "Heathcote named a fellow of the Econometric Society - Federal Reserve Bank of Minneapolis",
+        "summary": "Heathcote named a fellow of the Econometric Society &nbsp;&nbsp; Federal Reserve Bank of Minneapolis",
+        "publishedAt": "Wed, 14 Oct 2026 07:00:00 GMT",
+        "source": "Federal Reserve Bank of Minneapolis",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU2pjUEJaZTdBTjByeENsbW00NDdUaUYtb18taV9leTNFTE5ydF9XSTdZYWJKVUlrWWFDSTUtZzVoOFFQLWc4bEZ2NFVoaldEendZSjZzbHl3NWZHaERkUXNabzdwMXZxM2NzeUY1SHkwek5zdGlOSTVTdUN0YXBYWVVCN2MwMmNoSTRBcEpkMXBHMjU0UXRGUWd1RFhUUzJuU0ZN?oc=5",
         "score": 0
       },
       {
-        "title": "Who's Driving Medicaid's Enrollment Growth? - Federal Reserve Bank of Cleveland",
-        "summary": "Who's Driving Medicaid's Enrollment Growth? &nbsp;&nbsp; Federal Reserve Bank of Cleveland",
-        "publishedAt": "Tue, 13 Oct 2026 04:00:00 GMT",
-        "source": "Federal Reserve Bank of Cleveland",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMThWWHE2STduSkxHazBfT1pDa0k2Y1JzaEdtXy04cF9nc2NwUGZDSmpzTndqQllERTdkQjNZVlYtY045bkZ3N3JDZVdwZ1hqc0sxMXBMWFA4a1J5X3BzeER1RUtPc1ZFU1hXMkFJcEtMZ2JjZ0VmM3VYYmU5Zi1fZmVhckRnS2ZXSWpJV19wbW5uLVo1VTlZUERTUmk1aXBPUjJKak12TjlHZWVXWW1qRVdPYVE5Yk9x?oc=5",
+        "title": "Fed Moves to Overhaul Bank Supervision Structure, Signals Further Deregulatory Steps Ahead - JD Supra",
+        "summary": "Fed Moves to Overhaul Bank Supervision Structure, Signals Further Deregulatory Steps Ahead &nbsp;&nbsp; JD Supra",
+        "publishedAt": "Thu, 15 Oct 2026 17:34:37 GMT",
+        "source": "JD Supra",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVnRyT1NySXc0VXFPSzRIbi1KUUQwdHZoQnp3ckpXZXQ2b3dSRDdzUi1vNm1kczl4Wm5qSktfclE5bmFFUjFvdG5OZm9BNHhZOWI5R2pKU3doRnppRFNJY1ZmYVQyUUpWVGM2WmpIT3JCZnRvY3k5SFRZSmVac1ZkdkxaVEo2OGE5?oc=5",
+        "score": 0
+      },
+      {
+        "title": "Our latest views on the major central banks - ING Think",
+        "summary": "Our latest views on the major central banks &nbsp;&nbsp; ING Think",
+        "publishedAt": "Thu, 15 Oct 2026 20:05:05 GMT",
+        "source": "ING Think",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOenptUFo4NzZwZGRDNW83d3hoN1BGU1NSN01qMElCcFVBNURwaEVhRmk3c2luRElrc1l3TEFqVi1pYXJKWE9JMkdrNFh4YVhmTC15X3BVQUpac2xzSFlqVTd1amV2ejRKX01qVXQ4UC1ZaVRiSWJuOVdxc0hfcURlTHBMeXZCNjBKYjgyRTVWdUZRZw?oc=5",
         "score": 0
       }
     ]
