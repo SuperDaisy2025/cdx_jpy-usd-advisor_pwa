@@ -1,5 +1,5 @@
 {
-  "generatedAtJst": "2026-10-16 10:18",
+  "generatedAtJst": "2026-10-17 10:17",
   "startingCapitalJpy": 1000000,
   "policy": {
     "basePair": "USD/JPY",
@@ -14,7 +14,7 @@
     "directionLabel": "中立",
     "confidence": 0.51,
     "summary": "中立を基本シナリオにします。トレンド、IMM、ニュースが拮抗しているため、最大50%の制約内でも動かす量は抑えています。",
-    "score": 0.032,
+    "score": 0.039,
     "reasons": [
       "直近のUSD/JPYは157.690で、1つ前の観測値からの勢いを0.00として評価しました。",
       "IMMの円ポジションは-84,200で、前週比の変化を0.09として売買比率に反映しました。",
@@ -114,22 +114,22 @@
   "news": {
     "provider": "Google News RSS",
     "summary": "ニュースは中立寄りです。",
-    "score": 0,
+    "score": 0.036,
     "items": [
       {
-        "title": "The Decentralized Structure of the Federal Reserve System - U.S. Government Accountability Office (.gov)",
-        "summary": "The Decentralized Structure of the Federal Reserve System &nbsp;&nbsp; U.S. Government Accountability Office (.gov)",
-        "publishedAt": "Wed, 14 Oct 2026 03:04:01 GMT",
-        "source": "U.S. Government Accountability Office (.gov)",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE52OE45UGw5Rlc0S0tFd3VjSVczcUptMXZyb196YVFicDF1NTNVZXgyU1pVR0FHR3NUcHAwWWIycnE4d0Vsb0s4MVlSbEZ0NlhFQ3dHa3NwdEVXMnJvSkR2TzhKUW9vVVF0cEtRVl9oSTdJQW9BeDlFdmppSQ?oc=5",
+        "title": "Fed chair Warsh says price stability is key but shies away from signals about rates - PBS",
+        "summary": "Fed chair Warsh says price stability is key but shies away from signals about rates &nbsp;&nbsp; PBS",
+        "publishedAt": "Fri, 16 Oct 2026 17:21:26 GMT",
+        "source": "PBS",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWGRPeVhZRldYUzJNQ3NTYzB0eW5LVlVHMThkMEMxZ3VqUVlVNkN4WVNHTHBtZ2lBeTJ6alU2Y1NmN25kTGw5am5jSFk4Ul8xcHFhVTRJYWtCV3VWMi14TW5EYkloYm9GQlBwVGFnX0hmOTkyUFctQl9oQW92ZHRwSzFqaHhfSmpsZjdKejE3WkVXU1lKR3F1RXNnamlSUWlJdUpnZW8tUGUyXzJCYU5PRGZneEpaMkhPYWt4btIBwgFBVV95cUxNN1JwTW9kMkgtTnp1QWNuS2ZkTXNuWWRncV9MWDFqRFAzYWRDdk50anp1WVJ4OVE0UnRtTko0dE1ORnh1cFhMUmFBSXZRSzllMlR3QXlQMDlxa2tQanVGdUlGQnJUTURuM0J0Um5MbTVtWlg4SXJHS2d2SHhESzR1b3BFNElrWXBXWlM0R3BoOG5lcmV3NWNmQ3NfdnRubHpUVzMxd0ViclBmQk9DbWwwTlhJWV9NQ2VNTVphcVR6QjhKQQ?oc=5",
         "score": 0
       },
       {
-        "title": "Fed's Goolsbee on inflation: discouraging, but still some optimism - Reuters",
-        "summary": "Fed's Goolsbee on inflation: discouraging, but still some optimism &nbsp;&nbsp; Reuters",
-        "publishedAt": "Thu, 15 Oct 2026 23:49:44 GMT",
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcXR1ek9vWXFJUnhjSUhmTnNnd0o1MERLZ3Q5OWxEX2J4UERIT1dGNWMwaVI4MkpiajNzZmprSE1vZWRaSDZ4RjlkSjFlSG1FSWxYT2JkSVNSaVp5alFfbGQ1RHd0WHdaeGw2bU1aaHQ2cmJhSnM4STd2cS1odWZreU1nU0hqYm5WeVJkUmdxMmg2NFRiMkFmMkRtMWQxTWd5SHRNM2FR?oc=5",
+        "title": "Warsh Vows to Tame Inflation as A.I. Delivers ‘Shock’ to Economy - The New York Times",
+        "summary": "Warsh Vows to Tame Inflation as A.I. Delivers ‘Shock’ to Economy &nbsp;&nbsp; The New York Times",
+        "publishedAt": "Fri, 16 Oct 2026 18:06:41 GMT",
+        "source": "The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE92Rk9VSzVNVHNBSmk1b3BzMTQyemFQdHNiSWVQYU1uVVJ1cEd4Y1lJTVlqZUU2TVNkb2drcEg5X1FxN2E1RWdKMjN6QmZwOTR4U0ZGay1yNXBxa1BaemN2ZXh3QkQ5UlV3MnFDSVBLS2k3REJqelluUnNB?oc=5",
         "score": 0
       },
       {
@@ -141,19 +141,19 @@
         "score": 0
       },
       {
-        "title": "Fed Moves to Overhaul Bank Supervision Structure, Signals Further Deregulatory Steps Ahead - JD Supra",
-        "summary": "Fed Moves to Overhaul Bank Supervision Structure, Signals Further Deregulatory Steps Ahead &nbsp;&nbsp; JD Supra",
-        "publishedAt": "Thu, 15 Oct 2026 17:34:37 GMT",
-        "source": "JD Supra",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVnRyT1NySXc0VXFPSzRIbi1KUUQwdHZoQnp3ckpXZXQ2b3dSRDdzUi1vNm1kczl4Wm5qSktfclE5bmFFUjFvdG5OZm9BNHhZOWI5R2pKU3doRnppRFNJY1ZmYVQyUUpWVGM2WmpIT3JCZnRvY3k5SFRZSmVac1ZkdkxaVEo2OGE5?oc=5",
-        "score": 0
+        "title": "EXCLUSIVE: Fed's Daly says rate hikes likely needed, but not urgently - Reuters",
+        "summary": "EXCLUSIVE: Fed's Daly says rate hikes likely needed, but not urgently &nbsp;&nbsp; Reuters",
+        "publishedAt": "Wed, 14 Oct 2026 21:40:00 GMT",
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMndHODQzSE53STRuTnVib1hVbS02ZEtKUEFmQnlqNDRFTXVHSVRxMFh1YU9IN0lLRTlPbEZsOXhHQllMczhyQ0llSHFoX3RuQTdHNUMtQUszZlZEcWJYMDRjMDAxNG5hUGNxMXZHejlZbFg5STlZekM0Vy1VeldsVGdvRXU5SVZmZTAyVTRkT0NZOHptamRHMFVqdzdBUmNONTV2eWJzaXc?oc=5",
+        "score": 0.18
       },
       {
-        "title": "Our latest views on the major central banks - ING Think",
-        "summary": "Our latest views on the major central banks &nbsp;&nbsp; ING Think",
-        "publishedAt": "Thu, 15 Oct 2026 20:05:05 GMT",
-        "source": "ING Think",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOenptUFo4NzZwZGRDNW83d3hoN1BGU1NSN01qMElCcFVBNURwaEVhRmk3c2luRElrc1l3TEFqVi1pYXJKWE9JMkdrNFh4YVhmTC15X3BVQUpac2xzSFlqVTd1amV2ejRKX01qVXQ4UC1ZaVRiSWJuOVdxc0hfcURlTHBMeXZCNjBKYjgyRTVWdUZRZw?oc=5",
+        "title": "Federal Reserve Bank of Philadelphia president visits Penn College [2026-10-14] - Pennsylvania College of Technology",
+        "summary": "Federal Reserve Bank of Philadelphia president visits Penn College [2026-10-14] &nbsp;&nbsp; Pennsylvania College of Technology",
+        "publishedAt": "Wed, 14 Oct 2026 14:10:11 GMT",
+        "source": "Pennsylvania College of Technology",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRldzSXBqN3R6NnlIVlJRNzdKSUczLTNrSEtGMU55c3J5bFFPTG1jaFlOdk5kVXc5c2RuYnREUDBwWkR6cm1LWEJfdEZmQ09ORmxOeko5ZE5Yai1wY29OeEFOencxeDhzMUtILUJscHllbE1kQnV5Njk5RVdHSWpraHpKV3FOVHpFeXl2Y1dnUVBlbVlHOWJPOEc4VUFxRElDU29KdTE2SXlyaGszQ1NjVw?oc=5",
         "score": 0
       }
     ]
