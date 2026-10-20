@@ -1,5 +1,5 @@
 {
-  "generatedAtJst": "2026-10-19 10:12",
+  "generatedAtJst": "2026-10-20 10:47",
   "startingCapitalJpy": 1000000,
   "policy": {
     "basePair": "USD/JPY",
@@ -14,7 +14,7 @@
     "directionLabel": "中立",
     "confidence": 0.51,
     "summary": "中立を基本シナリオにします。トレンド、IMM、ニュースが拮抗しているため、最大50%の制約内でも動かす量は抑えています。",
-    "score": 0.039,
+    "score": 0.032,
     "reasons": [
       "直近のUSD/JPYは157.690で、1つ前の観測値からの勢いを0.00として評価しました。",
       "IMMの円ポジションは-84,200で、前週比の変化を0.09として売買比率に反映しました。",
@@ -114,8 +114,24 @@
   "news": {
     "provider": "Google News RSS",
     "summary": "ニュースは中立寄りです。",
-    "score": 0.036,
+    "score": 0,
     "items": [
+      {
+        "title": "The case for an Elastic Reserves system: Recommendations for the Federal Reserve’s balance sheet review - Brookings",
+        "summary": "The case for an Elastic Reserves system: Recommendations for the Federal Reserve’s balance sheet review &nbsp;&nbsp; Brookings",
+        "publishedAt": "Mon, 19 Oct 2026 12:04:36 GMT",
+        "source": "Brookings",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMzFvQUhqcS1rZG14N211bkdpaFBMcHdIN2pteGdOd1IxMGdhWlNYcEZLci1HNlRNcHUza0J6ZEVZeDRMVVBTNDlVa25tZ1BQNm1GY3hRaFRfQmdmYkM0eXc2Sl81ODJGQ3NBVXhUWWV2Qm9iOWluZ19LaEpOSHVZZQ?oc=5",
+        "score": 0
+      },
+      {
+        "title": "Richmond Fed Employees Receive Prestigious Taylor Award - Federal Reserve Bank of Richmond",
+        "summary": "Richmond Fed Employees Receive Prestigious Taylor Award &nbsp;&nbsp; Federal Reserve Bank of Richmond",
+        "publishedAt": "Mon, 19 Oct 2026 12:39:40 GMT",
+        "source": "Federal Reserve Bank of Richmond",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzVkFmeUx5dVNBZGEyd0staHZSeWg1bzhrcVZMVUdrNC1vREczb2Z6ZUYwaGV2V1FpLS1iNHFhZGtLNHRfSWgwc3B0MkVEMmZSNXgtb0NFOXdqbXlhMEFZYl9QdVhvTWUzX3ZCV1BRRll0N3JHQ3BDM01NT29hQU0?oc=5",
+        "score": 0
+      },
       {
         "title": "Fed chair Warsh says price stability is key but shies away from signals about rates - PBS",
         "summary": "Fed chair Warsh says price stability is key but shies away from signals about rates &nbsp;&nbsp; PBS",
@@ -125,12 +141,12 @@
         "score": 0
       },
       {
-        "title": "EXCLUSIVE: Fed's Daly says rate hikes likely needed, but not urgently - Reuters",
-        "summary": "EXCLUSIVE: Fed's Daly says rate hikes likely needed, but not urgently &nbsp;&nbsp; Reuters",
-        "publishedAt": "Wed, 14 Oct 2026 21:40:00 GMT",
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMndHODQzSE53STRuTnVib1hVbS02ZEtKUEFmQnlqNDRFTXVHSVRxMFh1YU9IN0lLRTlPbEZsOXhHQllMczhyQ0llSHFoX3RuQTdHNUMtQUszZlZEcWJYMDRjMDAxNG5hUGNxMXZHejlZbFg5STlZekM0Vy1VeldsVGdvRXU5SVZmZTAyVTRkT0NZOHptamRHMFVqdzdBUmNONTV2eWJzaXc?oc=5",
-        "score": 0.18
+        "title": "About the Fed - Federal Reserve (.gov)",
+        "summary": "About the Fed &nbsp;&nbsp; Federal Reserve (.gov)",
+        "publishedAt": "Wed, 17 Jun 2026 07:00:00 GMT",
+        "source": "Federal Reserve (.gov)",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3X3g2ZkN1N2x6SGdZZFdUU2ZiN214VXRFS3h5ZmRZWExuejFRemx4R3FkZXhVWTdhWG0yVGpvbm9tRS0wZ05xV0VVMU92d0V2ZVlVUlE4TG5HZw?oc=5",
+        "score": 0
       },
       {
         "title": "Federal Reserve Bank of Philadelphia president visits Penn College [2026-10-14] - Pennsylvania College of Technology",
@@ -138,22 +154,6 @@
         "publishedAt": "Wed, 14 Oct 2026 14:10:11 GMT",
         "source": "Pennsylvania College of Technology",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRldzSXBqN3R6NnlIVlJRNzdKSUczLTNrSEtGMU55c3J5bFFPTG1jaFlOdk5kVXc5c2RuYnREUDBwWkR6cm1LWEJfdEZmQ09ORmxOeko5ZE5Yai1wY29OeEFOencxeDhzMUtILUJscHllbE1kQnV5Njk5RVdHSWpraHpKV3FOVHpFeXl2Y1dnUVBlbVlHOWJPOEc4VUFxRElDU29KdTE2SXlyaGszQ1NjVw?oc=5",
-        "score": 0
-      },
-      {
-        "title": "Muted Third Quarter Farm Lending Activity - Kansas City - Federal Reserve",
-        "summary": "Muted Third Quarter Farm Lending Activity &nbsp;&nbsp; Kansas City - Federal Reserve",
-        "publishedAt": "Wed, 14 Oct 2026 07:00:00 GMT",
-        "source": "Kansas City - Federal Reserve",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdFZoTkwteTh1UExnZFF3bzk0YXRIMUlYMDVwblpvR2JuQXhaNFlDXzN5am1lTUVjdzJob3p4dElRMzNDSlh1QmQzV1hoN0NYR3d6UktRZHZDcFRYSERmRmVFUG5xUDZVTmFRSi1aUng3TVFZU2IteEpqWEpBQnJWQTFKeVdtYzZXdjFLMWw0SWoxQlBFTzRGcjdTUUZjZ0FJck03WG8zNnMzNWxLZGFRUVZ4V3MxeDZqZkgxMk4tSGc5bnRrX0FYOHNOYlY?oc=5",
-        "score": 0
-      },
-      {
-        "title": "Federal Reserve System Conference on Investing in Rural America - Federal Reserve Bank of New York",
-        "summary": "Federal Reserve System Conference on Investing in Rural America &nbsp;&nbsp; Federal Reserve Bank of New York",
-        "publishedAt": "Wed, 30 Sep 2026 07:00:00 GMT",
-        "source": "Federal Reserve Bank of New York",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQS0gwR29wMzFJb3ozRlQ0MElzMFVmUkFjcnA4cTgwUkx0bW9zcW9OUFVYTGVUakRId29XZUdRQUJoU29vYWJTOHhrcV9kVGtocl9CazUzcjlLNGVEWmF3clpkQjhESTBpcXBJYUtfWWJwT0FVNmZ2YTVPcFREc0JwelNWTQ?oc=5",
         "score": 0
       }
     ]
