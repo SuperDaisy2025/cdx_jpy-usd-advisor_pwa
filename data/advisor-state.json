@@ -1,5 +1,5 @@
 {
-  "generatedAtJst": "2026-10-21 10:32",
+  "generatedAtJst": "2026-10-22 10:28",
   "startingCapitalJpy": 1000000,
   "policy": {
     "basePair": "USD/JPY",
@@ -14,7 +14,7 @@
     "directionLabel": "中立",
     "confidence": 0.51,
     "summary": "中立を基本シナリオにします。トレンド、IMM、ニュースが拮抗しているため、最大50%の制約内でも動かす量は抑えています。",
-    "score": 0.032,
+    "score": 0.039,
     "reasons": [
       "直近のUSD/JPYは157.690で、1つ前の観測値からの勢いを0.00として評価しました。",
       "IMMの円ポジションは-84,200で、前週比の変化を0.09として売買比率に反映しました。",
@@ -114,14 +114,14 @@
   "news": {
     "provider": "Google News RSS",
     "summary": "ニュースは中立寄りです。",
-    "score": 0,
+    "score": 0.036,
     "items": [
       {
-        "title": "Fed to skip October but raise rates again in December, nearly all economists say - Reuters",
-        "summary": "Fed to skip October but raise rates again in December, nearly all economists say &nbsp;&nbsp; Reuters",
-        "publishedAt": "Tue, 20 Oct 2026 13:27:27 GMT",
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZUFYOUZFZXZ4UWJSN1J6RkRxM1lkdGJsUFZRZ2puQkFnRk9rczVQZF9iUS12amVsUl9ESnA4MmNlUmFuVnBVY3BoeVZoVWx1dmwtSWdCa2tGUUlXeXdWR0o0U2o5NHdUend5d2o3c1NoUlZTQUNyWFFEalBHY25QMVptcnFoRnZiSk1JVDFyb1VFYkg0NGRJaXhWemlUY3gxX3YxeVh0YkNMSHNQU21pWkc0OVQ?oc=5",
+        "title": "Fed, FDIC extend deadline for comments on extension of credit to bank officials - Consumer Finance Monitor",
+        "summary": "Fed, FDIC extend deadline for comments on extension of credit to bank officials &nbsp;&nbsp; Consumer Finance Monitor",
+        "publishedAt": "Wed, 21 Oct 2026 18:09:02 GMT",
+        "source": "Consumer Finance Monitor",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQlFOLV9RSjdoakhRZGJ6bFI2MC1SSTZiQUpuVFZhWTFyVXJ2Z1gtRWVSNUZaRWRpSE4wUU5tdElENlFnNG5IOHliUkIwRFAtUDg3YWFGZ21tTmN2eVZxQWNsRWZkUW1IVzRRbjZ6djFFR2RST2pIaEVxVWlfZHlwMWxTclJhOUYwUF9OaDNkVkVlZ0NJaHV4cl9LVDcyUnFXdExmeWc2RlNRb29qR1k4Q1ozS2ZsSXRIMGxBbTRZYnZXQTZpMDJTNw?oc=5",
         "score": 0
       },
       {
@@ -133,28 +133,28 @@
         "score": 0
       },
       {
-        "title": "Bank of America says 1% increase to interest rate would add $95 billion in national debt costs - Fortune",
-        "summary": "Bank of America says 1% increase to interest rate would add $95 billion in national debt costs &nbsp;&nbsp; Fortune",
-        "publishedAt": "Tue, 20 Oct 2026 13:04:00 GMT",
-        "source": "Fortune",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWDk4ZC1wYS13eklDXzVoTC1MLTBiMVdjbFE5ZG5UVFlpRVQ4WXllalJ4aFNPcmVmSzhkR25nMVF1VlRSU29uQ1hEb2dETkVHU3VSN3RuMkpSelp5cjA4OGNJa1h4ZGdQbVlrOHo4eklqSlZ6OGlvNG1SMFpBWTRHNXlHMkhNaWtwZFYyRUlIaw?oc=5",
+        "title": "Fed to skip October but raise rates again in December, nearly all economists say - Reuters",
+        "summary": "Fed to skip October but raise rates again in December, nearly all economists say &nbsp;&nbsp; Reuters",
+        "publishedAt": "Tue, 20 Oct 2026 13:27:27 GMT",
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZUFYOUZFZXZ4UWJSN1J6RkRxM1lkdGJsUFZRZ2puQkFnRk9rczVQZF9iUS12amVsUl9ESnA4MmNlUmFuVnBVY3BoeVZoVWx1dmwtSWdCa2tGUUlXeXdWR0o0U2o5NHdUend5d2o3c1NoUlZTQUNyWFFEalBHY25QMVptcnFoRnZiSk1JVDFyb1VFYkg0NGRJaXhWemlUY3gxX3YxeVh0YkNMSHNQU21pWkc0OVQ?oc=5",
         "score": 0
       },
       {
-        "title": "Japan needs higher interest rates - The Japan Times",
-        "summary": "Japan needs higher interest rates &nbsp;&nbsp; The Japan Times",
-        "publishedAt": "Tue, 20 Oct 2026 05:51:00 GMT",
-        "source": "The Japan Times",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUU1PMkhzU0lMLXVqWlhzQWQ1d3Q5VHJjTTJpZnV5OEZVaDU5RUJPWjNheFMxbVRKR2NTR1FBNjRTcUFnZUJSc3I2cHpRbGdfSUZiWXQ4bF9tdU5JUzI1ZVhUQ1BrdktMR09DTU9SSVlJVmtoU0FLMVhoTkdkSXpnbXM0MVg?oc=5",
+        "title": "A wave of new banks is about to shake up a normally staid industry - American Banker",
+        "summary": "A wave of new banks is about to shake up a normally staid industry &nbsp;&nbsp; American Banker",
+        "publishedAt": "Wed, 21 Oct 2026 11:30:00 GMT",
+        "source": "American Banker",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbThwak1pd1NlbUxYQVhkV2JIYlFsV0VwcWdQMk0zejh6TFpmeUI1QTRZTF9ObUJiTWhYSF92bGhfNGMyemNLSUpKYmZKNy1sbXFuNnBzNnVqNzF4c2ZQMEpEcWhBQ3ZRSjZfcFJzeExqTWVmUXNpdEJoUGt6aWVlTDVzTDJkSEh2eWlSMDFVbGplRl9mUVE3Tkc3eDhza0MxcXVCaFk3YVg?oc=5",
         "score": 0
       },
       {
-        "title": "About the Fed - Federal Reserve (.gov)",
-        "summary": "About the Fed &nbsp;&nbsp; Federal Reserve (.gov)",
-        "publishedAt": "Wed, 17 Jun 2026 07:00:00 GMT",
-        "source": "Federal Reserve (.gov)",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3X3g2ZkN1N2x6SGdZZFdUU2ZiN214VXRFS3h5ZmRZWExuejFRemx4R3FkZXhVWTdhWG0yVGpvbm9tRS0wZ05xV0VVMU92d0V2ZVlVUlE4TG5HZw?oc=5",
-        "score": 0
+        "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes - CNBC",
+        "summary": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes &nbsp;&nbsp; CNBC",
+        "publishedAt": "Tue, 20 Oct 2026 17:50:11 GMT",
+        "source": "CNBC",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQThhSGdLckY3MFRuaDNSQXFrSS1WWmQ1b29MNXN6a3ZJUDgtOWRPNEEybjdWeUdYal9RWm9XSk9Od2RZeV91dDAyZmtUTE9kN0R5Ul91bUFlRzVudG5TcmhfdFhuUURUbV85dHV6MWsyTTNURWRwZl9lVVJiOE9zTlNiT2xwVUROekxiWTRWQk_SAZYBQVVfeXFMTTc2a08zNV9CdTlVWGRzcWNIX0E3Qk9idS1GWDM5ejVhQ05Wa0Jvb2dhRUdKVUNQcHJsTklHWl84RjJQY2ZINk9HVEdzSmRhdWtYRzlxNFhjUW5scmlxZ1EwUHRDeVRqVHQ3TkpEOXVoSXRPRWlpeUpWcllkWFpuVGIyQXJ6ZGI3T28yRi1jTENIbGlRUVBB?oc=5",
+        "score": 0.18
       }
     ]
   },
