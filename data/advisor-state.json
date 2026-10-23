@@ -1,5 +1,5 @@
 {
-  "generatedAtJst": "2026-10-22 10:28",
+  "generatedAtJst": "2026-10-23 10:28",
   "startingCapitalJpy": 1000000,
   "policy": {
     "basePair": "USD/JPY",
@@ -14,7 +14,7 @@
     "directionLabel": "中立",
     "confidence": 0.51,
     "summary": "中立を基本シナリオにします。トレンド、IMM、ニュースが拮抗しているため、最大50%の制約内でも動かす量は抑えています。",
-    "score": 0.039,
+    "score": 0.032,
     "reasons": [
       "直近のUSD/JPYは157.690で、1つ前の観測値からの勢いを0.00として評価しました。",
       "IMMの円ポジションは-84,200で、前週比の変化を0.09として売買比率に反映しました。",
@@ -114,14 +114,30 @@
   "news": {
     "provider": "Google News RSS",
     "summary": "ニュースは中立寄りです。",
-    "score": 0.036,
+    "score": 0,
     "items": [
       {
-        "title": "Fed, FDIC extend deadline for comments on extension of credit to bank officials - Consumer Finance Monitor",
-        "summary": "Fed, FDIC extend deadline for comments on extension of credit to bank officials &nbsp;&nbsp; Consumer Finance Monitor",
-        "publishedAt": "Wed, 21 Oct 2026 18:09:02 GMT",
-        "source": "Consumer Finance Monitor",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQlFOLV9RSjdoakhRZGJ6bFI2MC1SSTZiQUpuVFZhWTFyVXJ2Z1gtRWVSNUZaRWRpSE4wUU5tdElENlFnNG5IOHliUkIwRFAtUDg3YWFGZ21tTmN2eVZxQWNsRWZkUW1IVzRRbjZ6djFFR2RST2pIaEVxVWlfZHlwMWxTclJhOUYwUF9OaDNkVkVlZ0NJaHV4cl9LVDcyUnFXdExmeWc2RlNRb29qR1k4Q1ozS2ZsSXRIMGxBbTRZYnZXQTZpMDJTNw?oc=5",
+        "title": "Tenth District Manufacturing Activity Increased Steadily in October - Kansas City Fed",
+        "summary": "Tenth District Manufacturing Activity Increased Steadily in October &nbsp;&nbsp; Kansas City Fed",
+        "publishedAt": "Thu, 22 Oct 2026 19:41:04 GMT",
+        "source": "Kansas City Fed",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVS02d2htNGlzbndWRVpjRVJYa2xwZEhRRHhaQk5VNENjOGVGRmNSaC1kYW80VTZhRlFWRnZId1Jad1lOUDBHbU5IeGVxa28wZDV1aTZ5bTYtX3FPVzJHNXNOTzNUNGdIbGh1RVZSSmRIN1BLcGtCOUFicHNHN1lONUFONjBtWVJLZFJCVU1WdVlLOU5hdk9wb28xZVNMYTlmaHhtT0VkQUJEMjVLanltcW1ad21oR0s5dHA2ekhXRWMzcVotU3FUQUJQcHY?oc=5",
+        "score": 0
+      },
+      {
+        "title": "Can New England’s diminished manufacturing sector see growth again? - Federal Reserve Bank of Boston",
+        "summary": "Can New England’s diminished manufacturing sector see growth again? &nbsp;&nbsp; Federal Reserve Bank of Boston",
+        "publishedAt": "Thu, 22 Oct 2026 13:29:51 GMT",
+        "source": "Federal Reserve Bank of Boston",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPV0lyeUFrcFlhYUhIZWcyZDR3VWtVeU1TT2R5OWlEUEF5Nl9Bc1pHQTRDOWlsSDFQR3VLQlc5ckJhZ2VkZk9fTy1QVnJmcDdoQmU2YnRERXFNa2tYb1VWZjR6VGF4MkpLMUllX3FtRU1SY2dEMDRTb3V0Yjc4a0ZINEhzSUdLdlpjNVlKVjhGMGhKMU8tNk5lR3czc0ZpUzctS1lPbWstVE5ZNldfUlVzYzNtdTBudzN3VmdZcUV3V29ldThUZmk5OFdaTG9zdzFrWk1KanMwQTcxN1Etek4tRGZVZWJ1N0kzT1RjMm15dw?oc=5",
+        "score": 0
+      },
+      {
+        "title": "The Fed Is Raising Rates Again: Here's What It Means for Savers | Banking Advice | U.S. News - U.S. News & World Report",
+        "summary": "The Fed Is Raising Rates Again: Here's What It Means for Savers | Banking Advice | U.S. News &nbsp;&nbsp; U.S. News & World Report",
+        "publishedAt": "Thu, 22 Oct 2026 15:36:24 GMT",
+        "source": "U.S. News & World Report",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZHZobHBQQjU1SWZtRk52M1Z6SEVfSU1xZFlaNXdtYkxEMFlaVHhDb0FfQ2VWOTYtMzFmMmVteEJraS1mU3dqMTVFVFdHSExKQmhRNEJpOGVyUTc2SXlDVGh6QndjVXBDTENnRW92eVhIcG5CZjk2RExDdWJ3TkRPWG9ZV0ZnT0JYTkYzVjdR?oc=5",
         "score": 0
       },
       {
@@ -139,22 +155,6 @@
         "source": "Reuters",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZUFYOUZFZXZ4UWJSN1J6RkRxM1lkdGJsUFZRZ2puQkFnRk9rczVQZF9iUS12amVsUl9ESnA4MmNlUmFuVnBVY3BoeVZoVWx1dmwtSWdCa2tGUUlXeXdWR0o0U2o5NHdUend5d2o3c1NoUlZTQUNyWFFEalBHY25QMVptcnFoRnZiSk1JVDFyb1VFYkg0NGRJaXhWemlUY3gxX3YxeVh0YkNMSHNQU21pWkc0OVQ?oc=5",
         "score": 0
-      },
-      {
-        "title": "A wave of new banks is about to shake up a normally staid industry - American Banker",
-        "summary": "A wave of new banks is about to shake up a normally staid industry &nbsp;&nbsp; American Banker",
-        "publishedAt": "Wed, 21 Oct 2026 11:30:00 GMT",
-        "source": "American Banker",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbThwak1pd1NlbUxYQVhkV2JIYlFsV0VwcWdQMk0zejh6TFpmeUI1QTRZTF9ObUJiTWhYSF92bGhfNGMyemNLSUpKYmZKNy1sbXFuNnBzNnVqNzF4c2ZQMEpEcWhBQ3ZRSjZfcFJzeExqTWVmUXNpdEJoUGt6aWVlTDVzTDJkSEh2eWlSMDFVbGplRl9mUVE3Tkc3eDhza0MxcXVCaFk3YVg?oc=5",
-        "score": 0
-      },
-      {
-        "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes - CNBC",
-        "summary": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes &nbsp;&nbsp; CNBC",
-        "publishedAt": "Tue, 20 Oct 2026 17:50:11 GMT",
-        "source": "CNBC",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQThhSGdLckY3MFRuaDNSQXFrSS1WWmQ1b29MNXN6a3ZJUDgtOWRPNEEybjdWeUdYal9RWm9XSk9Od2RZeV91dDAyZmtUTE9kN0R5Ul91bUFlRzVudG5TcmhfdFhuUURUbV85dHV6MWsyTTNURWRwZl9lVVJiOE9zTlNiT2xwVUROekxiWTRWQk_SAZYBQVVfeXFMTTc2a08zNV9CdTlVWGRzcWNIX0E3Qk9idS1GWDM5ejVhQ05Wa0Jvb2dhRUdKVUNQcHJsTklHWl84RjJQY2ZINk9HVEdzSmRhdWtYRzlxNFhjUW5scmlxZ1EwUHRDeVRqVHQ3TkpEOXVoSXRPRWlpeUpWcllkWFpuVGIyQXJ6ZGI3T28yRi1jTENIbGlRUVBB?oc=5",
-        "score": 0.18
       }
     ]
   },
