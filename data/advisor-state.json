@@ -1,5 +1,5 @@
 {
-  "generatedAtJst": "2026-10-26 10:07",
+  "generatedAtJst": "2026-10-27 11:02",
   "startingCapitalJpy": 1000000,
   "policy": {
     "basePair": "USD/JPY",
@@ -14,7 +14,7 @@
     "directionLabel": "中立",
     "confidence": 0.51,
     "summary": "中立を基本シナリオにします。トレンド、IMM、ニュースが拮抗しているため、最大50%の制約内でも動かす量は抑えています。",
-    "score": 0.039,
+    "score": 0.032,
     "reasons": [
       "直近のUSD/JPYは157.690で、1つ前の観測値からの勢いを0.00として評価しました。",
       "IMMの円ポジションは-84,200で、前週比の変化を0.09として売買比率に反映しました。",
@@ -114,46 +114,46 @@
   "news": {
     "provider": "Google News RSS",
     "summary": "ニュースは中立寄りです。",
-    "score": 0.036,
+    "score": 0,
     "items": [
-      {
-        "title": "US Federal Reserve to Raise Rates Twice More in 2026, Says Bank of America - Morningstar",
-        "summary": "US Federal Reserve to Raise Rates Twice More in 2026, Says Bank of America &nbsp;&nbsp; Morningstar",
-        "publishedAt": "Fri, 23 Oct 2026 09:17:11 GMT",
-        "source": "Morningstar",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWDhMcEtDZmhoQnJMSVBVUzFaWVBqeUczRlRZekhZc1RpYWU0ajVLWlNscVRjQ2UzSS1ZVFRsd3BsazVuR2FtVG5PQVQwRW8zY1FhVzlJeE9SVWEtS1VnZzZROWR0dXdNTVQ1X2pMTDZkdjBleGE0akJRSVpKTXRaWTdfTUJhaktpOFRlaHY5UHdtLUZMOE5HMXR2YkpGODBDU1RoaHFlcGFzeEpJMnc?oc=5",
-        "score": 0
-      },
-      {
-        "title": "Take Five: AI trade meets the Fed - Reuters",
-        "summary": "Take Five: AI trade meets the Fed &nbsp;&nbsp; Reuters",
-        "publishedAt": "Fri, 23 Oct 2026 22:22:58 GMT",
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOWlIdzFDR0xNQ01RZzhsaXVtMXYtbWU3U3RvejE4NzV3TFZPXzI5SUpGTG9jLUxxbEhiNGFVMTZyUU84MVhTZGJaWkxtZ2cwaG9OTlJiYmFLTzFLLXZFQURzNUE5M05Lcjc5UXQ4Q1RIaVNWOFZlSlA2MTBLUFYtSVdLcGI3V3lCN216QQ?oc=5",
-        "score": 0
-      },
       {
         "title": "Week Ahead for FX, Bonds: Decisions From Fed, Other Central Banks in Focus - WSJ",
         "summary": "Week Ahead for FX, Bonds: Decisions From Fed, Other Central Banks in Focus &nbsp;&nbsp; WSJ",
-        "publishedAt": "Fri, 23 Oct 2026 16:23:00 GMT",
+        "publishedAt": "Mon, 26 Oct 2026 20:55:42 GMT",
         "source": "WSJ",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZl9NRnpPb3laN0tSUlB6NFUwekhQWkUyNG11ck5jQmxHZUxTZl82RzJoVmlLMzlQY2JCS1BuTC1mMDlZYjdXVHFFeTgxTXJ5eGJZazZOcGdLaDg4RFhvaDNidXhySlVzRFBTUmoyeTJ4YjYtMUR2M0RYT1M2WVZSRTIxYlNQQjk2RGJmWmRTMml5MEoyV1h5bHpSQ2dFaExzZVJmU1N3djBENFhM?oc=5",
         "score": 0
       },
       {
-        "title": "Fed to lead trio in hawkish rate pause - Taipei Times",
-        "summary": "Fed to lead trio in hawkish rate pause &nbsp;&nbsp; Taipei Times",
-        "publishedAt": "Sun, 25 Oct 2026 16:00:00 GMT",
-        "source": "Taipei Times",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5EUHdVMnVfV25ZWllYaGwtdW5vUk1ZNE1PazVNRXotdHB4TTJFbUZBbERSczZRZnBfWTd0el9mWFhhb3laWUdHYk5tcVM1WFFHN0NaZEJhTE03UmlNVU9IU1hCZnBaY2FPSFdldUxPWWFhVnpFamc?oc=5",
-        "score": 0.18
+        "title": "New England’s Rural Economy: An Overview - Federal Reserve Bank of Boston",
+        "summary": "New England’s Rural Economy: An Overview &nbsp;&nbsp; Federal Reserve Bank of Boston",
+        "publishedAt": "Mon, 26 Oct 2026 18:25:28 GMT",
+        "source": "Federal Reserve Bank of Boston",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYnVZQTF3eXRJaFlmd0l5S0o4Q2NwMmN6ZWRLSjVrQ29aanlIM3RiaWNsMllxcmhLaWZyNWkxaUF2MFp6NUIyZmIyUHcyT0VLNjZvUmtkX3Bid1dhTUxsaF9MTGhybklROF9jWnVrZDJWTHkzZ1dkTW5OWjNYNl9XLUNHVlF3UnRzdklYOHRSSzVIX0NjVUpvLWNSM2YzWWNxckhmQnk5c1RVLWpJU2ZmbG1XMm1zRHdlMlpmS1ZzSGxQdw?oc=5",
+        "score": 0
       },
       {
-        "title": "About the Fed - Federal Reserve (.gov)",
-        "summary": "About the Fed &nbsp;&nbsp; Federal Reserve (.gov)",
-        "publishedAt": "Wed, 17 Jun 2026 07:00:00 GMT",
-        "source": "Federal Reserve (.gov)",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3X3g2ZkN1N2x6SGdZZFdUU2ZiN214VXRFS3h5ZmRZWExuejFRemx4R3FkZXhVWTdhWG0yVGpvbm9tRS0wZ05xV0VVMU92d0V2ZVlVUlE4TG5HZw?oc=5",
+        "title": "Will the world's central banks rase interest rates this week? - Marketplace.org",
+        "summary": "Will the world's central banks rase interest rates this week? &nbsp;&nbsp; Marketplace.org",
+        "publishedAt": "Mon, 26 Oct 2026 21:00:44 GMT",
+        "source": "Marketplace.org",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZ1JhcWlaWnNkN0FLREdlY2d3a0FRaXMtN244UXY2NXpNdGdDblFfajA2OV90ZFpXUTMxYzhrRjQyZEpwRmh2ekdwRFdzWTJyeUJwN2NpM01icWhiWlNFUzRBQi05WVo3MTFOR1ZkS2lwLXpxcmNnd0d4YVBLd0dmSGNnc284SFNNS3hDTElqNkNXZUlERkE1NW9ZUk9OcTRMTFZ5bUtFOHRoSTJf?oc=5",
+        "score": 0
+      },
+      {
+        "title": "Federal Reserve is likely to hold interest rates steady in October. Here's what that means for consumers - CNBC",
+        "summary": "Federal Reserve is likely to hold interest rates steady in October. Here's what that means for consumers &nbsp;&nbsp; CNBC",
+        "publishedAt": "Mon, 26 Oct 2026 16:03:57 GMT",
+        "source": "CNBC",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcXZ6VS16VVVGaDZiM2NoUDVUX0NQVldsR3RZZkZRR0lXb0R0Sm56dVdFTjh3X2dURUh5N2FUYXgyUGZ5QXlWUzJobDhpWTRHTjZ2YzA5Ry1LQ3hJNk93OGNab2c3T1lGRUNCcmR4TFZNWTVOX1I1Z19WckhFbEJldGVXUznSAYoBQVVfeXFMTjVYMVJhMVNScnd1RE1ObnFaMFhENE03c1NqZW5EaHpGbjUweWRQMXVwMl93ZjczZUlBSC02aDZsLVkydzdCMFlWc0xUZG15TTU0V2hTQnJTMS1iTWJ1ckdSejdCcnlIMWRZTnNaNUZmcnlOa01JOHNNYjQ2OEZyOXpTQzVjMmtDUzRR?oc=5",
+        "score": 0
+      },
+      {
+        "title": "Eighth Circuit strikes down Federal Reserve's 21-cent debit card fee cap - Courthouse News",
+        "summary": "Eighth Circuit strikes down Federal Reserve's 21-cent debit card fee cap &nbsp;&nbsp; Courthouse News",
+        "publishedAt": "Mon, 26 Oct 2026 20:34:18 GMT",
+        "source": "Courthouse News",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOd2tIbWR0SnlENkVVNnphTGdDWWtiaXBOQVM4Wmk3VldzeFotek1NdG5Xbml5ZlZfUTctZ2dZS1VVckZteEJCNFFPV1lBcDBfYVIzUUVTT3RWRXNnOEVISUtLT3dNdHdHd0c0VDExZnBHNjFmM2JXemJuUEdRbEROU3QyRWNIalJ2T3VuRm1ySmdLLXFZUWZ5RHVJX3pfcHFfcmVZWA?oc=5",
         "score": 0
       }
     ]
