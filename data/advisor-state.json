@@ -1,5 +1,5 @@
 {
-  "generatedAtJst": "2026-10-31 11:19",
+  "generatedAtJst": "2026-11-01 11:11",
   "startingCapitalJpy": 1000000,
   "policy": {
     "basePair": "USD/JPY",
@@ -117,22 +117,6 @@
     "score": 0.036,
     "items": [
       {
-        "title": "Fed watchdog pushes central bank toward more streamlined IT operations - FedScoop",
-        "summary": "Fed watchdog pushes central bank toward more streamlined IT operations &nbsp;&nbsp; FedScoop",
-        "publishedAt": "Fri, 30 Oct 2026 19:43:32 GMT",
-        "source": "FedScoop",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE84UWFHY2hUVW1IMnF3QzRsdi1IUFNyVFo5ZExRUlNSYmM2YXJOeFBoOGdGRWhnSjJGZEt5VVoxWE45ZXhYTUZHVVBpWVdha3F4SHdZOEpMXy1FUDQ0VHBiakhlbFNrZklrLU1DdmFMdGtwVmdxbWc?oc=5",
-        "score": 0
-      },
-      {
-        "title": "Fed officials make case for rate hikes amid ongoing inflation concerns - Reuters",
-        "summary": "Fed officials make case for rate hikes amid ongoing inflation concerns &nbsp;&nbsp; Reuters",
-        "publishedAt": "Fri, 30 Oct 2026 20:03:43 GMT",
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObTlSSnpPaC0yUGM0aTNCb3h0cUVRejBTRjg0SXVnT0MwSXNMSzBVS1NFSEpUaGxtOUpzSkZmQlRKWjFWQ2UtNEp2RUgzcWwyMEN3clpKaU1acDlRUGFhS21BTEpWQjdSVURWZjRJd19Tc19pbVVHeWYwUEZLdUlka0x6M1p5WDRMVkVjRmlLTWU?oc=5",
-        "score": 0.18
-      },
-      {
         "title": "5 things to watch for in this week's Federal Reserve meeting - PBS",
         "summary": "5 things to watch for in this week's Federal Reserve meeting &nbsp;&nbsp; PBS",
         "publishedAt": "Tue, 27 Oct 2026 17:45:45 GMT",
@@ -141,19 +125,35 @@
         "score": 0
       },
       {
-        "title": "Fed officials are already saying they’ll need to get back to hiking rates - CNBC",
-        "summary": "Fed officials are already saying they’ll need to get back to hiking rates &nbsp;&nbsp; CNBC",
-        "publishedAt": "Fri, 30 Oct 2026 16:30:16 GMT",
-        "source": "CNBC",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQ0hqSXZpT1VZTUNGSkRVSkVaa092QjVSaGt3ZHlpM0F6RENCYlA4U3A4V285MTE0eXp3aFNKNXVjSVVjTEMwbXE1aV95NFJHOFdxMElwWTBsZ05oYjdtWVlmZkFQNzlqMzV2cldpekQxZGVqSTJ6ZXpSc205THRQYdIBhgFBVV95cUxQSU5zQlBqM3NxZWNyWnU3a3NHOEMyNUFZdnh3WW9KOWVDNUh0Q3pIRUdkYzZoZ1lONi00cUF6NmNxM3FGN0ZYYzVoamo1ZHJ1LXBkLUFBVUFBREgtVWVEWFh0NTJnOGQ2T09TUmNpX3dFYjZRS29SSjlFMlk0T25DamNmVWtndw?oc=5",
+        "title": "Yen set for third straight daily gain against dollar after BOJ holds rates - Reuters",
+        "summary": "Yen set for third straight daily gain against dollar after BOJ holds rates &nbsp;&nbsp; Reuters",
+        "publishedAt": "Fri, 30 Oct 2026 01:48:00 GMT",
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMHRlb2xFdjF1SUl3NUktRkR1WEpsOVktNG9kRlhNQWhVZm0wMGdPdlYzYUpxQVdTV3FnVkF4ekhmOUYyX3R1d1JQTmlGRGdrYVB6LTlWNTA4YXIzb1lOMDF0QW4zb25aaVNkRE5RaWlEQUZteXZMWnVmcGVTU19yVFlBY1FZZFIyWHRaYUhZbERiOHZvdXFhNUtIakZ5UmFjVy1vVzVjZmwzX0NKTHNXWWZFZ2M1bGlIVXNuZ3hn?oc=5",
+        "score": 0.18
+      },
+      {
+        "title": "Eighth Circuit Invalidates Federal Reserve’s 21-Cent Debit Card Interchange Fee Cap, Holding That the Durbin Amendment Requires a Transaction-Specific Cost Analysis - Consumer Finance Monitor",
+        "summary": "Eighth Circuit Invalidates Federal Reserve’s 21-Cent Debit Card Interchange Fee Cap, Holding That the Durbin Amendment Requires a Transaction-Specific Cost Analysis &nbsp;&nbsp; Consumer Finance Monitor",
+        "publishedAt": "Wed, 28 Oct 2026 17:20:12 GMT",
+        "source": "Consumer Finance Monitor",
+        "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNZHEzVldLam5WUEtUd2dsTURxdUFaNWlCSnlXZGVvNmRkOEsyckhxY2NqNkVoZXc5TnFGQ200blZqY3JmNmFMbG9rakp1bm90MHBFaFdabDBpMVROYWd3R1c4VXBEblFwdkV0RU5zXzBNdk9NaEFFcHRfTy1CLWRMd1VBU2JncHV5Y3dlY0p5RnhEaU12cFNCbFk2N1p2X253aU40dlAtY2hRbWdEV1ptdFJHLWRLdXk2Zi02OGtKVy14cXBlOTRHNFh4VjV0aDhKLUpfTm9oWS1tZHlTTHBrNXpqVnB0Yk4tSzNtVF92cjlGRkpMWlVPUVA5Sk5zWFlFTUU1WndTWTNJbWZXNmFVUVRVeFZJTWRRaG1QWmVfWl9TQ05DcnhJSy0yeGRVdzBzMVFDVG94VG4?oc=5",
         "score": 0
       },
       {
-        "title": "Bank of Japan hits 2% price target - ing think",
-        "summary": "Bank of Japan hits 2% price target &nbsp;&nbsp; ing think",
-        "publishedAt": "Fri, 30 Oct 2026 08:26:31 GMT",
-        "source": "ing think",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9wSWRWT3lSTnVuT0VYSVBOcXpIR3Y5Z2c4WmMwMlE0eDBxeGdWaEFXUC1lN3FYLWZBSVVHVk94Z01VZUNlcWl1dlp6QkU1cFJLek9nUlFwbW1pWHFTTVZoSFdMSWlvbXVjSV80WlRzTGE5Zw?oc=5",
+        "title": "Federal Reserve holds interest rates steady as midterm elections loom - ABC News - Breaking News, Latest News and Videos",
+        "summary": "Federal Reserve holds interest rates steady as midterm elections loom &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
+        "publishedAt": "Wed, 28 Oct 2026 21:09:41 GMT",
+        "source": "ABC News - Breaking News, Latest News and Videos",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUEhoYVl4OGJtaXFLRU1idHB1dmlvYk1uNEtNNnlMVkFlZEN4N3hpNVB5cmNjWkFEajM2WUZ4bDJJN0pNYlpra21QSGI4cFFwLWllM0xxZlptYWRmdkRlbXAwRWVLcGRBd3J3MDFpUDBvUjVWMElMOGwtZlJMemRJQzczLXI1cWNFMnJKeEcwcGJhUjkzVjZfZ3puam1BQUZFMTRFZ1BIa9IBrAFBVV95cUxQeXRhLUNLYUFqaEtwY25VNnhEUzVzZmRMczBrdVo0SnJXdjdCZjhCbVpURUZJQ2M2MUwyVzlHblFrcTQ0UGhIYUVubHhUZHFVbldqNnJxOFprRG9FRmJIV3ZPaFJiSHZ2a1k0N2R4Q2swcFJ2cDNhZVVJdG0zbG9qaFdvd1l5MXcwbjFWZnBFelBZdFZBMk9pekEzOGFmaEVqVVNmTkx4dXU0eXha?oc=5",
+        "score": 0
+      },
+      {
+        "title": "Fed holds interest rates steady even as inflation remains stubborn - NPR",
+        "summary": "Fed holds interest rates steady even as inflation remains stubborn &nbsp;&nbsp; NPR",
+        "publishedAt": "Wed, 28 Oct 2026 18:04:42 GMT",
+        "source": "NPR",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONGlIQ19wM2oxdDZvTmVUSVFmSDNFVTY2ZGUzSlVMZFU2NHJ3alhfODMzYUFKYmE4M21aSG5zd2k1MVI2akpidHhGUXRwck43WFNZYU5mZmpRRzl2dDZES3VWTkxURW43UkZteGUxODZsMEcyRENWX2VJQVU4dVNPdFhRWGt1eUpBamtPcFhn?oc=5",
         "score": 0
       }
     ]
