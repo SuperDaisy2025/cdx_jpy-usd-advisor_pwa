@@ -1,5 +1,5 @@
 {
-  "generatedAtJst": "2026-11-03 12:55",
+  "generatedAtJst": "2026-11-04 11:59",
   "startingCapitalJpy": 1000000,
   "policy": {
     "basePair": "USD/JPY",
@@ -14,7 +14,7 @@
     "directionLabel": "中立",
     "confidence": 0.51,
     "summary": "中立を基本シナリオにします。トレンド、IMM、ニュースが拮抗しているため、最大50%の制約内でも動かす量は抑えています。",
-    "score": 0.039,
+    "score": 0.032,
     "reasons": [
       "直近のUSD/JPYは157.690で、1つ前の観測値からの勢いを0.00として評価しました。",
       "IMMの円ポジションは-84,200で、前週比の変化を0.09として売買比率に反映しました。",
@@ -114,38 +114,22 @@
   "news": {
     "provider": "Google News RSS",
     "summary": "ニュースは中立寄りです。",
-    "score": 0.036,
+    "score": 0,
     "items": [
       {
-        "title": "Two Innovative Models Expanding Affordable Housing in the Southeast - Federal Reserve Bank of Atlanta",
-        "summary": "Two Innovative Models Expanding Affordable Housing in the Southeast &nbsp;&nbsp; Federal Reserve Bank of Atlanta",
-        "publishedAt": "Mon, 02 Nov 2026 21:07:25 GMT",
-        "source": "Federal Reserve Bank of Atlanta",
-        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOMDFrTzNQQVk1T2JRLXotUlhlMG1Hb1c1d1cxN0tWSzdSZnRaQjd5N0pHY0pjNmJHa0R2NG1TT0RoclpISzFYQ3hrWkNaUE9TdzhxdzVwbmZRWmRLN204NExVV3hzUjgyWlB6TElSUFh3SDd0SXRrYVcyWlgyR0g0VlppdDdid1hMWFBSZVhXdC14S0Y5d1ZpUTVEelpmRFFZX1cyeEQ5ZzhLNG5HU0VHS1c3cmNpUk9DODhTckJjNHBiUDdqa0tLcHhON0hiUmxiSVg1Q3J5VEJaazlnMjhMR2hjMnNObzQ?oc=5",
+        "title": "Minneapolis Fed’s Glaubke receives Federal Reserve System’s Taylor Award - Federal Reserve Bank of Minneapolis",
+        "summary": "Minneapolis Fed’s Glaubke receives Federal Reserve System’s Taylor Award &nbsp;&nbsp; Federal Reserve Bank of Minneapolis",
+        "publishedAt": "Tue, 03 Nov 2026 20:20:09 GMT",
+        "source": "Federal Reserve Bank of Minneapolis",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYTZmeGh6YzJRVEtYRjhJN3RSaUFsQ2dVVjBmbG5PMWJ4Q2gxbkhrM0VacUdrLUQydnZoYzNRcGRFNTVVS3JNSm9ieHdEZU9SeVZKMkxrMFRHUkFQNVlHSkVSZnI4TWJKZU82d084ZGJjQkNab2VXU3VRTUpFZUpuVjhtYlY5QkhPYnAwZGJHX3NwSzB5T1Joc2pDZU90bVhOSmt3R0ltc1dTN0RrWVhFWGt6X01yVmV2aExGTw?oc=5",
         "score": 0
       },
       {
-        "title": "Dallas Fed president explains why she is pushing for interest rate hikes - Dallas News",
-        "summary": "Dallas Fed president explains why she is pushing for interest rate hikes &nbsp;&nbsp; Dallas News",
-        "publishedAt": "Mon, 02 Nov 2026 20:28:51 GMT",
-        "source": "Dallas News",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPa0ZPY1JzUW50ZlowWUt1Yzh5cHBfWS1PaF9aeW5FTzhMbVJ3bi1BMUlTUGR6WGpJN1N4QlBnNFhkQzdQT3lPcndMcUZzc09pakpzQ2oyUjV3SUJSZXpVWC1NUjVYQWk4WFUtb3JXOFZ0SnVIRFV6ZWl4TmdlRmduT3pOUVpjdlVMZDlKa1F1U3lWUXFETGppVW9xRDMyVUY1N1d3c0FGNmpldjlx?oc=5",
-        "score": 0.18
-      },
-      {
-        "title": "Business loan demand softened last quarter, Fed survey shows - Reuters",
-        "summary": "Business loan demand softened last quarter, Fed survey shows &nbsp;&nbsp; Reuters",
-        "publishedAt": "Mon, 02 Nov 2026 22:15:22 GMT",
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMzNnZWFhS1d5NHc2VEl6ZXZ2RWRnd0o4ZnQ5OWZQLTV4UzBRdVlFVk85dFRrUDNfVmVXb3NDdzNqTTliZzJVandYUEpRcHZuUDdObFhSVTFDWnNCOWYydTUxME5hNElLQzJoVUlCQUYxdUc2TlpEeHlzLTM3clcwOElaM3hBX3lybnNFMWUzYWpsN3FOS2ktc1puVEd1dFRDcWpVWmlFaw?oc=5",
-        "score": 0
-      },
-      {
-        "title": "Warsh Fed Should Heed New Zealand's Cautionary Tale - Bloomberg.com",
-        "summary": "Warsh Fed Should Heed New Zealand's Cautionary Tale &nbsp;&nbsp; Bloomberg.com",
-        "publishedAt": "Mon, 02 Nov 2026 18:01:13 GMT",
-        "source": "Bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTDFxVjgwZG5CbWZyVUpwbVpaeFVVUm5VOHZsRGJ3cUl6SVh6bVA5WkdOeDJaeGtha0tmd0EyMk1uVVdkS3dRODdjSXNjYXdGdlhETFU5UEduTlk3bHhhVkJzZEhfMmVWcUJMQzRJTTY0dzhDendzZ0Rya25aTHBTZnFKai10R3FFeXFtdVI1dWphNC1saXY3MExiUFkzSnZjNmpDd0NfU2thTWdUekloUlNZcFkyQ3hUbXkw?oc=5",
+        "title": "The Impact of El Niño on the U.S. Economy - Federal Reserve Bank of San Francisco",
+        "summary": "The Impact of El Niño on the U.S. Economy &nbsp;&nbsp; Federal Reserve Bank of San Francisco",
+        "publishedAt": "Mon, 02 Nov 2026 18:00:00 GMT",
+        "source": "Federal Reserve Bank of San Francisco",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOalhPOUpTbXI0SDN5ODdvbm9USkZvS2RxZ1BjRVo0RDJkODNhbGtjZmo0V29hMVZKbDR4WXRtTzFQSkRaWlF4M3hwVEV1dzFsX2d3bDI4cTVpZnpVOFUxX3VUN0YxdENybWxlR1VMZUFxRmFPY0dzRzlHREZKWmJOb3cwQUlxNDBya2J3Y0Nid0l1T1RHa3Vpd29FRkJ3Q1hvNG5uM2E2NXdJbGpYZ3VfVUtlZw?oc=5",
         "score": 0
       },
       {
@@ -154,6 +138,22 @@
         "publishedAt": "Mon, 02 Nov 2026 16:06:59 GMT",
         "source": "Federal Reserve Bank of Atlanta",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMVhXai1NLUdXQkVHTkFDUkNtakpzUEFNSnd5YWxzczJBNFFQdnZBR1hGZ2lBYUxUcl8zdzQtcG9uRE9YTHNXNGlfTlM3Zjg4bW0yNXBKWHY0dWs3SEw2YTExSU91TFNtWVU2ZElVeEs0NHBudGh5ZVpSNDNwWnpLaDhqbkNSOFJKYkVlZDZaa3VCMGZGWmlwODAwWlA2VGJYTzBMdFBvWEViRzZBZkZYa1Jvb3NjSzI0Ty1qSmJJcTJFSmMwMng1cw?oc=5",
+        "score": 0
+      },
+      {
+        "title": "Election Day is not a federal holiday: What's open and closed on Nov. 3, 2026 - qz.com",
+        "summary": "Election Day is not a federal holiday: What's open and closed on Nov. 3, 2026 &nbsp;&nbsp; qz.com",
+        "publishedAt": "Tue, 03 Nov 2026 14:33:55 GMT",
+        "source": "qz.com",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9iR1lCMXZRZjZvQTRLT3Z2VGVYWkRwaXllbVR2UFh0TUNxa2ZINkNUZ3N4MnlCeW5EZGtYcmpidWpzRmFkMS0wVGpwYjVoN003UkpQcTZEcC0zRHRQdlQxRzVR?oc=5",
+        "score": 0
+      },
+      {
+        "title": "Perspectives on the Economy and the Banking Landscape - Federal Reserve Bank of Boston",
+        "summary": "Perspectives on the Economy and the Banking Landscape &nbsp;&nbsp; Federal Reserve Bank of Boston",
+        "publishedAt": "Tue, 13 Oct 2026 07:00:00 GMT",
+        "source": "Federal Reserve Bank of Boston",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaTRDSGtCUUx4a09JekFmVzNOeFgxV1k4SGJyREJweW9HcTJDaHRIbEpPS3FsZlBwd2M5am5aWkoyNF9NRllOWTZTNDR3NXJBeHdqcVdZMFNzbUU3Q2l1cUt6anRzWXI4ek5PMnZoSzlSVkFIZDMzOURseDlWVjRZZlVBUHo4dm1YYm1Gd0dLMnBVYjlqVDRIYVQ1bXp2ejh2?oc=5",
         "score": 0
       }
     ]
