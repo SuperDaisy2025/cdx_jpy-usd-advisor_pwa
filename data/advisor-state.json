@@ -1,5 +1,5 @@
 {
-  "generatedAtJst": "2026-11-06 12:24",
+  "generatedAtJst": "2026-11-07 11:45",
   "startingCapitalJpy": 1000000,
   "policy": {
     "basePair": "USD/JPY",
@@ -14,7 +14,7 @@
     "directionLabel": "中立",
     "confidence": 0.51,
     "summary": "中立を基本シナリオにします。トレンド、IMM、ニュースが拮抗しているため、最大50%の制約内でも動かす量は抑えています。",
-    "score": 0.032,
+    "score": 0.039,
     "reasons": [
       "直近のUSD/JPYは157.690で、1つ前の観測値からの勢いを0.00として評価しました。",
       "IMMの円ポジションは-84,200で、前週比の変化を0.09として売買比率に反映しました。",
@@ -114,16 +114,8 @@
   "news": {
     "provider": "Google News RSS",
     "summary": "ニュースは中立寄りです。",
-    "score": 0,
+    "score": 0.036,
     "items": [
-      {
-        "title": "Personal Finance class visits Federal Reserve Bank of Boston - Clark University",
-        "summary": "Personal Finance class visits Federal Reserve Bank of Boston &nbsp;&nbsp; Clark University",
-        "publishedAt": "Thu, 05 Nov 2026 17:58:23 GMT",
-        "source": "Clark University",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORTVUb2hqelZ0WWZtZEZCWXp0cnkyaWZGdFhaN1VCVkdrdHdSRjZnZ0RvZXY0NGlTRkRCQV84cjl3ekc5TGNfaDAtckxQRnVkd29fckdFOTUxRTBmSS1Kcl9fTjBpYkRYOWpyN2hLWWgzNVNUZ2VyekM1UTZzQUdOQjRIYUVRU2pLd1VSMi1KUFowbDQ5MWt1UWRHUmlLTDIwdVE?oc=5",
-        "score": 0
-      },
       {
         "title": "Cleveland Fed’s Hammack: Dollar’s status depends on rule of law, effective capital markets, and central bank independence - Federal Reserve Bank of Cleveland",
         "summary": "Cleveland Fed’s Hammack: Dollar’s status depends on rule of law, effective capital markets, and central bank independence &nbsp;&nbsp; Federal Reserve Bank of Cleveland",
@@ -133,27 +125,35 @@
         "score": 0
       },
       {
-        "title": "Binance hack prompted US regulators to check in on bank systems, sources say - Reuters",
-        "summary": "Binance hack prompted US regulators to check in on bank systems, sources say &nbsp;&nbsp; Reuters",
-        "publishedAt": "Thu, 05 Nov 2026 21:39:08 GMT",
+        "title": "Fed policymakers consider rate hike after strong jobs report - Reuters",
+        "summary": "Fed policymakers consider rate hike after strong jobs report &nbsp;&nbsp; Reuters",
+        "publishedAt": "Fri, 06 Nov 2026 20:58:34 GMT",
         "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUTBnQWFyUm5Ob1BXb24yOUNReWNWOW1IV3FYaGVrcjh2Z0pBTy1QdE4zTVpfSHg0cm9KY3dCeVd2aFR4aGpueTJ2UmZJUUE4T3haMWMwY3VqemRBNXIzdUtfZ19HS1QtNVlscFhmVnBCT2FFUUdpUUtEb2ZLUHRKVnZUZndrcXEyWl9ZMEpnTFVLS2JVc01lT295X0RMWjN5UlhYNTZweHU0VlpJY0xLTlZPWjlPamJuRmxv?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMF93ekZ4N2wtdW4zX1llS2FoZWpNVlhMLTRNOGVJTUktZmpLQUNBSzY2bW16Mm9mb3lrZERqNFZ6WkRmYkhBTG00Z2k2NFYyNTVLcmVBSkV5eVJRU1RwZFc5blM4MkRmcUxYU2hadXRWbVh0VXpjektqM1BGS3ZlZlNMeW43VWxmeE5TQm13d0E3bTVwUnp5dzFFNA?oc=5",
+        "score": 0.18
+      },
+      {
+        "title": "Bank lending to non-bank financial intermediaries reaches $1.7 trillion - Federal Reserve Bank of Boston",
+        "summary": "Bank lending to non-bank financial intermediaries reaches $1.7 trillion &nbsp;&nbsp; Federal Reserve Bank of Boston",
+        "publishedAt": "Wed, 04 Nov 2026 17:05:06 GMT",
+        "source": "Federal Reserve Bank of Boston",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM2lMRFBzVGplWTBYaWp1dGtHaml0R3lWX0xOUzNWVHJwX1lseGVHcDRxWl9HcnBLOE16X3ZyN194aXdaeVoyZjExMXptSV8tVk5BaWZCWWZOLW9xdHl3X3FsU3JiRkQ2ZHR3aGNxV3E2akxyODBoUjAtOU1qOXFsYm5RMEt6T29LeGlZQnFPM0xHSFVJR3dsdWI0VTNpeldJdy14aVo3MG4?oc=5",
         "score": 0
       },
       {
-        "title": "The Impact of El Niño on the U.S. Economy - Federal Reserve Bank of San Francisco",
-        "summary": "The Impact of El Niño on the U.S. Economy &nbsp;&nbsp; Federal Reserve Bank of San Francisco",
-        "publishedAt": "Mon, 02 Nov 2026 18:00:00 GMT",
-        "source": "Federal Reserve Bank of San Francisco",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOalhPOUpTbXI0SDN5ODdvbm9USkZvS2RxZ1BjRVo0RDJkODNhbGtjZmo0V29hMVZKbDR4WXRtTzFQSkRaWlF4M3hwVEV1dzFsX2d3bDI4cTVpZnpVOFUxX3VUN0YxdENybWxlR1VMZUFxRmFPY0dzRzlHREZKWmJOb3cwQUlxNDBya2J3Y0Nid0l1T1RHa3Vpd29FRkJ3Q1hvNG5uM2E2NXdJbGpYZ3VfVUtlZw?oc=5",
+        "title": "Kevin Warsh wins the midterm elections, for now - Breakingviews",
+        "summary": "Kevin Warsh wins the midterm elections, for now &nbsp;&nbsp; Breakingviews",
+        "publishedAt": "Fri, 06 Nov 2026 17:04:09 GMT",
+        "source": "Breakingviews",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNDJ6ZFdMeW9vSVBTYUYxekVrTnNlZnByMkYyWW92ZEhaTFYwMEN4dXBEUXY2TG5DbUtQQ0tXdm8ya1YzNXprRGJSQWF0WWhxWFJwRDAxOGZFaU5iUVNyaFA0V2RiOHJYd0pGRmFySGsyTlVZaFlZNkgtMW1nV2tHbFFHVmc3UXJKd2dyRS1kcFlYdnpNZF9Nc2ZodkdUcXY5QnU2QlFVRQ?oc=5",
         "score": 0
       },
       {
-        "title": "Banks are turning cautious on lending, according to the Fed. What it means for the economy - CNBC",
-        "summary": "Banks are turning cautious on lending, according to the Fed. What it means for the economy &nbsp;&nbsp; CNBC",
-        "publishedAt": "Thu, 05 Nov 2026 13:52:38 GMT",
-        "source": "CNBC",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRGpTLVg5S2lhMGV5RkhjX0s3Uk51T1EyMk9kU2IyZ3BhZ1JFTEVmYnU1bmhjdjJfU25uVlJNTjhTNHdOc0wzTjk1ZTRDR3F5YnBIMWcxS1ZqUF9Pcjc4Q2R4SVdSVkwtZkRJd0ppdk8xWEFoUzQ2NkpQQ3YxeldsYjBXWkTSAYoBQVVfeXFMT1JEUDZxV2h5LVBsVXBGa0ljQTBfZ19ZUTJLbmxyRWpIZkszZFJjZnBGOVl4bUh3VWZsMmxDbGF1amx2cjNCZVdWUUZDWTZURlQyY3NBLTVGUlBiNnJheXU5RHVrV2ZkTGVndEVfTWNNVnprbXZCaHpaRTdrRlVBeGY0eDBTVXhDY0ZR?oc=5",
+        "title": "BPI Comments on Fed and FDIC Regulation O Proposals - Bank Policy Institute",
+        "summary": "BPI Comments on Fed and FDIC Regulation O Proposals &nbsp;&nbsp; Bank Policy Institute",
+        "publishedAt": "Wed, 04 Nov 2026 18:25:00 GMT",
+        "source": "Bank Policy Institute",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9hYWVGQjhFaVhCS2NNVktFd1BDMGREOVZQOVB5ek1Fd3F3QS1iUWhia2tuMW40QXJqOHRwd1dJUXB6Yjhqc1hScE1qUmdaeWNIR2VNOW9McEU4Um5PTzNfbWZlVkhva1J3R21SWjRFbTNTdUxCSG5R?oc=5",
         "score": 0
       }
     ]
