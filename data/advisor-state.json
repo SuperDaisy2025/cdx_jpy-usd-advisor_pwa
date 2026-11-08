@@ -1,5 +1,5 @@
 {
-  "generatedAtJst": "2026-11-07 11:45",
+  "generatedAtJst": "2026-11-08 11:25",
   "startingCapitalJpy": 1000000,
   "policy": {
     "basePair": "USD/JPY",
@@ -14,7 +14,7 @@
     "directionLabel": "中立",
     "confidence": 0.51,
     "summary": "中立を基本シナリオにします。トレンド、IMM、ニュースが拮抗しているため、最大50%の制約内でも動かす量は抑えています。",
-    "score": 0.039,
+    "score": 0.032,
     "reasons": [
       "直近のUSD/JPYは157.690で、1つ前の観測値からの勢いを0.00として評価しました。",
       "IMMの円ポジションは-84,200で、前週比の変化を0.09として売買比率に反映しました。",
@@ -114,7 +114,7 @@
   "news": {
     "provider": "Google News RSS",
     "summary": "ニュースは中立寄りです。",
-    "score": 0.036,
+    "score": 0,
     "items": [
       {
         "title": "Cleveland Fed’s Hammack: Dollar’s status depends on rule of law, effective capital markets, and central bank independence - Federal Reserve Bank of Cleveland",
@@ -125,12 +125,12 @@
         "score": 0
       },
       {
-        "title": "Fed policymakers consider rate hike after strong jobs report - Reuters",
-        "summary": "Fed policymakers consider rate hike after strong jobs report &nbsp;&nbsp; Reuters",
-        "publishedAt": "Fri, 06 Nov 2026 20:58:34 GMT",
+        "title": "Dollar jumps after strong US payrolls report - Reuters",
+        "summary": "Dollar jumps after strong US payrolls report &nbsp;&nbsp; Reuters",
+        "publishedAt": "Fri, 06 Nov 2026 01:24:00 GMT",
         "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMF93ekZ4N2wtdW4zX1llS2FoZWpNVlhMLTRNOGVJTUktZmpLQUNBSzY2bW16Mm9mb3lrZERqNFZ6WkRmYkhBTG00Z2k2NFYyNTVLcmVBSkV5eVJRU1RwZFc5blM4MkRmcUxYU2hadXRWbVh0VXpjektqM1BGS3ZlZlNMeW43VWxmeE5TQm13d0E3bTVwUnp5dzFFNA?oc=5",
-        "score": 0.18
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcTZYNGtkV0pONThjTHhjTkdYS0JYX1YtSlJISko4bVRPZDlUSzZaTmhRU0ZtQmtnZWFRQUkxRDhUWHR2akFsSkhSZmQxdVE4dURkRlJ4ekEtc1lFSTlTT3VaU1VRa0VKRjZFZkdZUWVpR3NNT1hfR1JhLVkxWHlLUDVZT04wMnJYTFMyX0haakxHcWdIdWg2SFVpNGF4eWFwNXV0eGZ3Q2ZDeTYzbGtyZXpGM05XNDVBb0U2dUtScEM?oc=5",
+        "score": 0
       },
       {
         "title": "Bank lending to non-bank financial intermediaries reaches $1.7 trillion - Federal Reserve Bank of Boston",
@@ -141,19 +141,19 @@
         "score": 0
       },
       {
-        "title": "Kevin Warsh wins the midterm elections, for now - Breakingviews",
-        "summary": "Kevin Warsh wins the midterm elections, for now &nbsp;&nbsp; Breakingviews",
-        "publishedAt": "Fri, 06 Nov 2026 17:04:09 GMT",
-        "source": "Breakingviews",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNDJ6ZFdMeW9vSVBTYUYxekVrTnNlZnByMkYyWW92ZEhaTFYwMEN4dXBEUXY2TG5DbUtQQ0tXdm8ya1YzNXprRGJSQWF0WWhxWFJwRDAxOGZFaU5iUVNyaFA0V2RiOHJYd0pGRmFySGsyTlVZaFlZNkgtMW1nV2tHbFFHVmc3UXJKd2dyRS1kcFlYdnpNZF9Nc2ZodkdUcXY5QnU2QlFVRQ?oc=5",
-        "score": 0
-      },
-      {
         "title": "BPI Comments on Fed and FDIC Regulation O Proposals - Bank Policy Institute",
         "summary": "BPI Comments on Fed and FDIC Regulation O Proposals &nbsp;&nbsp; Bank Policy Institute",
         "publishedAt": "Wed, 04 Nov 2026 18:25:00 GMT",
         "source": "Bank Policy Institute",
         "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9hYWVGQjhFaVhCS2NNVktFd1BDMGREOVZQOVB5ek1Fd3F3QS1iUWhia2tuMW40QXJqOHRwd1dJUXB6Yjhqc1hScE1qUmdaeWNIR2VNOW9McEU4Um5PTzNfbWZlVkhva1J3R21SWjRFbTNTdUxCSG5R?oc=5",
+        "score": 0
+      },
+      {
+        "title": "Introducing Survey Practitioner’s Corner - Federal Reserve Bank of Atlanta",
+        "summary": "Introducing Survey Practitioner’s Corner &nbsp;&nbsp; Federal Reserve Bank of Atlanta",
+        "publishedAt": "Mon, 02 Nov 2026 16:06:59 GMT",
+        "source": "Federal Reserve Bank of Atlanta",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMVhXai1NLUdXQkVHTkFDUkNtakpzUEFNSnd5YWxzczJBNFFQdnZBR1hGZ2lBYUxUcl8zdzQtcG9uRE9YTHNXNGlfTlM3Zjg4bW0yNXBKWHY0dWs3SEw2YTExSU91TFNtWVU2ZElVeEs0NHBudGh5ZVpSNDNwWnpLaDhqbkNSOFJKYkVlZDZaa3VCMGZGWmlwODAwWlA2VGJYTzBMdFBvWEViRzZBZkZYa1Jvb3NjSzI0Ty1qSmJJcTJFSmMwMng1cw?oc=5",
         "score": 0
       }
     ]
