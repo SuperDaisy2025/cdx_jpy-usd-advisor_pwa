@@ -1,5 +1,5 @@
 {
-  "generatedAtJst": "2026-11-08 11:25",
+  "generatedAtJst": "2026-11-09 11:38",
   "startingCapitalJpy": 1000000,
   "policy": {
     "basePair": "USD/JPY",
@@ -14,18 +14,18 @@
     "directionLabel": "中立",
     "confidence": 0.51,
     "summary": "中立を基本シナリオにします。トレンド、IMM、ニュースが拮抗しているため、最大50%の制約内でも動かす量は抑えています。",
-    "score": 0.032,
+    "score": 0.024,
     "reasons": [
       "直近のUSD/JPYは157.690で、1つ前の観測値からの勢いを0.00として評価しました。",
       "IMMの円ポジションは-84,200で、前週比の変化を0.09として売買比率に反映しました。",
       "ニュースは中立寄りです。",
-      "レバレッジなし、最大移動比率50%のルールにより、今回の推奨比率は2%です。"
+      "レバレッジなし、最大移動比率50%のルールにより、今回の推奨比率は1%です。"
     ]
   },
   "recommendation": {
     "action": "HOLD",
-    "allocationRatio": 0.02,
-    "moveAmountJpy": 20000,
+    "allocationRatio": 0.01,
+    "moveAmountJpy": 10000,
     "cashJpyAfterTrade": 1000000,
     "usdAfterTrade": 0
   },
@@ -88,8 +88,8 @@
     {
       "timeJst": "2026-06-28 08:00",
       "action": "様子見",
-      "ratio": 0.02,
-      "amountJpy": 20000,
+      "ratio": 0.01,
+      "amountJpy": 10000,
       "usdJpy": 157.69,
       "totalJpy": 1000000
     }
@@ -114,8 +114,16 @@
   "news": {
     "provider": "Google News RSS",
     "summary": "ニュースは中立寄りです。",
-    "score": 0,
+    "score": -0.036,
     "items": [
+      {
+        "title": "Japan Says Three-Day Yen Intervention Lifted Yen in Summer - Bloomberg",
+        "summary": "Japan Says Three-Day Yen Intervention Lifted Yen in Summer &nbsp;&nbsp; Bloomberg",
+        "publishedAt": "Mon, 09 Nov 2026 00:48:00 GMT",
+        "source": "Bloomberg",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOU0hIS1pBbjdyM0tsMldxMjVocXRtMW5PV2RrSkE4SjYxeG9zVG9FTTJnNi1IUkFUeU4yazRJMHlUenJHeWJkb1c3Tl95TUs0d2pwTmFGS2tkMlBGNzVnYm52Mjhfc1RFYWNBLVlWUWk3and3aUNzMlNuT0QyZHgwZWdsdnZvQ05NSkZRdVl2aGdfQl80WEZSMDV0WU9hMUJsQzJYOHlKNUI0RlJONVE?oc=5",
+        "score": -0.18
+      },
       {
         "title": "Cleveland Fed’s Hammack: Dollar’s status depends on rule of law, effective capital markets, and central bank independence - Federal Reserve Bank of Cleveland",
         "summary": "Cleveland Fed’s Hammack: Dollar’s status depends on rule of law, effective capital markets, and central bank independence &nbsp;&nbsp; Federal Reserve Bank of Cleveland",
@@ -127,33 +135,25 @@
       {
         "title": "Dollar jumps after strong US payrolls report - Reuters",
         "summary": "Dollar jumps after strong US payrolls report &nbsp;&nbsp; Reuters",
-        "publishedAt": "Fri, 06 Nov 2026 01:24:00 GMT",
+        "publishedAt": "Fri, 06 Nov 2026 20:51:55 GMT",
         "source": "Reuters",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcTZYNGtkV0pONThjTHhjTkdYS0JYX1YtSlJISko4bVRPZDlUSzZaTmhRU0ZtQmtnZWFRQUkxRDhUWHR2akFsSkhSZmQxdVE4dURkRlJ4ekEtc1lFSTlTT3VaU1VRa0VKRjZFZkdZUWVpR3NNT1hfR1JhLVkxWHlLUDVZT04wMnJYTFMyX0haakxHcWdIdWg2SFVpNGF4eWFwNXV0eGZ3Q2ZDeTYzbGtyZXpGM05XNDVBb0U2dUtScEM?oc=5",
         "score": 0
       },
       {
-        "title": "Bank lending to non-bank financial intermediaries reaches $1.7 trillion - Federal Reserve Bank of Boston",
-        "summary": "Bank lending to non-bank financial intermediaries reaches $1.7 trillion &nbsp;&nbsp; Federal Reserve Bank of Boston",
-        "publishedAt": "Wed, 04 Nov 2026 17:05:06 GMT",
-        "source": "Federal Reserve Bank of Boston",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM2lMRFBzVGplWTBYaWp1dGtHaml0R3lWX0xOUzNWVHJwX1lseGVHcDRxWl9HcnBLOE16X3ZyN194aXdaeVoyZjExMXptSV8tVk5BaWZCWWZOLW9xdHl3X3FsU3JiRkQ2ZHR3aGNxV3E2akxyODBoUjAtOU1qOXFsYm5RMEt6T29LeGlZQnFPM0xHSFVJR3dsdWI0VTNpeldJdy14aVo3MG4?oc=5",
+        "title": "For Trump’s Fed Ambitions, a Democratic Senate Poses the Biggest Hurdle Yet - WSJ",
+        "summary": "For Trump’s Fed Ambitions, a Democratic Senate Poses the Biggest Hurdle Yet &nbsp;&nbsp; WSJ",
+        "publishedAt": "Sun, 08 Nov 2026 10:30:00 GMT",
+        "source": "WSJ",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOEN2SVIzQmppcXREV0sxNE0tejFxYkt4VGpxemtVbVV4R0ZPTVFyVWV0azNTLUxCSkxUQWxxN1plZEpfZ1ZCRHUwNGhJV0k3c2owTWVRaEpfb3JMN09jV01jTkNJcmNidl9FTFhid1JsUmw4ZnVXSjVDRXZzWlM0NnRmRnEybjc5MG1Hb09KQXRsM1lFR0FVUThGVUZjdTZLd2lUZDl2WTB0UQ?oc=5",
         "score": 0
       },
       {
-        "title": "BPI Comments on Fed and FDIC Regulation O Proposals - Bank Policy Institute",
-        "summary": "BPI Comments on Fed and FDIC Regulation O Proposals &nbsp;&nbsp; Bank Policy Institute",
-        "publishedAt": "Wed, 04 Nov 2026 18:25:00 GMT",
-        "source": "Bank Policy Institute",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9hYWVGQjhFaVhCS2NNVktFd1BDMGREOVZQOVB5ek1Fd3F3QS1iUWhia2tuMW40QXJqOHRwd1dJUXB6Yjhqc1hScE1qUmdaeWNIR2VNOW9McEU4Um5PTzNfbWZlVkhva1J3R21SWjRFbTNTdUxCSG5R?oc=5",
-        "score": 0
-      },
-      {
-        "title": "Introducing Survey Practitioner’s Corner - Federal Reserve Bank of Atlanta",
-        "summary": "Introducing Survey Practitioner’s Corner &nbsp;&nbsp; Federal Reserve Bank of Atlanta",
-        "publishedAt": "Mon, 02 Nov 2026 16:06:59 GMT",
-        "source": "Federal Reserve Bank of Atlanta",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMVhXai1NLUdXQkVHTkFDUkNtakpzUEFNSnd5YWxzczJBNFFQdnZBR1hGZ2lBYUxUcl8zdzQtcG9uRE9YTHNXNGlfTlM3Zjg4bW0yNXBKWHY0dWs3SEw2YTExSU91TFNtWVU2ZElVeEs0NHBudGh5ZVpSNDNwWnpLaDhqbkNSOFJKYkVlZDZaa3VCMGZGWmlwODAwWlA2VGJYTzBMdFBvWEViRzZBZkZYa1Jvb3NjSzI0Ty1qSmJJcTJFSmMwMng1cw?oc=5",
+        "title": "D-FW Business datebook: Fed conferences, José Andrés and an inflation update - Dallas News",
+        "summary": "D-FW Business datebook: Fed conferences, José Andrés and an inflation update &nbsp;&nbsp; Dallas News",
+        "publishedAt": "Sun, 08 Nov 2026 15:34:27 GMT",
+        "source": "Dallas News",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeGhfcEdmNThkaHJjMXNrYjJqaUs0V1pRYjltSFBMOHZWNWhxWGlDNjdqWGFWaVRZNk1lOUZFS2MyaFdLa0dYdVFfNzJXY25Wc3NLS0sxaVVDLUVkSzBMMzlCWTRmNUktc3dVNzd2SjJkNWctUGNPTVYxY1RJVzZ4cnBhTVpXOVh5V2JIMTVIbVR4eC14LThlRUtJMzA?oc=5",
         "score": 0
       }
     ]
