@@ -1,5 +1,5 @@
 {
-  "generatedAtJst": "2026-11-09 11:38",
+  "generatedAtJst": "2026-11-10 13:36",
   "startingCapitalJpy": 1000000,
   "policy": {
     "basePair": "USD/JPY",
@@ -14,18 +14,18 @@
     "directionLabel": "中立",
     "confidence": 0.51,
     "summary": "中立を基本シナリオにします。トレンド、IMM、ニュースが拮抗しているため、最大50%の制約内でも動かす量は抑えています。",
-    "score": 0.024,
+    "score": 0.032,
     "reasons": [
       "直近のUSD/JPYは157.690で、1つ前の観測値からの勢いを0.00として評価しました。",
       "IMMの円ポジションは-84,200で、前週比の変化を0.09として売買比率に反映しました。",
       "ニュースは中立寄りです。",
-      "レバレッジなし、最大移動比率50%のルールにより、今回の推奨比率は1%です。"
+      "レバレッジなし、最大移動比率50%のルールにより、今回の推奨比率は2%です。"
     ]
   },
   "recommendation": {
     "action": "HOLD",
-    "allocationRatio": 0.01,
-    "moveAmountJpy": 10000,
+    "allocationRatio": 0.02,
+    "moveAmountJpy": 20000,
     "cashJpyAfterTrade": 1000000,
     "usdAfterTrade": 0
   },
@@ -88,8 +88,8 @@
     {
       "timeJst": "2026-06-28 08:00",
       "action": "様子見",
-      "ratio": 0.01,
-      "amountJpy": 10000,
+      "ratio": 0.02,
+      "amountJpy": 20000,
       "usdJpy": 157.69,
       "totalJpy": 1000000
     }
@@ -114,46 +114,46 @@
   "news": {
     "provider": "Google News RSS",
     "summary": "ニュースは中立寄りです。",
-    "score": -0.036,
+    "score": 0,
     "items": [
       {
-        "title": "Japan Says Three-Day Yen Intervention Lifted Yen in Summer - Bloomberg",
-        "summary": "Japan Says Three-Day Yen Intervention Lifted Yen in Summer &nbsp;&nbsp; Bloomberg",
-        "publishedAt": "Mon, 09 Nov 2026 00:48:00 GMT",
-        "source": "Bloomberg",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOU0hIS1pBbjdyM0tsMldxMjVocXRtMW5PV2RrSkE4SjYxeG9zVG9FTTJnNi1IUkFUeU4yazRJMHlUenJHeWJkb1c3Tl95TUs0d2pwTmFGS2tkMlBGNzVnYm52Mjhfc1RFYWNBLVlWUWk3and3aUNzMlNuT0QyZHgwZWdsdnZvQ05NSkZRdVl2aGdfQl80WEZSMDV0WU9hMUJsQzJYOHlKNUI0RlJONVE?oc=5",
-        "score": -0.18
-      },
-      {
-        "title": "Cleveland Fed’s Hammack: Dollar’s status depends on rule of law, effective capital markets, and central bank independence - Federal Reserve Bank of Cleveland",
-        "summary": "Cleveland Fed’s Hammack: Dollar’s status depends on rule of law, effective capital markets, and central bank independence &nbsp;&nbsp; Federal Reserve Bank of Cleveland",
-        "publishedAt": "Thu, 05 Nov 2026 05:00:00 GMT",
-        "source": "Federal Reserve Bank of Cleveland",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbGpQUGRBZEtYZFluTWhYblhtd283bWd2S2NSaU5JaUJhRW91ZzJ5bmR4RFZad1F1MVBMRzRXaXVUbVFoYmVPRjY3YlI2SHJGWmc3UndCM1R6bk9BTkVSM1NzNWFlR2ZuWWtOUHlTcHFmNTJ2VElTSEVrdnpPMjFxYkxVNTE2c0prSTBCcFRwOXljUlVVTU5QbDZXM3ZEbVoyZlNLYlpQdEk2NmlvZDFnYQ?oc=5",
+        "title": "Prescription for productivity: Healthy kids - Federal Reserve Bank of Minneapolis",
+        "summary": "Prescription for productivity: Healthy kids &nbsp;&nbsp; Federal Reserve Bank of Minneapolis",
+        "publishedAt": "Mon, 09 Nov 2026 20:20:26 GMT",
+        "source": "Federal Reserve Bank of Minneapolis",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTGZRZW02MjlSUHpaeFRkaXhsNFIzUnNZM2VWMDNUOGxhcnJhajRRY1VCSGNhVE42dm5aS09oN1dacTVZWEVxenNyYnd2a05OTFJURDlwbFc0QTh5MXM5ckYyandKU3ZTaEVUSC1JM2Y1d3JDanM5ZHlhWGd2RndTbFo0Z2pScm00amVMdjZjcw?oc=5",
         "score": 0
       },
       {
-        "title": "Dollar jumps after strong US payrolls report - Reuters",
-        "summary": "Dollar jumps after strong US payrolls report &nbsp;&nbsp; Reuters",
-        "publishedAt": "Fri, 06 Nov 2026 20:51:55 GMT",
+        "title": "Fed should move policy 'with care' as it responds to inflation, Barkin says - Reuters",
+        "summary": "Fed should move policy 'with care' as it responds to inflation, Barkin says &nbsp;&nbsp; Reuters",
+        "publishedAt": "Mon, 09 Nov 2026 19:12:26 GMT",
         "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcTZYNGtkV0pONThjTHhjTkdYS0JYX1YtSlJISko4bVRPZDlUSzZaTmhRU0ZtQmtnZWFRQUkxRDhUWHR2akFsSkhSZmQxdVE4dURkRlJ4ekEtc1lFSTlTT3VaU1VRa0VKRjZFZkdZUWVpR3NNT1hfR1JhLVkxWHlLUDVZT04wMnJYTFMyX0haakxHcWdIdWg2SFVpNGF4eWFwNXV0eGZ3Q2ZDeTYzbGtyZXpGM05XNDVBb0U2dUtScEM?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOb2pkV1hRTWpneFJMd191WGQtaGRvMTUtR1dHZE9UMzNYZmpocWNLeEx2UDd6RHZEajNibW9NZ3FBUUpsdHBwdjJMUjd4M0ZTNm1ib3huSXpneUpJY25FUFdabFRWZUZOQ3MxQWEwZDZ5SENvMmtfaU1ZQnlPenYxT0tiUFg3RmtzU0prYS1PNFp2X2I3U2phRXBFRGQ5c2kwUlF0Mmg0cUxDM2ZoamxTUQ?oc=5",
         "score": 0
       },
       {
-        "title": "For Trump’s Fed Ambitions, a Democratic Senate Poses the Biggest Hurdle Yet - WSJ",
-        "summary": "For Trump’s Fed Ambitions, a Democratic Senate Poses the Biggest Hurdle Yet &nbsp;&nbsp; WSJ",
-        "publishedAt": "Sun, 08 Nov 2026 10:30:00 GMT",
-        "source": "WSJ",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOEN2SVIzQmppcXREV0sxNE0tejFxYkt4VGpxemtVbVV4R0ZPTVFyVWV0azNTLUxCSkxUQWxxN1plZEpfZ1ZCRHUwNGhJV0k3c2owTWVRaEpfb3JMN09jV01jTkNJcmNidl9FTFhid1JsUmw4ZnVXSjVDRXZzWlM0NnRmRnEybjc5MG1Hb09KQXRsM1lFR0FVUThGVUZjdTZLd2lUZDl2WTB0UQ?oc=5",
+        "title": "Private Credit’s Rapid Growth Draws Regional Fed Banks’ Scrutiny - Bloomberg.com",
+        "summary": "Private Credit’s Rapid Growth Draws Regional Fed Banks’ Scrutiny &nbsp;&nbsp; Bloomberg.com",
+        "publishedAt": "Mon, 09 Nov 2026 17:36:30 GMT",
+        "source": "Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRUtNWVlPVy1UcEpxQzlVbVNEYlcxZ2tiZmFQbnY4RkdsS1lJQVFQdW9MTEtqSnJ2Yl9tWjItLWlMX1JXVVJGVmxTeEtoZVR2LVozM2NqY1ZHUkJsV0dzZGVXV1JOUHhLSi1meUVyU2w1eWFZVHItNHpjR1V0M3c5OXlkMUpnMFY3dFp3ZTA4XzBIb1Y1MWtTdW05Vmx2M09FM3ZZeldBQ0dYZlMzbkFHWGw2WDM?oc=5",
         "score": 0
       },
       {
-        "title": "D-FW Business datebook: Fed conferences, José Andrés and an inflation update - Dallas News",
-        "summary": "D-FW Business datebook: Fed conferences, José Andrés and an inflation update &nbsp;&nbsp; Dallas News",
-        "publishedAt": "Sun, 08 Nov 2026 15:34:27 GMT",
-        "source": "Dallas News",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeGhfcEdmNThkaHJjMXNrYjJqaUs0V1pRYjltSFBMOHZWNWhxWGlDNjdqWGFWaVRZNk1lOUZFS2MyaFdLa0dYdVFfNzJXY25Wc3NLS0sxaVVDLUVkSzBMMzlCWTRmNUktc3dVNzd2SjJkNWctUGNPTVYxY1RJVzZ4cnBhTVpXOVh5V2JIMTVIbVR4eC14LThlRUtJMzA?oc=5",
+        "title": "U.S. Regulators Helped Set Global Banking Rules, Drawing Concerns - Legis1",
+        "summary": "U.S. Regulators Helped Set Global Banking Rules, Drawing Concerns &nbsp;&nbsp; Legis1",
+        "publishedAt": "Mon, 09 Nov 2026 14:07:35 GMT",
+        "source": "Legis1",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5rWWFRTmNfWllfUEVNalBtRjlnaG5zR3M5eDUwd3Q5anlwbVpzaVI4MHBzTVpHMzdwN19rRFd5cnNlOGp3REJYMmVhcGZPeWItU3NuYWlxTVpVT2Q1OVFOYTlpMm9JVUVTVHlHWjZoMXp3RjQ5dUg0blNfWQ?oc=5",
+        "score": 0
+      },
+      {
+        "title": "From the director: Accountability in the age of AI - Federal Reserve Bank of Minneapolis",
+        "summary": "From the director: Accountability in the age of AI &nbsp;&nbsp; Federal Reserve Bank of Minneapolis",
+        "publishedAt": "Mon, 09 Nov 2026 20:20:26 GMT",
+        "source": "Federal Reserve Bank of Minneapolis",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVHYzaDlkSXp0bDQzdFlmRG9lMHVhd3VxVGE0ZHdLY0JfTHVUajVkdjhLcU02Z1A3eWllMUs1QTlCeXhaNXZFQWFKR040OGIzSnRxb2FmYTM5WG5wR01ocU14bXZpODd5dXNCUjh2UWI1Y0lHc0pwTmZzVV80SkRBcDhwekpBck5HOEJMbURwNmtvM0tpUlRvSQ?oc=5",
         "score": 0
       }
     ]
