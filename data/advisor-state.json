@@ -1,5 +1,5 @@
 {
-  "generatedAtJst": "2026-11-11 11:45",
+  "generatedAtJst": "2026-11-12 12:47",
   "startingCapitalJpy": 1000000,
   "policy": {
     "basePair": "USD/JPY",
@@ -14,7 +14,7 @@
     "directionLabel": "中立",
     "confidence": 0.51,
     "summary": "中立を基本シナリオにします。トレンド、IMM、ニュースが拮抗しているため、最大50%の制約内でも動かす量は抑えています。",
-    "score": 0.039,
+    "score": 0.032,
     "reasons": [
       "直近のUSD/JPYは157.690で、1つ前の観測値からの勢いを0.00として評価しました。",
       "IMMの円ポジションは-84,200で、前週比の変化を0.09として売買比率に反映しました。",
@@ -114,46 +114,46 @@
   "news": {
     "provider": "Google News RSS",
     "summary": "ニュースは中立寄りです。",
-    "score": 0.036,
+    "score": 0,
     "items": [
+      {
+        "title": "Safe, Sound, and Cyber Ready - Philadelphia Federal Reserve Bank",
+        "summary": "Safe, Sound, and Cyber Ready &nbsp;&nbsp; Philadelphia Federal Reserve Bank",
+        "publishedAt": "Wed, 11 Nov 2026 08:28:52 GMT",
+        "source": "Philadelphia Federal Reserve Bank",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Tb1ZDXy10SmVOOFJCckYtcFVraDhvUDJlNE10cnZ1SUhEQVdQaTRiTTVlRWxKOG5LX2VZelJITXQ1ak9BcGlUdFVxTExVWVpBSGN3T21NaWRxZlYyemdzRzdwaS1Ud29BeUEzT2NGS1JVYVBOU2c?oc=5",
+        "score": 0
+      },
+      {
+        "title": "Dollar near one-month high as yen edges toward 160 - Yahoo Finance",
+        "summary": "Dollar near one-month high as yen edges toward 160 &nbsp;&nbsp; Yahoo Finance",
+        "publishedAt": "Thu, 12 Nov 2026 00:14:45 GMT",
+        "source": "Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObjIzdE9hb2t6ZUdPV08wOGRaVWJIUUhKbWVuVU5QS1Vod05KRnZGSkdxTmJQcldVelpBaS1ET3ctSEZJbEpQRmlmaXczbUJYaURaVVpLSFpuc19ycjRtTTQtTFBaTWY0MlRJZVZ3SUJ4RHZPTXcwLVhqdFVFbzVrdG14c05EdG9NdGo1bVdZU1hkcW1IaHRMMGdDQQ?oc=5",
+        "score": 0
+      },
       {
         "title": "Signs of Easing Pressure on Farm Finances - Kansas City Fed",
         "summary": "Signs of Easing Pressure on Farm Finances &nbsp;&nbsp; Kansas City Fed",
-        "publishedAt": "Wed, 11 Nov 2026 02:22:53 GMT",
+        "publishedAt": "Wed, 11 Nov 2026 08:22:54 GMT",
         "source": "Kansas City Fed",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNakx3UVl2aWE0c2NUMFYtbWhwNUdHSEwxZlpNRkcxMVR4WWpDRFFTWGpIdjE3UGV3Y0tXV3pEMk02VmJCcUo1RmxkYWV1VFNGcF9EbG05UXB3Z2sxYXQ3d2pDU01IU09GUzY2MzFHbDliU0M5UEtqLVp2a0REMEtUZkpxNzNzTHVpcFo1NUlaeXJNUXhHNzE5TWZzSzZZS2UzQnhr?oc=5",
         "score": 0
       },
       {
-        "title": "Fed officials open door to a quicker round of rate hikes as inflation worsens - Reuters",
-        "summary": "Fed officials open door to a quicker round of rate hikes as inflation worsens &nbsp;&nbsp; Reuters",
-        "publishedAt": "Tue, 10 Nov 2026 23:07:22 GMT",
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTXo5UzFWVEh5WllQOHNxS1Q2cERxOEM0X1QyN1dPX0R4XzdfT1BpajYxdi0xOEltNWh6cE15Z2ZvZ2dXV0Vwb3NkbWZ1VGQ2M2tvVVVSaWd6clhPcS1XUEU2QXE3c0tlLUhPX0c2emRnWVpwOGtoajlnSS1VRXRNZXFaNEpyVlVwcFVIOUdkT18yQ2t6a1psZGVlOFpiZl90QnVhcmxqQzNxNnlNSEdXcWpjcUdzYUNJSi1hcnl6ZEpUSUU?oc=5",
-        "score": 0.18
-      },
-      {
-        "title": "Top Federal Reserve official considers largest rate rise since 2022 - Financial Times",
-        "summary": "Top Federal Reserve official considers largest rate rise since 2022 &nbsp;&nbsp; Financial Times",
-        "publishedAt": "Tue, 10 Nov 2026 09:00:09 GMT",
-        "source": "Financial Times",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPM0lSR0FINzZ0S3ZhdnRQcDh4ZkRBVnZUY05NMHFhZ0JsdmNQaE02NEY2M2l0WXM4RHVBbXBCRWdXM21ndjlRLW9jWVFXQWxoVzMtcjhwMU80dE56dlVERFVwZ0NiblNPM0Q3cGx3SDFBc0NFcGNvNHlsR1lGQVFoQzJVUWs?oc=5",
+        "title": "Economic and monetary policy outlook - Federal Reserve Bank of Dallas",
+        "summary": "Economic and monetary policy outlook &nbsp;&nbsp; Federal Reserve Bank of Dallas",
+        "publishedAt": "Tue, 10 Nov 2026 19:37:51 GMT",
+        "source": "Federal Reserve Bank of Dallas",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15eU9IVk90bGxVVFFuMUM5TU1zQ0pORHFjMEptYUJBbUdMSGx6VVE1RnVZZW9KeVc1Yy1XeDJUZnpWckQ1WmgxbzZpTndwUWhiNjhTeEtCdmQ1M1pOM0FTMkpiNFR2NWtnVm03cw?oc=5",
         "score": 0
       },
       {
-        "title": "Prescription for productivity: Healthy kids - Federal Reserve Bank of Minneapolis",
-        "summary": "Prescription for productivity: Healthy kids &nbsp;&nbsp; Federal Reserve Bank of Minneapolis",
-        "publishedAt": "Sun, 08 Nov 2026 08:00:00 GMT",
-        "source": "Federal Reserve Bank of Minneapolis",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTGZRZW02MjlSUHpaeFRkaXhsNFIzUnNZM2VWMDNUOGxhcnJhajRRY1VCSGNhVE42dm5aS09oN1dacTVZWEVxenNyYnd2a05OTFJURDlwbFc0QTh5MXM5ckYyandKU3ZTaEVUSC1JM2Y1d3JDanM5ZHlhWGd2RndTbFo0Z2pScm00amVMdjZjcw?oc=5",
-        "score": 0
-      },
-      {
-        "title": "Supreme Court Sets Date to Consider Federal Reserve Payment Access Dispute - CUTimes",
-        "summary": "Supreme Court Sets Date to Consider Federal Reserve Payment Access Dispute &nbsp;&nbsp; CUTimes",
-        "publishedAt": "Tue, 10 Nov 2026 18:04:04 GMT",
-        "source": "CUTimes",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZHBnVVI1T0pBTGdCVmNid05acFpWLVZodzBuSzlFRmYtZl92N1dOWTEtbElId05PV2ZmVk03ekhnd3NqNFk5U0pwUkNkazdueU5BbG9rSkh2SUlsTFlLcDlEd3ZsMU5SZV9ydWRGM20xVFFUWUJ6dWdPRHplZDViZHozSktUNGh1QUE2cXB5TkpTaUp0T09fcHFHR096N0N3dWtYdFktOG1WMWJSTklN?oc=5",
+        "title": "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes - CNBC",
+        "summary": "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes &nbsp;&nbsp; CNBC",
+        "publishedAt": "Wed, 11 Nov 2026 13:16:31 GMT",
+        "source": "CNBC",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTGliNnhINWdOb0RYdm54M2dIWGNuazZhZ01USkpfZzFKUHIwVTZBZ3RjNm5iUzRjcEFJcF94V01McUE5OUtWZFVJVi02b1VzR2RIbjY2QzNUb3I0V01nbzRhS2FEZ29nLUJQOEUzTGtJd3NwNkRlamVubHNuTkhadFVBV0h4QUhEd2xLSFB1eWpGX3VmQWNoOHozbUc?oc=5",
         "score": 0
       }
     ]
