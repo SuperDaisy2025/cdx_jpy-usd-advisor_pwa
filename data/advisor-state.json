@@ -1,5 +1,5 @@
 {
-  "generatedAtJst": "2026-11-12 12:47",
+  "generatedAtJst": "2026-11-13 12:23",
   "startingCapitalJpy": 1000000,
   "policy": {
     "basePair": "USD/JPY",
@@ -14,18 +14,18 @@
     "directionLabel": "中立",
     "confidence": 0.51,
     "summary": "中立を基本シナリオにします。トレンド、IMM、ニュースが拮抗しているため、最大50%の制約内でも動かす量は抑えています。",
-    "score": 0.032,
+    "score": 0.024,
     "reasons": [
       "直近のUSD/JPYは157.690で、1つ前の観測値からの勢いを0.00として評価しました。",
       "IMMの円ポジションは-84,200で、前週比の変化を0.09として売買比率に反映しました。",
       "ニュースは中立寄りです。",
-      "レバレッジなし、最大移動比率50%のルールにより、今回の推奨比率は2%です。"
+      "レバレッジなし、最大移動比率50%のルールにより、今回の推奨比率は1%です。"
     ]
   },
   "recommendation": {
     "action": "HOLD",
-    "allocationRatio": 0.02,
-    "moveAmountJpy": 20000,
+    "allocationRatio": 0.01,
+    "moveAmountJpy": 10000,
     "cashJpyAfterTrade": 1000000,
     "usdAfterTrade": 0
   },
@@ -88,8 +88,8 @@
     {
       "timeJst": "2026-06-28 08:00",
       "action": "様子見",
-      "ratio": 0.02,
-      "amountJpy": 20000,
+      "ratio": 0.01,
+      "amountJpy": 10000,
       "usdJpy": 157.69,
       "totalJpy": 1000000
     }
@@ -114,46 +114,46 @@
   "news": {
     "provider": "Google News RSS",
     "summary": "ニュースは中立寄りです。",
-    "score": 0,
+    "score": -0.036,
     "items": [
       {
-        "title": "Safe, Sound, and Cyber Ready - Philadelphia Federal Reserve Bank",
-        "summary": "Safe, Sound, and Cyber Ready &nbsp;&nbsp; Philadelphia Federal Reserve Bank",
-        "publishedAt": "Wed, 11 Nov 2026 08:28:52 GMT",
-        "source": "Philadelphia Federal Reserve Bank",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Tb1ZDXy10SmVOOFJCckYtcFVraDhvUDJlNE10cnZ1SUhEQVdQaTRiTTVlRWxKOG5LX2VZelJITXQ1ak9BcGlUdFVxTExVWVpBSGN3T21NaWRxZlYyemdzRzdwaS1Ud29BeUEzT2NGS1JVYVBOU2c?oc=5",
+        "title": "New Atlanta Fed Community Advisory Council: Informing Economic Policy - Federal Reserve Bank of Atlanta",
+        "summary": "New Atlanta Fed Community Advisory Council: Informing Economic Policy &nbsp;&nbsp; Federal Reserve Bank of Atlanta",
+        "publishedAt": "Thu, 12 Nov 2026 22:49:45 GMT",
+        "source": "Federal Reserve Bank of Atlanta",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOMlJSY1FzNW80VzNMMlVqY1JZWHozcGRnODl6U0FYRWtELVZoTUdvUU5TTFNQYjQ5WUo0eVRfeURwWHg0SFE3VWc0SlY5T1FHR01xX1ZoMU5PMnlodC1WQU0wQnJ2ZWZTWmk5Qk90OWVpRjBCUGF3QURUdUdXU04zcm92X0RuRk82M1hPZ2F4ZWV4ZHBkeVNvUHR2WnFZTjY1MHNac1BEMXRKcXZEQjBXNGVwb3NORlZnNmJFNVg4R2tvMHRVRW9uSkVWUlVvTS14LXV5ei1XVHBKYU9RSHB6aXlhekM2aWVT?oc=5",
         "score": 0
       },
       {
-        "title": "Dollar near one-month high as yen edges toward 160 - Yahoo Finance",
-        "summary": "Dollar near one-month high as yen edges toward 160 &nbsp;&nbsp; Yahoo Finance",
-        "publishedAt": "Thu, 12 Nov 2026 00:14:45 GMT",
+        "title": "Fed's Williams says central bank has 'work to do' to get inflation back on target - Reuters",
+        "summary": "Fed's Williams says central bank has 'work to do' to get inflation back on target &nbsp;&nbsp; Reuters",
+        "publishedAt": "Fri, 13 Nov 2026 01:35:00 GMT",
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeGRuWWM4eDJNZlg0NWlDTF9Xc1E2c3lBb0NzY3YwSGg4bnlqMnd6X2RnbmhkTk9lUnY0UC1iQVdBdzR2TUUyZVZ6UXRtcExlejMyQzZlTDV3c0V0a0ExRWlsaENJVzZ5LVVvb1FyZENmTG9VVWl5V1BQR2diUF9JdzhLU3g4RDc0OG9ld05FMFhWTnFKUWZaeW9zUUZOektDSC1GejczRzFOWkRUcDJJMDJabjA?oc=5",
+        "score": 0
+      },
+      {
+        "title": "US Treasury bought yen in July; Fed made no solo FX interventions in Q3 - Yahoo Finance",
+        "summary": "US Treasury bought yen in July; Fed made no solo FX interventions in Q3 &nbsp;&nbsp; Yahoo Finance",
+        "publishedAt": "Thu, 12 Nov 2026 23:03:07 GMT",
         "source": "Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObjIzdE9hb2t6ZUdPV08wOGRaVWJIUUhKbWVuVU5QS1Vod05KRnZGSkdxTmJQcldVelpBaS1ET3ctSEZJbEpQRmlmaXczbUJYaURaVVpLSFpuc19ycjRtTTQtTFBaTWY0MlRJZVZ3SUJ4RHZPTXcwLVhqdFVFbzVrdG14c05EdG9NdGo1bVdZU1hkcW1IaHRMMGdDQQ?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb2tqWjZvZHlaWUxGa0QxU3pHSE5xUk12cjd5NUVZSGNTNXBNVURsaXdNWUFwLTIyMDFGSktfckRsalI0WG1IQlNuVy1obkxPQURmVlN5MFItMnl4Y1VuTzE1TjJ0VVNoS3ZQLWZKaVNZdERKMGZabnVhNFNqVjNiejhrYm5aM3ZWTV9ZMFUxYVhLbDhHUHFwaWYtbkI?oc=5",
+        "score": -0.18
+      },
+      {
+        "title": "Are Americans still looking? Revisiting long-term unemployment - Federal Reserve Bank of Minneapolis",
+        "summary": "Are Americans still looking? Revisiting long-term unemployment &nbsp;&nbsp; Federal Reserve Bank of Minneapolis",
+        "publishedAt": "Fri, 13 Nov 2026 01:51:54 GMT",
+        "source": "Federal Reserve Bank of Minneapolis",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa1B5bFVIMWdmOTJoc2FjemRKQnRIcWMwUjNnUUwxdVAxTk1JdDJ6WkNLSHBtTVdzM29MNGw0ZkVUTGZJVUpaSzJrUHlxOERadzNydDNKQ2lnd0VRTXJZNVZWcGdBM2NtR1NPbkRHbHE1WUtYaF9sdjJlR3UyUTJ5dmpEZlZLRF9sZXUxcnQyeG5EaEVYa2RzWnRCS0JXZnZzN2RYbW9GYm4?oc=5",
         "score": 0
       },
       {
-        "title": "Signs of Easing Pressure on Farm Finances - Kansas City Fed",
-        "summary": "Signs of Easing Pressure on Farm Finances &nbsp;&nbsp; Kansas City Fed",
-        "publishedAt": "Wed, 11 Nov 2026 08:22:54 GMT",
-        "source": "Kansas City Fed",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNakx3UVl2aWE0c2NUMFYtbWhwNUdHSEwxZlpNRkcxMVR4WWpDRFFTWGpIdjE3UGV3Y0tXV3pEMk02VmJCcUo1RmxkYWV1VFNGcF9EbG05UXB3Z2sxYXQ3d2pDU01IU09GUzY2MzFHbDliU0M5UEtqLVp2a0REMEtUZkpxNzNzTHVpcFo1NUlaeXJNUXhHNzE5TWZzSzZZS2UzQnhr?oc=5",
-        "score": 0
-      },
-      {
-        "title": "Economic and monetary policy outlook - Federal Reserve Bank of Dallas",
-        "summary": "Economic and monetary policy outlook &nbsp;&nbsp; Federal Reserve Bank of Dallas",
-        "publishedAt": "Tue, 10 Nov 2026 19:37:51 GMT",
-        "source": "Federal Reserve Bank of Dallas",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15eU9IVk90bGxVVFFuMUM5TU1zQ0pORHFjMEptYUJBbUdMSGx6VVE1RnVZZW9KeVc1Yy1XeDJUZnpWckQ1WmgxbzZpTndwUWhiNjhTeEtCdmQ1M1pOM0FTMkpiNFR2NWtnVm03cw?oc=5",
-        "score": 0
-      },
-      {
-        "title": "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes - CNBC",
-        "summary": "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes &nbsp;&nbsp; CNBC",
-        "publishedAt": "Wed, 11 Nov 2026 13:16:31 GMT",
-        "source": "CNBC",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTGliNnhINWdOb0RYdm54M2dIWGNuazZhZ01USkpfZzFKUHIwVTZBZ3RjNm5iUzRjcEFJcF94V01McUE5OUtWZFVJVi02b1VzR2RIbjY2QzNUb3I0V01nbzRhS2FEZ29nLUJQOEUzTGtJd3NwNkRlamVubHNuTkhadFVBV0h4QUhEd2xLSFB1eWpGX3VmQWNoOHozbUc?oc=5",
+        "title": "Federal Reserve to Forgo Rate Decision at October 2027 Meeting - WSJ",
+        "summary": "Federal Reserve to Forgo Rate Decision at October 2027 Meeting &nbsp;&nbsp; WSJ",
+        "publishedAt": "Fri, 13 Nov 2026 01:57:25 GMT",
+        "source": "WSJ",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWkZiVk1uU2k5a1RQRGUxdFBJMEcxSVhtWEJfR0s3Q3E3T185OXRrZHRZMDVsQlhTdVpIbVlfQnNPem4zbGlTMDR6elFDRlM3RzhETUhCVzlTTDJvWmtfQzctcUFhRXZsVmxpVjBQUXpXTkRUTThQNVJwQV9YX19qaTZGVGswRGF1N2d0dktsZW5DVHlFWVNENmtQaERZYm5ZTmREdm8tMzVjX3ZCQUdqbTFCbWktdw?oc=5",
         "score": 0
       }
     ]
