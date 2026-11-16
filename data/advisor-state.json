@@ -1,5 +1,5 @@
 {
-  "generatedAtJst": "2026-11-15 11:37",
+  "generatedAtJst": "2026-11-16 11:42",
   "startingCapitalJpy": 1000000,
   "policy": {
     "basePair": "USD/JPY",
@@ -12,20 +12,20 @@
   "forecast": {
     "direction": "neutral",
     "directionLabel": "中立",
-    "confidence": 0.51,
+    "confidence": 0.5,
     "summary": "中立を基本シナリオにします。トレンド、IMM、ニュースが拮抗しているため、最大50%の制約内でも動かす量は抑えています。",
-    "score": 0.024,
+    "score": 0.01,
     "reasons": [
       "直近のUSD/JPYは157.690で、1つ前の観測値からの勢いを0.00として評価しました。",
       "IMMの円ポジションは-84,200で、前週比の変化を0.09として売買比率に反映しました。",
       "ニュースは中立寄りです。",
-      "レバレッジなし、最大移動比率50%のルールにより、今回の推奨比率は1%です。"
+      "レバレッジなし、最大移動比率50%のルールにより、今回の推奨比率は0%です。"
     ]
   },
   "recommendation": {
     "action": "HOLD",
-    "allocationRatio": 0.01,
-    "moveAmountJpy": 10000,
+    "allocationRatio": 0,
+    "moveAmountJpy": 0,
     "cashJpyAfterTrade": 1000000,
     "usdAfterTrade": 0
   },
@@ -88,8 +88,8 @@
     {
       "timeJst": "2026-06-28 08:00",
       "action": "様子見",
-      "ratio": 0.01,
-      "amountJpy": 10000,
+      "ratio": 0,
+      "amountJpy": 0,
       "usdJpy": 157.69,
       "totalJpy": 1000000
     }
@@ -114,7 +114,7 @@
   "news": {
     "provider": "Google News RSS",
     "summary": "ニュースは中立寄りです。",
-    "score": -0.036,
+    "score": -0.108,
     "items": [
       {
         "title": "US Treasury bought yen in July; Fed made no solo FX interventions in Q3 - Reuters",
@@ -133,27 +133,27 @@
         "score": 0
       },
       {
-        "title": "Kevin Warsh’s Plan to Remake the Fed: Fewer Rate Votes, More Deliberating - WSJ",
-        "summary": "Kevin Warsh’s Plan to Remake the Fed: Fewer Rate Votes, More Deliberating &nbsp;&nbsp; WSJ",
-        "publishedAt": "Fri, 13 Nov 2026 21:01:00 GMT",
-        "source": "WSJ",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWWREYWtpWllac2NUdW9FOW1tdXZrTS1FclFzZnA4TEhkOEFJQ0liTEZZdElXbU5BUHMtTnNVME1zYUVpWHY5VXZmM0Z4YWRMY0U4YzVFdldTOEhEQUpSSnluaXNNM2VVVlQ0YnNXR0hUNHRhM1gwSWhtZXl3QlB2QXR5aUVXajZBTTlRdDhB?oc=5",
+        "title": "Roughed-Up Bond Traders Look to Fedspeak, Minutes for Next Move - Bloomberg",
+        "summary": "Roughed-Up Bond Traders Look to Fedspeak, Minutes for Next Move &nbsp;&nbsp; Bloomberg",
+        "publishedAt": "Sun, 15 Nov 2026 20:00:00 GMT",
+        "source": "Bloomberg",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaEV2d0pEVGhUanZROXNyZXgtMm5aUTE4NXJXQ2tuY2pBLWJSaDlLQ2s3MC1ScjZWdFhEZkF4WmotOEQ2Y0J4M3Ytb2tSYkVwVmVvTDVUX0VFb0F0LTVaeGx1MVY2Y2ZtS0E2Z2ZZOGdPNVFIVC05czF3NUhqTW1tWXM2YWdVX2YyYjd4ZGpOTlZ3Sl9EMHZKRjBEa1JFQTc4ZVhzb01EMmpWbEJGdEtycEo1Yw?oc=5",
         "score": 0
       },
       {
-        "title": "AI risks are the biggest threat to the financial system, Fed survey finds - CNBC",
-        "summary": "AI risks are the biggest threat to the financial system, Fed survey finds &nbsp;&nbsp; CNBC",
-        "publishedAt": "Fri, 13 Nov 2026 21:00:12 GMT",
-        "source": "CNBC",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOd1luSGcydUl6NE15cEcydlNhSnRuNjNjVHdMQldrQjRYcXpLZ3FfbnNrWndndDNTaUowRWJ6NDg0dUdaN084LW00YU4tNEhPTXh6Ymx3WVFpZk5MQTgwVFpMX1o4cFdXT2lCQi1xSzlncG9mUkpDa0xTUF9BY2E3cXVnS2fSAYoBQVVfeXFMTmZFcVNQMElxVkdHNTFNMVBOYTg0SGVKNm5ISHM5N3pGUUxKSE5Za2ZuMmZNb3RnY0FpVWxNbWtIdXFIdm0wOWVIa3FXWVJJaVhhTHBzOVpJbzVnY2VGZk04WE5aRHVBdjdkRlVpSm1VQXo1ckRPRTV4aDNjNGJNeGlhSXZ4ZEhIa1dR?oc=5",
-        "score": 0
+        "title": "Japanese Yen strengthens as intervention warnings offset weaker Japan GDP - FXStreet",
+        "summary": "Japanese Yen strengthens as intervention warnings offset weaker Japan GDP &nbsp;&nbsp; FXStreet",
+        "publishedAt": "Mon, 16 Nov 2026 01:23:05 GMT",
+        "source": "FXStreet",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPX1Z4SFNBOWs2a3R2RVNwVk1MMldKX2ZvZ21WRVMyY3ZHdlRUWG01SEstRWhHNEtHSFA4STJhZ0RQOW5hSnF2RDdzNEFBeHhmWnp5ZlZidTA3aDRGYnNLTW1mdmcyX28yemYtZEV3NFlRZDFPeUg3TjJtUlVCdVA0RnhYWE5BY2s1LTc1TGdxdENjNkZKXzZQRUlNSnh0RW44N0xtR0V3RUVsNTZJWEZGM3hReTQya0U?oc=5",
+        "score": -0.36
       },
       {
-        "title": "Economic and monetary policy outlook - Federal Reserve Bank of Dallas",
-        "summary": "Economic and monetary policy outlook &nbsp;&nbsp; Federal Reserve Bank of Dallas",
-        "publishedAt": "Tue, 10 Nov 2026 19:37:51 GMT",
-        "source": "Federal Reserve Bank of Dallas",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15eU9IVk90bGxVVFFuMUM5TU1zQ0pORHFjMEptYUJBbUdMSGx6VVE1RnVZZW9KeVc1Yy1XeDJUZnpWckQ1WmgxbzZpTndwUWhiNjhTeEtCdmQ1M1pOM0FTMkpiNFR2NWtnVm03cw?oc=5",
+        "title": "Fed And OCC Believe Banks Are Strong, But Non-Bank Risks Are Growing - Forbes",
+        "summary": "Fed And OCC Believe Banks Are Strong, But Non-Bank Risks Are Growing &nbsp;&nbsp; Forbes",
+        "publishedAt": "Sun, 15 Nov 2026 13:41:39 GMT",
+        "source": "Forbes",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUDEtZXl5QWJUTnBRS09DSzFiQ05STkhhUFFQWl9BSVZldk9wZGpRSDJ3eWhyUGZrX0taam5aWDc4aEpLbGNmak55UlBBNGtiVGFyUFVYSkhzeFBLc2d4ZkpidWczUjhxbk5GbmwtQkNqSUIwNEQ2MkI2Wi1JWDEzek56ZVU2dnR6c3F6U0NHMU52b0FJbEZkUDVUbjhtMjN0bzRkTlpGSVVjT3pyWnlUcUZBNmtNcE5DMjUyTHNkQ3JRZVRQZ0x3Snl5THhRUQ?oc=5",
         "score": 0
       }
     ]
