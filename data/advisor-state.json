@@ -1,5 +1,5 @@
 {
-  "generatedAtJst": "2026-11-16 11:42",
+  "generatedAtJst": "2026-11-17 14:03",
   "startingCapitalJpy": 1000000,
   "policy": {
     "basePair": "USD/JPY",
@@ -12,20 +12,20 @@
   "forecast": {
     "direction": "neutral",
     "directionLabel": "中立",
-    "confidence": 0.5,
+    "confidence": 0.51,
     "summary": "中立を基本シナリオにします。トレンド、IMM、ニュースが拮抗しているため、最大50%の制約内でも動かす量は抑えています。",
-    "score": 0.01,
+    "score": 0.032,
     "reasons": [
       "直近のUSD/JPYは157.690で、1つ前の観測値からの勢いを0.00として評価しました。",
       "IMMの円ポジションは-84,200で、前週比の変化を0.09として売買比率に反映しました。",
       "ニュースは中立寄りです。",
-      "レバレッジなし、最大移動比率50%のルールにより、今回の推奨比率は0%です。"
+      "レバレッジなし、最大移動比率50%のルールにより、今回の推奨比率は2%です。"
     ]
   },
   "recommendation": {
     "action": "HOLD",
-    "allocationRatio": 0,
-    "moveAmountJpy": 0,
+    "allocationRatio": 0.02,
+    "moveAmountJpy": 20000,
     "cashJpyAfterTrade": 1000000,
     "usdAfterTrade": 0
   },
@@ -88,8 +88,8 @@
     {
       "timeJst": "2026-06-28 08:00",
       "action": "様子見",
-      "ratio": 0,
-      "amountJpy": 0,
+      "ratio": 0.02,
+      "amountJpy": 20000,
       "usdJpy": 157.69,
       "totalJpy": 1000000
     }
@@ -114,15 +114,31 @@
   "news": {
     "provider": "Google News RSS",
     "summary": "ニュースは中立寄りです。",
-    "score": -0.108,
+    "score": 0,
     "items": [
       {
-        "title": "US Treasury bought yen in July; Fed made no solo FX interventions in Q3 - Reuters",
-        "summary": "US Treasury bought yen in July; Fed made no solo FX interventions in Q3 &nbsp;&nbsp; Reuters",
-        "publishedAt": "Thu, 12 Nov 2026 23:03:22 GMT",
+        "title": "Productivity and Jobs Task Force Conference - Federal Reserve Bank of San Francisco",
+        "summary": "Productivity and Jobs Task Force Conference &nbsp;&nbsp; Federal Reserve Bank of San Francisco",
+        "publishedAt": "Tue, 17 Nov 2026 04:58:54 GMT",
+        "source": "Federal Reserve Bank of San Francisco",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa29BVU9nZnZzQlctVXprcU5DV2dPYklndHM1aTFMWktWRlVpQ080bmtJUW1pSjVSamhRSENSWVM0SHZhWWxwQV9FZThuaU9vRVdFOUttNDRtRUxJOFRkOWJ2d0xxbFczQi15cVd6S3J0U2xLODRXUGRuTTZ4V2I4ckJqRUlkTzk1ZENqVk42V1dJazFSdFI1Ymx0VlM?oc=5",
+        "score": 0
+      },
+      {
+        "title": "BPI Statement on Supreme Court Preserving Federal Reserve Discretion Over Master Accounts - Bank Policy Institute",
+        "summary": "BPI Statement on Supreme Court Preserving Federal Reserve Discretion Over Master Accounts &nbsp;&nbsp; Bank Policy Institute",
+        "publishedAt": "Mon, 16 Nov 2026 19:07:28 GMT",
+        "source": "Bank Policy Institute",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQS0N3X0VlN1JIMU9kcDB5WHBPOWZPZE5VbndpeXoxeWdIRElGSU03UHMtNEtubjFqZ09OMEdSWlJKSmxsaHJrdkNFNXZtYUJKREtGb1BJaFRNc0RTeG8ycmhqd3d4eHZJNjIwQWl5cGFkVHZEbHBSWGxiLS1SdHNHUUVLZWtCU0RWdlV6LUNNRDJJRVM4M2tOVERQYXpvQkE1emh2eGl4SG9mdw?oc=5",
+        "score": 0
+      },
+      {
+        "title": "NY Fed's Nordstrom flags resilience of foreign exchange markets - Reuters",
+        "summary": "NY Fed's Nordstrom flags resilience of foreign exchange markets &nbsp;&nbsp; Reuters",
+        "publishedAt": "Mon, 16 Nov 2026 14:14:57 GMT",
         "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMkM3MHBxSC0zWERfdnhqRURMc2dhS01oamJOMC1TZFMwNGljLUtmTEVlaFZsVWc4b2JsUmJVNkUwWEpraUJaVVJrNHp3TktqczB6RXhtSTBOaWZFQ0k0WFd6UHhvTGFJMWs5UTAzZDkyb1FfNU90RVh5WVZfT0ZzMzNfeGVLR1J2NDItOVhvbmFtQVgtclBoMEpQdkxCcXFtVkUzZFZrQzB2bmd3NlE?oc=5",
-        "score": -0.18
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNndORlZOcGlkUHlSWHVOQnJUQUMxM0JERDBxM2FUbGlWdmhINzI1SEtiaU1hc1pMRlQ1blFjLS1fQzI2MFZDYTF0bUo5cnlWT2ZJNmNCdkpSekJqR2RFUnpLWEl3UU1CbEhlUlJrbUp3eVRMMGE5el9pVXhDa1lfQVpXclFMRUxnSFp1WllpWWR5Q1ZCQmlldUQtZHJDOVgySEtZYzQtWQ?oc=5",
+        "score": 0
       },
       {
         "title": "Federal Reserve System Resources on Agriculture and Rural Topics - Kansas City Fed",
@@ -133,27 +149,11 @@
         "score": 0
       },
       {
-        "title": "Roughed-Up Bond Traders Look to Fedspeak, Minutes for Next Move - Bloomberg",
-        "summary": "Roughed-Up Bond Traders Look to Fedspeak, Minutes for Next Move &nbsp;&nbsp; Bloomberg",
-        "publishedAt": "Sun, 15 Nov 2026 20:00:00 GMT",
-        "source": "Bloomberg",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaEV2d0pEVGhUanZROXNyZXgtMm5aUTE4NXJXQ2tuY2pBLWJSaDlLQ2s3MC1ScjZWdFhEZkF4WmotOEQ2Y0J4M3Ytb2tSYkVwVmVvTDVUX0VFb0F0LTVaeGx1MVY2Y2ZtS0E2Z2ZZOGdPNVFIVC05czF3NUhqTW1tWXM2YWdVX2YyYjd4ZGpOTlZ3Sl9EMHZKRjBEa1JFQTc4ZVhzb01EMmpWbEJGdEtycEo1Yw?oc=5",
-        "score": 0
-      },
-      {
-        "title": "Japanese Yen strengthens as intervention warnings offset weaker Japan GDP - FXStreet",
-        "summary": "Japanese Yen strengthens as intervention warnings offset weaker Japan GDP &nbsp;&nbsp; FXStreet",
-        "publishedAt": "Mon, 16 Nov 2026 01:23:05 GMT",
-        "source": "FXStreet",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPX1Z4SFNBOWs2a3R2RVNwVk1MMldKX2ZvZ21WRVMyY3ZHdlRUWG01SEstRWhHNEtHSFA4STJhZ0RQOW5hSnF2RDdzNEFBeHhmWnp5ZlZidTA3aDRGYnNLTW1mdmcyX28yemYtZEV3NFlRZDFPeUg3TjJtUlVCdVA0RnhYWE5BY2s1LTc1TGdxdENjNkZKXzZQRUlNSnh0RW44N0xtR0V3RUVsNTZJWEZGM3hReTQya0U?oc=5",
-        "score": -0.36
-      },
-      {
-        "title": "Fed And OCC Believe Banks Are Strong, But Non-Bank Risks Are Growing - Forbes",
-        "summary": "Fed And OCC Believe Banks Are Strong, But Non-Bank Risks Are Growing &nbsp;&nbsp; Forbes",
-        "publishedAt": "Sun, 15 Nov 2026 13:41:39 GMT",
-        "source": "Forbes",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUDEtZXl5QWJUTnBRS09DSzFiQ05STkhhUFFQWl9BSVZldk9wZGpRSDJ3eWhyUGZrX0taam5aWDc4aEpLbGNmak55UlBBNGtiVGFyUFVYSkhzeFBLc2d4ZkpidWczUjhxbk5GbmwtQkNqSUIwNEQ2MkI2Wi1JWDEzek56ZVU2dnR6c3F6U0NHMU52b0FJbEZkUDVUbjhtMjN0bzRkTlpGSVVjT3pyWnlUcUZBNmtNcE5DMjUyTHNkQ3JRZVRQZ0x3Snl5THhRUQ?oc=5",
+        "title": "CPI | Supreme Court Denies Custodia Bank Appeal in Federal Reserve Dispute - PYMNTS.com",
+        "summary": "CPI | Supreme Court Denies Custodia Bank Appeal in Federal Reserve Dispute &nbsp;&nbsp; PYMNTS.com",
+        "publishedAt": "Mon, 16 Nov 2026 20:40:09 GMT",
+        "source": "PYMNTS.com",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOGc1OFptZmdNb0VNemVEa3JjU1MwcWZxWk1WNVZGR1JncTBoMUFrMTRyNlBwMHlpWFlkXzI5VVM3UHg2cUhsUzV0d0FJcVZ0S2NzTjNEa2xWbGt6SlJ5VVVaaE1tVjUybVRNNzZHZ2lVcnQtSG9IWWxYSExnaG1SQnlvWTB1QVFTVmpHZXdKWGVGbFB1WFJNSlpyTnQ4aXhNZVlHRw?oc=5",
         "score": 0
       }
     ]
