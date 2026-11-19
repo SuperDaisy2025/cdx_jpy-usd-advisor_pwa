@@ -1,5 +1,5 @@
 {
-  "generatedAtJst": "2026-11-18 13:15",
+  "generatedAtJst": "2026-11-19 13:09",
   "startingCapitalJpy": 1000000,
   "policy": {
     "basePair": "USD/JPY",
@@ -14,7 +14,7 @@
     "directionLabel": "中立",
     "confidence": 0.51,
     "summary": "中立を基本シナリオにします。トレンド、IMM、ニュースが拮抗しているため、最大50%の制約内でも動かす量は抑えています。",
-    "score": 0.032,
+    "score": 0.039,
     "reasons": [
       "直近のUSD/JPYは157.690で、1つ前の観測値からの勢いを0.00として評価しました。",
       "IMMの円ポジションは-84,200で、前週比の変化を0.09として売買比率に反映しました。",
@@ -114,14 +114,22 @@
   "news": {
     "provider": "Google News RSS",
     "summary": "ニュースは中立寄りです。",
-    "score": 0,
+    "score": 0.036,
     "items": [
       {
-        "title": "Formulating Good Monetary Policy Requires Lots of Listening - Federal Reserve Bank of Atlanta",
-        "summary": "Formulating Good Monetary Policy Requires Lots of Listening &nbsp;&nbsp; Federal Reserve Bank of Atlanta",
-        "publishedAt": "Tue, 17 Nov 2026 15:04:30 GMT",
-        "source": "Federal Reserve Bank of Atlanta",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRGZhbHUtVmZ4X19VZ1NRZDFTREp5TThaTUhNZDVvMERQRHpLVXZBZWVERVNuSWdGU2pWei0wVDJKX29pYzk4N2RBRlpEV050eEJ4ZkkyWDdGVndfSDRwYVZkMWdGSlFnSFptd3NaSnFkaURfMUFKakVxd0N6YzJmcTdiRFB6bUlsVFd1UVNySHNKVWRodW9DS1o5cTc2WUNyMjljdUZqdEVoYmh3ZktqV2tGWGU2bUF3QzFGVVk5WWtXWVlOUnJ0R0ludWRHcE9VNW80d0dVaw?oc=5",
+        "title": "Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike - CNBC",
+        "summary": "Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike &nbsp;&nbsp; CNBC",
+        "publishedAt": "Wed, 18 Nov 2026 12:20:11 GMT",
+        "source": "CNBC",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ0FXYWthQmJLZi05SXhQR1o2akNmbUo4WFAyUWVjbjdkNmdwWi05clFGakpLMEFkSi1oS2ljalM2N2NyclZWTE9temNQMTJjZk9EQTYwZUJiMVlPcE1zQzA4eE5OU0tNQTg5QU5fU3k4bGIxM2NIVVFGZUZzRlR6VXEwVjBLNmvSAYwBQVVfeXFMUDZSczNSbHAxcjNFa1FMNWU3STJRUVBRV0x6SjhFVFRBdGNqSFhqMGl5bGtMSkN0YzQyWUpWLVppMmxpQWNFbFF4VmY0eE5feTJ5UVotZnNPYVdEdXhzWWVmaTk3YmdXNGdtRHlRN1RqeElDMXBEbkw4Z1hyWWxnM3hBWm9MME5Xbm5MNU0?oc=5",
+        "score": 0.18
+      },
+      {
+        "title": "Neel Kashkari at the FinRegLab AI Symposium - Federal Reserve Bank of Minneapolis",
+        "summary": "Neel Kashkari at the FinRegLab AI Symposium &nbsp;&nbsp; Federal Reserve Bank of Minneapolis",
+        "publishedAt": "Wed, 18 Nov 2026 21:15:00 GMT",
+        "source": "Federal Reserve Bank of Minneapolis",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcG9pVUljUTFtVXFiQ2QxSFlrT0dJQkNvdDZIRFFrejQwNExqemtrdlVyNmFHTWVKdWhVaklxWGE2MFQ5YVk0aEd4T2xQQmREZFhXZjZoQ2pOdDZaSXBfMlR3YjBNVkpsNGhLN0dtNGlteThLczZOQ0wxUnNpYk0wNGtXeGY2ZmRaZ1FXdjljUGZhdw?oc=5",
         "score": 0
       },
       {
@@ -133,27 +141,19 @@
         "score": 0
       },
       {
-        "title": "Fed's Waller says central bank will work with private sector on digital finance - Reuters",
-        "summary": "Fed's Waller says central bank will work with private sector on digital finance &nbsp;&nbsp; Reuters",
-        "publishedAt": "Tue, 17 Nov 2026 18:49:55 GMT",
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPY0RlX21iSzVMUVlZeGJSTW9tcnU0UDRIZ2RaNVowNWI0NVFLZG0zS2V2eVNuQnZQa0UtX2d5TFRwRkdQbnE2SEs3NzRINFYxb2xIMzBRMjZMc2ItLVFhaGQtQ21tMmtTR1NuYVd1ZjlITWRqOWNGcmVydG1pVmh6NnJDTlNibjU1MHI5RmVWY1owemVHdW5rQlF3MHZ0SzlObG9xNzFtcEtENmNrZGRQclAycjRuc2JmREVqUUc0NldqTjBRMEww?oc=5",
+        "title": "Formulating Good Monetary Policy Requires Lots of Listening - Federal Reserve Bank of Atlanta",
+        "summary": "Formulating Good Monetary Policy Requires Lots of Listening &nbsp;&nbsp; Federal Reserve Bank of Atlanta",
+        "publishedAt": "Tue, 17 Nov 2026 15:04:24 GMT",
+        "source": "Federal Reserve Bank of Atlanta",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRGZhbHUtVmZ4X19VZ1NRZDFTREp5TThaTUhNZDVvMERQRHpLVXZBZWVERVNuSWdGU2pWei0wVDJKX29pYzk4N2RBRlpEV050eEJ4ZkkyWDdGVndfSDRwYVZkMWdGSlFnSFptd3NaSnFkaURfMUFKakVxd0N6YzJmcTdiRFB6bUlsVFd1UVNySHNKVWRodW9DS1o5cTc2WUNyMjljdUZqdEVoYmh3ZktqV2tGWGU2bUF3QzFGVVk5WWtXWVlOUnJ0R0ludWRHcE9VNW80d0dVaw?oc=5",
         "score": 0
       },
       {
-        "title": "Rising housing costs are creating 'enormous pressure.' What are the challenges and solutions? - Federal Reserve Bank of Boston",
-        "summary": "Rising housing costs are creating 'enormous pressure.' What are the challenges and solutions? &nbsp;&nbsp; Federal Reserve Bank of Boston",
-        "publishedAt": "Tue, 17 Nov 2026 17:42:43 GMT",
-        "source": "Federal Reserve Bank of Boston",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTVd6RUdBc1RsVW5Cd05uekNmdlJDT1FRMHpyeV80bzNsQXY0ZnctNFlMZG5YU1lTQTdvTkJ4SFpQTUZySnZJRkZydVdyNUJ6bGdjeTdaS2RiUWEtMU93SGRBbUlEQW1rdTh6eGU2SDlpbE9lQmdBYUl5c0NRbGs4SUgzYXhid3NmMl9xWFRCOWxQVVd1N3dGeTBMY2p1OXlpVmVNcE5LV2poTHhiQ1BOSGpLZw?oc=5",
-        "score": 0
-      },
-      {
-        "title": "Fed warns of growing financial risks from AI boom - Axios",
-        "summary": "Fed warns of growing financial risks from AI boom &nbsp;&nbsp; Axios",
-        "publishedAt": "Tue, 17 Nov 2026 10:19:24 GMT",
-        "source": "Axios",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qSlctTWtmQ2hMM1dOZTJHRE8yOUQySGtxTnc0X202UVFHYlEtUVE2LXBDMWJmd19JTmpmaHZQNUZIMUFXWEZGOURxVG44TDBLQlFVMWhiTVJNY284Y3dVcVNHbFdaX1g1OWk1SA?oc=5",
+        "title": "Bank of Japan to raise interest rates in December and again by end-March, economists say: Reuters poll - WTVB",
+        "summary": "Bank of Japan to raise interest rates in December and again by end-March, economists say: Reuters poll &nbsp;&nbsp; WTVB",
+        "publishedAt": "Wed, 18 Nov 2026 22:28:58 GMT",
+        "source": "WTVB",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOT1B3aHBzV3M4YkNTdUZHVE5lc1FpU0t2RGEzVkhVbzk1aUtjbXpiQXBIcndaQlhILXlVdFhlRThNNEpKbE14T1JzX2VpWk1CR2dmLXAtNzBBMG9jUmswWFRqclRPdF9sNnBQZjlETl9uN3FlYndpWUJjUXV3N2EtWkZyWG1mMTRYSGNFaE5lMDdZczlGaWdDaVBHR0tLRkVmZWY3MDhrQUZ3RUJfSFdBeW4zbjZOUmJyQlE?oc=5",
         "score": 0
       }
     ]
