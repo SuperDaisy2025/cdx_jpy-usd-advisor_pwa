@@ -1,5 +1,5 @@
 {
-  "generatedAtJst": "2026-11-20 12:57",
+  "generatedAtJst": "2026-11-21 12:56",
   "startingCapitalJpy": 1000000,
   "policy": {
     "basePair": "USD/JPY",
@@ -117,6 +117,30 @@
     "score": 0.036,
     "items": [
       {
+        "title": "Monetary Policy - Federal Reserve (.gov)",
+        "summary": "Monetary Policy &nbsp;&nbsp; Federal Reserve (.gov)",
+        "publishedAt": "Wed, 18 Nov 2026 08:00:00 GMT",
+        "source": "Federal Reserve (.gov)",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE92VDNIRjQ1Wk9RMzBEV3dQS1FTcnh4X0dtTXhXaEZTTGc5S01NY0lWX0hIaFNyNTAyeVpqdnNVYVZ2Tnl5MFRvdURiWlFaOEVEcFhtTlBYbjJaV3o3S3c?oc=5",
+        "score": 0
+      },
+      {
+        "title": "Bank of Japan to raise interest rates in December and again by end-March, economists say - Reuters",
+        "summary": "Bank of Japan to raise interest rates in December and again by end-March, economists say &nbsp;&nbsp; Reuters",
+        "publishedAt": "Thu, 19 Nov 2026 17:17:27 GMT",
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNd2tVS3ktQThQZmhzbFBGVmwzRDlycmtudVhLTk1vLWpJeDlQMFBqV1J3bFZXNGtTT0VfRGJaWUxBeWNWck0tblgzbTJsQmM4SXNRbUVXZEo1Nk1UdWpONURjY1I5RnJsVmRuRzdra2VFSVlyYnJUTnhjUXNjNUJKU2YtWDBfQkZuWFV2d3FJZTdFSzZKdHgyM242QzVReUJENE52TEtXaWlfMnNlNGZkejlzRGR3TnM?oc=5",
+        "score": 0
+      },
+      {
+        "title": "Regional Economic Conditions: Construction - Federal Reserve Bank of Minneapolis",
+        "summary": "Regional Economic Conditions: Construction &nbsp;&nbsp; Federal Reserve Bank of Minneapolis",
+        "publishedAt": "Fri, 20 Nov 2026 20:03:18 GMT",
+        "source": "Federal Reserve Bank of Minneapolis",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOU3lmeHRKREFDWVFqMF9oMGRGVUR6MlFpbk93a1JUdjFmNWFYeDdUWWRVV210WUtBaGd6bU1jczh0dGFudUV3Z1hjcWZmc1Z6aVNYR3h4YTQwMDdMbm5TVjhxNjhqMnJXZXl1d1VscDdxTVF5RmdjM3FRNFNxV0Q4VHdVcDJkaENXSnJQTFNacmwwc2FTMnVaNg?oc=5",
+        "score": 0
+      },
+      {
         "title": "Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike - CNBC",
         "summary": "Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike &nbsp;&nbsp; CNBC",
         "publishedAt": "Wed, 18 Nov 2026 12:20:11 GMT",
@@ -125,35 +149,11 @@
         "score": 0.18
       },
       {
-        "title": "Fed Tells Regional Staff to Expect Lower Pay Hikes in 2027 - Bloomberg.com",
-        "summary": "Fed Tells Regional Staff to Expect Lower Pay Hikes in 2027 &nbsp;&nbsp; Bloomberg.com",
-        "publishedAt": "Thu, 19 Nov 2026 23:42:31 GMT",
-        "source": "Bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUU1WUGVxVFQ1ZDR0dWp6TERfYkRQVE0yLXkycmZoYXJidGhTT3Z5YXVvd3RObFppYWlqOWs4bU5iT3pWSDZBS01mbGQwc3JxN0lTR3dkQjN0aGhEVEtwdG5MNDM4Z0VzMUJlRzZEakl5eC04VmpMVlhBbmJxZTNHdUJHTXdscndIUTF5UlNqeV8tbVVPc2tjQ3pzYW1MWS1Ia09KbkpWTFZ1T2o5aFI4bWlHSQ?oc=5",
-        "score": 0
-      },
-      {
-        "title": "Goolsbee says the Fed's job right now is to keep AI surge from overheating the economy - Reuters",
-        "summary": "Goolsbee says the Fed's job right now is to keep AI surge from overheating the economy &nbsp;&nbsp; Reuters",
-        "publishedAt": "Thu, 19 Nov 2026 18:59:56 GMT",
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPem1LUUZ0MzVCaURJTHpfcktwS0tMWGMydV9rNlFwSE1uWkQ5eFNsZ1locTBSMzAtOFhmNHJpUWVBaXVrTnRGeEpaLThoRXpKaU93TExUV3hlNE5TLU5aVzFoT1loQzhXOWNJZlpTWElmZ0ljRTJtMFNWUnlDSTY4bW1ROEkyTmFsaWJmVTlSS2VTa3JmTjdXazlxeWpYa0pwd1BSR2NJNTBlVkFNbllhMHA3LUU?oc=5",
-        "score": 0
-      },
-      {
-        "title": "Formulating Good Monetary Policy Requires Lots of Listening - Federal Reserve Bank of Atlanta",
-        "summary": "Formulating Good Monetary Policy Requires Lots of Listening &nbsp;&nbsp; Federal Reserve Bank of Atlanta",
-        "publishedAt": "Tue, 17 Nov 2026 15:04:24 GMT",
-        "source": "Federal Reserve Bank of Atlanta",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRGZhbHUtVmZ4X19VZ1NRZDFTREp5TThaTUhNZDVvMERQRHpLVXZBZWVERVNuSWdGU2pWei0wVDJKX29pYzk4N2RBRlpEV050eEJ4ZkkyWDdGVndfSDRwYVZkMWdGSlFnSFptd3NaSnFkaURfMUFKakVxd0N6YzJmcTdiRFB6bUlsVFd1UVNySHNKVWRodW9DS1o5cTc2WUNyMjljdUZqdEVoYmh3ZktqV2tGWGU2bUF3QzFGVVk5WWtXWVlOUnJ0R0ludWRHcE9VNW80d0dVaw?oc=5",
-        "score": 0
-      },
-      {
-        "title": "St. Louis Fed representative says near-term economic outlook is positive - KFVS12",
-        "summary": "St. Louis Fed representative says near-term economic outlook is positive &nbsp;&nbsp; KFVS12",
-        "publishedAt": "Fri, 20 Nov 2026 00:27:00 GMT",
-        "source": "KFVS12",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeGNkYy1Nb05MUDRaaHlsZ0U1TlNmN29rcmFkdjZ0bUJMTXNxS2dTdWdSalFZNDlIdkgyclctMUlFcGpmNUJYZGhkNFhrOTJROWFtd0ttcDY5WGJkN1dkM25xV1d2MDhqR2NnNXNPX05ZQnNMaFQwRTR2cVNjWExLR1JPYUZSZTFqMEtZM1JlcmVNeXM5MWdad1BGaXlsYVdEX19aYXhOSFNKd9IBvgFBVV95cUxQY2Q5UW4zMUR4c2c3VkdnX3ZkOTV4eVpvUVlwbUlPbW1OR0NybVhPVFIxaXIyeF9sV2EyZXNGOE1BRzVUWkR1dXI0YXIyVWtTYU1ucExFNUxPWXR0dm01VnkxMHJocEZlZDc3RktYX2JsVUdXYWtuRkVSanV6Q1FnUmxPakwxY0gyb2t3YVoyOTBrYTZadXZMYVlJR2p0M2UtSGJSTDJvYzVCMUtiTHFOWVdCRGJPcWZFZFh4bzdn?oc=5",
+        "title": "British Bank Backed by Kushner’s Affinity Gets U.S. License - WSJ",
+        "summary": "British Bank Backed by Kushner’s Affinity Gets U.S. License &nbsp;&nbsp; WSJ",
+        "publishedAt": "Fri, 20 Nov 2026 09:18:00 GMT",
+        "source": "WSJ",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUHViRUJDeHV2LWVBd2sybnFMY2RUVmR6Vm9zN0Vsa3JTVWlRR1p0dTR5cXRlRTZGSW01ZTlnbGFoRVZ2V1ZEOXJLTEVZSWxMSnAzZ3YzeVZGZ05YbXZQM0l0Q2pnaHRybnp6NEsxTVJleUo0QUQ1MlNkUXpnMXJqWHFqNzd2ZWstdmdCY2w3M2piNXpFelY0bmx5QWFhVzd3RkFqTTBoR041Q0xULWZHOTJwNVNzaU9wRmJVWjVqWmlHWWhUZGc?oc=5",
         "score": 0
       }
     ]
