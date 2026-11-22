@@ -1,5 +1,5 @@
 {
-  "generatedAtJst": "2026-11-21 12:56",
+  "generatedAtJst": "2026-11-22 12:06",
   "startingCapitalJpy": 1000000,
   "policy": {
     "basePair": "USD/JPY",
@@ -117,14 +117,6 @@
     "score": 0.036,
     "items": [
       {
-        "title": "Monetary Policy - Federal Reserve (.gov)",
-        "summary": "Monetary Policy &nbsp;&nbsp; Federal Reserve (.gov)",
-        "publishedAt": "Wed, 18 Nov 2026 08:00:00 GMT",
-        "source": "Federal Reserve (.gov)",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE92VDNIRjQ1Wk9RMzBEV3dQS1FTcnh4X0dtTXhXaEZTTGc5S01NY0lWX0hIaFNyNTAyeVpqdnNVYVZ2Tnl5MFRvdURiWlFaOEVEcFhtTlBYbjJaV3o3S3c?oc=5",
-        "score": 0
-      },
-      {
         "title": "Bank of Japan to raise interest rates in December and again by end-March, economists say - Reuters",
         "summary": "Bank of Japan to raise interest rates in December and again by end-March, economists say &nbsp;&nbsp; Reuters",
         "publishedAt": "Thu, 19 Nov 2026 17:17:27 GMT",
@@ -133,11 +125,11 @@
         "score": 0
       },
       {
-        "title": "Regional Economic Conditions: Construction - Federal Reserve Bank of Minneapolis",
-        "summary": "Regional Economic Conditions: Construction &nbsp;&nbsp; Federal Reserve Bank of Minneapolis",
-        "publishedAt": "Fri, 20 Nov 2026 20:03:18 GMT",
-        "source": "Federal Reserve Bank of Minneapolis",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOU3lmeHRKREFDWVFqMF9oMGRGVUR6MlFpbk93a1JUdjFmNWFYeDdUWWRVV210WUtBaGd6bU1jczh0dGFudUV3Z1hjcWZmc1Z6aVNYR3h4YTQwMDdMbm5TVjhxNjhqMnJXZXl1d1VscDdxTVF5RmdjM3FRNFNxV0Q4VHdVcDJkaENXSnJQTFNacmwwc2FTMnVaNg?oc=5",
+        "title": "Fed Cuts Pay Raises for Regional-Bank Staff - WSJ",
+        "summary": "Fed Cuts Pay Raises for Regional-Bank Staff &nbsp;&nbsp; WSJ",
+        "publishedAt": "Fri, 20 Nov 2026 00:26:00 GMT",
+        "source": "WSJ",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSE9oYmJPLTJKZ3p5QzM1RWZ6WHZTc0g0M1dsdkl4czJFenpyWnRFdWJwX2dIR2F1a00xTFNIRUFFcFlYSUZRUlBENGVGV1VvYUtOWmVJNWlzcjBCVDd0aGRwR0x3WVdvQVVqU2xHTnFtU3hqZ21sV01ZcVlUdGtJUzg2VmlEc2d3c1pqdGRzTjJBaVhFRGdWWi1zVzM?oc=5",
         "score": 0
       },
       {
@@ -149,11 +141,19 @@
         "score": 0.18
       },
       {
-        "title": "British Bank Backed by Kushner’s Affinity Gets U.S. License - WSJ",
-        "summary": "British Bank Backed by Kushner’s Affinity Gets U.S. License &nbsp;&nbsp; WSJ",
-        "publishedAt": "Fri, 20 Nov 2026 09:18:00 GMT",
-        "source": "WSJ",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUHViRUJDeHV2LWVBd2sybnFMY2RUVmR6Vm9zN0Vsa3JTVWlRR1p0dTR5cXRlRTZGSW01ZTlnbGFoRVZ2V1ZEOXJLTEVZSWxMSnAzZ3YzeVZGZ05YbXZQM0l0Q2pnaHRybnp6NEsxTVJleUo0QUQ1MlNkUXpnMXJqWHFqNzd2ZWstdmdCY2w3M2piNXpFelY0bmx5QWFhVzd3RkFqTTBoR041Q0xULWZHOTJwNVNzaU9wRmJVWjVqWmlHWWhUZGc?oc=5",
+        "title": "Dollar-Yen Seen Locked in 160 Battle; US PCE and Tokyo CPI in Focus - BigGo Finance",
+        "summary": "Dollar-Yen Seen Locked in 160 Battle; US PCE and Tokyo CPI in Focus &nbsp;&nbsp; BigGo Finance",
+        "publishedAt": "Sat, 21 Nov 2026 22:25:00 GMT",
+        "source": "BigGo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE14UEhVRlN4SVR0aGFWejZfVEJYQTFjZEJYYU5jbElPUUtPUTl1MXdYbHAzUWxSRlhKNnJZMU8xY256d2JkUjdReFFuNU83TWRfLVBoQ19CUEtRRGtlSzZlbzQ4cTdjcldKQjZoRnBpWF9naFpPcEE?oc=5",
+        "score": 0
+      },
+      {
+        "title": "Monetary Policy Communication: Do We Understand Each Other? - Philadelphia Federal Reserve Bank",
+        "summary": "Monetary Policy Communication: Do We Understand Each Other? &nbsp;&nbsp; Philadelphia Federal Reserve Bank",
+        "publishedAt": "Fri, 20 Nov 2026 08:29:10 GMT",
+        "source": "Philadelphia Federal Reserve Bank",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWktPUWlaRFpFNlNNSEhTNjlZNU9qUXVCR3NyX2FOTTIwQ2RzNDhUZUdWLVZwNWZQaFVLS3ZVeUpoY1Zwa1I5eEtGaDRhUFVOUXFrYmMtN3E3WDN6TzZkSnRKMGhvcWx2OVFNZlRxYXVDVFZ5V182c1I0Y2RXbno2TUVFaTBIU21kZFNNU0RXVFlQUDJn?oc=5",
         "score": 0
       }
     ]
