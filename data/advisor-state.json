@@ -1,5 +1,5 @@
 {
-  "generatedAtJst": "2026-11-23 12:41",
+  "generatedAtJst": "2026-11-24 15:56",
   "startingCapitalJpy": 1000000,
   "policy": {
     "basePair": "USD/JPY",
@@ -14,7 +14,7 @@
     "directionLabel": "中立",
     "confidence": 0.51,
     "summary": "中立を基本シナリオにします。トレンド、IMM、ニュースが拮抗しているため、最大50%の制約内でも動かす量は抑えています。",
-    "score": 0.039,
+    "score": 0.032,
     "reasons": [
       "直近のUSD/JPYは157.690で、1つ前の観測値からの勢いを0.00として評価しました。",
       "IMMの円ポジションは-84,200で、前週比の変化を0.09として売買比率に反映しました。",
@@ -114,46 +114,46 @@
   "news": {
     "provider": "Google News RSS",
     "summary": "ニュースは中立寄りです。",
-    "score": 0.036,
+    "score": 0,
     "items": [
       {
-        "title": "Bank of Japan to raise interest rates in December and again by end-March, economists say - Reuters",
-        "summary": "Bank of Japan to raise interest rates in December and again by end-March, economists say &nbsp;&nbsp; Reuters",
-        "publishedAt": "Thu, 19 Nov 2026 17:17:27 GMT",
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNd2tVS3ktQThQZmhzbFBGVmwzRDlycmtudVhLTk1vLWpJeDlQMFBqV1J3bFZXNGtTT0VfRGJaWUxBeWNWck0tblgzbTJsQmM4SXNRbUVXZEo1Nk1UdWpONURjY1I5RnJsVmRuRzdra2VFSVlyYnJUTnhjUXNjNUJKU2YtWDBfQkZuWFV2d3FJZTdFSzZKdHgyM242QzVReUJENE52TEtXaWlfMnNlNGZkejlzRGR3TnM?oc=5",
+        "title": "Texas jobs up 1.1% in 2026, says Federal Reserve Bank of Dallas - Texas Public Radio | TPR",
+        "summary": "Texas jobs up 1.1% in 2026, says Federal Reserve Bank of Dallas &nbsp;&nbsp; Texas Public Radio | TPR",
+        "publishedAt": "Mon, 23 Nov 2026 19:06:48 GMT",
+        "source": "Texas Public Radio | TPR",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQY2VPaWZtLTRGTHJjanU0aE1rX2RzS0s3NzFaM1lZMjV3M29mOE9hV1RzVG9TYXR6WGZOenQydHlEXzF2WU8zanY0UGlkTTVNNVZCbGRQNnF3WFVjQWVWQ2pJTDZrTGU5eXhtU2lyX0dLYXBzd0VXaTNvWlJ1NjRDYjgtOF93ZnpsZ3RtSTRDQ3MwbEhFWU5pM3RKY09xQWZnUFgxcURDYjM0T2dicFU4?oc=5",
         "score": 0
       },
       {
-        "title": "Fed Cuts Pay Raises for Regional-Bank Staff - WSJ",
-        "summary": "Fed Cuts Pay Raises for Regional-Bank Staff &nbsp;&nbsp; WSJ",
-        "publishedAt": "Fri, 20 Nov 2026 00:26:00 GMT",
-        "source": "WSJ",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSE9oYmJPLTJKZ3p5QzM1RWZ6WHZTc0g0M1dsdkl4czJFenpyWnRFdWJwX2dIR2F1a00xTFNIRUFFcFlYSUZRUlBENGVGV1VvYUtOWmVJNWlzcjBCVDd0aGRwR0x3WVdvQVVqU2xHTnFtU3hqZ21sV01ZcVlUdGtJUzg2VmlEc2d3c1pqdGRzTjJBaVhFRGdWWi1zVzM?oc=5",
+        "title": "Monetary Policy - Federal Reserve (.gov)",
+        "summary": "Monetary Policy &nbsp;&nbsp; Federal Reserve (.gov)",
+        "publishedAt": "Wed, 18 Nov 2026 08:00:00 GMT",
+        "source": "Federal Reserve (.gov)",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE92VDNIRjQ1Wk9RMzBEV3dQS1FTcnh4X0dtTXhXaEZTTGc5S01NY0lWX0hIaFNyNTAyeVpqdnNVYVZ2Tnl5MFRvdURiWlFaOEVEcFhtTlBYbjJaV3o3S3c?oc=5",
         "score": 0
       },
       {
-        "title": "Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike - CNBC",
-        "summary": "Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike &nbsp;&nbsp; CNBC",
-        "publishedAt": "Wed, 18 Nov 2026 12:20:11 GMT",
+        "title": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation - CNBC",
+        "summary": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation &nbsp;&nbsp; CNBC",
+        "publishedAt": "Mon, 23 Nov 2026 21:00:01 GMT",
         "source": "CNBC",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ0FXYWthQmJLZi05SXhQR1o2akNmbUo4WFAyUWVjbjdkNmdwWi05clFGakpLMEFkSi1oS2ljalM2N2NyclZWTE9temNQMTJjZk9EQTYwZUJiMVlPcE1zQzA4eE5OU0tNQTg5QU5fU3k4bGIxM2NIVVFGZUZzRlR6VXEwVjBLNmvSAYwBQVVfeXFMUDZSczNSbHAxcjNFa1FMNWU3STJRUVBRV0x6SjhFVFRBdGNqSFhqMGl5bGtMSkN0YzQyWUpWLVppMmxpQWNFbFF4VmY0eE5feTJ5UVotZnNPYVdEdXhzWWVmaTk3YmdXNGdtRHlRN1RqeElDMXBEbkw4Z1hyWWxnM3hBWm9MME5Xbm5MNU0?oc=5",
-        "score": 0.18
-      },
-      {
-        "title": "Monetary Policy Communication: Do We Understand Each Other? - Philadelphia Federal Reserve Bank",
-        "summary": "Monetary Policy Communication: Do We Understand Each Other? &nbsp;&nbsp; Philadelphia Federal Reserve Bank",
-        "publishedAt": "Fri, 20 Nov 2026 08:29:10 GMT",
-        "source": "Philadelphia Federal Reserve Bank",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWktPUWlaRFpFNlNNSEhTNjlZNU9qUXVCR3NyX2FOTTIwQ2RzNDhUZUdWLVZwNWZQaFVLS3ZVeUpoY1Zwa1I5eEtGaDRhUFVOUXFrYmMtN3E3WDN6TzZkSnRKMGhvcWx2OVFNZlRxYXVDVFZ5V182c1I0Y2RXbno2TUVFaTBIU21kZFNNU0RXVFlQUDJn?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTEpFREZWNnVpcVBFY3pxbHBnbkFJTWRxZjlBOHNLdFkxb1JEVWdUX2VfWlJhU0dwZEFJc0RUY2w2THFBaWVjbkxpSGRubWxQdHdSYWJFdmc2VVhUX0F1S1gwYXYxcUlsQUY0T0pIQnhhNkNFRXFCWHA3M2xVZWRITtIBhgFBVV95cUxNN0wxOFpVd01FWG9EWlppMC02d1RtcG5wZ1V1a3N1bklHZGFHWDYzUk80cnMwa00yblpXZUdfQV9SMk1fVVRrM0c0OWZuSDlGWjQtN0hUWW1mMTNHVTZObmhSeTllcDZIUE85S2duamlXdE5hNExsamtsaDU2LUJveEF0Q1ZIQQ?oc=5",
         "score": 0
       },
       {
-        "title": "US Dollar Forecast: Can the Japanese Yen End Its 19-Month Rally? - Coinpaper",
-        "summary": "US Dollar Forecast: Can the Japanese Yen End Its 19-Month Rally? &nbsp;&nbsp; Coinpaper",
-        "publishedAt": "Sun, 22 Nov 2026 14:07:38 GMT",
-        "source": "Coinpaper",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZlVuNXEzdV8tUGRZSFRuY1lYWEx1M2hodmF3QmVBQjM1YkhIanhCQll6Y0lmSjMxN1hLTmpOamxpU2FWSnRZTzlncnUxX2hCV3Q3ZEZOTTRpVHF2SFNmekZSNE1ENkxuUC04TTBnU3ZPa0lhRlJUNld4ZXRodG9VUE1Xdk9pbS10X2hrQVR1cnRSd0t6?oc=5",
+        "title": "The Relationship Between Fed Monetary Policy and the Housing Market Is More Complex Than You Think - Darden Report",
+        "summary": "The Relationship Between Fed Monetary Policy and the Housing Market Is More Complex Than You Think &nbsp;&nbsp; Darden Report",
+        "publishedAt": "Mon, 23 Nov 2026 21:28:48 GMT",
+        "source": "Darden Report",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPS2lDZUVGSGhEOFNXS29oUFRobDhjSWZnTzN3eTltaVJqNEZNcnJscm4tTjJrRTloN1psd1JPaUpCaGQ4b0ZCMzM4LWthMFl1aFZFUE1YY0FRWExHcGF4TXRMRkFCdVcwenlVWDJkOE5BcXZOdm1uQ3RmMmtoVGRjT2h3eENNejJjRXYzbXJzaWNJTUtPZHp4RGs0QmY4VHR1S2NRX3Z2VmNvZGFsclY0UmhnS2Y4bFJTSmJlY0h6ZDA5U0dSWnB3ekRqR1NGTEVWejdyQnJTbw?oc=5",
+        "score": 0
+      },
+      {
+        "title": "Fed Rate-Hike Odds Jump As Nvidia, 'Central Bank Of AI,' Saves The Day - Investor's Business Daily",
+        "summary": "Fed Rate-Hike Odds Jump As Nvidia, 'Central Bank Of AI,' Saves The Day &nbsp;&nbsp; Investor's Business Daily",
+        "publishedAt": "Mon, 23 Nov 2026 17:38:00 GMT",
+        "source": "Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPekVNZHhlOGE4S1J0b1d5cjhBUWp2WVkzdEhZaWZRcVc5WU95cktFRXhGbVkwaGxNR1YyM3VnR2hkdkktRHU1UTJZZnBVUjVuWXp5VDB3NGk3XzNGT19KTTdpSHJZeXJISHBJRHVTQXdYWldEZlRhNUI1XzlvSXlSM1I2eERFVzRTR0pmc2JMRGM3UQ?oc=5",
         "score": 0
       }
     ]
